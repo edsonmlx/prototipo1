@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <link rel="manifest" href="manifest.json">
+  <title>ERTEC · Institucionalización 2027-2029</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@500;600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/pages/index.css">
+</head>
+<body>
+<div id="loader"><div class="loader-icon">🎓</div><div class="loader-ring"></div><div class="loader-txt">Cargando ERTEC</div></div>
+<div id="toast"></div>
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal-card">
+    <div class="modal-icon" id="modal-icon">⚠️</div><div class="modal-title" id="modal-title"></div><div class="modal-desc" id="modal-desc"></div>
+    <div class="modal-btns"><button class="btn btn-red" id="modal-ok">Confirmar</button><button class="btn btn-ghost" id="modal-cancel">Cancelar</button></div>
+  </div>
+</div>
+<div class="modal-overlay sheet" id="picker">
+  <div class="modal-card">
+    <div class="sheet-grip"></div>
+    <div class="modal-title pk-title">¿A qué cargo postulas?</div>
+    <div class="modal-desc pk-desc">Según la convocatoria puedes inscribirte hasta en 2 cargos. Elige el cargo con el que quieres practicar ahora.</div>
+    <input class="search" id="pk-search" placeholder="🔎 Buscar cargo…" autocomplete="off">
+    <div id="pk-list"></div>
+    <button class="btn btn-ghost" id="pk-close">Cerrar</button>
+  </div>
+</div>
+
+<div class="wrap">
+<!-- HERO -->
+<header class="hero">
+  <div class="aurora"><i></i><i></i><i></i></div><div class="grid-bg"></div>
+  <div class="hero-top">
+    <div class="hero-brand">
+      <div class="hero-ico">🎓</div>
+      <div><div class="hero-name">ERT<span>EC</span></div><div class="hero-sub">Institucionalización 2027-2029</div></div>
+    </div>
+    <div class="hero-acts">
+      <button class="icon-btn" id="btn-dark" title="Cambiar tema">🌙</button>
+      <button class="icon-btn" id="btn-logout" title="Salir">🚪</button>
+    </div>
+  </div>
+  <div class="hero-l">
+  <div class="kicker"><i></i><span id="phase">Convocatoria N° 0001/2026</span></div>
+  <h1 class="hero-title">Simulacro de <em>Institucionalización</em> de Cargos</h1>
+  <p class="hero-sub2">Práctica para el examen de competencia de la Convocatoria Pública N° 0001/2026 del Ministerio de Educación.</p>
+
+  <button class="cargo-btn" id="cargo-btn">
+    <div class="cargo-ico">🧭</div>
+    <div class="cargo-txt"><div class="cargo-lbl">Mi cargo</div><div class="cargo-name" id="cargo-name">Elige el cargo al que postulas</div></div>
+    <span class="cargo-go" id="cargo-go">Elegir</span>
+  </button>
+
+  </div>
+  <div class="hero-r">
+  <div class="cd" id="cd">
+    <div><b id="cd-d">--</b><span>días</span></div><div><b id="cd-h">--</b><span>horas</span></div>
+    <div><b id="cd-m">--</b><span>min</span></div><div><b id="cd-s">--</b><span>seg</span></div>
+  </div>
+  <div class="cd-cap" id="cd-cap"></div>
+  </div>
+</header>
+
+<div class="stats-row">
+  <div class="stat-box"><div class="stat-n" id="s-exams">0</div><div class="stat-l">Simulacros</div></div>
+  <div class="stat-box"><div class="stat-n" id="s-avg">--</div><div class="stat-l">Promedio</div></div>
+  <div class="stat-box"><div class="stat-n" id="s-best">--</div><div class="stat-l">Mejor nota</div></div>
+</div>
+
+<div class="sec sec--tabs">
+  <div class="seg" id="seg">
+    <button data-tab="sim" class="on">🎯 Simulacros</button>
+    <button data-tab="cargo">📋 Mi cargo</button>
+    <button data-tab="cron">📅 Cronograma</button>
+  </div>
+</div>
+
+<!-- ══ PANEL SIMULACROS ══ -->
+<section class="panel on" id="p-sim">
+  <div class="cols">
+    <div class="sec col-a">
+      <div id="official"></div>
+      <div class="nota-ref" id="nota-ref"></div>
+      <div class="alerta" id="problemas" hidden></div>
+      <div class="sec-title">Práctica por área <small id="grp-sub"></small></div>
+      <div class="grid2 stagger" id="grp-grid"></div>
+    </div>
+    <div class="sec col-b">
+      <div class="sec-title">Bibliografías · un JSON por cada una <small id="bib-sub"></small></div>
+      <div class="toggle on" id="tg-bib"><div class="sw"></div><span>Mostrar solo las de mi cargo</span></div>
+      <div id="bib-list"></div>
+    </div>
+    <div class="sec col-c">
+      <div class="sec-title">Últimos resultados <a href="history.html" class="sec-link">Ver todos →</a></div>
+      <div id="results-list"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PANEL MI CARGO ══ -->
+<section class="panel" id="p-cargo"><div class="sec" id="cargo-panel"></div></section>
+
+<!-- ══ PANEL CRONOGRAMA ══ -->
+<section class="panel" id="p-cron">
+  <div class="sec">
+    <div class="toggle on" id="tg-mine"><div class="sw"></div><span>Resaltar solo lo que aplica a mi cargo</span></div>
+    <div class="tl" id="tl"></div>
+    <div class="sec-title sec-title--gap">📌 Información de la convocatoria</div>
+    <div class="info-grid" id="info"></div>
+  </div>
+</section>
+
+<div class="sec sec--end">
+  <div class="disclaimer">⚠️ ERTEC es una plataforma <strong>independiente y privada</strong> de práctica. No tiene relación ni representación oficial con el Ministerio de Educación ni con el Estado Plurinacional de Bolivia. Verifica siempre la información en <strong>sisep.minedu.gob.bo</strong>.</div>
+</div>
+</div>
+
+<script src="assets/js/core/utils.js"></script>
+<script src="assets/js/core/storage.js"></script>
+<script src="assets/js/core/config.js"></script>
+<script src="assets/js/core/modes.js"></script>
+<script src="assets/js/core/fx.js"></script>
+<script src="assets/js/pages/index.js"></script>
+<script src="assets/js/core/sw-register.js"></script>
+</body>
+</html>

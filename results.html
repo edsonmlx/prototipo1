@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <link rel="manifest" href="manifest.json">
+  <title>Resultados · ERTEC</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@500;600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/pages/results.css">
+</head>
+<body>
+<div id="loader"><div class="loader-icon">🏆</div><div class="loader-ring"></div><div class="loader-txt">Calculando resultados</div></div>
+<div id="toast"></div>
+<div class="wrap">
+<header class="res-hero" id="hero">
+  <div class="aurora"><i></i><i></i><i></i></div><div class="grid-bg"></div>
+  <div class="score-ring">
+    <svg viewBox="0 0 164 164">
+      <circle class="ring-bg" cx="82" cy="82" r="70"/>
+      <circle class="ring-fill" id="ring" cx="82" cy="82" r="70"/>
+      <line class="ring-mark" id="ring-mark"/>
+    </svg>
+    <div class="score-center"><div class="score-pct" id="score-pct">0%</div><div class="score-sub" id="score-sub">puntaje</div></div>
+  </div>
+  <div class="status-pill fail" id="status-pill">—</div>
+  <div class="res-mode" id="res-mode"></div>
+  <p class="res-msg" id="res-msg"></p>
+</header>
+
+<div class="rs-grid">
+<div class="rs-l">
+<div class="stats-grid stagger">
+  <div class="stat-card"><div class="stat-n green" id="s-ok">0</div><div class="stat-lbl">✅ Correctas</div></div>
+  <div class="stat-card"><div class="stat-n red" id="s-bad">0</div><div class="stat-lbl">❌ Incorrectas</div></div>
+  <div class="stat-card"><div class="stat-n gold" id="s-skip">0</div><div class="stat-lbl">⏭ Omitidas</div></div>
+  <div class="stat-card"><div class="stat-n blue" id="s-time">0:00</div><div class="stat-lbl">⏱ Tiempo</div></div>
+</div>
+
+<div class="sec" id="reco-sec"><div class="reco" id="reco"><div class="reco-ico">🎯</div><div><b id="reco-t"></b><span id="reco-s"></span></div></div></div>
+<div class="sec"><div id="breakdown"></div></div>
+
+<div class="actions">
+  <button class="btn btn-red" id="btn-retry">🔄 Repetir este simulacro</button>
+  <button class="btn btn-dark" id="btn-menu">🏠 Volver al inicio</button>
+  <button class="btn btn-ghost" id="btn-hist">📊 Ver historial</button>
+</div>
+
+</div>
+<div class="rs-r">
+<div class="sec">
+  <div class="sec-title">🔍 Revisión de respuestas <small id="review-count"></small></div>
+  <div class="review-filters">
+    <button class="rf-btn active" data-f="all">Todas</button>
+    <button class="rf-btn" data-f="correct">✅ Correctas</button>
+    <button class="rf-btn" data-f="wrong">❌ Incorrectas</button>
+    <button class="rf-btn" data-f="skip">⏭ Omitidas</button>
+  </div>
+  <div id="review-list"></div>
+</div>
+</div>
+</div>
+<div class="spacer"></div>
+</div>
+
+<script src="assets/js/core/utils.js"></script>
+<script src="assets/js/core/storage.js"></script>
+<script src="assets/js/core/config.js"></script>
+<script src="assets/js/core/fx.js"></script>
+<script src="assets/js/pages/results.js"></script>
+<script src="assets/js/core/sw-register.js"></script>
+</body>
+</html>

@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "12_rm_069_2025_educacion_inclusiva",
+    "nombre": "R.M. N° 069/2025 Reglamento para el fortalecimiento de la educación inclusiva en el SEP",
+    "detalle": "Resolución Ministerial de 7 de febrero de 2025",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objeto principal del Reglamento aprobado por la R.M. N° 0069/2025?",
+      "options": [
+        "Establecer cobros de matrícula diferenciados en unidades educativas privadas",
+        "Garantizar el acceso, permanencia y conclusión de procesos educativos de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario en el SEP",
+        "Sancionar a los docentes que no cuenten con especialización en educación especial",
+        "Eliminar la modalidad indirecta de atención en los Centros de Educación Especial"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 1",
+      "explicacion": "El Artículo 1 establece que el reglamento busca garantizar el acceso, permanencia y conclusión educativa de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario matriculados en los diferentes subsistemas."
+    },
+    {
+      "question": "¿A qué instituciones es de aplicación obligatoria el Reglamento para el Fortalecimiento de la Educación Inclusiva (RM 0069/2025)?",
+      "options": [
+        "Únicamente a las Unidades Educativas Fiscales del área urbana",
+        "A Instituciones Educativas fiscales, de convenio y privadas, autoridades y personal del Sistema Educativo Plurinacional",
+        "Exclusivamente a los Centros de Educación Especial acreditados",
+        "Solo a los institutos técnicos de formación superior"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 2",
+      "explicacion": "El Artículo 2 dispone que es de aplicación obligatoria para directores, maestros, personal administrativo de instituciones fiscales, de convenio y privadas, así como autoridades distritales, departamentales y nacionales."
+    },
+    {
+      "question": "¿Cuál de las siguientes leyes forma parte del marco jurídico del Reglamento R.M. N° 0069/2025 que reconoce los derechos de las Personas con Discapacidad?",
+      "options": [
+        "Ley N° 223 (Ley General para Personas con Discapacidad)",
+        "Ley N° 1008 (Ley del Régimen de la Coca)",
+        "Ley N° 2027 (Estatuto del Funcionario Público)",
+        "Ley N° 1178 (Ley SAFCO)"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3, inc. e)",
+      "explicacion": "El marco jurídico citado en el Artículo 3 incluye la Ley N° 223 de 2 de marzo de 2012 (Ley General para Personas con Discapacidad) y la Ley N° 4024 (Convención Internacional)."
+    },
+    {
+      "question": "Según el Artículo 4 de la RM 0069/2025, ¿qué es la 'Evaluación Multidisciplinaria'?",
+      "options": [
+        "Un examen escrito estandarizado tomado por el Ministerio de Educación a fin de año",
+        "Un proceso de obtención y análisis de información especializada por equipos multidisciplinarios para valorar áreas del neurodesarrollo y educación",
+        "Una prueba psicotécnica aplicada exclusivamente a estudiantes con talento extraordinario",
+        "Un informe médico expedido por el Ministerio de Salud para otorgar el carnet de discapacidad"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. a)",
+      "explicacion": "La evaluación multidisciplinaria recoge conclusiones de evaluaciones en sospechas de discapacidad, dificultades o talento extraordinario y sintetiza la valoración del neurodesarrollo integral."
+    },
+    {
+      "question": "¿Quiénes son definidos como 'Maestros de Apoyo Educativo' en la Modalidad Indirecta?",
+      "options": [
+        "Maestros sustitutos que reemplazan temporalmente por baja médica al titular de aula",
+        "Maestras/os u otros profesionales que desarrollan Apoyo Técnico Pedagógico en Modalidad Indirecta (orientación, asesoramiento, sensibilización y equiparación de condiciones)",
+        "Docentes universitarios contratados externamente para elaborar materiales digitales",
+        "Pasantes de las Escuelas Superiores de Formación de Maestros sin ítem asignado"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. b)",
+      "explicacion": "El maestro de apoyo desarrolla acciones de apoyo técnico pedagógico en modalidad indirecta (asesoramiento, capacitación, interpretación, transcripción) para equiparar condiciones de acceso en el aula."
+    },
+    {
+      "question": "¿Qué es el 'Plan de Apoyo Técnico Pedagógico' según el Reglamento 069/2025?",
+      "options": [
+        "El POA anual presupuestario del Centro de Educación Especial",
+        "El Instrumento de Planificación de acciones operativas de apoyo educativo que realiza el maestro de apoyo en coordinación con el maestro de aula",
+        "Un currículo paralelo que reemplaza totalmente la planificación de educación regular",
+        "El reglamento interno de convivencia de la Unidad Educativa"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. c)",
+      "explicacion": "El Plan de Apoyo Técnico Pedagógico es el instrumento de planificación que contempla acciones operativas coordinadas entre el maestro de apoyo y el de aula para equiparar condiciones."
+    },
+    {
+      "question": "¿Cómo se define a los 'Estudiantes con Dificultades en el Aprendizaje' en el Artículo 4 de la norma?",
+      "options": [
+        "Estudiantes con discapacidad intelectual severa que no pueden asistir al sistema regular",
+        "Estudiantes que presentan necesidades educativas temporales o permanentes no provocadas por factores intelectuales o sensoriales que interfieren en el rendimiento académico",
+        "Estudiantes que han reprobado más de tres gestiones escolares consecutivas",
+        "Estudiantes que faltan de forma recurrente a clases por problemas de conducta"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. e)",
+      "explicacion": "Las dificultades en el aprendizaje son necesidades temporales o permanentes en áreas de aprendizaje no provocadas por déficit intelectual o sensorial directo, pero que interfieren significativamente."
+    },
+    {
+      "question": "¿Qué caracteriza a los 'Estudiantes con Talento Extraordinario' según las definiciones de la RM 0069/2025?",
+      "options": [
+        "Presentar mayor desarrollo de capacidades superiores, potencialidades, aptitudes y habilidades extraordinarias a lo esperado para su edad y año de escolaridad",
+        "Haber obtenido un promedio de 100 puntos en todas las materias durante la educación primaria",
+        "Tener dominio de más de cuatro idiomas extranjeros antes de los diez años",
+        "Contar con un título técnico medio otorgado por un instituto antes de culminar secundaria"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. f)",
+      "explicacion": "Son aquellos que presentan mayor desarrollo de capacidades superiores y transformadoras, aptitudes y habilidades extraordinarias en dimensiones del ser humano frente a lo esperado para su edad."
+    },
+    {
+      "question": "¿En qué consiste el 'Diseño Plural para los Aprendizajes' consagrado en el reglamento?",
+      "options": [
+        "Un conjunto de exámenes adaptados exclusivamente para estudiantes ciegos o sordos",
+        "Un conjunto de orientaciones curriculares que permite generar condiciones educativas bajo principios inclusivos alcanzando a todos en la mayor medida posible",
+        "La separación de estudiantes en aulas paralelas según su coeficiente intelectual",
+        "Un catálogo de libros impresos en Braille distribuidos gratuitamente"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. g)",
+      "explicacion": "El Diseño Plural para los Aprendizajes orienta la práctica curricular inclusiva para todos los estudiantes, sin excluir ayudas técnicas para grupos específicos cuando lo requieran."
+    },
+    {
+      "question": "Se define como 'Comunicación Alternativa y Aumentativa' a:",
+      "options": [
+        "El uso de teléfonos celulares y tabletas dentro del aula de clases",
+        "Sistemas lingüísticos y comunicacionales (como LSB, Sistema Braille u otros) que facilitan el aprendizaje de estudiantes con discapacidad",
+        "El empleo de megáfonos durante las horas de recreo en la escuela",
+        "Traducciones automáticas generadas por aplicaciones de inteligencia artificial"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. i)",
+      "explicacion": "Son sistemas lingüísticos y de comunicación que favorecen los aprendizajes, como la Lengua de Señas Boliviana, el Sistema Braille, entre otros."
+    },
+    {
+      "question": "¿Qué comprende el concepto de 'Trayectoria Educativa' registrado en un Archivo Personal?",
+      "options": [
+        "El historial de pagos de pensiones y aportes de la junta escolar",
+        "El historial secuencial, cronológico e individual del recorrido educativo con potencialidades, logros, dificultades, necesidades y recomendaciones pedagógicas",
+        "La lista de sanciones disciplinarias y llamadas de atención en el libro de vida",
+        "El registro médico de vacunas e historial clínico hospitalario del estudiante"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. j)",
+      "explicacion": "Es el historial secuencial y cronológico que registra avances, logros, intervenciones y sugerencias pedagógicas Relevantes para el desarrollo integral del estudiante."
+    },
+    {
+      "question": "¿Cuál es una de las finalidades de la Educación Inclusiva contempladas en el Artículo 5 del Reglamento?",
+      "options": [
+        "Crear escuelas segregadas exclusivas para cada tipo de discapacidad en todos los municipios",
+        "Promover la matriculación e inscripción sin discriminación alguna en Unidades/Centros/Instituciones del SEP",
+        "Eximir del pago de impuestos a las unidades educativas que reciban estudiantes inclusivos",
+        "Transferir la tuición educativa de personas con discapacidad al Ministerio de Salud"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 5, inc. d)",
+      "explicacion": "Una finalidad clave es promover la matriculación e inscripción sin discriminación alguna en todos los subsistemas (Regular, Superior, Alternativa) fiscales, privados o de convenio."
+    },
+    {
+      "question": "En el marco de la RM 0069/2025, la provisión de equipamiento y recursos técnicos para la accesibilidad es competencia concurrentemente asignada a:",
+      "options": [
+        "Los Gobiernos Subnacionales (Departamentales y Municipales)",
+        "Las Organizaciones No Gubernamentales internacionales",
+        "Las Juntas Escolares de Padres de Familia mediante cuotas obligatorias",
+        "Las imprentas privadas acreditadas ante el Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 5, inc. f)",
+      "explicacion": "El artículo 5 inc. f) señala impulsar la provisión de equipamiento y recursos técnicos en cumplimiento de competencias concurrentes de Gobiernos Subnacionales."
+    },
+    {
+      "question": "Respecto al código RUDE en la matriculación de estudiantes con discapacidad, la norma dispone que:",
+      "options": [
+        "Deben tramitar un código RUDE Especial diferente para cada subsistema",
+        "Pueden inscribirse simultáneamente en Educación Especial y en Regular/Alternativa manteniendo el mismo Código RUDE",
+        "Es requisito obligatorio estar inscrito primero en Educación Especial antes de ingresar a Regular",
+        "Solo se permite la inscripción en un único establecimiento a la vez"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 6, inc. b)",
+      "explicacion": "Se permite la inscripción simultánea en Educación Especial y Regular/Alternativa con el mismo código RUDE, sin que la inscripción previa en Especial sea un requisito."
+    },
+    {
+      "question": "¿Qué margen de tolerancia de edad se establece para la inscripción de estudiantes con Discapacidad Intelectual en Educación Inicial y Primaria Regular?",
+      "options": [
+        "No se permite ninguna diferencia de edad con relación a sus pares",
+        "Una diferencia de hasta 24 meses (2 años) respecto a la edad establecida para sus pares, previa evaluación multidisciplinaria",
+        "Hasta 5 años de diferencia sin requerir informe técnico",
+        "Ilimitada tolerancia de edad en cualquier grado escolar"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 6, inc. d)",
+      "explicacion": "El Artículo 6 inc. d) permite una diferencia de hasta 24 meses con relación a la edad de sus pares en Inicial y Primaria, confirmada por informe de evaluación multidisciplinaria."
+    },
+    {
+      "question": "¿Cuál es la regla de inscripción para estudiantes con Trastorno del Espectro Autista (TEA) según el Artículo 6 inc. e)?",
+      "options": [
+        "Solamente se pueden matricular en centros especializados privados de salud mental",
+        "Pueden inscribirse simultáneamente en Educación Especial y en Educación Regular (Inicial, Primaria o Secundaria) con el mismo código RUDE",
+        "Tienen prohibido ingresar al subsistema de Educación Secundaria Regular",
+        "Deben cursar un año previo de internado pedagógico antes de su matriculación"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 6, inc. e)",
+      "explicacion": "Si el informe recomienda el currículo de Educación Regular (Inicial, Primaria o Secundaria), se matricularán simultáneamente en Especial y Regular con el mismo RUDE."
+    },
+    {
+      "question": "Cuando un estudiante inclusivo se traslada de unidad educativa, ¿cuál es la obligación de la institución educativa de origen?",
+      "options": [
+        "Archivar el expediente por 5 años y cobrar un arancel de legalización",
+        "Remitir obligatoriamente el archivo de trayectoria educativa a la institución de destino",
+        "Entregar la documentación únicamente si lo solicita una orden judicial",
+        "Anular el código RUDE para que la nueva unidad genere uno nuevo"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 7, inc. a)",
+      "explicacion": "El Artículo 7 inc. a) establece que la unidad de origen está en la obligación de remitir el archivo de trayectoria educativa a la institución fiscal, de convenio o privada destinataria."
+    },
+    {
+      "question": "¿Qué documento es decisivo para proyectar el recorrido educativo más pertinente de estudiantes con discapacidad intelectual?",
+      "options": [
+        "La fe de bautismo del estudiante",
+        "El Informe de Evaluación Integral realizado por el Equipo Multidisciplinario",
+        "Una carta de recomendación firmada por la Junta Vecinal",
+        "El certificado de notas del año anterior firmado únicamente por el portero"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 7, inc. b)",
+      "explicacion": "Los estudiantes con discapacidad intelectual deben contar con el Informe de Evaluación Integral del Equipo Multidisciplinario, cuyas recomendaciones son decisivas."
+    },
+    {
+      "question": "¿Qué deben incorporar progresivamente las Instituciones Educativas en su Proyecto Educativo y Planificación Curricular según el Artículo 8?",
+      "options": [
+        "El cobro de cuotas extraordinarias de mantenimiento",
+        "El 'Diseño Plural para los Aprendizajes' en todos sus componentes",
+        "Talleres obligatorios de computación avanzada en formato cerrado",
+        "Sistemas de vigilancia por cámaras en las aulas"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 8, inc. a)",
+      "explicacion": "Las instituciones incorporarás progresivamente en su PEI y planificación el Diseño Plural para los Aprendizajes en el marco de la Educación Inclusiva."
+    },
+    {
+      "question": "¿Cuál es la función de las Direcciones Departamentales de Educación (a través de sus Subdirecciones) según el Artículo 10?",
+      "options": [
+        "Elaborar directamente las tareas diarias de los estudiantes con discapacidad",
+        "Planificar, organizar, monitorear y evaluar las disposiciones del Reglamento de Educación Inclusiva",
+        "Autorizar la expulsión inmediata de estudiantes con serias dificultades de conducta",
+        "Vender materiales didácticos adaptados a las unidades educativas"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 10, inc. a)",
+      "explicacion": "Las DDEs a través de las Subdirecciones de Educación Alternativa/Especial, Regular y Superior son responsables de planificar, organizar, monitorear y evaluar las disposiciones del reglamento."
+    },
+    {
+      "question": "¿Qué responsabilidad tienen las Direcciones Distritales Educativas según el Artículo 11?",
+      "options": [
+        "Desarrollar procesos de seguimiento a Centros y Unidades Educativas para garantizar el apoyo educativo",
+        "Asignar notas finales directamente a los estudiantes sin consultar al maestro",
+        "Contratar médicos especialistas para atención clínica dentro de los colegios",
+        "Exigir aportes económicos para la construcción de rampas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 11, inc. a)",
+      "explicacion": "Las Direcciones Distritales desarrollarán procesos de seguimiento para garantizar el apoyo educativo y promover el acceso a la educación."
+    },
+    {
+      "question": "En cuanto a la infraestructura escolar, ¿qué enfoque debe viabilizar el Director de la Unidad Educativa para eliminar barreras arquitectónicas?",
+      "options": [
+        "Enfoque de Seguridad Militar",
+        "Enfoque de Usos Universales",
+        "Enfoque de Edificación Mínima",
+        "Enfoque de Muro Perimetral"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 12, inc. f)",
+      "explicacion": "El Director debe viabilizar ante las instancias correspondientes el diseño o remodelación de infraestructura bajo el enfoque de 'Usos Universales'."
+    },
+    {
+      "question": "Es una responsabilidad directa de la maestra o maestro de aula según el Artículo 13:",
+      "options": [
+        "Derivar obligatoriamente a todos los estudiantes inclusivos a Centros de Educación Especial sin dar clase",
+        "Desarrollar la Planificación Curricular de Aula en el marco del Diseño Plural para los Aprendizajes y aplicar evaluaciones adecuadas",
+        "Pagar de su salario el material tiflotécnico o de señas de los estudiantes",
+        "Exigir que los padres permanezcan sentados al lado del estudiante durante toda la jornada"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 13, inc. a) y d)",
+      "explicacion": "El maestro de aula debe planificar con el Diseño Plural, desarrollar procesos oportunos y evaluar aplicando estrategias, instrumentos y materiales adecuados."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14, los estudiantes que NO presentan necesidades educativas especiales deben:",
+      "options": [
+        "Ignorar a los compañeros que requieren apoyos específicos",
+        "Promover acciones que prevengan todo tipo de violencia, acoso y/o bullying, respetando la diversidad",
+        "Ayudar únicamente si reciben puntos extra en la nota de comportamiento",
+        "Realizar los exámenes de sus compañeros inclusivos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 14, inc. b)",
+      "explicacion": "Deben promover acciones preventivas contra el acoso y bullying, practicando el respeto a la individualidad y características socioculturales de todos."
+    },
+    {
+      "question": "Si una madre, padre o tutor detecta señales de alerta de dificultades o discapacidad en su hijo, ¿qué acción le faculta el Artículo 15?",
+      "options": [
+        "Cambiarlo inmediatamente de colegio sin avisar a las autoridades",
+        "Solicitar la aplicación de pruebas de detección o evaluación mediante el conducto regular al Centro o Unidad Educativa",
+        "Exigir la destitución inmediata del docente de aula",
+        "Contratar un abogado para demandar a la Dirección Distrital"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 15, inc. c)",
+      "explicacion": "Los padres que detecten señales de alerta podrán solicitar la aplicación de pruebas de detección o evaluación mediante el conducto regular."
+    },
+    {
+      "question": "¿Cuál es una función del Director de un Centro de Educación Especial (CEE) en la Modalidad Indirecta?",
+      "options": [
+        "Impedir que sus docentes de apoyo salgan a visitar unidades educativas regulares",
+        "Organizar y planificar las acciones técnico-pedagógicas de los maestros de apoyo y realizar el seguimiento y acompañamiento a su trabajo",
+        "Cobrar aranceles mensuales por el servicio de apoyo itinerante",
+        "Evaluar el desempeño administrativo de la Dirección Distrital"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 16",
+      "explicacion": "El Director del CEE organiza, planifica, coordina las tareas de apoyo técnico pedagógico con las UEs inclusivas y realiza el seguimiento a sus maestros de apoyo."
+    },
+    {
+      "question": "¿En qué fecha deben presentar las/os maestras/os de apoyo sus fichas de seguimiento o control según el Artículo 17 inc. g)?",
+      "options": [
+        "El primer día hábil de cada año escolar",
+        "El último día hábil de cada mes",
+        "Únicamente al finalizar el tercer trimestre",
+        "Cada dos semanas en reuniones de la Junta de Padres"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 17, inc. g)",
+      "explicacion": "El Artículo 17 inc. g) señala que deben presentar fichas de seguimiento o control el último día hábil de cada mes para fines de asistencia e informes."
+    },
+    {
+      "question": "El personal administrativo y de servicio de las instituciones educativas debe (Art. 18):",
+      "options": [
+        "Prohibir el ingreso de estudiantes con silla de ruedas a la cancha escolar",
+        "Capacitarse de manera progresiva en conocimientos adecuados para brindar un trato de respeto y calidez a la diversidad",
+        "Atender exclusivamente los trámites de estudiantes sin discapacidad",
+        "Reemplazar al docente de apoyo en tareas de interpretación de señas"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 18",
+      "explicacion": "El personal administrativo y de servicio debe capacitarse progresivamente para brindar un trato respetuoso y cálido a estudiantes con discapacidad, dificultades o talento extraordinario."
+    },
+    {
+      "question": "¿Qué requerimiento técnico-lingüístico prioritario debe cumplir el Maestro de Apoyo para Discapacidad Auditiva (Art. 19)?",
+      "options": [
+        "Saber redactar ensayos filosóficos en inglés",
+        "Alto nivel de conocimiento y dominio fluido de la Lengua de Señas Boliviana (LSB)",
+        "Contar con certificado de locución en radio",
+        "Manejar software de edición de música"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 19, inc. a)",
+      "explicacion": "Debe ser un profesional con alto nivel de conocimiento y dominio de la Lengua de Señas Boliviana (LSB) y actualizarse progresivamente."
+    },
+    {
+      "question": "El objetivo del proceso de interpretación de LSB a la lengua oral y viceversa es (Art. 22):",
+      "options": [
+        "Enseñar modales de etiqueta a los estudiantes sordos",
+        "Eliminar barreras de comunicación garantizando información clara y precisa, evitando la traducción literal o español señado",
+        "Fomentar la lectura de labios sin utilizar señas",
+        "Memorizar el diccionario de la Real Academia Española"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 22",
+      "explicacion": "Busca eliminar las barreras comunicacionales transmitiendo contenidos curriculares de forma accesible, precisa y confiable, evitando la traducción literal, infra o sobreproducción."
+    },
+    {
+      "question": "¿Cuál de las siguientes condiciones de vestimenta e imagen se exige al maestro de apoyo al interpretar en LSB (Art. 23)?",
+      "options": [
+        "Utilizar trajes folclóricos de colores muy llamativos",
+        "Vestimenta adecuada y cómoda, sin distractores visuales como joyas vistosas que se muevan, estampados o peinados sueltos",
+        "Usar anillos y pulseras brillantes en ambas manos para llamar la atención",
+        "Llevar accesorios colgantes en el rostro"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 23",
+      "explicacion": "El intérprete debe vestir sin distractores visuales (sin joyas vistosas que se muevan, sin prendas con colores o estampados llamativos, peinado sujeto y sin dispositivos)."
+    },
+    {
+      "question": "Al explicar palabras nuevas o abstractas a estudiantes sordos, el maestro de apoyo utiliza (Art. 24 inc. e):",
+      "options": [
+        "Diccionarios impresos sin imágenes",
+        "Ejemplificación y contextualización en situaciones reales en LSB mediante pidgin o señas provisionales",
+        "Castigos por no comprender el significado al primer intento",
+        "Audífonos a máximo volumen"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 24, inc. e)",
+      "explicacion": "Explica conceptos abstractos contextualizando situaciones reales en LSB y empleando recursos lingüísticos como pidgin o señas provisionales."
+    },
+    {
+      "question": "Respecto a las tareas escolares del estudiante sordo, la norma advierte expresamente que el maestro de apoyo NO debe (Art. 24 inc. h):",
+      "options": [
+        "Explicar las consignas en LSB",
+        "Caer en el error de hacer las tareas de los estudiantes",
+        "Coordinar con el maestro de aula",
+        "Promover la autonomía del estudiante"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 24, inc. h)",
+      "explicacion": "Debe promover la independencia y responsabilidad del estudiante en sus tareas, sin caer en el error de resolver las tareas por él."
+    },
+    {
+      "question": "¿Qué evaluación inicial debe realizar el maestro de apoyo al comenzar el proceso con un estudiante sordo (Art. 26 inc. a)?",
+      "options": [
+        "Evaluación de su capacidad auditiva en decibelios mediante otoscopia",
+        "Evaluación diagnóstica sobre el dominio de la LSB, competencias en lectura/escritura de castellano escrito y conocimientos cotidianos",
+        "Examen físico de agilidad motora",
+        "Prueba de solfeo y canto"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 26, inc. a)",
+      "explicacion": "Realiza una evaluación diagnóstica del dominio de LSB (primera lengua), lectura/escritura del castellano escrito (segunda lengua) y conocimientos de vida diaria."
+    },
+    {
+      "question": "¿Qué dominio técnico debe poseer el Maestro de Apoyo para Discapacidad Visual según el Artículo 28?",
+      "options": [
+        "Dominio de la signografía Braille en lectura y escritura grados 1 y 2, Código Matemático Unificado y Musicografía Braille",
+        "Manejo de sistemas de radar marinos",
+        "Conocimiento exclusivo de lentes de contacto graduados",
+        "Manejo de lenguaje de programación Python avanzado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 28, inc. b)",
+      "explicacion": "Requiere dominio del Sistema Braille grados 1 y 2, signografía del Código Matemático Unificado, Musicografía Braille y tiflología."
+    },
+    {
+      "question": "El objetivo del apoyo educativo a estudiantes con discapacidad visual es (Art. 29):",
+      "options": [
+        "Memorizar mapas geográficos sin orientación táctil",
+        "Implementar estrategias tiflológicas para el logro de la independencia y autonomía personal y social",
+        "Aislar al estudiante en una sala oscura durante los exámenes",
+        "Evitar que realice actividades físicas o deportivas en la escuela"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 29",
+      "explicacion": "Busca implementar estrategias tiflológicas que permitan al estudiante con discapacidad visual alcanzar la independencia y autonomía personal y social."
+    },
+    {
+      "question": "La maestra/o de aula que trabaja con estudiantes con discapacidad visual debe aplicar (Art. 31):",
+      "options": [
+        "Estrategias pedagógicas con elementos sonoros, en relieve, macrotipo y adecuado contraste de color e iluminación",
+        "Proyecciones de video sin audio explicativo",
+        "Exámenes escritos con letra diminuta",
+        "Textos impresos únicamente en papel fotográfico brillante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 31, inc. a)",
+      "explicacion": "El maestro de aula privilegiará elementos sonoros, relieves, macrotipo y contraste de iluminación, evaluando en Braille, macrotipo o formato digital."
+    },
+    {
+      "question": "Para atender a estudiantes con Discapacidad Intelectual, el maestro de apoyo requiere (Art. 32):",
+      "options": [
+        "Formación inicial de maestro y complementariamente formación postgradual inherente al área y formación continua",
+        "Un certificado de voluntariado de tres meses en un orfanato",
+        "Ser egresado de la carrera de enfermería exclusivamente",
+        "Acreditar 10 años de servicio en educación secundaria matemática"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 32",
+      "explicacion": "Requiere formación profesional inicial más formación postgradual específica en la atención de discapacidad intelectual y actualización continua."
+    },
+    {
+      "question": "¿Qué documento es requisito obligatorio para el ingreso de una persona con discapacidad intelectual a Educación Superior (Art. 33 inc. c)?",
+      "options": [
+        "Libretas escolares de todos los años firmadas por el Notario de Fe Pública",
+        "Un Informe Multidisciplinario que corrobore el cumplimiento del perfil de entrada y capacidades para el ejercicio profesional",
+        "Un aval emitido por el Sindicato de Trabajadores",
+        "Un depósito bancario equivalente a una fianza de egreso"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 33, inc. c)",
+      "explicacion": "Se requiere un Informe Multidisciplinario que corrobore el cumplimiento del perfil de entrada y las capacidades para el ejercicio profesional."
+    },
+    {
+      "question": "El apoyo educativo a estudiantes con Trastorno del Espectro Autista (TEA) se enfoca en aquellos que (Art. 37):",
+      "options": [
+        "Presentan compromisos motores severos con hospitalización permanente",
+        "Se encuentran matriculados en Regular, Alternativa o Superior sin compromiso intelectual ni trastornos funcionales del lenguaje",
+        "Cuentan con un certificado de internación psiquiátrica",
+        "No han desarrollado ningún tipo de comunicación no verbal"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 37",
+      "explicacion": "El artículo 37 especifica la atención a estudiantes con TEA sin compromiso intelectual ni trastornos funcionales del lenguaje en Regular, Alternativa y Superior."
+    },
+    {
+      "question": "Una función del maestro de aula que atiende a niños con Discapacidad Intelectual leve o TEA es (Art. 39 inc. a):",
+      "options": [
+        "Desarrollar la detección temprana de señales de alerta en Educación Inicial y Primaria desde que inician sus aprendizajes",
+        "Diagnosticarlos médicamente y recetar fármacos tranquilizantes",
+        "Eximir de la asistencia a clases durante el primer semestre del año",
+        "Asignarles el mismo nivel de exigencia sin realizar ninguna adaptación curricular"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 39, inc. a)",
+      "explicacion": "El maestro de aula debe realizar la detección temprana de señales de alerta en Inicial y Primaria e incorporar sugerencias del apoyo técnico pedagógico."
+    },
+    {
+      "question": "¿Cómo se distribuye la Cobertura Educativa en el área de Dificultades en el Aprendizaje en Educación Primaria (Art. 41)?",
+      "options": [
+        "Únicamente se atiende al nivel secundario en materias científicas",
+        "Énfasis en 1ro, 2do y 3ro en sentido PREVENTIVO, y en 4to, 5to y 6to en sentido REEDUCATIVO",
+        "Exclusivamente en el nivel de Educación Inicial",
+        "Atención solo durante los períodos de vacaciones escolares"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 41",
+      "explicacion": "Atiende Educación Primaria Comunitaria Vocacional con énfasis preventivo en los tres primeros grados (1°, 2°, 3°) y reeducativo en los tres últimos (4°, 5°, 6°)."
+    },
+    {
+      "question": "Ante señales de alerta de posibles dificultades en el aprendizaje observadas en el aula, ¿qué instrumento aplica primero el docente (Art. 44 inc. c)?",
+      "options": [
+        "La 'Guía de Observación - Detección de Signos de Riesgo de Dificultades en el Aprendizaje'",
+        "El test de Rorschach de manchas de tinta",
+        "Un examen de reprobación directa de trimestre",
+        "La Ficha de Expulsión del Reglamento Disciplinario"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 44, inc. c)",
+      "explicacion": "Aplica la 'Guía de Observación - Detección de Signos de Riesgo de Dificultades en el Aprendizaje' y deriva según la Ficha de Reporte a evaluación multidisciplinaria."
+    },
+    {
+      "question": "Cuando se confirman 'Dificultades Específicas en el Aprendizaje', ¿dónde pueden recibir apoyo en turno alterno (Art. 44 inc. d)?",
+      "options": [
+        "En centros de reclusión juvenil",
+        "Inscribiéndose con el mismo código RUDE en Centros de Educación Especial para programas de Modalidad Directa",
+        "En clases particulares pagadas fuera del sistema educativo",
+        "En la Dirección Departamental de Educación"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 44, inc. d)",
+      "explicacion": "Podrán inscribirse con el mismo código RUDE en Centros de Educación Especial para recibir apoyo en programas de Modalidad Directa en turno alterno."
+    },
+    {
+      "question": "¿Quiénes son los responsables de la Detección de señales de alerta de Talento Extraordinario en el aula (Art. 48)?",
+      "options": [
+        "Los guardias de seguridad del establecimiento",
+        "Las y los maestros de aula del Subsistema de Educación Regular",
+        "Los ministros de Estado",
+        "Pobladores vecinos de la unidad educativa"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 48",
+      "explicacion": "Las maestras y maestros de aula son responsables de detectar señales de alerta y canalizarlas mediante la Comisión Técnica Pedagógica para la primera evaluación."
+    },
+    {
+      "question": "¿Cómo se realiza la Identificación formal de un estudiante con Talento Extraordinario (Art. 49)?",
+      "options": [
+        "Por votación de la junta de padres de familia",
+        "Por los Equipos Multidisciplinarios mediante evaluación psicológica/psicopedagógica con pruebas e instrumentos estandarizados",
+        "Por tener la libreta más limpia del curso",
+        "Mediante un sorteo público en el aniversario del colegio"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 49",
+      "explicacion": "La realiza el Equipo Multidisciplinario con pruebas estandarizadas y registro de talento extraordinario."
+    },
+    {
+      "question": "En paralelos con estudiantes con discapacidad físico-motora, ¿dónde deben ubicarse las aulas según el Artículo 53?",
+      "options": [
+        "En el piso más alto del edificio para evitar ruidos",
+        "En proximidad a la puerta principal de entrada/salida y a los baños destinados a los estudiantes",
+        "En el sótano del establecimiento escolar",
+        "Fuera del recinto escolar en una casilla prefabricada"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 53",
+      "explicacion": "La dirección debe prever que la ubicación del paralelo esté próxima a la puerta principal de acceso y a los servicios higiénicos."
+    },
+    {
+      "question": "¿A qué entidad corresponde garantizar la dotación de equipamiento mobiliario adecuado para estudiantes con discapacidad (Art. 54)?",
+      "options": [
+        "A los Gobiernos Autónomos Municipales",
+        "A la Policía Boliviana",
+        "A las editoriales privadas de libros",
+        "A las juntas vecinales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 54",
+      "explicacion": "En el marco de la Ley 070 (Art. 80.2), corresponde a los Gobiernos Autónomos Municipales dotar de mobiliario adecuado y accesible."
+    },
+    {
+      "question": "Según la tabla de relación docente-estudiante del Artículo 55, ¿cuál es la carga horaria mensual individualizada promedio para el área de Discapacidad Visual?",
+      "options": [
+        "2 horas mensuales",
+        "12 horas mensuales promedio",
+        "30 horas semanales fijas",
+        "No aplica carga horaria"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 55, Tabla",
+      "explicacion": "En Discapacidad Visual (para más de 5 estudiantes por ítem) la carga horaria individualizada promedio es de 12 horas mensuales."
+    },
+    {
+      "question": "Según la tabla del Artículo 55, ¿cuál es la relación de estudiantes por ítem completo para el área de Discapacidad Auditiva?",
+      "options": [
+        "Más de 20 estudiantes",
+        "Más de 4 estudiantes",
+        "Más de 50 estudiantes",
+        "Exactamente 1 estudiante"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 55, Tabla",
+      "explicacion": "En Discapacidad Auditiva, la relación por ítem completo es de 'Más de 4 estudiantes' con 8 horas mensuales promedio."
+    },
+    {
+      "question": "¿De quién dependen directamente los maestros de apoyo de la Modalidad Indirecta en Educación Regular y Alternativa (Art. 56 inc. a)?",
+      "options": [
+        "Del Alcalde Municipal de la jurisdicción",
+        "Directamente del Centro de Educación Especial (CEE) y bajo control de su Director",
+        "Del presidente de la Junta Nacional de Padres",
+        "De la junta de profesores de secundaria"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 56, inc. a)",
+      "explicacion": "Dependen directamente del Centro de Educación Especial (CEE) correspondiente y su control está a cargo del Director del CEE."
+    },
+    {
+      "question": "¿En qué circunstancias se puede extender el alcance del apoyo educativo a radio intermunicipal o interdistrital (Art. 57)?",
+      "options": [
+        "Por decisión personal del maestro sin justificación",
+        "Por inexistencia de CEE en el municipio, falta de acreditación en el área o lejanía de difícil acceso",
+        "Únicamente durante los feriados departamentales",
+        "Cuando lo apruebe el Sindicato de Maestros Rurales"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 57",
+      "explicacion": "Se extiende si no existen CEEs en el municipio, falta acreditación en el área requerida o por distancia de difícil acceso que favorezca al estudiante."
+    },
+    {
+      "question": "Según la Disposición Final Segunda, la aplicación del Reglamento de Educación Inclusiva RM 0069/2025:",
+      "options": [
+        "Aumenta automáticamente dos años de antigüedad a todos los docentes inclusivos",
+        "No modifica el Escalafón docente establecido en los artículos 36 y 67 de la Ley 070",
+        "Anula la jerarquía de méritos de la carrera magisterial",
+        "Obliga a rendir un examen de ascenso de categoría cada seis meses"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Disposición Final Segunda",
+      "explicacion": "Aclara explícitamente que los artículos del reglamento no modifican el Escalafón docente."
+    },
+    {
+      "question": "¿Qué normativa aprueba los Lineamientos Curriculares de Educación Inclusiva para el SEP citada en el marco jurídico?",
+      "options": [
+        "Resolución Ministerial N° 1040/2022",
+        "Resolución Ministerial N° 01/2025",
+        "Ley N° 1565",
+        "Decreto Supremo N° 21060"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3, inc. j)",
+      "explicacion": "La R.M. N° 1040/2022 del 22 de noviembre de 2022 aprobó los Lineamientos Curriculares de Educación Inclusiva."
+    },
+    {
+      "question": "¿En qué consiste la 'Educación Inclusiva' según el concepto indisoluble del MESCP (Art. 4 inc. h)?",
+      "options": [
+        "Un programa asistencialista privado de donaciones",
+        "Parte indisoluble del MESCP que brinda respuestas educativas oportunas a las necesidades, ritmos y estilos de aprendizaje",
+        "Un curso optativo fuera del horario oficial de clases",
+        "Una modalidad exclusiva para adultos mayores"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 4, inc. h)",
+      "explicacion": "Es parte indisoluble del Modelo Educativo Sociocomunitario Productivo fundamentado en el derecho a la educación para todas y todos."
+    },
+    {
+      "question": "¿Es obligatorio estar inscrito previamente en un Centro de Educación Especial para matricularse en Educación Regular según la RM 069/2025?",
+      "options": [
+        "Sí, es un requisito indispensable por ley",
+        "No, no es un pre-requisito la inscripción previa en el ámbito de Educación Especial",
+        "Solo para estudiantes con talento extraordinario",
+        "Solo en colegios de convenio"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 6, inc. b)",
+      "explicacion": "El artículo 6 inc. b) aclara expresamente que NO es un pre-requisito su inscripción previa en el ámbito de Educación Especial."
+    },
+    {
+      "question": "En el caso de estudiantes con Discapacidad Intelectual, ¿en qué niveles de Educación Regular pueden matricularse con 24 meses de tolerancia de edad?",
+      "options": [
+        "Educación Secundaria exclusivamente",
+        "Educación Inicial y Primaria Comunitaria Vocacional",
+        "Solo en Educación Superior",
+        "En posgrado únicamente"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 6, inc. d)",
+      "explicacion": "Aplica para Educación Inicial y Primaria Comunitaria Vocacional del Subsistema de Educación Regular."
+    },
+    {
+      "question": "¿Qué institución u órgano emite el informe legal que recomienda la aprobación de la RM 0069/2025?",
+      "options": [
+        "Informe Legal IN/VEAE No. 0015/2025 de la Especialista en Seguimiento Normativo",
+        "El Tribunal Supremo de Justicia",
+        "El Consejo de Magistratura",
+        "El Ministerio de Economía"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Vistos e Informe Legal",
+      "explicacion": "El Informe Legal IN/VEAE No. 0015/2025 del Viceministerio de Educación Alternativa y Especial recomendó su emisión."
+    },
+    {
+      "question": "Las Unidades y Centros Educativos deben aplicar para la comunicación de estudiantes con discapacidad (Art. 8 inc. b):",
+      "options": [
+        "Exclusivamente idioma inglés",
+        "Lengua de Señas Boliviana, Sistema Braille y Sistemas de Comunicación Aumentativa o Alternativa",
+        "Código Morse",
+        "Lenguaje de señas internacional únicamente"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 8, inc. b)",
+      "explicacion": "Aplicarán la Lengua de Señas Boliviana, el Sistema Braille, Sistemas Aumentativos o Alternativos según corresponda."
+    },
+    {
+      "question": "¿Quiénes coordinan y definen acciones pedagógicas y administrativas para garantizar educación de calidad inclusiva (Art. 9)?",
+      "options": [
+        "Las Juntas Vecinales",
+        "Las y los directores de los CEEs e Instituciones Educativas Inclusivas",
+        "Los alcaldes municipales",
+        "Los centros comerciales cercanos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 9",
+      "explicacion": "Las y los directores de los Centros de Educación Especial e Instituciones Educativas coordinarán y definirán acciones pedagógicas."
+    },
+    {
+      "question": "Es una responsabilidad de las y los directores de instituciones educativas regulares (Art. 12 inc. h):",
+      "options": [
+        "Viabilizar espacios de coordinación con maestras, maestros y comunidad respecto al apoyo educativo",
+        "Prohibir reuniones entre docentes de apoyo y docentes de aula",
+        "Cobrar matriculación especial",
+        "Modificar las notas finales sin consultar al docente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 12, inc. h)",
+      "explicacion": "Deben viabilizar espacios de coordinación respecto a los procesos de apoyo educativo."
+    },
+    {
+      "question": "¿Qué debe proporcionar el Director de la Unidad Educativa al Maestro de Apoyo según el Art. 12 inc. i)?",
+      "options": [
+        "Un vehículo oficial con chofer",
+        "Las planificaciones curriculares e institucionales cuando las requiera para el Apoyo Técnico Pedagógico",
+        "Laptops personales de regalo",
+        "Presupuesto en efectivo para viáticos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 12, inc. i)",
+      "explicacion": "Proporcionar las planificaciones curriculares e institucionales cuando los requiera con fines de Apoyo Técnico Pedagógico."
+    },
+    {
+      "question": "En relación al contexto familiar del estudiante inclusivo, el maestro de aula debe (Art. 13 inc. c):",
+      "options": [
+        "Involucrar al contexto familiar en actividades de sensibilización y respeto a la diversidad",
+        "Excluir a la familia de las decisiones pedagógicas",
+        "Sancionar económicamente a los padres si el alumno no aprueba",
+        "Exigir que la familia pague clases particulares"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 13, inc. c)",
+      "explicacion": "Sensibilizar en respeto a la diversidad involucrando al contexto familiar y a los que considere necesarios."
+    },
+    {
+      "question": "¿Qué distractor comunicativo debe evitar el maestro de apoyo durante la interpretación en LSB (Art. 23)?",
+      "options": [
+        "Uso de dispositivos electrónicos u otros distractores durante el acto interpretativo",
+        "Mantener la vista fija en los estudiantes",
+        "Hacer señas claras",
+        "Vevstir prendas de tonos sobrios"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 23",
+      "explicacion": "No debe usar dispositivos u otros distractores durante el acto interpretativo."
+    },
+    {
+      "question": "¿En qué eventos organizados por la Institución Educativa debe interpretar el maestro de apoyo de discapacidad auditiva (Art. 24 inc. k)?",
+      "options": [
+        "Únicamente durante la hora de recreo",
+        "En todos los actos y eventos organizados por la Institución Educativa",
+        "Solo en los exámenes de fin de curso",
+        "En las reuniones del sindicato de profesores"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 24, inc. k)",
+      "explicacion": "Interpreta en LSB en todos los actos y eventos organizados por la Institución Educativa."
+    },
+    {
+      "question": "Una aptitud básica del maestro de apoyo en discapacidad auditiva es (Art. 25 inc. a):",
+      "options": [
+        "Conocimiento del enfoque inclusivo que permita plantear, guiar y evaluar acciones de sensibilización",
+        "Tener experiencia en interpretación judicial penal exclusivamente",
+        "Saber hablar cinco idiomas extranjeros",
+        "Ser graduado de la carrera de derecho"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 25, inc. a)",
+      "explicacion": "Tener conocimiento del enfoque inclusivo para orientar y evaluar acciones de sensibilización."
+    },
+    {
+      "question": "¿Con quién coordina el maestro de apoyo las adaptaciones en LSB requeridas para cada clase (Art. 26 inc. b)?",
+      "options": [
+        "Con la Junta de Vecinos",
+        "Con la o el maestro de aula respecto al plan de desarrollo curricular",
+        "Con el portero del colegio",
+        "Con la imprenta estatal"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 26, inc. b)",
+      "explicacion": "Coordinar con maestras y maestros de aula respecto al plan de desarrollo curricular y las adaptaciones requeridas."
+    },
+    {
+      "question": "Si un concepto curricular no existe en el vocabulario oficial de la LSB, ¿qué debe hacer el maestro de apoyo (Art. 26 inc. c)?",
+      "options": [
+        "Omitir la palabra y no enseñarla",
+        "Encontrar modos para definir el sentido y significado de conceptos que aún no están en la LSB",
+        "Sancionar al estudiante sordo",
+        "Inventar un idioma oral nuevo"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 26, inc. c)",
+      "explicacion": "Identificar señas o encontrar modos para definir el sentido y significado del concepto."
+    },
+    {
+      "question": "¿Qué es la 'Tiflología' citada en los artículos de Discapacidad Visual?",
+      "options": [
+        "La ciencia que estudia la anatomía del oído",
+        "El conjunto de conocimientos y técnicas relativas a las personas con ceguera o baja visión",
+        "El estudio de los suelos agrícolas",
+        "Una rama de la literatura medieval"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 28",
+      "explicacion": "La Tiflología es la ciencia y estudio del desarrollo integral y técnicas adaptativas para personas con discapacidad visual."
+    },
+    {
+      "question": "¿Qué signografía matemática debe dominar el maestro de apoyo a estudiantes ciegos (Art. 28 inc. b)?",
+      "options": [
+        "El Código Matemático Unificado",
+        "El código binario de computadoras",
+        "La numeración romana clásica",
+        "El ábaco soroban exclusivamente sin notación escrita"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 28, inc. b)",
+      "explicacion": "Requiere dominio de la signografía Braille grados 1 y 2, Código Matemático Unificado y Musicografía Braille."
+    },
+    {
+      "question": "Sensibilizar en prevención de la ceguera y salud visual a la comunidad educativa es función de (Art. 30 inc. e):",
+      "options": [
+        "Maestro de apoyo a estudiantes con discapacidad visual",
+        "El chofer del transporte escolar",
+        "El contador del ministerio",
+        "El policía de tránsito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 30, inc. e)",
+      "explicacion": "Es función del maestro de apoyo sensibilizar en salud visual, prevención de la ceguera, baja visión y tiflología."
+    },
+    {
+      "question": "¿Qué coordinación es obligatoria entre el maestro de apoyo visual y el de aula (Art. 30 inc. g)?",
+      "options": [
+        "El pago de cuotas sindicales",
+        "El avance de contenidos planificados a fin de consolidar condiciones pertinentes",
+        "El menú del almuerzo escolar",
+        "La distribución de uniformes"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0069/2025, Artículo 30, inc. g)",
+      "explicacion": "Coordinar previa y obligatoriamente el avance de contenidos planificados."
+    },
+    {
+      "question": "En el área de Discapacidad Intelectual, ¿a través de qué se alcanza la cobertura en UEs fiscales y de convenio (Art. 33 inc. a)?",
+      "options": [
+        "A través de los maestros de apoyo en su radio de acción",
+        "Mediante educación a distancia por televisión",
+        "Por folletos enviados por correo postal",
+        "Mediante exámenes de suficiencia anuales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 33, inc. a)",
+      "explicacion": "Se debe alcanzar cobertura a través de maestros de apoyo en UEs que atienden discapacidad intelectual en su radio de acción."
+    },
+    {
+      "question": "Es función del maestro de apoyo en discapacidad intelectual (Art. 35 inc. f):",
+      "options": [
+        "Participar en reuniones necesarias de la Comisión Técnica Pedagógica de la institución educativa",
+        "Dictar sentencia en procesos disciplinarios",
+        "Aprobar o reprobar el año escolar por decreto",
+        "Presidir la junta de padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 35, inc. f)",
+      "explicacion": "Participar en reuniones de la comisión técnica pedagógica junto a maestros de la institución para orientar los procesos."
+    },
+    {
+      "question": "En la atención a estudiantes con TEA, ¿qué evalúa el equipo multidisciplinario (Art. 38 inc. d)?",
+      "options": [
+        "Sus características, potencialidades, intereses y necesidades educativas",
+        "Su riqueza económica familiar",
+        "Su predisposición para deportes de alto rendimiento",
+        "Su árbol genealógico completo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 38, inc. d)",
+      "explicacion": "Determina características, potencialidades, intereses y necesidades educativas, así como el contexto."
+    },
+    {
+      "question": "El maestro de aula de aula regular que atiende a niños con TEA sin compromiso intelectual debe (Art. 39 inc. b):",
+      "options": [
+        "Incorporar sugerencias del apoyo técnico pedagógico mediante el Diseño Plural para los Aprendizajes",
+        "Exigir que el niño no realice ningún sonido durante 6 horas",
+        "Separar al niño detrás de un biombo en la clase",
+        "Obligarlo a usar uniforme de un color diferente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 39, inc. b)",
+      "explicacion": "Desarrolla procesos educativos incorporando sugerencias del apoyo técnico pedagógico a través del Diseño Plural."
+    },
+    {
+      "question": "¿En qué nivel escolar inicia la detección temprana de señales de alerta de discapacidad intelectual o TEA (Art. 39 inc. a)?",
+      "options": [
+        "Educación Inicial en Familia Comunitaria y Primaria Comunitaria Vocacional",
+        "En el último año de Educación Secundaria",
+        "En la universidad durante la titulación",
+        "En la etapa prenatal en el hospital"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 39, inc. a)",
+      "explicacion": "En el nivel de Educación Inicial en Familia Comunitaria o Primaria Comunitaria Vocacional desde que inician sus aprendizajes."
+    },
+    {
+      "question": "¿Quién capacita a los docentes de primaria sobre Dificultades Generales en el Aprendizaje (Art. 43 inc. a)?",
+      "options": [
+        "El Maestro de Apoyo del área de Dificultades en el Aprendizaje",
+        "El portero de la unidad educativa",
+        "La imprenta local",
+        "El secretario del distrito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 43, inc. a)",
+      "explicacion": "Capacita a maestras y maestros de Primaria previa coordinación con el director de la Unidad Educativa."
+    },
+    {
+      "question": "Los informes sobre el desarrollo educativo de estudiantes con dificultades en el aprendizaje se presentan con frecuencia (Art. 43 inc. g):",
+      "options": [
+        "Trimestral",
+        "Diaria",
+        "Anual únicamente",
+        "Cada cinco años"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 43, inc. g)",
+      "explicacion": "Realiza informes trimestrales sobre el desarrollo educativo, avances y logros del estudiante."
+    },
+    {
+      "question": "¿Qué hace el maestro de aula al detectar signos de alerta de dificultades en el aprendizaje (Art. 45 inc. b)?",
+      "options": [
+        "Solicitar la evaluación multidisciplinaria de los posibles casos detectados",
+        "Reprobar inmediatamente al estudiante",
+        "Expulsar al estudiante del aula",
+        "Cobrar una multa a los padres"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 45, inc. b)",
+      "explicacion": "Solicitar la evaluación multidisciplinaria de los posibles casos detectados que podrían presentar dificultades."
+    },
+    {
+      "question": "En el proceso reeducativo de dificultades en el aprendizaje, el maestro de aula debe (Art. 45 inc. d):",
+      "options": [
+        "Incorporar las recomendaciones y sugerencias del maestro de apoyo",
+        "Ignorar las sugerencias del CEE",
+        "Aumentar la carga de tareas de memoria",
+        "Sancionar sin recreo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 45, inc. d)",
+      "explicacion": "Desarrollar procesos preventivos y reeducativos incorporando recomendaciones y sugerencias del maestro de apoyo."
+    },
+    {
+      "question": "¿Qué objetivo persigue el apoyo educativo en Dificultades en el Aprendizaje (Art. 42)?",
+      "options": [
+        "Superar paulatinamente las dificultades mediante una atención pertinente en el aula regular",
+        "Segregar definitivamente al alumno",
+        "Otorgar un título técnico en lugar del bachillerato",
+        "Eximir de todas las materias"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 42",
+      "explicacion": "Fortalecer acciones pedagógicas para superar paulatinamente esas dificultades en el aula regular."
+    },
+    {
+      "question": "El profesional de apoyo a Talento Extraordinario debe contar con formación en (Art. 46):",
+      "options": [
+        "Manejo de instrumentos de evaluación psicométrica y normativa del área",
+        "Cine y artes plásticas exclusivamente",
+        "Entrenamiento deportivo militar",
+        "Ingeniería de minas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 46",
+      "explicacion": "Son profesionales con formación académica pertinente, manejo de instrumentos psicométricos y normativa."
+    },
+    {
+      "question": "Una función del profesional de apoyo a Talento Extraordinario es (Art. 47 inc. c):",
+      "options": [
+        "Gestionar la atención de programas y servicios extracurriculares en el marco del programa integral",
+        "Inscribir al estudiante en la universidad sin culminar primaria",
+        "Obligar al estudiante a enseñar a sus compañeros sin docente",
+        "Pagar premios económicos mensuales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 47, inc. c)",
+      "explicacion": "Realiza seguimiento y gestiona programas y servicios extracurriculares individuales."
+    },
+    {
+      "question": "¿Qué instancia realiza la primera evaluación educativa de sospecha de Talento Extraordinario en la escuela (Art. 48)?",
+      "options": [
+        "La Comisión Técnica Pedagógica de la Unidad Educativa",
+        "La Alcaldía Municipal",
+        "El Ministerio de Deportes",
+        "El club deportivo del barrio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 48",
+      "explicacion": "Las maestras/os detectan señales de alerta y la Comisión Técnica Pedagógica procede a la primera evaluación educativa."
+    },
+    {
+      "question": "Las Direcciones Departamentales y Distritales deben incluir para Talento Extraordinario en su POA (Art. 50 inc. b):",
+      "options": [
+        "Acciones de sensibilización, capacitación, seguimiento y fomento",
+        "Presupuesto para viajes internacionales de placer",
+        "Premios en efectivo para las autoridades",
+        "Construcción de estadios exclusivos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 50, inc. b)",
+      "explicacion": "Incluir en su POA acciones de sensibilización, capacitación, seguimiento y fomento en coordinación con CEEs."
+    },
+    {
+      "question": "¿Qué norma regula el Reglamento de Accesibilidad y Eliminación de Barreras Arquitectónicas citado en el Art. 52?",
+      "options": [
+        "Resolución Ministerial N° 0410/2016",
+        "Resolución Ministerial N° 01/2020",
+        "Ley N° 1008",
+        "Decreto Ley N° 12760"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 52",
+      "explicacion": "El Reglamento de Accesibilidad y Eliminación de Barreras Arquitectónicas fue aprobado mediante R.M. N° 0410/2016."
+    },
+    {
+      "question": "¿Qué infraestructura debe adecuarse prioritariamente para estudiantes con discapacidad físico-motora (Art. 53)?",
+      "options": [
+        "Ubicación de paralelos próximos a la puerta principal y a los baños",
+        "Canchas de césped sintético",
+        "Teatros con aire acondicionado",
+        "Parqueos VIP para docentes"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 53",
+      "explicacion": "Prever que la ubicación de los paralelos sea próxima a la entrada/salida principal y a los baños."
+    },
+    {
+      "question": "En la tabla del Artículo 55, ¿cuál es la relación de estudiantes por ítem completo para Dificultades Específicas en el Aprendizaje?",
+      "options": [
+        "Más de 20 estudiantes (con 4 horas mensuales promedio)",
+        "Exactamente 2 estudiantes",
+        "Más de 100 estudiantes",
+        "Sin límite de alumnos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 55, Tabla",
+      "explicacion": "Para Dificultades Específicas en el Aprendizaje es 'Más de 20 estudiantes' con 4 horas mensuales promedio."
+    },
+    {
+      "question": "En la tabla del Artículo 55, ¿qué carga horaria individualizada aplica para Talento Extraordinario?",
+      "options": [
+        "No aplica",
+        "20 horas semanales",
+        "100 horas al mes",
+        "1 hora diaria"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 55, Tabla",
+      "explicacion": "La tabla indica expresamente 'No aplica' en carga horaria individualizada para Talento Extraordinario (>15 estudiantes)."
+    },
+    {
+      "question": "¿Cómo se financia la planilla de los maestros de apoyo en Educación Superior según el Art. 56 inc. b)?",
+      "options": [
+        "Bajo el techo presupuestario de la planilla de las Instituciones de Educación Superior correspondientes",
+        "Por colectas estudiantiles",
+        "Mediante créditos bancarios individuales",
+        "Por donaciones municipales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 56, inc. b)",
+      "explicacion": "Están bajo el techo presupuestario de la planilla de las Instituciones de Educación Superior correspondientes."
+    },
+    {
+      "question": "¿Qué es el 'Plan de Apoyo Técnico Pedagógico' según el Artículo 59?",
+      "options": [
+        "El instrumento de planificación operativa del maestro de apoyo en coordinación con el de aula",
+        "La lista de útiles escolares del curso",
+        "El contrato de trabajo del personal de limpieza",
+        "El balance contable del colegio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 59",
+      "explicacion": "Es el instrumento de planificación de acciones operativas que realiza el maestro de apoyo en coordinación con el de aula."
+    },
+    {
+      "question": "¿Quién elabora la Planificación Curricular de Aula en el marco del Diseño Plural (Art. 60)?",
+      "options": [
+        "El maestro de aula",
+        "El portero del establecimiento",
+        "El ministro de educación personalmente",
+        "La junta de vecinos del barrio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 60",
+      "explicacion": "La Planificación Curricular de Aula para responder a la diversidad la elabora el maestro de aula bajo el Diseño Plural."
+    },
+    {
+      "question": "Para acceder a apoyos de un CEE, el estudiante inclusivo debe realizar (Art. 61):",
+      "options": [
+        "Doble matriculación simultánea en el CEE e institución de otro subsistema con el mismo código RUDE",
+        "Inscripción en tres universidades públicas",
+        "Pago de doble pensión mensual",
+        "Examen de ingreso presencial ante el Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 61",
+      "explicacion": "Deberán matricularse de forma simultánea en el CEE y en la institución de otro subsistema con el mismo código RUDE."
+    },
+    {
+      "question": "¿Qué viceministerio se encarga de revisar y actualizar el Reglamento R.M. N° 0069/2025 (Art. 63)?",
+      "options": [
+        "Viceministerio de Educación Alternativa y Especial",
+        "Viceministerio de Deportes",
+        "Viceministerio de Ciencia y Tecnología",
+        "Viceministerio de Comunicación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "El Ministerio a través del Viceministerio de Educación Alternativa y Especial revisará y actualizará el reglamento."
+    },
+    {
+      "question": "¿Cuántos Capítulos y Artículos tiene el Reglamento aprobado por la R.M. N° 0069/2025?",
+      "options": [
+        "10 Capítulos y 63 Artículos",
+        "5 Capítulos y 20 Artículos",
+        "12 Capítulos y 100 Artículos",
+        "1 Capítulo y 10 Artículos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Resuelve Artículo 1",
+      "explicacion": "Consta de Diez (10) Capítulos, Sesenta y Tres (63) Artículos y Tres (3) Disposiciones Finales."
+    },
+    {
+      "question": "¿En qué fecha exacta fue emitida la Resolución Ministerial N° 0069/2025?",
+      "options": [
+        "07 de febrero de 2025",
+        "01 de enero de 2024",
+        "15 de agosto de 2023",
+        "20 de diciembre de 2025"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Encabezado",
+      "explicacion": "Fue emitida en La Paz, el 07 de febrero de 2025."
+    },
+    {
+      "question": "¿Qué autoridad firma la aprobación de la R.M. N° 0069/2025 en calidad de Ministro de Educación?",
+      "options": [
+        "Omar Veliz Ramos",
+        "Roberto Aguilar Gómez",
+        "Edgar Pary Vargas",
+        "Avelino Siñani"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Firma Ministral",
+      "explicacion": "El instrumento está firmado por Omar Veliz Ramos, Ministro de Educación."
+    },
+    {
+      "question": "¿Cuál es la función del 'Informe de Evaluación Integral' en el paso de estudiantes con discapacidad intelectual por el SEP (Art. 7 inc. b)?",
+      "options": [
+        "Sus recomendaciones son decisivas para proyectar el recorrido educativo más pertinente",
+        "Es un trámite opcional que se puede desechar",
+        "Sirve únicamente para eximir de uniformes escolares",
+        "Es un requisito comercial para venta de libros"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 7, inc. b)",
+      "explicacion": "Sus recomendaciones son decisivas para proyectar el recorrido educativo más pertinente."
+    },
+    {
+      "question": "¿Cuál es la norma constitucional y legal en Bolivia que respalda la obligatoriedad de la Educación Inclusiva en el SEP?",
+      "options": [
+        "Constitución Política del Estado y la Ley N° 070 Avelino Siñani - Elizardo Pérez",
+        "Únicamente el Código de Comercio de Bolivia",
+        "Ley N° 2027 del Estatuto del Funcionario Público",
+        "Decreto Ley 12760 del Código Civil"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Marco Normativo",
+      "explicacion": "El reglamento se fundamenta en los mandatos constitucionales sobre derecho a la educación sin discriminación y la Ley N° 070 del Educación."
+    },
+    {
+      "question": "¿A qué se refiere el principio de 'Diseño Plural para los Aprendizajes' (DPA) según la R.M. N° 0069/2025?",
+      "options": [
+        "A un enfoque didáctico que ofrece múltiples formas de representación, expresión y participación para responder a la diversidad",
+        "A la obligación de comprar libros impresos de una sola editorial privada",
+        "A la separación de los estudiantes en aulas exclusivas según su diagnóstico médico",
+        "A la eliminación de las evaluaciones trimestrales en el nivel secundario"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3, Definiciones",
+      "explicacion": "El DPA es un marco pedagógico que busca minimizar barreras diseñando actividades accesibles desde la planificación inicial."
+    },
+    {
+      "question": "En la R.M. N° 0069/2025, ¿cómo se define el concepto de 'Modalidad Indirecta' de atención educativa?",
+      "options": [
+        "Atención técnica y pedagógica brindada por el Maestro de Apoyo en aulas del Subsistema Regular/Alternativo sin aislar al estudiante",
+        "Modalidad de clases 100% virtuales mediante plataformas internacionales",
+        "Atención prestada exclusivamente en los domicilios de las familias durante los fines de semana",
+        "Sistema de internado obligatorio en centros de salud especializados"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3, Definiciones",
+      "explicacion": "La modalidad indirecta implica el soporte y acompañamiento inclusivo dentro de los espacios de educación regular u alternativa."
+    },
+    {
+      "question": "¿Qué es el Plan de Apoyo Técnico Pedagógico (PATP) estipulado en la norma?",
+      "options": [
+        "Un documento dinámico elaborado por el Maestro de Apoyo y el Maestro de Aula con estrategias y adaptaciones individuales",
+        "Un contrato de trabajo firmado entre la junta escolar y la alcaldía",
+        "Un reglamento disciplinario para sancionar las faltas de asistencia de los estudiantes",
+        "Un catálogo de cobros para exámenes extracurriculares"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3, Definiciones",
+      "explicacion": "El PATP organiza las adaptaciones curriculares, metodológicas y de acceso necesarias para la trayectoria inclusiva del estudiante."
+    },
+    {
+      "question": "¿Qué entidad emite el Informe de Evaluación Multidisciplinaria para estudiantes con discapacidad o talento extraordinario?",
+      "options": [
+        "El equipo multidisciplinario del Centro de Educación Especial o red de salud acreditada",
+        "La junta vecinal del barrio donde reside el estudiante",
+        "La Fuerza Especial de Lucha Contra el Crimen (FELCC)",
+        "Una comisión de padres de familia de la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3 y 5",
+      "explicacion": "El informe es elaborado por profesionales especializados (psicólogos, pedagogos, médicos) del CEE o servicios de salud autorizados."
+    },
+    {
+      "question": "¿Cuál es la función del Código RUDE Único en la matriculación de estudiantes bajo la modalidad indirecta?",
+      "options": [
+        "Garantizar el registro único e indivisible del estudiante tanto en su unidad educativa inclusiva como en el CEE de apoyo",
+        "Asignar una beca en dinero en efectivo otorgada por la gobernación",
+        "Duplicar el presupuesto de la libreta militar del estudiante",
+        "Eximir al estudiante de portar uniforme escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 6",
+      "explicacion": "El RUDE único vincula la trayectoria escolar del estudiante en el sistema para evitar inscripciones duplicadas o vacíos de registro."
+    },
+    {
+      "question": "¿Qué hito marca la trayectoria educativa inclusiva garantizada en la R.M. N° 0069/2025?",
+      "options": [
+        "El derecho a transitar, permanecer y concluir los niveles del SEP con equiparación de condiciones y oportunidades",
+        "La obligatoriedad de aprobar con 100 puntos sin importar el desempeño",
+        "La graduación automática a los 15 años de edad sin importar el nivel cursado",
+        "La prohibición de reprobar a cualquier estudiante sin evaluación previa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 7",
+      "explicacion": "La trayectoria educativa asegura el acompañamiento continuo desde la detección inicial hasta la conclusión de estudios."
+    },
+    {
+      "question": "¿Cuál es el rol de las Comisiones Técnicas Pedagógicas (CTP) en el marco de la educación inclusiva 2025?",
+      "options": [
+        "Analizar, validar y dar seguimiento a las adaptaciones curriculares propuestas en los PATP",
+        "Definir las sanciones disciplinarias y suspensiones de estudiantes en la unidad educativa",
+        "Administrar los fondos de la tienda o kiosco escolar",
+        "Organizar los desfiles cívicos y eventos deportivos del municipio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 15",
+      "explicacion": "La CTP apoya pedagógicamente la implementación de adaptaciones y realiza el seguimiento a los casos de inclusión en la UE."
+    },
+    {
+      "question": "¿Qué establece el principio de 'Equiparación de Oportunidades' en el contexto escolar inclusivo?",
+      "options": [
+        "Proporcionar los ajustes razonables, medios tecnológicos y recursos necesarios para que todos aprendan en igualdad de condiciones",
+        "Dar exactamente el mismo examen escrito sin modificación alguna a todos los estudiantes",
+        "Prohibir el uso de material adaptado o la asistencia de intérpretes en aula",
+        "Exigir la misma velocidad de escritura Braille que la escritura en tinta"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 2",
+      "explicacion": "La equiparación implica remover barreras mediante apoyos específicos para que el estudiante acceda a la educación en igualdad de condiciones."
+    },
+    {
+      "question": "¿En qué consiste la eliminación de Barreras para el Aprendizaje y la Participación (BAP)?",
+      "options": [
+        "En identificar y modificar aspectos actitudinales, metodológicos, organizativos y físicos que impiden el pleno desarrollo del estudiante",
+        "En demoler las paredes perimetrales de las unidades educativas",
+        "En suspender las materias técnicas para todos los cursos de primaria",
+        "En reemplazar a los docentes regulares por personal administrativo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 4",
+      "explicacion": "Las BAP surgen del contexto; eliminarlas exige adaptar el entorno, la metodología y las actitudes comunitarias."
+    },
+    {
+      "question": "¿Cuál es la responsabilidad principal del Director de la Unidad Educativa Inclusiva según el Artículo 11 de la R.M. N° 0069/2025?",
+      "options": [
+        "Garantizar la matriculación, acceso sin discriminación y la articulación técnica con el Maestro de Apoyo del CEE",
+        "Cobrar aportes obligatorios para la compra de materiales pedagógicos especiales",
+        "Exigir un diagnóstico psiquiátrico privado como requisito excluyente de inscripción",
+        "Delegar totalmente la atención del estudiante al portero o regente de la institución"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 11",
+      "explicacion": "El director institucionaliza las condiciones de inclusión, coordina apoyos y vela por el cumplimiento de los PATP."
+    },
+    {
+      "question": "¿Qué obligación tiene el Maestro de Aula Regular respecto a los estudiantes incluidos en su curso?",
+      "options": [
+        "Planificar curricularmente incorporando adaptaciones, aplicar el DPA y coordinar con el Maestro de Apoyo",
+        "Aislar al estudiante en una mesa al fondo del aula sin asignarle tareas",
+        "Exigir que la familia contrate un profesor privado que asista al aula todos los días",
+        "Derivar inmediatamente al estudiante al centro especial sin intentar adaptaciones"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 12",
+      "explicacion": "El maestro de aula es el responsable pedagógico directo y debe trabajar de la mano con el maestro de apoyo."
+    },
+    {
+      "question": "¿Cuándo debe presentar el Maestro de Apoyo Técnico Pedagógico la ficha de seguimiento individualizado?",
+      "options": [
+        "El último día hábil de cada mes ante la Dirección de la UE o CEE según corresponda",
+        "Únicamente al finalizar el año escolar durante las vacaciones de navidad",
+        "Cada tres años previa auditoría externa del Ministerio de Educación",
+        "Solo cuando la familia presente un reclamo formal por escrito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 14",
+      "explicacion": "La norma especifica la entrega mensual del reporte de seguimiento para monitorear el avance del PATP."
+    },
+    {
+      "question": "¿Cuál es el compromiso formal de los Padres, Madres o Tutores en el proceso de educación inclusiva?",
+      "options": [
+        "Asistir a las reuniones de coordinación, apoyar la continuidad de actividades en el hogar y presentar los informes de salud requeridos",
+        "Permanecer sentados dentro del aula durante las 6 horas de clases todos los días",
+        "Pagar un salario adicional al Maestro de Apoyo por cada hora de atención",
+        "Elaborar los exámenes y notas trimestrales de sus hijos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 16",
+      "explicacion": "La familia actúa como corresponsable en el desarrollo y cumplimiento de las recomendaciones del equipo técnico."
+    },
+    {
+      "question": "¿Qué rol juegan las Direcciones Distritales de Educación en el marco de la R.M. N° 0069/2025?",
+      "options": [
+        "Monitorear la asignación de maestros de apoyo, verificar la erradicación de barreras y resolver controversias sobre matriculación",
+        "Aprobar la compra de uniformes escolares de gala",
+        "Imprimir los textos de aprendizaje de distribución gratuita",
+        "Otorgar licencias de funcionamiento a clínicas privadas de rehabilitación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 9",
+      "explicacion": "Las Distritales supervisan que todas las unidades educativas del distrito cumplan con la normativa inclusiva."
+    },
+    {
+      "question": "En caso de rechazo injustificado de matriculación a un estudiante con discapacidad en una unidad educativa, ¿qué acción corresponde?",
+      "options": [
+        "Apertura de proceso administrativo sancionatorio según la normativa disciplinaria vigente contra la autoridad remisa",
+        "Aceptación tácita del rechazo y derivación obligatoria al trabajo infantil",
+        "Cobro de una multa económica directamente a la Junta Escolar de Padres",
+        "Cierre definitivo de la unidad educativa en un plazo de 24 horas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 10",
+      "explicacion": "El rechazo vulnera derechos fundamentales y genera responsabilidad administrativa directa del Director."
+    },
+    {
+      "question": "¿Qué documento debe remitirse cuando un estudiante con PATP se traslada de una Unidad Educativa a otra?",
+      "options": [
+        "El Historial y Archivo de Trayectoria Educativa Inclusiva firmado por las autoridades salientes",
+        "Una carta de recomendación de la junta vecinal del barrio",
+        "Un certificado de antecedentes policiales expedido por la FELCC",
+        "El pagaré cancellation de pensiones del colegio privado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 7",
+      "explicacion": "El traslado exige la continuidad del legajo técnico pedagógico para no interrumpir los apoyos."
+    },
+    {
+      "question": "¿Qué tipo de capacitación debe promover la Dirección Departamental de Educación (DDE) para el fortalecimiento inclusivo?",
+      "options": [
+        "Talleres permanentes en Lengua de Señas Boliviana (LSB), Braille, DPA y Dificultades de Aprendizaje para el personal docente",
+        "Cursos exclusivos de contabilidad y auditoría financiera",
+        "Seminarios de educación física de alto rendimiento deportivo",
+        "Cursos de conducción de vehículos automotores"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 8",
+      "explicacion": "Las DDEs deben coordinar procesos de formación continua en estrategias inclusivas con la UNAPOL, ESFM u organismos especializados."
+    },
+    {
+      "question": "¿Cuál es la función pedagógica del Centro de Educación Especial (CEE) en la Modalidad Indirecta?",
+      "options": [
+        "Brindar asesoramiento técnico, evaluar diagnósticos y asignar maestros de apoyo a las unidades educativas de su cobertura",
+        "Reemplazar legalmente a las unidades educativas regulares de todo el municipio",
+        "Otorgar títulos de licenciatura en medicina neuropsiquiátrica",
+        "Vender materiales didácticos adaptados a las empresas privadas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 13",
+      "explicacion": "El CEE se constituye en un centro de recursos e interconsulta pedagógica para las escuelas inclusivas."
+    },
+    {
+      "question": "Respecto a la infraestructura y mobiliario, ¿cuál es la obligación del Gobierno Autónomo Municipal según la R.M. N° 0069/2025?",
+      "options": [
+        "Garantizar rampas, pasamanos, baños adaptados y mobiliario ergonómico según la RM 0410/2016",
+        "Comprar computadoras de última generación para el uso exclusivo del Director",
+        "Pagar los salarios mensuales de los Maestros de Apoyo Técnico Pedagógico",
+        "Suministrar alimentación suplementaria de alto costo a toda la población escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 53",
+      "explicacion": "Los municipios tienen la competencia exclusiva de infraestructura, equipamiento y adaptaciones físicas en las U.E. públicas."
+    },
+    {
+      "question": "¿Cuál es el perfil profesional requerido para el Maestro de Apoyo en el área de Discapacidad Auditiva?",
+      "options": [
+        "Dominio certificado de la Lengua de Señas Boliviana (LSB) y formación en pedagogía del sordo",
+        "Título en fonoaudiología clínica expedido por universidad extranjera únicamente",
+        "Certificado de locución radial expedido por la red oficial del Estado",
+        "Curso básico de mecanografía por computadora"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 19",
+      "explicacion": "El maestro de apoyo para sordo debe manejar fluidamente la LSB para actuar como mediador lingüístico e intrérprete pedagógico."
+    },
+    {
+      "question": "En la interpretación en Lengua de Señas Boliviana (LSB) en el aula, ¿por qué está prohibido el uso de prendas vistosas o peinados sueltos en el intérprete/docente?",
+      "options": [
+        "Porque generan distractores visuales que dificultan la concentración y correcta percepción de la configuración manual y facial",
+        "Por razones exclusivamente ligadas al protocolo de gala de las autoridades educativas",
+        "Porque la norma exige el uso estricto del guardapolvo blanco sin excepciones",
+        "Para evitar el desgaste acelerado de la ropa de trabajo del maestro"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 22",
+      "explicacion": "La comunicación visogestual del estudiante sordo requiere un fondo neutro y la ausencia de accesorios o estampados que interfieran la lectura gestual."
+    },
+    {
+      "question": "¿Qué establece la R.M. N° 0069/2025 respecto al uso del 'Pidgin' o señas caseras provisionales?",
+      "options": [
+        "Se aceptan temporalmente en etapas iniciales de transición pero deben evolucionar hacia la LSB estandarizada",
+        "Están estrictamente sancionadas con la expulsión inmediata del estudiante sordo",
+        "Deben ser registradas en la Notaría de Fe Pública antes de usarse en aula",
+        "Constituyen el único idioma oficial reconocido por el Sistema Educativo Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 23",
+      "explicacion": "El Pidgin o señas informales facilitan el contacto inicial pero el objetivo pedagógico es la consolidación formal de la LSB."
+    },
+    {
+      "question": "¿Qué prohibición explícita tiene el intérprete de LSB durante la realización de exámenes o pruebas por parte del estudiante sordo?",
+      "options": [
+        "Resolver o responder la prueba en lugar del estudiante o alterar el sentido semántico de las preguntas",
+        "Estar presente dentro del aula durante el examen",
+        "Utilizar papel y lápiz para aclarar alguna duda de vocabulario",
+        "Tomar nota del tiempo empleado en la evaluación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 24",
+      "explicacion": "El intérprete debe mantener neutralidad ética y transmitir fielmente las consignas sin dar las respuestas al estudiante."
+    },
+    {
+      "question": "Para un estudiante sordo, ¿cuál es la consideración pedagógica clave al enseñar el español escrito?",
+      "options": [
+        "Tratar el castellano/español como una segunda lengua (L2) respetando la estructura gramatical primaria de la LSB (L1)",
+        "Exigir la repetición oral de las palabras mediante gritos continuos del maestro",
+        "Prohibir el uso de la LSB mientras aprende a escribir en tinta",
+        "Omitir totalmente la enseñanza de la gramática y ortografía en todo el nivel primario"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 21",
+      "explicacion": "El enfoque bilingüe para sordos reconoce a la LSB como su lengua materna (L1) y al español escrito como su segunda lengua (L2)."
+    },
+    {
+      "question": "¿Cuáles son las dos variantes del Sistema Braille que debe dominar el Maestro de Apoyo para Discapacidad Visual?",
+      "options": [
+        "Braille Grado 1 (Estepográfico) y Braille Grado 2 (Abreviado o Estenográfico)",
+        "Braille Digital y Braille Impreso en relieve de plastilina",
+        "Braille Antiguo y Braille Moderno de pantalla táctil",
+        "Braille para Niños y Braille para Adultos Mayores"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 27",
+      "explicacion": "El dominio técnico abarca tanto la transcripción letra por letra (Grado 1) como las contracciones y abreviaturas oficiales (Grado 2)."
+    },
+    {
+      "question": "¿Qué código especializado de lectoescritura debe aplicarse para la enseñanza de las matemáticas a estudiantes con ceguera?",
+      "options": [
+        "El Código Matemático Unificado (CMU) en Sistema Braille",
+        "El código Morse internacional en versión acústica",
+        "La calculadora científica parlante de uso comercial únicamente",
+        "El sistema de números romanos grabados en madera"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 28",
+      "explicacion": "El CMU permite la representación precisa de fórmulas, símbolos algebraicos, fracciones y operaciones avanzadas en Braille."
+    },
+    {
+      "question": "¿Qué instrumento tradicional tiflológico se utiliza obligatoriamente para el cálculo aritmético en estudiantes con discapacidad visual?",
+      "options": [
+        "El Ábaco Soroban adaptado",
+        "La regla T de madera pesada",
+        "El compás de punta metálica afilada",
+        "La tabla de multiplicar en papel carbónico"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 29",
+      "explicacion": "El ábaco Soroban es la herramienta táctil por excelencia para desarrollar el cálculo mental y operacional en personas ciegas."
+    },
+    {
+      "question": "En el caso de estudiantes con Baja Visión, ¿cuál es la adaptación de acceso en textos recomendada por el reglamento?",
+      "options": [
+        "Uso de Macrotipos (fuentes ampliadas), contraste de color óptimo y contraste de iluminación",
+        "Prohibición absoluta de leer textos impresos o en pantallas digitalizadas",
+        "Uso exclusivo de lupa manual sostenida por el maestro durante 4 horas",
+        "Traducción inmediata de todos los libros a Lengua de Señas Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 30",
+      "explicacion": "Los macrotipos permiten aprovechar el resto visual útil del estudiante ajustando el tamaño de letra y evitando reflejos."
+    },
+    {
+      "question": "¿Qué comprende la disciplina de Orientación y Movilidad (O&M) en la formación del estudiante con discapacidad visual?",
+      "options": [
+        "Técnicas de manejo de bastón blanco, desarrollo haptico-auditivo y desplazamiento autónomo seguro",
+        "Uso de mapas turísticos impresos a todo color",
+        "Competencias de natación en piscina olímpica",
+        "Cursos de conducción de bicicletas adaptadas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 31",
+      "explicacion": "La O&M capacita al estudiante para orientarse espacialmente y desplazarse con independencia dentro de la UE y la comunidad."
+    },
+    {
+      "question": "Según el Artículo 32 de la R.M. N° 0069/2025, ¿cuál es el margen de flexibilidad de edad en matriculación para estudiantes con Discapacidad Intelectual?",
+      "options": [
+        "Hasta 24 meses (2 años) de diferencia cronológica respecto a la edad de sus pares de aula",
+        "Sin límite de edad; pueden inscribirse personas de 30 años en nivel inicial",
+        "Exactamente la misma edad sin un solo día de tolerancia",
+        "Hasta 10 años de diferencia cronológica en todos los ciclos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 32",
+      "explicacion": "La tolerancia de hasta 24 meses en Inicial y Primaria responde a los ritmos de maduración cognitiva de esta población."
+    },
+    {
+      "question": "¿Cómo se aborda la inclusión escolar de estudiantes con Trastorno del Espectro Autista (TEA) sin compromiso intelectual grave?",
+      "options": [
+        "Inclusión directa en aula regular con apoyos en anticipación, estructuración del entorno, agendas visuales y regulación sensorial",
+        "Segregación obligatoria en aulas de aislamiento acústico total",
+        "Suministro de medicamentos sedantes obligatorios impartidos por la regente",
+        "Exención permanente de asistir a la escuela"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 36",
+      "explicacion": "Los estudiantes con TEA requieren previsibilidad, agendas pictográficas e integración progresiva en el grupo escolar."
+    },
+    {
+      "question": "¿Qué es la 'Anticipación' como estrategia pedagógica en el trabajo con estudiantes con TEA?",
+      "options": [
+        "Informar previamente mediante apoyos visuales las actividades, cambios de rutina o eventos que ocurrirán en la jornada",
+        "Tomar los exámenes una semana antes que el resto de los compañeros",
+        "Adivinar el comportamiento que tendrá el estudiante al día siguiente",
+        "Llegar al colegio dos horas antes de la apertura de puertas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 37",
+      "explicacion": "La anticipación reduce la ansiedad producida por lo imprevisto y favorece la autorregulación emocional del estudiante con autismo."
+    },
+    {
+      "question": "¿En qué consisten los Rincóne de Regulación Sensorial dentro de la Unidad Educativa Inclusiva?",
+      "options": [
+        "Espacios tranquilos adaptados para permitir la calma y autorregulación del estudiante ante sobrecargas sensoriales",
+        "Aulas de castigo donde se encierra a los estudiantes hiperactivos",
+        "Laboratorios de química de alta peligrosidad",
+        "Oficinas exclusivas para las reuniones de los padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 38",
+      "explicacion": "Permiten que el estudiante con sobreestimulación táctil o auditiva se reestabilice emocionalmente para volver al aula."
+    },
+    {
+      "question": "¿Cómo se clasifican las Dificultades en el Aprendizaje en el marco de la R.M. N° 0069/2025?",
+      "options": [
+        "Dificultades Generales en el Aprendizaje y Dificultades Específicas en el Aprendizaje (Dislexia, Discalculia, Disgrafía, Disortografía)",
+        "Dificultades Hereditarias y Dificultades Contagiosas",
+        "Dificultades de Conducta Violenta y Dificultades de Pasividad",
+        "Dificultades Urbanas y Dificultades Rurales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 40",
+      "explicacion": "Las DGA afectan el rendimiento de manera global por factores diversos; las DEA son interferencias neurobiológicas focalizadas en áreas clave."
+    },
+    {
+      "question": "¿Cuál es la orientación pedagógica en los primeros grados de Primaria (1ro a 3ro) para estudiantes con Dificultades de Aprendizaje?",
+      "options": [
+        "Carácter eminentemente Preventivo, de detección temprana y estimulación de funciones básicas",
+        "Expulsión preventiva hacia centros de rehabilitación externa",
+        "Reprobación automática del año lectivo para fijar contenidos",
+        "Evaluación con contenidos universitarios avanzados"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 41",
+      "explicacion": "Los tres primeros años se prioriza la prevención, maduración neurocognitiva y consolidación de la lectura/escritura."
+    },
+    {
+      "question": "¿Cuál es la estrategia para los cursos de 4to a 6to de Primaria en Dificultades Específicas de Aprendizaje?",
+      "options": [
+        "Carácter Reeducativo y de Intervención Específica mediante adaptaciones no significativas y apoyos especializados",
+        "Derivación obligatoria al trabajo técnico nocturno",
+        "Prohibición de usar calculadora o esquemas visuales de apoyo",
+        "Aislamiento durante la hora de matemáticas y lenguaje"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 42",
+      "explicacion": "En el segundo ciclo de primaria se aplican estrategias compensatorias, reeducativas y herramientas de soporte tecnológico."
+    },
+    {
+      "question": "¿Qué instrumento aplica el Maestro de Aula para la detección inicial de Dificultades de Aprendizaje?",
+      "options": [
+        "La Guía de Observación pedagógica estandarizada proporcionada por el SEP",
+        "Un examen de resonancia magnética cerebral",
+        "Un test de personalidad proyectivo comercial",
+        "Una encuesta de ingresos económicos familiares"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 43",
+      "explicacion": "La guía de observación sistematiza los indicadores cualitativos del desempeño del estudiante en el aula."
+    },
+    {
+      "question": "¿Qué es el 'Talento Extraordinario' según la definición de la R.M. N° 0069/2025?",
+      "options": [
+        "Estudiantes que muestran un potencial o desempeño superior excepcionalmente alto en áreas científicas, tecnológicas, humanísticas o artísticas",
+        "Estudiantes que obtienen una beca deportiva de fútbol profesional",
+        "Niños que aprendieron a andar en bicicleta a los 3 años de edad",
+        "Estudiantes con capacidad de memorizar el diccionario de forma mecánica"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 46",
+      "explicacion": "El talento extraordinario (General o Específico) requiere un abordaje pedagógico de enriquecimiento o aceleración."
+    },
+    {
+      "question": "¿Cuáles son las dos modalidades de atención educativa para estudiantes con Talento Extraordinario?",
+      "options": [
+        "Enriquecimiento Curricular (horizontal/vertical) y Acompañamiento en Aceleración de Escolaridad",
+        "Clases particulares pagadas por la alcaldía e internado en el extranjero",
+        "Aislamiento pedagógico e ingreso directo a las Fuerzas Armadas",
+        "Exención de asistir a clases y entrega de título de bachiller anticipado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 48",
+      "explicacion": "Se puede profundizar el currículo dentro del mismo curso (enriquecimiento) o promover al estudiante al grado superior (aceleración)."
+    },
+    {
+      "question": "En la tabla del Artículo 55, ¿cuál es la relación mínima de estudiantes para la asignación de un ítem de Maestro de Apoyo en Dificultades Específicas de Aprendizaje?",
+      "options": [
+        "Más de 20 estudiantes atendidos en la modalidad indirecta dentro del distrito/red",
+        "Exactamente 1 estudiante por cada profesor de secundaria",
+        "Un mínimo de 500 estudiantes matriculados en el mismo aula",
+        "No se exige un número mínimo de estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 55, Tabla",
+      "explicacion": "La tabla técnica fija que para justificar el ítem en Dificultades Específicas se requiere una cobertura superior a 20 estudiantes."
+    },
+    {
+      "question": "¿Cuál es la carga horaria promedio asignada para la atención de cada caso en Discapacidad Intelectual por parte del Maestro de Apoyo?",
+      "options": [
+        "4 horas de apoyo técnico individualizado/grupal al mes por caso",
+        "80 horas semanales por estudiante",
+        "15 minutos al año previo examen final",
+        "24 horas diarias sin descanso dominical"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 55, Tabla",
+      "explicacion": "La norma establece 4 horas mensuales de soporte directo para optimizar el PATP en discapacidad intelectual."
+    },
+    {
+      "question": "En Discapacidad Auditiva, ¿cuál es el mínimo de estudiantes requeridos por ítem de Maestro de Apoyo/Intérprete LSB según la tabla del Art. 55?",
+      "options": [
+        "Más de 4 estudiantes sordos en la red o unidad educativa",
+        "Un mínimo de 100 estudiantes sordos por aula",
+        "Un solo estudiante en todo el departamento de Bolivia",
+        "Atención exclusiva a 50 adultos mayores"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 55, Tabla",
+      "explicacion": "Debido a la alta especialización requerida en LSB, la tabla fija un parámetro de atención a partir de más de 4 estudiantes."
+    },
+    {
+      "question": "¿Qué establece la Disposición Final Segunda de la R.M. N° 0069/2025 sobre el Escalafón Nacional del Magisterio?",
+      "options": [
+        "Aclara expresamente que la aplicación del presente reglamento NO altera ni modifica los derechos adquiridos en el Reglamento del Escalafón",
+        "Elimina el Escalafón del Magisterio para los docentes de Educación Especial",
+        "Obliga a todos los maestros a cambiar de categoría sin examen",
+        "Reduce los años de servicio requeridos para la jubilación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Disposición Final Segunda",
+      "explicacion": "Se ratifica la inamovilidad y respeto pleno al marco normativo del Escalafón Nacional del Magisterio."
+    },
+    {
+      "question": "¿Qué sanción corresponde si una Unidad Educativa Privada realiza cobros adicionales bajo el pretexto de 'cuota de inclusión'?",
+      "options": [
+        "Sanción administrativa pecuniaria equivalente a multas e inspección por la Distrital de Educación por cobro ilegal e ilícito",
+        "Felicitar a la institución por su iniciativa privada de cobro",
+        "Clausura inmediata de todas las escuelas públicas del municipio",
+        "Transferencia de los cobros a la junta de vecinos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 18",
+      "explicacion": "La educación inclusiva es un derecho no sujeto a sobreprecio ni pensiones diferenciadas en el sistema privado."
+    },
+    {
+      "question": "Dentro del marco del DPA, ¿cuál es un ejemplo de ajuste en la 'Forma de Expresión' para una evaluación?",
+      "options": [
+        "Permitir que un estudiante rinda la evaluación de forma oral, mediante pictogramas o dictado en lugar de la prueba escrita convencional",
+        "Obligar al estudiante a responder únicamente en idioma latín clásico",
+        "Anular la prueba y colocar 100 puntos directamente sin verificar conocimientos",
+        "Exigir que escriba la respuesta con la mano no dominante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3 y 12",
+      "explicacion": "Diversificar los medios de expresión permite evaluar lo que el estudiante sabe sin que la barrera de escritura en tinta invalide la nota."
+    },
+    {
+      "question": "¿Qué validez legal tienen las adaptaciones curriculares registradas en el PATP al momento de la emisión de la Libreta Escolar?",
+      "options": [
+        "Plena validez oficial en el Sistema de Información Educativa (SIE) para la promoción de grado",
+        "Carecen de valor; el estudiante debe figurar como reprobado en el sistema",
+        "Solo sirven para la libreta interna del colegio sin registro ministerial",
+        "Requieren la firma de un Juez de Partido en lo Civil"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 17",
+      "explicacion": "El SIE reconoce las promociones avaladas por el PATP y la Comisión Técnica Pedagógica de la UE."
+    },
+    {
+      "question": "¿Cómo se promueve la erradicación del acoso escolar o violencia hacia estudiantes con discapacidad según el reglamento?",
+      "options": [
+        "Mediante campañas permanentes de sensibilización, aplicación de los protocolos de convivencia y aplicación estricta de la Ley 045",
+        "Ocultando al estudiante durante los recreos para que no lo vean sus compañeros",
+        "Expulsando al estudiante victimizado para evitar conflictos",
+        "Prohibiendo el ingreso de padres de familia al establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 5",
+      "explicacion": "La prevención y erradicación de la discriminación se enmarca en la cultura de paz y la Ley Contra el Racismo y Toda Forma de Discriminación."
+    },
+    {
+      "question": "¿Qué rol cumple la 'Familia' cuando se detecta un posible caso de Dificultad Específica de Aprendizaje en su hijo?",
+      "options": [
+        "Autorizar la evaluación psicopedagógica, colaborar con la asistencia a las sesiones de reeducación y mantener comunicación con el docente",
+        "Negar la existencia de cualquier dificultad y amenazar con demandas judiciales al colegio",
+        "Retirar al niño de la escuela y enviarlo a trabajar",
+        "Cambiar de residencia de ciudad cada dos meses"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 16",
+      "explicacion": "La alianza familia-escuela es imprescindible para lograr avances terapéuticos y pedagógicos sostenibles."
+    },
+    {
+      "question": "¿Cuál es la vigencia de la R.M. N° 0069/2025 en todo el territorio del Estado Plurinacional de Bolivia?",
+      "options": [
+        "Entró en vigencia inmediata a partir de su firma y publicación oficial el 7 de febrero de 2025 con carácter obligatorio",
+        "Entrará en vigencia recién en el año 2035 de forma optativa",
+        "Solo se aplica en el departamento de La Paz",
+        "Es una norma temporal que venció a los dos días de su publicación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Disposición Final Primera",
+      "explicacion": "La Resolución Ministerial rige de forma obligatoria para la gestión 2025 y gestiones subsecuentes en todo el SEP."
+    },
+    {
+      "question": "¿Qué implica el principio de 'Interculturalidad' en la educación inclusiva?",
+      "options": [
+        "Respetar y valorar las cosmovisiones, lenguas originarias y saberes de las naciones indígenas en la atención a personas con discapacidad",
+        "Obligar a todos a hablar únicamente un idioma extranjero",
+        "Prohibir el uso de vestimenta tradicional en los centros especiales",
+        "Eliminar los conocimientos ancestrales del currículo escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 2",
+      "explicacion": "Valoración de la diversidad cultural de los estudiantes con discapacidad."
+    },
+    {
+      "question": "¿A qué se refiere la 'Evaluación Psicopedagógica' en el contexto inclusivo?",
+      "options": [
+        "Proceso integral de valoración de capacidades, ritmos de aprendizaje y barreras del entorno para diseñar apoyos",
+        "Un examen de memoria con nota de 0 a 100",
+        "Un interrogatorio policial al estudiante",
+        "Una prueba de esfuerzo físico de 5 kilómetros"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 3",
+      "explicacion": "Identifica las necesidades específicas y el tipo de apoyos requeridos."
+    },
+    {
+      "question": "¿Cuál es la postura del reglamento frente a la segregación escolar?",
+      "options": [
+        "Rechaza la segregación y promueve la inclusión progresiva en entornos educativos comunitarios y regulares",
+        "Promueve la construcción de escuelas separadas para cada tipo de diagnóstico",
+        "Prohíbe la educación pública a personas con discapacidad",
+        "Exige el internado médico obligatorio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 5",
+      "explicacion": "Busca la plena integración social y educativa."
+    },
+    {
+      "question": "¿Qué autoridad debe garantizar que las Unidades Educativas cuenten con maestros capacitados en inclusión?",
+      "options": [
+        "La Dirección Departamental de Educación en coordinación con el Ministerio",
+        "El comité de festejos del barrio",
+        "La policía de tránsito",
+        "La junta de vecinos del distrito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 8",
+      "explicacion": "Las DDEs gestionan el desarrollo profesional docente."
+    },
+    {
+      "question": "¿Qué debe hacer el Director ante la solicitud de inscripción de un estudiante con discapacidad físico-motora?",
+      "options": [
+        "Inscribirlo inmediatamente y disponer que su aula asignada esté ubicada en planta baja",
+        "Exigir que suba tres pisos por las escaleras todos los días",
+        "Rechazar la inscripción por falta de ascensor",
+        "Obligar a los padres a construir un ascensor privado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 11",
+      "explicacion": "Garantizar la accesibilidad física inmediata."
+    },
+    {
+      "question": "¿Qué ajuste razonable se recomienda para un estudiante con discapacidad motora en los miembros superiores?",
+      "options": [
+        "Permitir el uso de dispositivos adaptados, dictado por voz o pruebas orales",
+        "Exigir que escriba con un bolígrafo pesado en el mismo tiempo que sus pares",
+        "Eximirlo de aprender a leer y escribir",
+        "Sancionarlo con nota cero por no presentar tareas a mano"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 12",
+      "explicacion": "Ajuste de acceso mediante tecnología o medios alternativos."
+    },
+    {
+      "question": "¿Qué información contiene la ficha de seguimiento del Maestro de Apoyo?",
+      "options": [
+        "Avances del PATP, adaptaciones aplicadas, nivel de logro de objetivos y recomendaciones pedagógicas",
+        "La lista de compras personales del docente",
+        "El registro de ausencias del portero del colegio",
+        "Las opiniones políticas de la comunidad"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 14",
+      "explicacion": "Documenta el desarrollo y progreso del estudiante."
+    },
+    {
+      "question": "¿Qué se requiere para que una persona sorda sea contratada como Maestro de Apoyo en LSB?",
+      "options": [
+        "Certificación oficial de competencia en LSB y título pedagógico o de formación especializada",
+        "Ser pariente de una autoridad ministerial",
+        "Saber hablar en voz alta sin usar señas",
+        "Tener un título de ingeniero comercial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 19",
+      "explicacion": "Garantiza la calidad comunicativa y pedagógica en LSB."
+    },
+    {
+      "question": "¿Cómo debe realizarse la evaluación diagnóstica de un estudiante sordo que ingresa por primera vez al SEP?",
+      "options": [
+        "En su lengua natural (LSB) evaluación de su nivel de competencia lingüística y comunicativa",
+        "Mediante un examen dictado en voz baja por el profesor de música",
+        "A través de una prueba telefónica sin imagen",
+        "Con una prueba de lectura veloz en voz alta en castellano"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 25",
+      "explicacion": "La evaluación debe responder a su modalidad comunicativa visual."
+    },
+    {
+      "question": "¿Por qué es fundamental la enseñanza del sistema Braille desde la Educación Inicial en niños con ceguera?",
+      "options": [
+        "Porque constituye la base estructural de su lectoescritura, desarrollo cognitivo y autonomía analítica",
+        "Porque reemplaza la necesidad de aprender a hablar",
+        "Porque es un requisito para ingresar a la universidad a los 8 años",
+        "Porque es una actividad puramente recreativa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 28",
+      "explicacion": "El Braille es la herramienta directa de alfabetización e inclusión."
+    },
+    {
+      "question": "¿Qué adaptaciones son necesarias en la evaluación de estudiantes con discapacidad intelectual?",
+      "options": [
+        "Adecuación de tiempos, simplificación de consignas, uso de apoyos concretos y evaluación por procesos",
+        "Eliminar todas las evaluaciones y otorgar la nota máxima sin revisar",
+        "Tomar el mismo examen escrito de 50 preguntas teóricas sin ayuda",
+        "Exigir respuestas en idioma inglés técnico"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 33",
+      "explicacion": "Permite valorar los aprendizajes de acuerdo a su ritmo cognitivo."
+    },
+    {
+      "question": "¿Qué rol asume la Comisión Técnica Pedagógica en la validación del PATP para estudiantes con discapacidad intelectual?",
+      "options": [
+        "Revisar y avalar las adaptaciones curriculares significativas propuestas por el equipo docente",
+        "Rechazar todos los planes que incluyan gráficos",
+        "Imponer el currículo de educación superior",
+        "Sancionar a los docentes que apliquen adaptaciones"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 39",
+      "explicacion": "Valida formalmente la pertinencia del PATP."
+    },
+    {
+      "question": "¿Qué paso sigue si un estudiante presenta Dificultades Específicas de Aprendizaje persistentes tras la intervención en aula?",
+      "options": [
+        "Derivación a la modalidad indirecta del Centro de Educación Especial para apoyo especializado complementario",
+        "Expulsión del sistema educativo plurinacional",
+        "Repetición del mismo curso durante tres años consecutivos",
+        "Derivación a la educación universitaria nocturna"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 44",
+      "explicacion": "Se activa el acompañamiento especializado del CEE."
+    },
+    {
+      "question": "¿Cómo se identifica a un estudiante con Talento Extraordinario Específico?",
+      "options": [
+        "Demuestra una habilidad superior excepcional en un área determinada (ej. matemáticas o música) respecto a su grupo etario",
+        "Saca 51 puntos en todas las materias sin estudiar",
+        "Llega temprano al colegio todos los días del año",
+        "Utiliza uniformes de colores llamativos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 47",
+      "explicacion": "Se destaca ampliamente en un campo disciplinar específico."
+    },
+    {
+      "question": "¿Quién aprueba la Aceleración de Escolaridad para un estudiante con Talento Extraordinario?",
+      "options": [
+        "La Dirección Distrital de Educación previa valoración psicopedagógica e informe de la CTP y DDE",
+        "El presidente de la junta escolar del barrio",
+        "El propio estudiante mediante una carta simple",
+        "La empresa editorial que vende los libros"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 50",
+      "explicacion": "Requiere un proceso administrativo y técnico riguroso."
+    },
+    {
+      "question": "¿Qué disposición existe sobre la iluminación en las aulas para estudiantes con baja visión?",
+      "options": [
+        "Garantizar iluminación natural y artificial adecuada evitando encandilamientos o zonas de penumbra",
+        "Mantener las luces apagadas durante toda la jornada escolar",
+        "Usar focos de luz estroboscópica de colores",
+        "Prohibir la entrada de luz solar por las ventanas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 52",
+      "explicacion": "La iluminación correcta es clave para el aprovechamiento visual."
+    },
+    {
+      "question": "¿Cómo debe ser la ubicación en el aula de un estudiante con discapacidad auditiva?",
+      "options": [
+        "En las primeras filas, con visión directa al rostro del maestro y del intérprete de LSB",
+        "Al fondo del aula detrás de un estante alto de libros",
+        "De espaldas a la pizarra y mirando hacia la pared lateral",
+        "Fuera del aula en el pasillo perimetral"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 54",
+      "explicacion": "Asegura la visibilidad del canal comunicativo gestual/facial."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 68 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 69 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 70 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 71 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 72 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 73 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 74 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 75 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 76 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 77 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 78 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 79 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 80 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 81 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 82 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 83 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 84 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 85 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 86 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 87 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 88 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 89 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 90 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 91 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 92 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 93 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 94 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 95 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 96 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 97 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 98 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 99 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "¿Cuál es el principio pedagógico N° 100 que respalda la inclusión efectiva en la R.M. N° 0069/2025?",
+      "options": [
+        "La diversidad como riqueza y oportunidad de aprendizaje para toda la comunidad educativa",
+        "La homogenización obligatoria de los estudiantes",
+        "La clasificación de estudiantes por nivel socioeconómico",
+        "La eliminación de los materiales didácticos concretos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 63",
+      "explicacion": "La R.M. N° 0069/2025 concibe la diversidad como un valor pedagógico que enriquece el proceso de enseñanza y aprendizaje en el aula inclusiva."
+    },
+    {
+      "question": "En la atención a estudiantes con Discapacidad Auditiva, el intérprete de LSB debe evitar (Art. 22):",
+      "options": [
+        "La traducción literal, el español señado, la infra o sobreproducción e incoherencia",
+        "Hablar con las manos limpias",
+        "Uso de señas estandarizadas",
+        "Coordinar con los maestros"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0069/2025, Artículo 22",
+      "explicacion": "Evita la realización de una 'traducción literal' o español señado, la incoherencia en el mensaje, infra y/o sobreproducción."
+    }
+  ]
+}

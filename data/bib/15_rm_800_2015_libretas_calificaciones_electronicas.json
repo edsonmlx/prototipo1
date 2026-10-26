@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "15_rm_800_2015_libretas_calificaciones_electronicas",
+    "nombre": "R.M. N° 800/2015 Reglamento de Procedimientos para la Emisión de Libretas de Calificaciones Electrónicas y Certificados de Calificaciones Electrónicas",
+    "detalle": "Resolución Ministerial de 23 de octubre de 2015",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 0,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿En qué fecha fue emitida la Resolución Ministerial N° 800/2015 que aprueba el Reglamento de Libretas y Certificados Electrónicos?",
+      "options": [
+        "23 de octubre de 2015",
+        "10 de enero de 2015",
+        "02 de febrero de 2016",
+        "15 de diciembre de 2014"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Encabezado y Preamble",
+      "explicacion": "La R.M. N° 800/2015 fue emitida en La Paz el 23 de octubre de 2015 por el Ministerio de Educación."
+    },
+    {
+      "question": "¿Cuántos capítulos y artículos comprende el Reglamento aprobado por el Artículo 1 de la R.M. N° 800/2015?",
+      "options": [
+        "6 capítulos y 34 artículos",
+        "4 capítulos y 25 artículos",
+        "8 capítulos y 50 artículos",
+        "5 capítulos y 30 artículos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 1 (Aprobación)",
+      "explicacion": "El Artículo 1 aprueba el Reglamento compuesto por seis (6) Capítulos y treinta y cuatro (34) Artículos."
+    },
+    {
+      "question": "Según el Artículo 2 de la R.M. N° 800/2015, ¿conforme a qué normativa se sancionará el incumplimiento al reglamento por parte del magisterio y personal administrativo?",
+      "options": [
+        "Reglamento de Faltas y Sanciones (R.S. 212414), Reglamento de la Carrera Administrativa (R.M. 062/00) y D.S. 23318-A de Responsabilidad por la Función Pública",
+        "Únicamente con llamadas de atención verbales sin registro en archivo",
+        "Código de Comercio y Código Civil",
+        "Ley General del Trabajo únicamente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 2 (Incumplimiento)",
+      "explicacion": "El incumplimiento constituye falta sancionada según la R.S. 212414, la R.M. 062/00 y el D.S. 23318-A de Responsabilidad por la Función Pública."
+    },
+    {
+      "question": "¿Qué ámbito del Subsistema de Educación Alternativa y Especial es regulado de forma específica por la R.M. N° 800/2015?",
+      "options": [
+        "Ámbito de Educación Alternativa",
+        "Ámbito de Educación Especial exclusivamente",
+        "Educación Superior de Formación Profesional",
+        "Subsistema de Educación Regular de nivel Inicial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Título y Artículo 1",
+      "explicacion": "La norma regula de manera específica las Libretas y Certificados Electrónicos para el ámbito de Educación Alternativa."
+    },
+    {
+      "question": "¿Qué instancias son responsables directas del cumplimiento de la R.M. N° 800/2015 según su Artículo 3?",
+      "options": [
+        "VEAE, Dirección General de Educación de Adultos, DDEs, Direcciones Distritales y Centros de Educación Alternativa (CEAs)",
+        "Únicamente los Gobiernos Autónomos Municipales",
+        "Exclusivamente las juntas vecinales y padres de familia",
+        "Solo las universidades privadas del país"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 3 (Cumplimiento)",
+      "explicacion": "El cumplimiento corresponde al Viceministerio de Educación Alternativa y Especial, DGEA, DDEs, Direcciones Distritales y CEAs."
+    },
+    {
+      "question": "Según el Considerando legal de la R.M. 800/2015, ¿qué ley establece las bases de la educación en Bolivia?",
+      "options": [
+        "Ley N° 070 de la Educación 'Avelino Siñani - Elizardo Pérez'",
+        "Ley N° 1565 de Reforma Educativa",
+        "Ley N° 2027 del Estatuto del Funcionario Público",
+        "Ley N° 1178 de Administración y Control Gubernamentales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Vistos y Considerandos",
+      "explicacion": "Los considerandos se fundamentan en el Artículo 77 de la CPE y el Artículo 8 de la Ley N° 070."
+    },
+    {
+      "question": "En los considerandos técnicos, ¿qué herramientas tecnológicas se mencionan para los reportes e impresiones de los sistemas reestructurados?",
+      "options": [
+        "FastReport VCL 5, BIRT y DevExpress VCL",
+        "Microsoft Word y Excel 2003",
+        "Adobe Photoshop e Ilustrator",
+        "PowerPoint y Publisher"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Informe Técnico IN/DGP/US/EIE N° 0069/2015",
+      "explicacion": "El informe técnico indica la migración a herramientas robustas de reporte como FastReport VCL 5, BIRT y DevExpress VCL."
+    },
+    {
+      "question": "¿Qué algoritmos y protocolos de seguridad se incorporaron para proteger los datos de las Libretas y Certificados Electrónicos?",
+      "options": [
+        "Códigos QR y algoritmos RSA key (con llaves públicas y privadas)",
+        "Contraseñas simples escritas en lápiz",
+        "Código de barras lineal EAN-13 sin encriptación",
+        "Sellos de agua manuales de goma"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Informe Técnico IN/DGP/US/EIE N° 0069/2015",
+      "explicacion": "El sistema incorpora encriptación de datos, código QR y algoritmos RSA key con llaves públicas y privadas."
+    },
+    {
+      "question": "Según el considerando de la norma, ¿qué documento constituye el instrumento oficial de comunicación y acreditación en el área técnica de Educación Alternativa?",
+      "options": [
+        "Certificado de Calificaciones Electrónico",
+        "Libreta de Calificaciones Humanística",
+        "Diploma de Bachiller Humanístico",
+        "Kardex de Asistencia Docente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Considerandos e Informe Técnico",
+      "explicacion": "Se establece que las Libretas de Calificaciones aplican para el área humanística y los Certificados de Calificaciones para el área técnica."
+    },
+    {
+      "question": "¿Qué autoridad suscribió la Resolución Ministerial N° 800/2015 en calidad de Ministro de Educación?",
+      "options": [
+        "Lic. Roberto Iván Aguilar Gómez",
+        "Prof. Noel Aguirre Ledezma",
+        "Lic. Omar Véliz Ramos",
+        "Dr. Roberto Aguilar Peñaranda"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Firma de Resolución",
+      "explicacion": "La R.M. N° 800/2015 fue firmada por el Lic. Roberto Iván Aguilar Gómez, Ministro de Educación de Bolivia."
+    },
+    {
+      "question": "¿Cuál es el objeto principal del Reglamento aprobado según su Artículo 1?",
+      "options": [
+        "Regular el procedimiento para la emisión de Libretas de Calificaciones Electrónicas (área Humanística) y Certificados de Calificaciones Electrónicos (área Técnica) en el SIE",
+        "Establecer la escala de sueldos para profesores de centros nocturnos",
+        "Sancionar a los estudiantes que no asistan a clases de educación alternativa",
+        "Reglamentar el uso de uniformes escolares en colegios privados"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 1 (Objeto)",
+      "explicacion": "El Art. 1 define como objeto regular el procedimiento de emisión de libretas humanísticas y certificados técnicos electrónicos en el SIE."
+    },
+    {
+      "question": "¿Cuál es el ámbito de aplicación del Reglamento de Emisión de Libretas y Certificados Electrónicos según el Artículo 2?",
+      "options": [
+        "En todos los Centros de Educación Alternativa fiscales, de convenio y privados del ámbito de Educación Alternativa",
+        "Únicamente en los centros de educación alternativa fiscales de la zona rural",
+        "En colegios de educación regular primaria y secundaria",
+        "Exclusivamente en los institutos técnicos universitarios privados"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 2 (Ámbito de Aplicación)",
+      "explicacion": "El reglamento es de aplicación obligatoria en todos los CEAs fiscales, de convenio y privados."
+    },
+    {
+      "question": "Según el Artículo 4 del Reglamento, ¿cuándo se establece la obligatoriedad plena de ejecución de este reglamento en todo el ámbito de Educación Alternativa?",
+      "options": [
+        "A partir de la gestión 2016 de forma obligatoria (con aplicación paulatina en 2015)",
+        "A partir de la gestión 2020",
+        "De forma inmediata y retroactiva a la gestión 2010",
+        "A partir del año 2025"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 4 (Vigencia)",
+      "explicacion": "Entró en vigencia paulatina en 2015 y de ejecución obligatoria a partir de la gestión 2016."
+    },
+    {
+      "question": "¿Cuáles son los principios que rigen la emisión de Libretas y Certificados de Calificaciones Electrónicas según el Artículo 5?",
+      "options": [
+        "Accesibilidad, disponibilidad, autenticidad, confidencialidad, transparencia, equidad, confiabilidad y consistencia técnica",
+        "Lucro, exclusividad, reserva, opacidad y burocracia",
+        "Autonomía universitaria, gratuidad condicionada y celeridad restringida",
+        "Inviolabilidad, secreto institucional y costo fijo"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 5 (Principios)",
+      "explicacion": "El Art. 5 enumera los 8 principios rectores de la emisión de documentos electrónicos en el SIE."
+    },
+    {
+      "question": "Según el Artículo 6 Parágrafo I, ¿cómo se definen la Libreta de Calificaciones (Humanística) y el Certificado de Calificaciones (Técnica)?",
+      "options": [
+        "Como instrumentos individuales de acreditación promocional y comunicación oficial de resultados cualitativos y cuantitativos",
+        "Como comprobantes de pago de mensualidades",
+        "Como carnets de identidad estudiantiles provisorios",
+        "Como títulos en provisión nacional otorgados por la gobernación"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 6, Parágrafo I",
+      "explicacion": "Son instrumentos individuales de acreditación promocional y comunicación oficial de los resultados del proceso educativo."
+    },
+    {
+      "question": "Según el Artículo 6 Parágrafo II, ¿qué es el 'Historial Académico'?",
+      "options": [
+        "El instrumento en el que se registran las calificaciones acumuladas obtenidas de manera individual y diferenciada por nivel, etapa o especialidad",
+        "La lista de sanciones disciplinarias del estudiante",
+        "El registro de nacimientos y matrimonios del participante",
+        "El certificado médico emitido por la CNS"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 6, Parágrafo II",
+      "explicacion": "El Historial Académico consolida las calificaciones acumuladas individualmente por nivel, etapa o especialidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6 Parágrafo IV, ¿qué documento se constituye en el documento oficial semestral del registro de calificaciones por áreas de saberes?",
+      "options": [
+        "El Centralizador de Calificaciones",
+        "El RUDEAL de inscripción",
+        "El Formulario de Solicitud de Beca",
+        "El Libro de Firma de Profesores"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 6, Parágrafo IV",
+      "explicacion": "El Centralizador de Calificaciones es el documento oficial semestral de registro de calificaciones."
+    },
+    {
+      "question": "¿Qué establece el Artículo 7 Parágrafo I respecto al costo del registro de datos en el SIE y la entrega de Libretas y Certificados Electrónicos?",
+      "options": [
+        "Son de carácter estrictamente GRATUITO",
+        "Tienen un costo fijado por el Director del CEA",
+        "Cuestan 50 bolivianos por cada semestre",
+        "Requieren el pago de un valorado universitario"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 7, Parágrafo I (Gratuidad)",
+      "explicacion": "El registro en el SIE y la entrega de libretas y certificados electrónicos a los participantes son totalmente gratuitos."
+    },
+    {
+      "question": "Según el Artículo 7 Parágrafo II, ¿cuál es el costo de la impresión y firma de libretas/certificados e historial académico en el CEA y en legalizaciones de la DDE?",
+      "options": [
+        "Es de carácter gratuito",
+        "Tiene un costo estandarizado de 20 Bs.",
+        "Depende del número de materias aprobadas",
+        "Se cobra solo si el estudiante es de centro privado"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 7, Parágrafo II",
+      "explicacion": "Tanto la impresión como la firma en el CEA y en legalizaciones de la DDE son de carácter gratuito."
+    },
+    {
+      "question": "Según el Artículo 7 Parágrafo III, ¿qué costo tiene el trámite de modificación y/o inclusión del registro de calificaciones en la base de datos del SIE?",
+      "options": [
+        "Es de carácter gratuito",
+        "Cuesta 100 Bs por cada nota corregida",
+        "Requiere un depósito bancario a la cuenta del Ministerio",
+        "Se cobra únicamente en caso de error del docente"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 7, Parágrafo III",
+      "explicacion": "La modificación e inclusión de calificaciones en el SIE son estrictamente gratuitas."
+    },
+    {
+      "question": "¿Quiénes son los responsables directos de la aplicación, cumplimiento y difusión del Reglamento según el Artículo 3?",
+      "options": [
+        "Ministerio de Educación (VEAE, Direcciones Generales), DDEs, Direcciones Distritales y Direcciones de CEAs",
+        "Únicamente el Director del Centro de Educación Alternativa",
+        "Exclusivamente las secretarias de las Direcciones Distritales",
+        "Los comités de estudiantes de cada curso"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 3",
+      "explicacion": "Abarca toda la cadena institucional desde el Ministerio hasta la Dirección del Centro de Educación Alternativa."
+    },
+    {
+      "question": "Según el Artículo 6 Parágrafo III, ¿qué son las Libretas, Certificados e Historiales Académicos Electrónicos?",
+      "options": [
+        "Son los reportes generados por el Sistema de Información Educativa (SIE) del ámbito de Educación Alternativa",
+        "Son escaneos de libretas antiguas hechas en papel periódico",
+        "Son archivos adjuntos de correo personal enviados por el docente",
+        "Son fotocopias legalizadas por un notario de fe pública"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 6, Parágrafo III",
+      "explicacion": "Se define a estos documentos como los reportes oficiales generados por la plataforma del SIE."
+    },
+    {
+      "question": "¿En qué consiste el principio de 'Confidencialidad' enunciado en el Artículo 5 del Reglamento?",
+      "options": [
+        "En el resguardo estricto y protección de los datos personales y calificaciones de los participantes evitando el acceso a terceros no autorizados",
+        "En ocultar las calificaciones al propio estudiante",
+        "En no publicar el horario de clases en la puerta del centro",
+        "En mantener en secreto el nombre de los profesores del CEA"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 5",
+      "explicacion": "La confidencialidad garantiza la protección de la información del estudiante restringiendo el acceso no autorizado."
+    },
+    {
+      "question": "¿A qué se refiere el principio de 'Autenticidad' según el Artículo 5?",
+      "options": [
+        "A la garantía de que los documentos y notas emitidos corresponden fielmente a los registros oficiales del SIE mediante mecanismos de seguridad como el QR",
+        "A que las notas deben ser escritas a mano con pluma estilográfica",
+        "A la obligación de usar sellos de lacre rojo",
+        "A que el estudiante presente su certificado de nacimiento original cada mes"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 5",
+      "explicacion": "La autenticidad asegura que los reportes impresos reflejan fidedignamente los datos almacenados en el SIE."
+    },
+    {
+      "question": "¿Qué implica el principio de 'Disponibilidad' en el marco del Artículo 5?",
+      "options": [
+        "Que la plataforma del SIE esté accesible de manera continua e inmediata para que usuarios autorizados consulten o emitan los reportes",
+        "Que las libretas solo se puedan imprimir una vez al año en diciembre",
+        "Que el Director atienda al público las 24 horas del día",
+        "Que el servidor del Ministerio se apague los fines de semana"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 5 y Art. 24",
+      "explicacion": "Disponibilidad garantiza el acceso en línea y continuo a la información en el SIE."
+    },
+    {
+      "question": "Según el Artículo 8 del Reglamento, ¿cuál es la ÚNICA instancia autorizada para diseñar las Libretas y Certificados de Calificaciones Electrónicas?",
+      "options": [
+        "El Viceministerio de Educación Alternativa y Especial (VEAE)",
+        "Cada Dirección Departamental de Educación de forma independiente",
+        "La imprenta contratada por el Centro de Educación Alternativa",
+        "La junta escolar de padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 8 (Diseño)",
+      "explicacion": "El VEAE es la única instancia autorizada para diseñar el formato oficial de libretas y certificados."
+    },
+    {
+      "question": "Según el Artículo 9, ¿cuál es la característica lingüística de las Libretas y Certificados de Calificaciones Electrónicas?",
+      "options": [
+        "Serán bilingües de acuerdo a los contextos lingüísticos del Estado Plurinacional de Bolivia, de aplicación paulatina",
+        "Deben ser redactados exclusivamente en idioma inglés",
+        "Se emitirán únicamente en idioma castellano sin excepción",
+        "Deben estar traducidos al latín e italiano"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 9 (Diversidad Lingüística)",
+      "explicacion": "Deben ser bilingües respondiendo a los contextos lingüísticos de cada región del país."
+    },
+    {
+      "question": "Según el Artículo 10, ¿qué datos específicos de la/el estudiante están encriptados dentro del código de seguridad QR de las libretas y certificados?",
+      "options": [
+        "Códigos RUE, RUDEAL, Cédula de Identidad y fecha de nacimiento",
+        "Número de teléfono, dirección de domicilio y grupo sanguíneo",
+        "Nombres de los padres, ocupación y monto de ingresos",
+        "Marca de la computadora portátil del docente y dirección IP"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 10 (Medidas de Seguridad)",
+      "explicacion": "El sistema QR encripta el RUE, RUDEAL, Cédula de Identidad y fecha de nacimiento para verificar autenticidad."
+    },
+    {
+      "question": "Según el Artículo 11 numeral 1, ¿cuándo puede el estudiante/participante imprimir su Libreta de Calificación o Certificado Electrónico?",
+      "options": [
+        "A la culminación de cada semestre o de acuerdo a su necesidad",
+        "Únicamente al finalizar la carrera técnica después de 3 años",
+        "Solamente en presencia de un notario de fe pública",
+        "Una sola vez durante toda su vida académica"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 11, numeral 1",
+      "explicacion": "El estudiante puede imprimir su reporte al finalizar el semestre o cuando lo requiera."
+    },
+    {
+      "question": "Según el Artículo 11 numeral 2, ¿cuál es la obligación del Director del CEA respecto a la entrega de la libreta o certificado electrónico a la finalización del semestre?",
+      "options": [
+        "Extenderla SIN CONDICIÓN ALGUNA a la/el estudiante/participante",
+        "Condicionar la entrega al pago de aportes de fin de año",
+        "Exigir la entrega de un paquete de hojas bond antes de imprimir",
+        "Retener la libreta si el estudiante no asistió al desfile"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 11, numeral 2",
+      "explicacion": "El Director tiene la obligación legal de extender la libreta/certificado sin condición alguna."
+    },
+    {
+      "question": "Según el Artículo 11 numeral 3, ¿con qué periodicidad se realizará la impresión del Historial Académico electrónico?",
+      "options": [
+        "Anualmente o de acuerdo a la necesidad del estudiante/participante",
+        "Mensualmente de forma obligatoria para todos los alumnos",
+        "Cada diez años exclusivamente",
+        "Solo por orden judicial emitida por juez de partido"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 11, numeral 3",
+      "explicacion": "El Historial Académico se imprime anualmente o según la necesidad que presente el estudiante."
+    },
+    {
+      "question": "De acuerdo con el Artículo 12, ¿en qué tipo de papel se deben imprimir los Centralizadores de Calificaciones descargados de la página Web del Ministerio?",
+      "options": [
+        "En hojas blancas no valoradas, debidamente rubricados y con los sellos correspondientes",
+        "En papel valorado comprado en el Banco Unión",
+        "En papel membretado con sello de oro obligatoriamente",
+        "En papel periódico de reciclaje"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 12 (Centralizador de Calificaciones)",
+      "explicacion": "Se imprimen en hojas blancas simples no valoradas, requiriendo firma/rubrica y sellos oficiales."
+    },
+    {
+      "question": "Según el Artículo 12, ¿en qué archivos institucionales deben resguardarse las copias impresas de los Centralizadores de Calificaciones?",
+      "options": [
+        "En los archivos de las Direcciones de CEAs, Direcciones Distritales Educativas y Direcciones Departamentales de Educación",
+        "Únicamente en el domicilio privado del director del centro",
+        "En la biblioteca municipal de la capital de departamento",
+        "Solo en la computadora portátil del docente"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 12",
+      "explicacion": "Deben resguardarse en el archivo del CEA, de la Dirección Distrital y de la DDE correspondiente."
+    },
+    {
+      "question": "Según el Artículo 13 Parágrafo I, ¿qué validez legal tienen las Libretas y Certificados Electrónicos debidamente firmados y sellados por el Director del CEA?",
+      "options": [
+        "Tienen plena validez legal en todo el territorio nacional",
+        "Valen únicamente dentro del municipio donde está ubicado el CEA",
+        "Tienen validez temporal de solo 30 días calendario",
+        "Requieren homologación del Comité Ejecutivo de la Universidad Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 13, Parágrafo I (Legalidad)",
+      "explicacion": "Cuentan con plena validez legal en todo el territorio nacional con la firma y sello del Director del CEA."
+    },
+    {
+      "question": "En caso de extravío o deterioro, ¿qué instancia puede emitir y autorizar nuevamente la Libreta o Certificado según el Artículo 13 Parágrafo II?",
+      "options": [
+        "El área de legalizaciones de las Direcciones Departamentales de Educación a nivel nacional",
+        "Únicamente el Ministerio de Relaciones Exteriores en Cancillería",
+        "Cualquier imprenta autorizada del mercado privado",
+        "El juzgado de instrucción en lo penal"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 13, Parágrafo II",
+      "explicacion": "En caso de pérdida/deterioro, el área de legalizaciones de cualquier DDE a nivel nacional puede emitirla."
+    },
+    {
+      "question": "Para trámites en el exterior, ¿cuál es el orden jerárquico de firmas requerido en la Libreta, Certificado u Historial Académico según el Artículo 13 Parágrafo III?",
+      "options": [
+        "1° Director Distrital Educativo, 2° Director Departamental de Educación, 3° Ministerio de Educación y 4° Ministerio de Relaciones Exteriores",
+        "1° Cancillería, 2° Director del CEA, 3° Policía Nacional",
+        "1° Alcalde Municipal, 2° Gobernador, 3° Presidente del Estado",
+        "1° Director de CEA y 2° Notario de Fe Pública únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 13, Parágrafo III",
+      "explicacion": "El orden jerárquico obligatorio es: Director Distrital -> Director Departamental -> Ministerio de Educación -> Cancillería."
+    },
+    {
+      "question": "¿Qué finalidad cumple el sistema QR según el Artículo 10 del Reglamento?",
+      "options": [
+        "Permitir certificar de forma exacta y rápida la autenticidad del documento mediante el escaneo de datos encriptados",
+        "Mostrar fotografías del centro educativo y publicidad del ministerio",
+        "Descargar música y videos educativos para el aula",
+        "Registrar la hora exacta de ingreso del estudiante al CEA"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 10",
+      "explicacion": "El QR es una medida de seguridad para validar la autenticidad e integridad de la libreta o certificado."
+    },
+    {
+      "question": "Si un estudiante pierde su Certificado Técnico Electrónico en un departamento distinto a donde estudió, ¿puede tramitar su duplicado en la DDE local según el Art. 13 Parágrafo II?",
+      "options": [
+        "Sí, puede ser emitida y autorizada por el área de legalizaciones de las Direcciones Departamentales de Educación a nivel nacional",
+        "No, debe viajar obligatoriamente al centro de origen",
+        "No, la norma prohíbe emitir duplicados fuera del distrito original",
+        "Sí, pero debe pagar una multa administrativa de 500 Bs"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 13, Parágrafo II",
+      "explicacion": "La norma indica expresamente 'Direcciones Departamentales de Educación a nivel nacional', permitiendo el trámite en cualquier DDE."
+    },
+    {
+      "question": "¿Qué documento de registro de notas se debe empastar y foliar obligatoriamente en el CEA y DDE según los Arts. 12 y 26?",
+      "options": [
+        "Los Centralizadores de Calificaciones Semestrales",
+        "Los cuadernos de filiación de los profesores",
+        "Las solicitudes de licencia de los estudiantes",
+        "Los comprobantes de servicios básicos del centro"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículos 12 y 26",
+      "explicacion": "Los Centralizadores de Calificaciones deben archivarse foliados, rotulados y empastados."
+    },
+    {
+      "question": "¿Requiere un estudiante pagar algún arancel para que el Director del CEA firme y selle su Libreta Electrónica según los Arts. 7 y 11?",
+      "options": [
+        "No, la emisión, impresión, firma y sellado son totalmente gratuitos y sin condición alguna",
+        "Sí, debe pagar el costo del tóner e impresora",
+        "Sí, 10 bolivianos por cada firma",
+        "Solo si es estudiante de segundo semestre"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículos 7 y 11",
+      "explicacion": "El principio de gratuidad prohíbe cualquier cobro por firma, sello o entrega de libretas."
+    },
+    {
+      "question": "Según el Artículo 14, ¿cuál es el primer momento del procesamiento de la información en el Sistema de Información Educativa (SIE)?",
+      "options": [
+        "Registro y/o actualización de datos de los Centros de Educación Alternativa",
+        "Emisión directa de los títulos técnicos",
+        "Aprobación de la Resolución Ministerial anual",
+        "Entrega de diplomas de bachiller"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 14 inc. a)",
+      "explicacion": "El primer momento es el registro/actualización de los datos institucionales del Centro de Educación Alternativa."
+    },
+    {
+      "question": "¿Cuáles son los dos tipos de Códigos de Acceso al SIE según sus características de utilidad descritas en el Artículo 15 Parágrafo II?",
+      "options": [
+        "1. De Consulta y 2. De Registro y Actualización",
+        "1. De Administrador General y 2. De Usuario Anónimo",
+        "1. De Invitado y 2. De Estudiante Becado",
+        "1. De Lectura Rápida y 2. De Descarga Masiva"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 15, Parágrafo II",
+      "explicacion": "El sistema asigna Códigos de Consulta y Códigos de Registro y Actualización."
+    },
+    {
+      "question": "Según el Artículo 15 Parágrafo II numeral 1, ¿a quiénes se asigna el Código de Acceso de 'Consulta'?",
+      "options": [
+        "A las y los estudiantes/participantes y al Técnico de Adultos de la Subdirección de Educación Alternativa y Especial",
+        "Exclusivamente a los directores departamentales",
+        "A los dueños de imprentas privadas",
+        "A los auditores externos de la Contraloría"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 15, Parágrafo II, num. 1",
+      "explicacion": "El código de consulta se otorga a participantes y técnicos de adultos para seguimiento de notas."
+    },
+    {
+      "question": "Según el Artículo 15 Parágrafo II numeral 2, ¿a quiénes se asigna el Código de Acceso de 'Registro y Actualización'?",
+      "options": [
+        "A Maestras, Maestros, Directoras/es de CEAs, Técnico SIE/Polivalente de Distrito y Técnicos SIE Departamentales",
+        "A todos los estudiantes matriculados en el centro",
+        "A las madres y padres de familia de la junta escolar",
+        "Al público en general sin restricción"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 15, Parágrafo II, num. 2",
+      "explicacion": "Se asigna al personal docente, directivo y técnicos SIE responsables de ingresar o validar notas."
+    },
+    {
+      "question": "Según el Artículo 16 Parágrafo I, ¿mediante qué formulario oficial se rige el registro y actualización de datos de los estudiantes/participantes?",
+      "options": [
+        "Formulario de Inscripción - Registro Único de Estudiantes de Educación Alternativa (RUDEAL), aprobado por R.M. N° 026/2009",
+        "Formulario RUDE de Educación Regular",
+        "Ficha médica de salud pública",
+        "Padrón electoral biométrico"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 16, Parágrafo I",
+      "explicacion": "El registro de participantes en Educación Alternativa se realiza obligatoriamente mediante el RUDEAL."
+    },
+    {
+      "question": "Según el Artículo 16 Parágrafo II, ¿cómo deben registrarse en el SIE los estudiantes/participantes provenientes del exterior?",
+      "options": [
+        "Previo cumplimiento de los requisitos establecidos para su inscripción en el CEA, a través del Formulario RUDEAL",
+        "Sin ningún tipo de documento ni registro en el sistema",
+        "Únicamente mediante decreto supremo especial",
+        "Mediante examen de ingreso pagado en dólares"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 16, Parágrafo II",
+      "explicacion": "Se registran en el SIE cumpliendo los requisitos de inscripción mediante el formulario RUDEAL."
+    },
+    {
+      "question": "Según el Artículo 17 Parágrafo II, ¿cuándo debe realizarse el registro de calificaciones de los participantes que rindieron examen de nivelación por postergación de área?",
+      "options": [
+        "Inmediatamente obtenida la nota final en el periodo habilitado al efecto a la finalización del semestre",
+        "Tres meses después de haber empezado el siguiente año escolar",
+        "No se registra en el SIE, queda solo en cuaderno borrador",
+        "Únicamente cuando el estudiante solicite su título profesional"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 17, Parágrafo II",
+      "explicacion": "El registro de notas de nivelación debe ser inmediato a la conclusión del periodo habilitado."
+    },
+    {
+      "question": "En el procedimiento del registro de calificaciones (Art. 18 num. 1 y 2), ¿qué debe hacer el maestro tras ingresar las notas al SIE con el código otorgado por el Director?",
+      "options": [
+        "Imprimir y presentar al Director del CEA las planillas de calificaciones debidamente firmadas",
+        "Guardar el código en una hoja y botar los registros impresos",
+        "Enviar una foto por WhatsApp a los estudiantes",
+        "Publicar las notas en redes sociales"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 18, numerales 1 y 2",
+      "explicacion": "El maestro debe imprimir la planilla de notas del SIE, firmarla y entregarla al Director."
+    },
+    {
+      "question": "Si un Centro de Educación Alternativa NO cuenta con acceso a internet, ¿cuál es el procedimiento y plazo para remitir la información del registro de calificaciones a la Distrital (Art. 18 num. 5)?",
+      "options": [
+        "El Director remitirá la información en medio magnético a la Dirección Distrital en un tiempo máximo de 5 días calendario",
+        "Se debe esperar hasta fin de año para viajar a la capital",
+        "El Director envía cartas manuscritas por correo postal común en 30 días",
+        "Se suspende la entrega de notas indefinidamente"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 18, numeral 5",
+      "explicacion": "En CEAs sin internet, el Director remite el archivo digital en medio magnético en un plazo de máximo 5 días calendario."
+    },
+    {
+      "question": "Recibido el medio magnético de un CEA sin internet, ¿qué acción debe realizar el Director Distrital según el Art. 18 num. 6?",
+      "options": [
+        "Remitir la información del registro de calificaciones vía web al SIE del Ministerio de Educación de manera inmediata",
+        "Guardar el disco en un cajón durante seis meses",
+        "Devolver la información al CEA para que busquen señal",
+        "Cobrar una tarifa de procesamiento por subir los datos"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 18, numeral 6",
+      "explicacion": "El Director Distrital debe consolidar la información en la web de manera inmediata tras recibir el medio magnético."
+    },
+    {
+      "question": "¿Quién genera los Códigos de Acceso al SIE del ámbito de Educación Alternativa según el Artículo 15 Parágrafo I?",
+      "options": [
+        "El Ministerio de Educación a través de la Dirección General de Planificación",
+        "Cada profesor en su computadora personal",
+        "El Director Distrital de Educación de forma artesanal",
+        "La empresa proveedora de internet del municipio"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 15, Parágrafo I",
+      "explicacion": "Son generados centralizadamente por el Ministerio de Educación mediante la DGP."
+    },
+    {
+      "question": "Según el Artículo 14 inc. e), ¿qué documentos digitales/electrónicos se emiten para la comunicación e información de la valoración de aprendizajes?",
+      "options": [
+        "Centralizadores de Calificaciones, Libretas y Certificados de Calificaciones Digitales/Electrónicas",
+        "Títulos de Bachiller en provisión nacional únicamente",
+        "Certificados de conducta y asistencia diaria",
+        "Facturas y recibos de caja chica"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 14 inc. e)",
+      "explicacion": "Se emiten centralizadores, libretas y certificados digitales/electrónicos."
+    },
+    {
+      "question": "¿Qué constituye el paso 'f' del procesamiento de la información en el Artículo 14?",
+      "options": [
+        "Entrega y resguardo del Centralizador de Calificaciones a las instancias respectivas",
+        "Eliminación de la base de datos del SIE al cambiar de gestión",
+        "Quema de archivos impresos de gestiones pasadas",
+        "Venta de formularios RUDEAL no utilizados"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 14 inc. f)",
+      "explicacion": "Cierra el ciclo con la entrega y resguardo oficial de los centralizadores impresos."
+    },
+    {
+      "question": "Si un maestro pierde o comparte indebidamente su Código de Acceso al SIE de registro, ¿qué principio y responsabilidad vulnera (Arts. 5, 29 y 33)?",
+      "options": [
+        "Vulnera el principio de confidencialidad y la responsabilidad de custodia, incurriendo en falta sujeta a sanción",
+        "No vulnera ninguna norma, el código es de dominio público",
+        "Es una práctica recomendada para acelerar el trabajo",
+        "Demuestra solidaridad académica con sus colegas"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículos 5, 29 num. 1 y 33",
+      "explicacion": "El código es personal e inttransferible; su revelación vulnera la confidencialidad y es sancionable."
+    },
+    {
+      "question": "Según el Artículo 18 num. 3, ¿quién centraliza toda la documentación física del registro de notas del personal docente del CEA?",
+      "options": [
+        "La Directora o el Director del Centro de Educación Alternativa",
+        "El presidente del centro de estudiantes",
+        "El portero o regente de la unidad educativa",
+        "El Director Departamental de Educación directamente"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 18, numeral 3",
+      "explicacion": "El Director del CEA centraliza las planillas físicas firmadas por todos los maestros del establecimiento."
+    },
+    {
+      "question": "Según el Artículo 19 Parágrafo I, ¿qué se entiende por 'Modificación de Calificación de Notas'?",
+      "options": [
+        "La corrección de notas del área Humanística o Técnica que por algún motivo se tienen registradas en la base de datos del SIE de manera errada",
+        "El aumento de puntos de regalo a todos los estudiantes antes de fin de año",
+        "La alteración arbitraria de promedios para evitar reprobados",
+        "El cambio de nombres y apellidos del estudiante en el sistema"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 19, Parágrafo I",
+      "explicacion": "Es la corrección formal de calificaciones registradas de manera errónea en la base de datos del SIE."
+    },
+    {
+      "question": "Según el Artículo 19 Parágrafo II, ¿qué se entiende por 'Inclusión de Calificación de Notas'?",
+      "options": [
+        "La inclusión de notas del área Humanística o Técnica que por algún motivo NO se hubieran registrado en la base de datos del SIE",
+        "La inscripción de nuevos estudiantes sin RUDEAL",
+        "La convalidación de materias universitarias",
+        "El registro de pagos atrasados de pensiones"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 19, Parágrafo II",
+      "explicacion": "Es el alta o adición de notas omitidas que no llegaron a registrarse oportunamente en el SIE."
+    },
+    {
+      "question": "Según el Artículo 20, ¿cuánto tiempo dura el proceso regular de modificación y/o inclusión de notas una vez concluida la consolidación semestral?",
+      "options": [
+        "Tendrá una duración de dos (2) meses",
+        "Dura 5 días calendario únicamente",
+        "Está abierto durante todo el año sin límite de tiempo",
+        "Dura solo 24 horas tras la impresión del centralizador"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 20 (Fechas de Inicio y Fin)",
+      "explicacion": "El periodo ordinario de correcciones se abre tras la consolidación semestral y dura dos meses."
+    },
+    {
+      "question": "Vencido el plazo ordinario de dos meses, ¿cuál es el ÚNICO requisito legal excepcional para modificar o incluir notas en el SIE según el Art. 20?",
+      "options": [
+        "Emisión de una Resolución Administrativa en la Dirección Departamental de Educación correspondiente (de carácter gratuito)",
+        "Un pago en efectivo de 500 Bs al Director Distrital",
+        "Una carta simple firmada por el profesor del curso",
+        "Una solicitud verbal realizada en la puerta del Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 20",
+      "explicacion": "Pasados los dos meses, la modificación/inclusión requiere obligatoriamente una Resolución Administrativa de la DDE."
+    },
+    {
+      "question": "Según el Artículo 21, ¿cuál es el primer requisito documental imprescindible para tramitar la modificación o inclusión de notas?",
+      "options": [
+        "Formulario de Declaración Jurada para la modificación y/o inclusión de notas (SIEALT-MN-070-400), firmado y sellado por el maestro y el Director del CEA",
+        "Certificado de matrimonio de los padres del estudiante",
+        "Comprobante de pago de valores universitarios",
+        "Certificado de antecedentes policiales FELCC"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 21, numeral 1 y Anexo Formulario",
+      "explicacion": "Requiere la presentación en dos ejemplares del Formulario de Declaración Jurada debidamente llenado, firmado y sellado."
+    },
+    {
+      "question": "Según el Artículo 21 numerales 2 y 3, ¿qué fotocopias simples de documentos de identidad deben adjuntarse al trámite de modificación de notas?",
+      "options": [
+        "Fotocopia simple del Certificado de Nacimiento y Cédula de Identidad de la/el estudiante/participante",
+        "Fotocopia de la libreta de servicio militar del docente",
+        "Fotocopia del título de propiedad del inmueble del CEA",
+        "Fotocopia del carnet de vacuna contra la fiebre amarilla"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 21, numerales 2 y 3",
+      "explicacion": "Se adjuntan fotocopias simples del certificado de nacimiento y de la cédula de identidad del participante."
+    },
+    {
+      "question": "En el procedimiento del Artículo 22 num. 2, ¿qué profesional de la Dirección Distrital efectúa la modificación y/o inclusión de notas en el SIE?",
+      "options": [
+        "El Técnico SIE o Polivalente de la Dirección Distrital Educativa",
+        "El chofer o mensajero de la Dirección Distrital",
+        "El abogado defensor del menor de la alcaldía",
+        "El Director del CEA que cometió el error directamente"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 22, numeral 2 inc. b)",
+      "explicacion": "La corrección técnica en el sistema a nivel distrital la ejecuta la/el Técnico SIE o Polivalente."
+    },
+    {
+      "question": "Según el Artículo 22 num. 2 inc. d) y num. 3 inc. d), ¿con qué finalidad se debe poner a buen resguardo la documentación de modificación de notas?",
+      "options": [
+        "Para prever cualquier tipo de control y/o auditoría posterior",
+        "Para vender el papel como reciclaje al año siguiente",
+        "Para enviarlo al archivo muerto de la Asamblea Legislativa",
+        "Para entregárselo al estudiante al graduarse"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 22, num. 2 y 3",
+      "explicacion": "Tanto la Distrital como la DDE deben resguardar los expedientes para fines de auditoría y control de gestión."
+    },
+    {
+      "question": "Una vez concluido el procedimiento de modificación/inclusión de notas, ¿qué medida debe tomar la DDE según el Artículo 22 numeral 4?",
+      "options": [
+        "Remitir el expediente de copias legalizadas a la instancia correspondiente ordenando el inicio del proceso administrativo para sancionar a los infractores",
+        "Felicitar públicamente al profesor por corregir la nota",
+        "Archivar el trámite sin informar a nadie",
+        "Publicar el error en el periódico local"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 22, numeral 4",
+      "explicacion": "La DDE remite copias legalizadas para iniciar el proceso administrativo sancionatorio contra quienes cometieron la falta/error."
+    },
+    {
+      "question": "En el Formulario SIEALT-MN-070-400, ¿cuántos ejemplares deben presentarse y con qué tipo de letra debe ser llenado?",
+      "options": [
+        "En dos ejemplares y escrito en letra imprenta",
+        "En un solo ejemplar manuscrito en carta e inclinado",
+        "En cinco copias a máquina de escribir antigua",
+        "En hojas borrador en lápiz negro"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Anexo Formulario SIEALT-MN-070-400",
+      "explicacion": "El formulario de declaración jurada especifica 'presentación en dos ejemplares - escriba en letra imprenta'."
+    },
+    {
+      "question": "¿Quiénes firmar de forma obligatoria la Solicitud (Sección 1) del Formulario de Modificación de Notas SIEALT-MN-070-400?",
+      "options": [
+        "El Estudiante/Participante y la/s Maestra/s o Maestro/s involucrados",
+        "Solamente el Director Distrital",
+        "Únicamente el portero del CEA",
+        "El Ministro de Educación en persona"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Anexo Formulario SIEALT-MN-070-400",
+      "explicacion": "Lleva las firmas del estudiante/participante y de la maestra o maestro que dictó la materia."
+    },
+    {
+      "question": "¿Quiénes firman en la Conformidad y Validación Final del Formulario SIEALT-MN-070-400?",
+      "options": [
+        "Director del CEA, Técnico Distrital Responsable y Director Distrital de Educación",
+        "El Alcalde Municipal y el Gobernador",
+        "Tres compañeros de curso del estudiante",
+        "El jurado electoral de la zona"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Anexo Formulario SIEALT-MN-070-400",
+      "explicacion": "Validan el formulario con firma y sello el Director del CEA, el Técnico Distrital SIE y el Director Distrital."
+    },
+    {
+      "question": "Si una modificación de notas es provocada por un error negligente recurrente del maestro, ¿qué consecuencia legal enfrenta según los Arts. 2 y 22 num. 4?",
+      "options": [
+        "Inicio de proceso administrativo disciplinario conforme al Reglamento de Faltas y Sanciones del Magisterio",
+        "Ascenso automático de categoría en el escalafón",
+        "Bono de incentivo a la excelencia administrativa",
+        "Ninguna, los errores en el SIE no generan responsabilidad"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículos 2 y 22 numeral 4",
+      "explicacion": "El expediente se deriva a la instancia administrativa disciplinaria para sancionar la negligencia u omisión."
+    },
+    {
+      "question": "¿Qué debe hacerse en las celdas no modificadas del cuadro de calificaciones del Formulario SIEALT-MN-070-400?",
+      "options": [
+        "Tachar las celdas que no sean modificadas con una línea al centro de la celda",
+        "Pintarlas de color negro con marcador indeleble",
+        "Ponerles corrector líquido blanco",
+        "Dejarlas completamente en blanco sin tocar"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Anexo Formulario instructivo inferior",
+      "explicacion": "El instructivo del formulario indica 'tachar las celdas que no sean modificadas, con una línea al centro de la celda'."
+    },
+    {
+      "question": "En el área técnica del Formulario de Modificación de Notas, ¿cuáles son los tres criterios de evaluación cuantitativa que se registran?",
+      "options": [
+        "Conocimientos, Precisión y Procedimiento",
+        "Asistencia, Uniforme y Disciplina",
+        "Ser, Saber y Decidir exclusivamente",
+        "Teoría, Canto y Gimnasia"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Anexo Formulario Formación Técnica Tecnológica",
+      "explicacion": "En formación técnica el formulario desglosa: Conocimientos, Precisión, Procedimiento y Nota Final."
+    },
+    {
+      "question": "Según el Artículo 23, ¿cuáles son los tres niveles técnico-operativos que comprenden el desarrollo del procedimiento de emisión de libretas y certificados?",
+      "options": [
+        "Nivel Central, Nivel Departamental y Nivel Distrital (junto al Centro de Educación Alternativa)",
+        "Nivel Municipal, Nivel Cantonal y Nivel Barrial",
+        "Nivel Primario, Nivel Secundario y Nivel Universitario",
+        "Nivel Sindical, Nivel Federativo y Nivel Confederativo"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 23 (Niveles e Instancias)",
+      "explicacion": "Comprende Nivel Central (Ministerio), Nivel Departamental (DDE), Nivel Distrital e Instancia de CEA."
+    },
+    {
+      "question": "Según el Artículo 24 numeral 1, ¿qué responsabilidad tiene la Dirección General de Planificación (Equipo SIE) del Ministerio de Educación?",
+      "options": [
+        "Implementar y mantener el Sistema de Información Educativa (SIE)",
+        "Dictar clases sustitutivas en los CEAs",
+        "Comprar el mobiliario escolar de los centros",
+        "Aprobar los permisos de vacaciones de los profesores"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 24, numeral 1",
+      "explicacion": "La DGP es responsable del desarrollo, mantenimiento e infraestructura tecnológica del SIE a nivel nacional."
+    },
+    {
+      "question": "Según el Artículo 25 numeral 1, ¿cuál es la función de la Dirección General de Educación de Adultos (DGEA)?",
+      "options": [
+        "Realizar el monitoreo y seguimiento constante a la consolidación y actualización de la información en el SIE proveniente de los CEAs",
+        "Administrar los recursos del seguro social universitario",
+        "Imprimir los diplomas de bachiller de educación regular",
+        "Sancionar económicamente a los municipios morosos"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 25, numeral 1",
+      "explicacion": "La DGEA monitorea que el reporte de datos de los CEAs en el SIE sea oportuno y correcto."
+    },
+    {
+      "question": "Según el Artículo 26 Parágrafo I numeral 6, ¿quién entrega los códigos de acceso de la plataforma tecnológica a los Directores de los CEAs?",
+      "options": [
+        "La Dirección Departamental de Educación a través de la Subdirección de Educación Alternativa y Especial",
+        "La alcaldía municipal de cada sección de provincia",
+        "El sindicato de maestros urbanos o rurales",
+        "Los propios estudiantes mediante voto de asamblea"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 26, Parágrafo I, numeral 6",
+      "explicacion": "La DDE/Subdirección entrega oficialmente los códigos de acceso a los Directores de CEA."
+    },
+    {
+      "question": "Según el Artículo 27 Parágrafo II numeral 4, ¿qué potestad de modificación de datos personales en el SIE tiene la/el Técnico SIE de la Dirección Distrital?",
+      "options": [
+        "Modificar datos personales por errores de certificado de nacimiento, reconocimiento de padres o cambio de nombre/apellido en RUDEAL previa verificación de respaldos",
+        "Cambiar la edad del estudiante sin presentar ningún certificado",
+        "Inscribir personas inexistentes para aumentar estadística",
+        "Eliminar registros de estudiantes que no pagaron cuotas"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 27, Parágrafo II, numeral 4",
+      "explicacion": "El Técnico Distrital puede corregir datos filiales sustentado en certificado de nacimiento o cédula legal."
+    },
+    {
+      "question": "Según el Artículo 28 numeral 1, ¿quién es el ÚNICO responsable de asignar o dar de baja el Código de Acceso a maestras y maestros en el CEA?",
+      "options": [
+        "La Directora o el Director del Centro de Educación Alternativa",
+        "El maestro más antiguo del establecimiento",
+        "La secretaria de la junta escolar de padres",
+        "El técnico de la empresa de telecomunicaciones"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 28, numeral 1",
+      "explicacion": "El Director del CEA es el único facultado para dar de alta o baja las credenciales docentes en el SIE."
+    },
+    {
+      "question": "Según el Artículo 28 numeral 7, ¿qué autoridades deben sellar y firmar la Libreta o Certificado Electrónico antes de ser entregado al estudiante?",
+      "options": [
+        "La Directora o el Director del Centro de Educación Alternativa",
+        "El Gobernador del Departamento y el Alcalde",
+        "El Comandante Departamental de la Policía",
+        "El Notario de Fe Pública del barrio"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 28, numeral 7",
+      "explicacion": "El Director del CEA imprime, firma y sella la libreta/certificado para su validez legal."
+    },
+    {
+      "question": "Según el Artículo 28 numeral 8, ¿cuántas copias originales de los Centralizadores Semestrales debe remitir el Director del CEA a la Dirección Distrital?",
+      "options": [
+        "Remitir dos (2) copias originales (quedando una copia en el CEA)",
+        "Remitir diez copias fotostáticas simples",
+        "No se remite ninguna, queda solo en el CEA",
+        "Remitir cincuenta ejemplares impresos en cartulina"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 28, numeral 8",
+      "explicacion": "Conserva una copia en el CEA y manda dos originales a la Distrital (una de las cuales va a la DDE)."
+    },
+    {
+      "question": "Según el Artículo 29 numeral 4, ¿qué valor jurídico tiene el Centralizador de Calificaciones impreso y firmado por la/el maestra/o por áreas de saberes?",
+      "options": [
+        "Se constituye en DECLARACIÓN JURADA",
+        "Es un simple borrador sin ningún valor legal",
+        "Es una nota informativa provisional sugerida",
+        "Es una propuesta sujeta a votación de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 29, numeral 4",
+      "explicacion": "La planilla o centralizador firmado por el docente asume la calidad legal de Declaración Jurada."
+    },
+    {
+      "question": "Según el Artículo 29 numeral 7, ¿ante qué instancia debe hacer conocer el maestro cualquier tipo de irregularidad en la modificación o registro de calificaciones?",
+      "options": [
+        "Ante la Unidad de Transparencia de la Dirección Departamental de Educación correspondiente",
+        "Ante el centro de estudiantes de secundaria",
+        "Ante la prensa sensacionalista local",
+        "Ante el juzgado de trabajo y seguridad social"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 29, numeral 7",
+      "explicacion": "Obliga al docente a denunciar irregularidades de notas directamente a la Unidad de Transparencia de la DDE."
+    },
+    {
+      "question": "Según el Artículo 30 numeral 1, ¿cuál es la responsabilidad de la Secretaria o Secretario del CEA en este proceso?",
+      "options": [
+        "Recepcionar y remitir al Director del CEA los Centralizadores de Calificaciones presentados por cada maestro en cada semestre",
+        "Asignar las notas finales de los estudiantes reprobados",
+        "Firmar las libretas electrónicas en reemplazo del director",
+        "Cobrar por la impresión de certificados técnicos"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 30, numeral 1",
+      "explicacion": "Su función es recepcionar, revisar y derivar los centralizadores y documentación de notas al Director."
+    },
+    {
+      "question": "Según el Artículo 31 numeral 1 y Art. 32 Obligaciones num. 1, ¿cuál es la responsabilidad del estudiante/participante sobre su Código de Acceso al SIE?",
+      "options": [
+        "Custodia y resguardo confidencial del Código de Acceso, el cual NO podrá ser transferido a terceros por ningún motivo",
+        "Vender su código de acceso en las redes sociales",
+        "Prestar su contraseña a otros estudiantes para que entren al sistema",
+        "Escribir la contraseña en la pizarra del aula"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 31 num. 1 y Art. 32 Obligaciones 1",
+      "explicacion": "El estudiante debe resguardar confidencialmente su clave, estando prohibida su transferencia."
+    },
+    {
+      "question": "Según el Artículo 32 Obligaciones numeral 2, ¿qué acción debe realizar el estudiante/participante tras recibir su Código de Acceso por primera vez?",
+      "options": [
+        "Modificar la contraseña del Código de Acceso para garantizar el uso privado",
+        "Mantener la clave genérica dada por el director sin cambiarla nunca",
+        "Publicar su usuario y clave en el periódico",
+        "Borrar su cuenta del SIE inmediatamente"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 32 Obligaciones, numeral 2",
+      "explicacion": "Es obligación del estudiante cambiar la clave inicial para asegurar el uso privado y confidencial."
+    },
+    {
+      "question": "Según el Artículo 32 Derechos numeral 2, ¿qué derecho tiene el participante que hubiera reprobado o postergado un área de conocimientos al final del semestre?",
+      "options": [
+        "Dar el examen de nivelación de notas al final del semestre",
+        "Exigir la aprobación automática sin rendir ninguna prueba",
+        "Repetir todo el ciclo primario desde el primer curso",
+        "Solicitar la expulsión del maestro que lo reprobó"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 32 Derechos, numeral 2",
+      "explicacion": "Tiene el derecho legal a rendir el examen de nivelación al finalizar el semestre."
+    },
+    {
+      "question": "Según el Artículo 32 Derechos numeral 3, ¿qué derecho le asiste al estudiante respecto a la valoración efectuada por el docente?",
+      "options": [
+        "Reclamar sobre la valoración efectuada por la/el maestra/o de acuerdo a las actividades evaluativas y sus instrumentos",
+        "Exigir la renuncia del director distrital",
+        "Calificar al profesor con una nota numérica de respuesta",
+        "Cambiar la nota directamente ingresando al sistema"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 32 Derechos, numeral 3",
+      "explicacion": "Tiene derecho a presentar reclamo formal sobre las notas sustentado en sus instrumentos de evaluación."
+    },
+    {
+      "question": "Según el Artículo 33 del Reglamento, ¿qué está estrictamente PROHIBIDO respecto al acceso al Sistema de Información Educativa (SIE)?",
+      "options": [
+        "Queda prohibido el acceso al SIE por personas ajenas a los interesados, hecho que vulnera la privacidad de la base de datos",
+        "Ingresar al sistema en días laborables",
+        "Consultar las notas desde un teléfono celular",
+        "Imprimir la libreta de calificaciones en papel blanco"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 33 (Prohibición)",
+      "explicacion": "Prohíbe el acceso a terceros ajenos a fin de resguardar la privacidad de los datos personales de la base de datos."
+    },
+    {
+      "question": "Según el Artículo 34 del Reglamento, ¿cómo se sanciona el incumplimiento a las disposiciones del presente Reglamento de Libretas y Certificados Electrónicos?",
+      "options": [
+        "Constituye faltas que serán sancionadas conforme a la normativa administrativa y penal vigente",
+        "No tiene ninguna sanción legal por ser una norma meramente recomendatoria",
+        "Se sanciona únicamente con la suspensión de fiestas de fin de año",
+        "Se remite al tribunal constitucional de forma directa"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 34 (Sanciones)",
+      "explicacion": "El incumplimiento acarrea sanciones administrativas disciplinarias e incluso penales si corresponde."
+    },
+    {
+      "question": "Caso Práctico: Un Director de CEA exige un cobro de 30 Bs a los estudiantes por la entrega de la Libreta Electrónica impresa. ¿Qué norma vulnera y qué falta comete?",
+      "options": [
+        "Vulnera los Artículos 7 y 11 del Reglamento R.M. 800/2015 que consagran la GRATUIDAD y entrega sin condición, incurriendo en falta administrativa sancionable",
+        "No vulnera ninguna norma, el director puede fijar cobros libres",
+        "Es legal si la junta de profesores aprobó el cobro en acta",
+        "Es un cobro autorizado por el Ministerio de Hacienda"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículos 7, 11 num. 2 y 34",
+      "explicacion": "La norma exige gratuidad absoluta; cobrar por la entrega de libretas o certificados es una falta disciplinaria."
+    },
+    {
+      "question": "Caso Práctico: Un docente comete un error al digitar la nota de un estudiante y deja pasar 6 meses sin corregirlo. ¿Cómo debe tramitarse la corrección (Art. 20)?",
+      "options": [
+        "Al haber superado los 2 meses del periodo ordinario, requiere la emisión obligatoria de una Resolución Administrativa en la DDE y dará lugar a proceso administrativo al docente",
+        "El docente puede entrar al SIE y cambiarla cuando quiera sin trámite",
+        "La nota ya no se puede corregir jamás y el alumno pierde el año",
+        "Se borra al estudiante del sistema y se lo vuelve a inscribir"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículos 20 y 22 numeral 4",
+      "explicacion": "Pasados dos meses, solo procede por Resolución Administrativa en la DDE y se investiga la negligencia del docente."
+    },
+    {
+      "question": "Caso Práctico: Un participante pierde su Cédula de Identidad, ¿puede inscribirse y registrarse en el SIE con el formulario RUDEAL según el Art. 10 y 21?",
+      "options": [
+        "Sí, mediante su Certificado de Nacimiento y datos del RUDEAL (adjuntando fotocopia simple de nacimiento)",
+        "No, es obligatorio tener CI de lo contrario se le niega el derecho a la educación",
+        "Solo si paga una fianza ante el juez de instrucción",
+        "Solo si presenta dos testigos vecinos de su barrio"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículos 10, 16 y 21 num. 3",
+      "explicacion": "El RUDEAL y los trámites indican 'Cédula de Identidad si cuenta con este documento', no siendo excluyente para el derecho al estudio."
+    },
+    {
+      "question": "¿En qué plazo máximo debe la Dirección Distrital remitir a la DDE la copia original de los Centralizadores Semestrales recibidos del CEA según el Art. 27 Parágrafo I num. 4?",
+      "options": [
+        "En el lapso máximo de 5 días hábiles luego de recepcionado el documento",
+        "En un plazo de 60 días calendario",
+        "A la finalización de la década correspondiente",
+        "No tiene plazo de entrega"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 27, Parágrafo I, numeral 4",
+      "explicacion": "La Distrital debe enviar el centralizador original firmado a la DDE en máximo 5 días hábiles."
+    },
+    {
+      "question": "Según el Artículo 27 Parágrafo II numeral 1 y 2, ¿qué verificación debe hacer el Técnico SIE Distrital sobre la documentación entregada por el CEA?",
+      "options": [
+        "Comparar minuciosamente la información registrada en el SIE con la documentación impresa y firmada remitida por el Centro",
+        "Contar únicamente el número de hojas sin leer las notas",
+        "Verificar que la portada tenga adornos de colores",
+        "Pesar el paquete de hojas en una balanza digital"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 27, Parágrafo II, numerales 1 y 2",
+      "explicacion": "Debe cotejar de forma minuciosa los datos cargados digitalmente en el SIE con las planillas físicas respaldatorias."
+    },
+    {
+      "question": "¿Qué sanción prevé el Decreto Supremo N° 23318-A mencionado en el Art. 2 de la R.M. 800/2015 para los servidores públicos que alteren indebidamente datos en el SIE?",
+      "options": [
+        "Responsabilidad Administrativa, Civil o Penal según la gravedad del hecho",
+        "Un premio en dinero en efectivo",
+        "Una felicitación por escrito en su archivo personal",
+        "Un cambio de oficina sin investigación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 2 y D.S. 23318-A de Responsabilidad por la Función Pública",
+      "explicacion": "La alteración de documentos o datos oficiales en sistemas estatales activa las responsabilidades de la Ley 1178 y D.S. 23318-A."
+    },
+    {
+      "question": "Si un participante requiere apostillar o legalizar su Certificado Técnico Electrónico para trabajar en el extranjero, ¿cuál es el segundo paso en la cadena de firmas (Art. 13 Parágrafo III)?",
+      "options": [
+        "Director Departamental de Educación (después del Director Distrital)",
+        "Consulado del país de destino directamente",
+        "Alcalde Municipal del distrito",
+        "Presidente de la Cámara de Senadores"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 13, Parágrafo III",
+      "explicacion": "El segundo paso es la firma del Director Departamental de Educación, tras la firma del Director Distrital."
+    },
+    {
+      "question": "¿Qué documento legal respalda los derechos de los participantes a reclamar o denunciar irregularidades en sus notas en Educación Alternativa (Art. 32)?",
+      "options": [
+        "El Reglamento de Procedimientos aprobado por la R.M. N° 800/2015 y la Ley N° 070",
+        "El Código Penal únicamente",
+        "La Ley de Impuestos Nacionales",
+        "El Reglamento de Tránsito de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 32",
+      "explicacion": "El Artículo 32 del Reglamento R.M. 800/2015 reconoce explícitamente el catálogo de derechos y obligaciones del participante."
+    },
+    {
+      "question": "En el Formulario SIEALT-MN-070-400, ¿cuál es el código de correlativo que figura en el extremo superior derecho?",
+      "options": [
+        "SIEALT-MN-070-400",
+        "RUDEAL-2015-001",
+        "FORM-RM-070-2024",
+        "DGEA-SIE-100"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Anexo Encabezado Formulario",
+      "explicacion": "El código oficial impreso en el Formulario de Modificación/Inclusión de Notas es SIEALT-MN-070-400."
+    },
+    {
+      "question": "En la Formación Humanística del Formulario de Modificación de Notas, ¿cuáles son las cuatro áreas de saberes y conocimientos del campo Comunidad y Sociedad?",
+      "options": [
+        "Comunicación y Lenguajes, Ciencias Sociales, Ciencias de la Naturaleza y Matemática",
+        "Física, Química, Biología y Geografía",
+        "Música, Educación Física, Artes Plásticas y Religión",
+        "Inglés, Aymara, Quechua y Guaraní"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Anexo Formulario Formación Humanística",
+      "explicacion": "El cuadro de la formación humanística agrupa las asignaturas de Comunicación y Lenguajes, Ciencias Sociales, Ciencias de la Naturaleza y Matemática."
+    },
+    {
+      "question": "Según el Artículo 28 numeral 12 del Reglamento, ¿cómo debe archivar el Director del CEA los Centralizadores de Calificaciones Semestrales?",
+      "options": [
+        "Archivar organizadamente y a buen resguardo los Centralizadores debidamente foliados, rotulados y empastados",
+        "Guardarlos en bolsas plásticas sin foliar ni empastar",
+        "Archivarlos únicamente en carpetas digitales sin respaldo impreso",
+        "Entregarlos a la junta de vecinos al final de cada semestre"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 28, numeral 12",
+      "explicacion": "El Artículo 28 numeral 12 exige el archivo organizado, foliado, rotulado y empastado de los centralizadores."
+    },
+    {
+      "question": "Según el Artículo 28 numeral 2, ¿cuándo debe organizar el Director del CEA reuniones con el personal docente para evaluar la información del SIE?",
+      "options": [
+        "Antes y después del proceso de registro del Centralizador de Calificaciones",
+        "Únicamente el día de la clausura del año escolar",
+        "Solo cuando haya inspección sorpresiva de la fiscalía",
+        "Cada cinco años durante la evaluación institucional"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 28, numeral 2",
+      "explicacion": "Se evalúa la información registrada en el SIE antes y después de cada proceso de registro del centralizador."
+    },
+    {
+      "question": "¿Qué autoridad del Ministerio de Educación firma la Resolución Ministerial N° 800/2015 de 23 de octubre de 2015?",
+      "options": [
+        "Roberto Aguilar Gómez, Ministro de Educación",
+        "Avelino Siñani, Ministro de Educación",
+        "Elizardo Pérez, Viceministro de Educación Regular",
+        "El Director General de Educación Alternativa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Firma Resolutiva",
+      "explicacion": "La R.M. N° 800/2015 fue suscrita oficialmente por el entonces Ministro de Educación, Roberto Aguilar Gómez."
+    },
+    {
+      "question": "¿Cuál es el ámbito específico del Subsistema de Educación Alternativa y Especial regulado por el reglamento aprobado en la R.M. N° 800/2015?",
+      "options": [
+        "Únicamente el Ámbito de Educación Alternativa (Educación de Personas Jóvenes y Adultas y Educación Permanente)",
+        "Exclusivamente el nivel secundario de Educación Regular",
+        "Únicamente las universidades públicas autónomas",
+        "Las escuelas superiores de formación de maestros (ESFM)"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 2",
+      "explicacion": "El ámbito de aplicación abarca a los Centros de Educación Alternativa (CEAs) del Ámbito de Educación Alternativa."
+    },
+    {
+      "question": "¿Qué Ley del Estado Plurinacional de Bolivia constituye el marco normativo matriz de la educación sobre el cual se sustenta la R.M. N° 800/2015?",
+      "options": [
+        "Ley N° 070 de 20 de diciembre de 2010 'Avelino Siñani - Elizardo Pérez'",
+        "Ley N° 1565 de Reforma Educativa",
+        "Ley N° 2027 del Estatuto del Funcionario Público",
+        "Ley N° 1178 de Administración y Control Gubernamentales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Considerandos",
+      "explicacion": "Se fundamenta en los mandatos de la Ley N° 070 en lo correspondiente al Subsistema de Educación Alternativa y Especial."
+    },
+    {
+      "question": "Según el marco de sanciones de la R.M. 800/2015, ¿qué norma regula los procesos administrativos disciplinarios para el personal docente y administrativo de los CEAs?",
+      "options": [
+        "Reglamento de Faltas y Sanciones del Magisterio Urbano y Rural (R.S. N° 212414)",
+        "Código Penal Boliviano",
+        "Código Civil Boliviano",
+        "Ley General del Trabajo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 33",
+      "explicacion": "El incumplimiento o alteración arbitraria de notas se sanciona conforme al Reglamento de Faltas y Sanciones de la R.S. N° 212414."
+    },
+    {
+      "question": "¿Qué normativa se aplica para establecer la responsabilidad administrativa del personal de apoyo técnico administrativo en el manejo del SIEALT?",
+      "options": [
+        "Reglamento del Sistema de Carrera Administrativa (R.M. N° 062/00) y Ley N° 1178 (D.S. N° 23318-A)",
+        "Código de Comercio",
+        "Ley N° 348",
+        "Ley N° 045"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 33",
+      "explicacion": "El personal administrativo se halla sujeto a la responsabilidad por la función pública (Ley 1178) y el Reglamento de Carrera Administrativa."
+    },
+    {
+      "question": "En el marco de la R.M. 800/2015, ¿cuál es el principio por el cual toda la información del SIEALT debe ser exacta, veraz y coincidente entre los registros físicos y digitales?",
+      "options": [
+        "Principio de Confiabilidad y Consistencia Técnica",
+        "Principio de Discrecionalidad",
+        "Principio de Reserva Legal",
+        "Principio de Oportunidad Extemporánea"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 3, inc. g)",
+      "explicacion": "El principio de confiabilidad y consistencia técnica garantiza la fidelidad de los datos cargados en el sistema informático."
+    },
+    {
+      "question": "¿Qué garantía consagra el Principio de Gratuidad en la R.M. N° 800/2015?",
+      "options": [
+        "La emisión, impresión, firma y entrega de Libretas y Certificados Electrónicos son totalmente gratuitas sin cobro de valorados ni aportes",
+        "Se cobra 10 Bs únicamente para papel fotográfico",
+        "Los estudiantes deben pagar un timbre de 5 Bs en la DDE",
+        "Solo es gratuito para los tres mejores estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 3, inc. e)",
+      "explicacion": "Queda prohibido todo cobro directo o indirecto por la emisión de documentos académicos electrónicos en Educación Alternativa."
+    },
+    {
+      "question": "¿A qué se refiere el Principio de Autenticidad en la emisión de documentos académicos electrónicos en Educación Alternativa?",
+      "options": [
+        "A la certeza legal de que los datos contenidos en el documento corresponden fielmente a los registros del SIEALT e identifican al participante",
+        "A que el documento debe ser impreso obligatoriamente en imprenta privada",
+        "A la inclusión de una foto a colores pegada manualmente",
+        "A la firma en papel carbónico"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 3, inc. c)",
+      "explicacion": "La autenticidad asegura la inalterabilidad de la información respaldada en la base de datos oficial del Ministerio."
+    },
+    {
+      "question": "¿Qué establece la R.M. N° 800/2015 sobre la implementación gradual del sistema de Libretas y Certificados Electrónicos?",
+      "options": [
+        "Su aplicación fue obligatoria a partir del segundo semestre de 2015 de forma paulatina y con carácter general desde la gestión 2016",
+        "Inició en la gestión 2020 de forma experimental",
+        "Se aplica únicamente en las ciudades capitales excluyendo provincias",
+        "Es opcional y cada CEA decide si usa papel manuscrito o electrónico"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Disposiciones Transitorias",
+      "explicacion": "Se dispuso una fase de adecuación en el segundo semestre de 2015 para consolidar la obligatoriedad general desde la gestión 2016."
+    },
+    {
+      "question": "¿Qué código único identifica individualmente a cada participante en el Subsistema de Educación Alternativa y Especial?",
+      "options": [
+        "Código RUDEAL (Registro Único de Estudiantes de Educación Alternativa)",
+        "Código RUE",
+        "Código RDA",
+        "Número de Matrícula Universitaria"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 8",
+      "explicacion": "El RUDEAL es el identificador único del estudiante/participante en el sistema del Viceministerio de Educación Alternativa y Especial."
+    },
+    {
+      "question": "¿Cuál es la diferencia de denominación entre los documentos emitidos para la Formación Humanística y la Formación Técnica en Educación Alternativa?",
+      "options": [
+        "En Formación Humanística se emite 'Libreta de Calificaciones Electrónica' y en Formación Técnica 'Certificado de Calificaciones Electrónico'",
+        "Ambos se denominan 'Diploma Académico'",
+        "En Formación Técnica se otorga 'Libreta' y en Humanística 'Certificado'",
+        "No existe diferencia, ambos son carnet de notas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículos 5 y 6",
+      "explicacion": "La norma distingue la Libreta para el área Humanística y el Certificado para las etapas y niveles de la Formación Técnica."
+    },
+    {
+      "question": "¿Qué tecnología de validación de seguridad rápida integra la Libreta Electrónica para verificar su autenticidad desde dispositivos móviles?",
+      "options": [
+        "Código de Respuesta Rápida QR (Quick Response Code) encriptado",
+        "Banda magnética de tarjeta de crédito",
+        "Chip RFID incrustado en el papel",
+        "Sello de agua con tinta invisible"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 7",
+      "explicacion": "El QR permite la lectura de datos cifrados almacenados en los servidores del Ministerio de Educación."
+    },
+    {
+      "question": "¿Qué datos fundamentales se encuentran codificados dentro del código QR de la Libreta Electrónica del participante?",
+      "options": [
+        "Código RUE del CEA, RUDEAL del participante, número de Cédula de Identidad, fecha de nacimiento y calificaciones",
+        "Dirección domiciliaria del maestro y su salario",
+        "Número de teléfono de la junta vecinal",
+        "Historial de antecedentes policiales del estudiante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 7, Parágrafo II",
+      "explicacion": "El código QR condensa los datos de filiación del participante y el centro educativo, así como el resumen de notas."
+    },
+    {
+      "question": "¿Quién es la autoridad administrativa obligada a firmar y sellar las Libretas Electrónicas en el CEA para darles validez legal?",
+      "options": [
+        "La o el Director del Centro de Educación Alternativa (CEA)",
+        "El Presidente de la Junta Escolar de Distrito",
+        "El Alcalde Municipal",
+        "El Comandante de la Policía"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 11",
+      "explicacion": "Corresponde exclusivamente al Director del CEA rubricar y sellar las libretas generadas electrónicamente."
+    },
+    {
+      "question": "Para que una Libreta Electrónica tenga validez en trámites administrativos dentro del territorio boliviano, ¿requiere legalización adicional en la Dirección Departamental de Educación?",
+      "options": [
+        "No, la firma del Director del CEA y el código QR impreso le otorgan plena validez legal en todo el territorio nacional",
+        "Sí, requiere obligatoriamente 3 sellos notariados",
+        "Sí, requiere firma del Gobernador",
+        "Solo si el estudiante es mayor de 50 años"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 9, Parágrafo I",
+      "explicacion": "Las libretas electrónicas validadas con QR y firma del Director del CEA gozan de plena validez jurídica nacional sin trámites adicionales."
+    },
+    {
+      "question": "¿En qué caso sí se requiere la legalización del documento académico de Alternativa ante las instancias superiores del sistema educativo?",
+      "options": [
+        "Cuando el documento deba ser presentado en el exterior del país (trámites de apostilla y cancillería)",
+        "Para inscribirse al siguiente semestre dentro del mismo CEA",
+        "Para comprar material escolar en la librería",
+        "Para solicitar la cédula de identidad en el SEGIP"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 9, Parágrafo II",
+      "explicacion": "La cadena de legalización estatal es indispensable cuando los documentos académicos surtirán efectos en el extranjero."
+    },
+    {
+      "question": "En el flujo de legalización internacional de un certificado de Alternativa, ¿cuál es la primera autoridad jerárquica que legaliza la firma del Director del CEA?",
+      "options": [
+        "La o el Director Distrital de Educación correspondiente",
+        "El Ministro de Educación",
+        "El Canciller del Estado",
+        "El Cónsul del país de destino"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 9, Flujograma",
+      "explicacion": "El Director Distrital legaliza la firma del Director del CEA como primer paso de la cadena jerárquica."
+    },
+    {
+      "question": "¿Qué periodicidad tiene la emisión de las Libretas y Certificados Electrónicos en los Centros de Educación Alternativa?",
+      "options": [
+        "Semestral, al finalizar cada periodo lectivo de formación",
+        "Anual únicamente",
+        "Trimestral obligatoria",
+        "Mensual"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 10",
+      "explicacion": "Dado que el régimen en Educación Alternativa es semestralizado, la consolidación y emisión se realiza cada semestre."
+    },
+    {
+      "question": "Si un participante pierde su Libreta de Calificaciones Electrónica original, ¿cómo se obtiene un duplicado oficial?",
+      "options": [
+        "Cualquier Dirección Departamental de Educación (DDE) o el CEA puede reimprimir el documento a través del SIEALT sin costo",
+        "Debe publicar 3 avisos en el periódico y esperar 6 meses",
+        "Debe repetir el semestre académico",
+        "Debe pagar una multa de 500 Bs"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 12",
+      "explicacion": "Al estar la información centralizada en el SIEALT, el duplicado se genera directamente del sistema en cualquier DDE o CEA."
+    },
+    {
+      "question": "¿Qué datos de infraestructura y filiación institucional aparecen impresos en el encabezado de la Libreta Electrónica?",
+      "options": [
+        "Nombre del CEA, Código RUE, Departamento, Provincia, Municipio, Dirección Distrital y Periodo Lectivo/Semestre",
+        "El organigrama del Ministerio de Economía",
+        "El inventario de pupitres del establecimiento",
+        "La lista de docentes jubilados del distrito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Anexo Formato de Libreta",
+      "explicacion": "Identifica de forma precisa la ubicación geográfica e institucional del Centro de Educación Alternativa."
+    },
+    {
+      "question": "¿Qué idioma originario se debe considerar en la emisión de las Libretas Electrónicas según el contexto territorial del CEA?",
+      "options": [
+        "El idioma oficial de las naciones y pueblos indígena originario campesinos predominante en la región en aplicación del principio plurilingüe",
+        "Únicamente el idioma inglés técnico",
+        "Exclusivamente el idioma latín",
+        "Únicamente idioma castellano sin excepción"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 6, Parágrafo III",
+      "explicacion": "La norma respeta el mandato plurinacional incorporando el idioma indígena originario territorial."
+    },
+    {
+      "question": "¿Qué documento emite el SIEALT para certificar la totalidad de los módulos cursados por un participante durante varios semestres?",
+      "options": [
+        "Historial Académico Electrónico del Participante",
+        "Certificado Médica de Aptitud Física",
+        "Kardex de Asistencia Diario",
+        "Papeleta de Inscripción RUDEAL"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 5, inc. c)",
+      "explicacion": "El Historial Académico resume de manera cronológica la trayectoria y notas de todos los módulos vencidos."
+    },
+    {
+      "question": "En el reverso de la Libreta Electrónica de Educación Alternativa, ¿qué información complementaria se registra?",
+      "options": [
+        "Escala de valoración cuali-cuantitativa, observaciones pedagógicas y firmas de las autoridades",
+        "Avisos publicitarios de empresas privadas",
+        "El reglamento de faltas impreso completo",
+        "El mapa geográfico de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Formato Oficial",
+      "explicacion": "Registra las escalas de calificación aprobatorias y las observaciones sobre el desempeño del participante."
+    },
+    {
+      "question": "¿Puede un Director de CEA retener la Libreta Electrónica de un participante por falta de pago de cuotas en la junta de participantes o alquiler del inmueble?",
+      "options": [
+        "No, bajo ningún concepto; la entrega es obligatoria e incondicional y su retención constituye falta grave",
+        "Sí, si la junta de participantes lo aprueba en votación",
+        "Sí, hasta que pague los intereses por mora",
+        "Queda a criterio personal del Director"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 11, Numeral 2",
+      "explicacion": "El derecho a recibir la documentación académica es inalienable y está prohibida su retención por causas económicas o administrativas."
+    },
+    {
+      "question": "¿Qué validez tienen los certificaciones manuales o manuscritas emitidas fuera del sistema SIEALT a partir de la vigencia plena de la R.M. 800/2015?",
+      "options": [
+        "Carecen de validez legal y administrativa en el Sistema Educativo Plurinacional",
+        "Tienen el doble de validez que la libreta electrónica",
+        "Son válidas solo si tienen 5 sellos de goma",
+        "Tienen validez condicional por 10 años"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Disposiciones Finales",
+      "explicacion": "A partir de la vigencia de la norma, el único documento oficial válido es el generado por el sistema electrónico del SIEALT."
+    },
+    {
+      "question": "¿Qué significan las siglas 'SIEALT' dentro de la estructura informática del Ministerio de Educación?",
+      "options": [
+        "Sistema de Información Educativa de Educación Alternativa",
+        "Sistema Internacional de Evaluación de Alumnos y Trabajadores",
+        "Servicio Integrado de Exámenes de Educación Alternativa",
+        "Sindicato de Instructores de Educación de Adultos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Glosario y Marco Técnico",
+      "explicacion": "SIEALT es el subsistema informático encargado de gestionar las matriculaciones, calificaciones y certificaciones de Educación Alternativa."
+    },
+    {
+      "question": "¿Qué función cumple el 'Código de Consulta' asignado a los participantes e instructores en el SIEALT?",
+      "options": [
+        "Permite acceder al sistema exclusivamente para visualizar y descargar el historial académico y libretas, sin posibilidad de alterar datos",
+        "Permite borrar notas e inscribir estudiantes",
+        "Permite cambiar el nombre del CEA en el sistema",
+        "Permite modificar la carga horaria del docente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 14, Parágrafo I",
+      "explicacion": "El usuario de consulta tiene un perfil de 'solo lectura' para garantizar la transparencia sin arriesgar la integridad de los registros."
+    },
+    {
+      "question": "¿Quiénes poseen la titularidad del 'Código de Registro y Actualización' en el SIEALT para la carga oficial de calificaciones?",
+      "options": [
+        "Directores de CEA, Maestros/Facilitadores asignados y Técnicos SIE autorizados",
+        "Cualquier participante de la directiva del CEA",
+        "Los propietarios de imprentas de la zona",
+        "Los estudiantes de primer semestre"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 14, Parágrafo II",
+      "explicacion": "Es un usuario con credenciales operativas asignado a personal responsable del proceso educativo y administrativo."
+    },
+    {
+      "question": "¿Qué responsabilidad legal asume el docente o facilitador al utilizar sus credenciales para la carga de calificaciones en el SIEALT?",
+      "options": [
+        "Asume la responsabilidad administrativa y legal total sobre la veracidad y exactitud de las notas registradas, equivalente a una Declaración Jurada",
+        "Ninguna responsabilidad, el sistema es el único responsable",
+        "Responsabilidad compartida únicamente con el portero",
+        "Se considera un borrador sin valor"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 15 y 33",
+      "explicacion": "La carga de datos mediante clave de acceso personalizada genera responsabilidad administrativa sobre los valores ingresados."
+    },
+    {
+      "question": "En aquellos CEAs ubicados en áreas de difícil acceso que no cuentan con conexión a internet, ¿cuál es el procedimiento para consolidar las calificaciones en el SIEALT?",
+      "options": [
+        "El Director del CEA genera el archivo magnético en el sistema offline y lo presenta físicamente a la Dirección Distrital en un plazo máximo de 5 días calendario",
+        "Se envían las notas en una carta manuscrita por correo postal ordinario",
+        "No se registran notas y se aprueba a todos por igual",
+        "Se espera al final del año para viajar a la capital"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 16, Parágrafo III",
+      "explicacion": "Se prevé el mecanismo offline con entrega de medio magnético en la Dirección Distrital para su subida inmediata."
+    },
+    {
+      "question": "¿Qué documento impreso debe firmar el facilitador/maestro y entregar al Director del CEA tras concluir el llenado de notas en el sistema?",
+      "options": [
+        "El Centralizador de Calificaciones Módulo por Módulo impreso del SIEALT",
+        "Un recibo de pago de salario",
+        "El plan semanal de clases",
+        "Su currículum vitae actualizado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 16, Parágrafo II",
+      "explicacion": "El centralizador físico firmado sirve de respaldo impreso y archivo permanente en la Dirección del CEA."
+    },
+    {
+      "question": "¿Qué medida de seguridad está strictly prohibida respecto al manejo de los Códigos de Acceso (usuarios y contraseñas) del SIEALT?",
+      "options": [
+        "Compartir, ceder, transferir o comercializar las credenciales de acceso a terceras personas no autorizadas",
+        "Cambiar la contraseña cada 3 meses",
+        "Anotar la clave en una libreta personal custodiada",
+        "Memorizar el código de usuario"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 14, Parágrafo III",
+      "explicacion": "Las credenciales son personales e intransferibles; transferirlas constituye falta administrativa grave."
+    },
+    {
+      "question": "Cuando un participante extranjero se inscribe en un CEA de Educación Alternativa, ¿qué documento técnico del SIEALT se debe aperturar obligatoriamente?",
+      "options": [
+        "El Formulario RUDEAL especificando el tipo de documento de identidad del país de origen o pasaporte",
+        "Una visa de trabajo permanente",
+        "Un certificado de naturalización boliviana",
+        "Un contrato de arrendamiento notariado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 13",
+      "explicacion": "El RUDEAL contempla la casuística de participantes extranjeros registrando su documento de origen."
+    },
+    {
+      "question": "¿Qué autoridad es la encargada de administrar y resguardar la Base de Datos Central del SIEALT en el Ministerio de Educación?",
+      "options": [
+        "La Dirección General de Planificación (DGP) a través del Equipo del Sistema de Información Educativa (SIE)",
+        "El Viceministerio de Educación Superior",
+        "La Confederación de Maestros Rurales",
+        "La Dirección Administrativa Financiera (DAF)"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 25",
+      "explicacion": "La DGP-SIE ostenta la custodia técnica e infraestructura tecnológica del sistema nacional de datos."
+    },
+    {
+      "question": "¿Qué periodo de tiempo tiene el Director de CEA para realizar la 'Consolidación Semestral' en la plataforma del SIEALT?",
+      "options": [
+        "El cronograma fijado oficialmente por el Viceministerio de Educación Alternativa y Especial para cada gestión lectiva",
+        "Cualquier día del año a libre elección del Director",
+        "Un plazo fijo de 24 horas tras iniciar las clases",
+        "Únicamente los días domingos por la noche"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 16",
+      "explicacion": "Las fechas de apertura y cierre de la plataforma se rigen por el calendario oficial del VEAE."
+    },
+    {
+      "question": "¿Qué ocurre si un CEA no realiza la consolidación de notas en las fechas establecidas en el cronograma oficial?",
+      "options": [
+        "El sistema se bloquea automáticamente y el Director debe justificar el retraso ante la Dirección Distrital para la reapertura del sistema",
+        "El sistema aprueba a todos los participantes automáticamente",
+        "Se borran todos los antecedentes del CEA",
+        "Se otorga un premio por ahorro de energía"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 17",
+      "explicacion": "El extemporáneo exige justificación formal e intervención del nivel distrital/departamental para habilitar el sistema."
+    },
+    {
+      "question": "¿Cómo se verifica en el SIEALT que un participante ha completado satisfactoriamente el plan de estudios del Nivel Técnico Medio?",
+      "options": [
+        "El sistema verifica el cumplimiento de la carga horaria total y la aprobación de todos los módulos requeridos para habilitar la certificación",
+        "Mediante una carta de recomendación de un vecino",
+        "Con la presentación de 5 fotos tamaño carnet",
+        "Por votación directa de los compañeros de curso"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 6",
+      "explicacion": "El SIEALT valida automáticamente la malla curricular y notas acumuladas antes de emitir el certificado técnico."
+    },
+    {
+      "question": "En el marco del sistema SIEALT, ¿qué es la 'Ficha Kárdex del Participante'?",
+      "options": [
+        "El registro digital e impreso individual donde se detallan los datos personales, de inscripción, asistencia y calificaciones semestrales del estudiante",
+        "Un boleto de descuento para transporte público",
+        "El carnet de vacunación del participante",
+        "La factura de servicios básicos del CEA"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 13, Parágrafo II",
+      "explicacion": "Es la ficha matriz que concentra la trayectoria técnica y académica del estudiante en el CEA."
+    },
+    {
+      "question": "Si se detecta una suplantación de identidad en el ingreso al SIEALT, ¿qué medida de emergencia debe aplicar el Técnico SIE Distrital?",
+      "options": [
+        "Inhabilitar de inmediato la cuenta de usuario comprometida y remitir el informe para el proceso administrativo o penal correspondiente",
+        "Ignorar el suceso si no hubo cambios de notas",
+        "Publicar la contraseña en la puerta del centro",
+        "Regalar una nueva cuenta al suplantador"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 34",
+      "explicacion": "La violación de seguridad informática del sistema del Estado amerita bloqueo preventivo e investigación legal."
+    },
+    {
+      "question": "¿Qué soporte de infraestructura de encriptación utiliza el Ministerio para firmar digitalmente el código QR de las libretas?",
+      "options": [
+        "Llaves de encriptación RSA y firmas de seguridad de la base de datos central del Ministerio de Educación",
+        "Sellos de agua impresos en cartulina gruesa",
+        "Firmas con bolígrafo de tinta gel roja",
+        "Cintas adhesivas de seguridad transparentes"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Anexo Técnico de Seguridad",
+      "explicacion": "Utiliza algoritmos criptográficos que garantizan que el código QR no pueda ser falsificado de forma externa."
+    },
+    {
+      "question": "¿Cuál es la diferencia conceptual entre 'Modificación de Nota' e 'Inclusión de Nota' según el reglamento?",
+      "options": [
+        "Modificación es la corrección de una nota mal digitada; Inclusión es el registro de una nota que fue omitida en su totalidad",
+        "Modificación es subir de nota a todos; Inclusión es aplazar a un estudiante",
+        "Ambas significan borrar al estudiante de la lista",
+        "No hay diferencia, son términos idénticos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 18",
+      "explicacion": "La norma distingue técnicamente la enmienda de error (modificación) del alta de datos no registrados (inclusión)."
+    },
+    {
+      "question": "¿Cuál es el plazo ordinario permitido para solicitar la modificación e inclusión de notas en el SIEALT sin necesidad de Resolución Administrativa?",
+      "options": [
+        "Hasta 2 meses (60 días calendario) posteriores a la consolidación semestral en el sistema",
+        "Hasta 3 años después de graduarse",
+        "24 horas únicamente",
+        "En cualquier momento de la vida profesional del estudiante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 19",
+      "explicacion": "Dentro de los 2 meses posteriores a la consolidación, el trámite se realiza vía formulario ante la Dirección Distrital."
+    },
+    {
+      "question": "Vencido el plazo ordinario de 2 meses, ¿qué requisito legal es INDISPENSABLE para proceder a la modificación o inclusión de una calificación en el SIEALT?",
+      "options": [
+        "Emisión de una Resolución Administrativa aprobada por la Dirección Departamental de Educación (DDE)",
+        "Una carta manuscrita del estudiante pidiendo disculpas",
+        "Un acuerdo verbal entre el maestro y el participante",
+        "La autorización del Alcalde Municipal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 20",
+      "explicacion": "Transcurrido el periodo ordinario de 2 meses, únicamente una Resolución Administrativa fundada de la DDE autoriza la reapertura."
+    },
+    {
+      "question": "¿Cuál es la denominación oficial del formulario utilizado para solicitar la modificación o inclusión de calificaciones?",
+      "options": [
+        "Formulario SIEALT-MN-070-400 (Declaración Jurada de Modificación/Inclusión de Notas)",
+        "Formulario RUDE 01",
+        "Formulario de Impuesto a las Utilidades",
+        "Formulario de Salida de Almacén"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21",
+      "explicacion": "Es el instrumento técnico-legal estandarizado para sustentar documentalmente los cambios de calificaciones."
+    },
+    {
+      "question": "¿En cuántos ejemplares originales se debe llenar y presentar el Formulario SIEALT-MN-070-400?",
+      "options": [
+        "En 2 ejemplares originales (uno para la Dirección Distrital/DDE y otro de respaldo para el CEA)",
+        "En 10 copias fotostáticas",
+        "En 1 solo ejemplar borrador",
+        "No se llena en papel, solo de palabra"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21, Parágrafo II",
+      "explicacion": "Se llena en duplicado original con firmas y sellos institucionales para el archivo de ambas instancias."
+    },
+    {
+      "question": "¿Qué documentos de respaldo deben adjuntarse obligatoriamente al Formulario SIEALT-MN-070-400 para justificar la modificación de nota?",
+      "options": [
+        "Fotocopia de Cédula de Identidad del participante, Centralizador o Cuaderno de Registro del Facilitador y nota justificativa del Director de CEA",
+        "Fotocopia del título de propiedad de la casa del maestro",
+        "Certificado de matrimonio del facilitador",
+        "Factura de pago de luz del CEA"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 22",
+      "explicacion": "Se exige el respaldo documental físico (cuaderno de campo/registro de evaluación) que demuestre el error material de digitación."
+    },
+    {
+      "question": "En el Formulario SIEALT-MN-070-400, ¿qué tipo de letra se exige reglamentariamente para su llenado manuscrito?",
+      "options": [
+        "Letra de imprenta clara, legible y sin tachaduras, enmiendas ni borrones",
+        "Letra cursiva o enfilada e ilegible",
+        "Escrito con lápiz grafito suave",
+        "Cualquier garabato rápido"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21, Instrucciones de Llenado",
+      "explicacion": "Para evitar confusiones en la transcripción, la norma exige estrictamente letra imprenta limpia e inalterada."
+    },
+    {
+      "question": "¿Qué autoridad educativa debe visar y firmar el Formulario SIEALT-MN-070-400 en primera instancia antes de enviarlo a la Distrital?",
+      "options": [
+        "La o el Director del Centro de Educación Alternativa (CEA)",
+        "El facilitador del curso vecino",
+        "El representante de los estudiantes",
+        "El portero del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21, Parágrafo III",
+      "explicacion": "El Director del CEA revisa, aprueba e iniciala la solicitud del maestro responsable antes de derivarla."
+    },
+    {
+      "question": "Si la modificación de notas se debe a una negligencia recurrente o alteración dolosa del facilitador, ¿qué acción administrativa debe ejecutar la DDE?",
+      "options": [
+        "Iniciar el Proceso Administrativo Disciplinario correspondiente contra el facilitador o autoridad responsable",
+        "Felicitar al facilitador por corregir a tiempo",
+        "Aumentarle las horas de trabajo sin sueldo",
+        "Archivar el expediente sin investigar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 33, Parágrafo II",
+      "explicacion": "La alteración injustificada o reiterada de datos académicos amerita sanción disciplinaria conforme al Reglamento de Faltas."
+    },
+    {
+      "question": "¿Qué cobro o arancel está permitido para la tramitación de una Resolución Administrativa de modificación de notas en la DDE?",
+      "options": [
+        "Ninguno, el trámite es totalmente gratuito bajo responsabilidad funcionaria",
+        "Un cobro fijo de 100 Bs por módulo",
+        "El costo del almuerzo de la comisión técnica",
+        "Un aporte voluntario de 50 Bs para fotocopias"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 3, inc. e)",
+      "explicacion": "El principio de gratuidad rige para todos los procedimientos administrativos de corrección e inclusión de datos."
+    },
+    {
+      "question": "¿Quién es el responsable de transcribir la modificación aprobada por la DDE al sistema SIEALT en el nivel departamental?",
+      "options": [
+        "El Técnico SIE de la Subdirección de Educación Alternativa y Especial de la DDE",
+        "El participante afectado en su domicilio",
+        "El Director de la imprenta departamental",
+        "Un técnico externo contratado por el estudiante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 27, Numeral 3",
+      "explicacion": "El perfil operativo para desbloquear y aplicar la Resolución Administrativa radica en el Técnico SIE de la Subdirección."
+    },
+    {
+      "question": "En el Formulario SIEALT-MN-070-400, ¿qué datos del participante deben coincidir exactamente con el Certificado de Nacimiento o Cédula de Identidad?",
+      "options": [
+        "Nombres, Apellido Paterno, Apellido Materno, Número de Cédula y Fecha de Nacimiento",
+        "El apodo con el que le conocen en el CEA",
+        "El estado civil y religión del estudiante",
+        "Su talla de ropa y calzado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21",
+      "explicacion": "Se exige rigor en los datos de filiación oficial para evitar doble identidad o inconsistencias en la titulación."
+    },
+    {
+      "question": "¿Qué ocurre si un Formulario SIEALT-MN-070-400 presenta tachaduras, borrones o corrector blanco sobre los números de las notas?",
+      "options": [
+        "Es rechazado de manera inmediata por la Dirección Distrital o DDE por invalidez formal",
+        "Es aceptado si el maestro le pone su huella digital encima",
+        "Se cobra una multa de 10 Bs y se da por válido",
+        "Se acepta previa llamada telefónica"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21, Instrucciones",
+      "explicacion": "Al ser un documento con categoría de declaración jurada, cualquier enmienda física anula su validez legal."
+    },
+    {
+      "question": "¿Dónde se custodian en forma permanente los expedientes físicos de modificación de notas aprobados?",
+      "options": [
+        "Un ejemplar en el archivo oficial de la DDE/Distrital y otro en el archivo del CEA correspondiente",
+        "En la casa del facilitador para su recuerdo personal",
+        "Se destruyen al finalizar el año lectivo",
+        "Se depositan en la biblioteca municipal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 23",
+      "explicacion": "Deben custodiarse en los archivos institucionales para fines de auditoría técnica e inspecciones de seguimiento."
+    },
+    {
+      "question": "Si se solicita la modificación de una nota de 'Reprobado' a 'Aprobado' tras el vencimiento de los 2 meses, ¿qué comisión en la DDE evalúa la procedencia del trámite?",
+      "options": [
+        "La Comisión Técnica de la Subdirección de Educación Alternativa y Especial de la DDE",
+        "La junta de vecinos de la zona",
+        "La federación de estudiantes universitarios",
+        "El Consejo Municipal de Seguridad Ciudadana"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 27",
+      "explicacion": "El informe técnico-pedagógico de la Subdirección es el insumo indispensable para emitir la Resolución Administrativa."
+    },
+    {
+      "question": "¿Qué plazo máximo tiene la DDE para emitir la Resolución Administrativa de Modificación de Nota una vez recibido el expediente completo?",
+      "options": [
+        "Plazo fijado por la Ley de Procedimiento Administrativo (máximo 15 días hábiles)",
+        "6 meses calendario",
+        "24 horas sin revisión",
+        "2 años"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 20, Parágrafo III",
+      "explicacion": "El trámite debe resolverse con celeridad administrativa respetando los términos de la Ley N° 2341."
+    },
+    {
+      "question": "¿Puede un participante solicitar directamente la modificación de su nota ante la DDE sin la intervención del Director del CEA?",
+      "options": [
+        "No, la solicitud debe canalizarse obligatoriamente a través de la Dirección del CEA donde cursó los estudios",
+        "Sí, puede ir directamente a la DDE sin avisar al CEA",
+        "Sí, pagando una boleta especial en el banco",
+        "Solo si es pariente de un funcionario"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21, Flujo del Trámite",
+      "explicacion": "El procedimiento administrativo exige el conducto regular iniciando en la institución donde se generó el registro."
+    },
+    {
+      "question": "¿Qué sello de control debe figurar impreso sobre las notas modificadas en la nueva Libreta Electrónica reemitida?",
+      "options": [
+        "El registro en el sistema refleja la Resolución Administrativa autorizante en el Historial Académico Electrónico",
+        "Un sello de goma con tinta verde de 'Aprobado por Suerte'",
+        "Una firma del portero del CEA",
+        "No se registra ningún cambio en la libreta"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 20",
+      "explicacion": "La plataforma informática vincula de forma inalterable el número de Resolución Administrativa al registro modificado."
+    },
+    {
+      "question": "En caso de fallecimiento o retiro definitivo del facilitador que cometió el error de digitación, ¿quién asume la firma del Formulario de Modificación?",
+      "options": [
+        "La o el Director del CEA, previo informe de la Comisión Técnica Pedagógica del Centro y revisión del cuaderno de campo",
+        "Se anula la materia y el estudiante debe cursarla de nuevo",
+        "Cualquier compañero de curso",
+        "El trámite queda cancelado definitivamente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21, Parágrafo IV",
+      "explicacion": "El Director del CEA asume la representación institucional previa verificación de las pruebas físicas dejadas en el archivo."
+    },
+    {
+      "question": "¿Qué sanción se aplica al servidor público del SIE que modifique una nota en el sistema sin contar con la Resolución Administrativa respaldatoria?",
+      "options": [
+        "Proceso Administrativo por falta gravísima, destitución y denuncia penal por falsedad ideológica y delitos informáticos",
+        "Una amonestación verbal en privado",
+        "Un descuento de 50 bolivianos de su sueldo",
+        "Cambio de escritorio en la misma oficina"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 34",
+      "explicacion": "Alterar datos en el sistema estatal sin respaldos legales constituye delito penal y falta gravísima."
+    },
+    {
+      "question": "¿Cuál es la función del Viceministerio de Educación Alternativa y Especial (VEAE) respecto al sistema de Libretas Electrónicas?",
+      "options": [
+        "Aprobar los formatos oficiales, definir los lineamientos pedagógicos y normar la emisión de libretas y certificados",
+        "Comprar los cuadernos para los estudiantes de todo el país",
+        "Imprimir físicamente las libretas en una imprenta privada",
+        "Contratar al personal administrativo del CEA"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 24",
+      "explicacion": "El VEAE es el órgano rector que define las políticas, formatos y reglamentos en el subsistema."
+    },
+    {
+      "question": "¿Qué atribución tiene la Dirección General de Educación de Adultos (DGEA) según la R.M. 800/2015?",
+      "options": [
+        "Monitorear, supervisar y hacer seguimiento a la aplicación del reglamento en los CEAs",
+        "Cobrar por las solicitudes de certificados",
+        "Asignar salarios a directores",
+        "Diseñar la infraestructura física de los CEAs"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 24, Parágrafo II",
+      "explicacion": "Monitorea y supervisa el cumplimiento normativo en Educación Alternativa."
+    },
+    {
+      "question": "¿Cuál es la responsabilidad principal del Director Departamental de Educación (DDE) respecto a las libretas electrónicas?",
+      "options": [
+        "Garantizar la gratuidad, supervisar las Subdirecciones y emitir las Resoluciones Administrativas de modificación extemporánea",
+        "Revisar una por una las libretas del departamento a mano",
+        "Imprimir las libretas en papel periódico",
+        "Cobrar un timbre departamental"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 26",
+      "explicacion": "Ejerce la máxima autoridad en la DDE garantizando la legalidad y gratuidad del proceso."
+    },
+    {
+      "question": "¿Qué función cumple el Subdirector Departamental de Educación Alternativa y Especial en el proceso de modificación de notas?",
+      "options": [
+        "Evaluar y emitir el informe técnico-pedagógico que fundamenta la Resolución Administrativa de modificación o inclusión",
+        "Aprobar la compra de mobiliario",
+        "Firmar las libretas de educación inicial",
+        "Organizar eventos deportivos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 27",
+      "explicacion": "Analiza el fondo pedagógico de las solicitudes de modificación extemporánea."
+    },
+    {
+      "question": "¿Cuál es la obligación directa de la o el Director Distrital de Educación en el flujo del SIEALT?",
+      "options": [
+        "Supervisar la consolidación semestral en plazo, recepcionar medios magnéticos y tramitar formularios de modificación",
+        "Imprimir las libretas de todos los CEAs",
+        "Dictar clases en asignaturas vacantes",
+        "Vender formularios de inscripción"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 28",
+      "explicacion": "Ejerce el control de proximidad sobre la carga de notas y recepción de archivos magnéticos."
+    },
+    {
+      "question": "¿Qué responsabilidad recae sobre la o el Director del Centro de Educación Alternativa (CEA)?",
+      "options": [
+        "Garantizar la veracidad de datos inscritos, velar por la entrega gratuita e incondicional de libretas y custodiar los archivos",
+        "Cobrar cuotas por cada libreta entregada",
+        "Delegar el uso de su clave al personal de servicio",
+        "Modificar notas sin llenar el formulario oficial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 29",
+      "explicacion": "Es el responsable primario de la integridad del proceso de evaluación e impresión en la unidad educativa."
+    },
+    {
+      "question": "¿Qué papel juegan los Maestros/Facilitadores en la administración del SIEALT?",
+      "options": [
+        "Evaluar el desarrollo modular, registrar las calificaciones en el SIEALT oportunamente y firmar centralizadores impresos",
+        "Aprobar a los estudiantes a cambio de donaciones",
+        "Ocultar los cuadernos de notas",
+        "Cobrar por exámenes de recuperación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 30",
+      "explicacion": "Evalúan el proceso educativo e ingresan las calificaciones al sistema informático."
+    },
+    {
+      "question": "¿Cuál es el derecho y deber del Participante de Educación Alternativa respecto a sus calificaciones?",
+      "options": [
+        "Conocer oportunamente sus calificaciones, recibir su Libreta o Certificado gratuito y verificar la veracidad de sus datos",
+        "Pagar la tarifa de impresión en la DDE",
+        "Exigir aprobación sin asistir a clases",
+        "Modificar sus notas si lo desea"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 31",
+      "explicacion": "Tiene derecho al acceso transparente, oportuno y gratuito a su documentación académica."
+    },
+    {
+      "question": "En el nivel de Formación Técnica, ¿qué entidad emite la certificación modular cuando el estudiante aprueba un rubro?",
+      "options": [
+        "El Ministerio de Educación a través de la Dirección General de Educación de Adultos y la DDE vía SIEALT",
+        "El Ministerio de Trabajo únicamente",
+        "La Cámara de Comercio Departamental",
+        "El Sindicato de Artesanos local"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 6, Parágrafo II",
+      "explicacion": "Las certificaciones con mención técnica son otorgadas oficialmente dentro del Sistema Educativo Plurinacional."
+    },
+    {
+      "question": "¿Qué ocurre si un maestro pierde sus credenciales asociadas al Registro Docente Administrativo (RDA)?",
+      "options": [
+        "Debe actualizar sus datos en la Dirección Distrital para restablecer sus accesos al SIEALT",
+        "Perderá su título profesional",
+        "Deberá trabajar sin sueldo",
+        "Es dado de baja automáticamente del Magisterio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 14",
+      "explicacion": "Debe solicitar la actualización o blanqueo de credenciales en la Dirección Distrital."
+    },
+    {
+      "question": "¿Qué funcionario verifica la seguridad informática de los servidores del SIEALT a nivel departamental?",
+      "options": [
+        "El Técnico de Sistemas / SIE de la Dirección Departamental de Educación",
+        "El Director Financiero de la Gobernación",
+        "El Secretario General del Sindicato",
+        "Cualquier usuario externo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 27, Numeral 4",
+      "explicacion": "El Técnico SIE de la DDE es responsable del mantenimiento e integridad de datos en el nivel departamental."
+    },
+    {
+      "question": "Si un CEA de convenio cobra por la entrega de la Libreta Electrónica, ¿qué sanción procede?",
+      "options": [
+        "Sanción disciplinaria por falta grave al Director y restitución inmediata del dinero a los participantes",
+        "Ninguna, los colegios de convenio están exentos",
+        "Se autoriza duplicar la tarifa",
+        "Se le otorga un certificado especial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 3, inc. e) y Art. 33",
+      "explicacion": "La gratuidad rige para todas las instituciones educativas fiscales, de convenio y privadas."
+    },
+    {
+      "question": "¿Qué autoridad debe resolver los casos no previstos o vacíos en la aplicación de la R.M. N° 800/2015?",
+      "options": [
+        "El Viceministerio de Educación Alternativa y Especial (VEAE) en coordinación con la DGP",
+        "El Consejo de la Magistratura",
+        "La Asociación de Institutos Privados",
+        "El facilitador a su criterio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Disposiciones Finales, Segunda",
+      "explicacion": "Corresponde al VEAE absolver consultas o resolver imprevistos técnicos normativos."
+    },
+    {
+      "question": "¿Cuál es el archivo definitivo que debe quedar en la Dirección Distrital sobre la gestión académica del CEA al cierre de año?",
+      "options": [
+        "Los Centralizadores Consolidados de Calificaciones firmados y las actas de recepción de medios magnéticos",
+        "Los borradores de los participantes",
+        "Las facturas del centro",
+        "Fotografías del evento de graduación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 28, Numeral 5",
+      "explicacion": "Los centralizadores consolidados firmados constituyen el documento oficial de resguardo."
+    },
+    {
+      "question": "¿Se pueden emitir Libretas Electrónicas a participantes que no tengan registrado su número de documento de identidad?",
+      "options": [
+        "No, el sistema exige el registro del documento de identidad (CI o Pasaporte/Cédula Extranjera) en el RUDEAL",
+        "Sí, utilizando seudónimos",
+        "Sí, dejando el campo en blanco",
+        "Solo si el facilitador lo conoce personalmente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 8 y 13",
+      "explicacion": "El documento de identidad es requisito indispensable de validación en el RUDEAL."
+    },
+    {
+      "question": "¿Qué documento sustenta la legalización de una Libreta Electrónica para trámites en el exterior?",
+      "options": [
+        "La Firma Digital y el Certificado de Autenticidad emitido por la DDE y legalizado por Cancillería",
+        "Un sello de goma de una imprenta local",
+        "Una fotocopia simple",
+        "Un recibo de envío de correspondencia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 9, Flujograma",
+      "explicacion": "Requiere el flujo jerárquico de validación desde la DDE, Ministerio de Educación y Cancillería."
+    },
+    {
+      "question": "¿Cuál es la vigencia de una Libreta Electrónica emitida oficialmente por el SIEALT?",
+      "options": [
+        "Tiene vigencia permanente e indefinida y no caduca con el tiempo",
+        "Vence a los 6 meses",
+        "Caduca al año escolar siguiente",
+        "Dura mientras el Director esté en el cargo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 9",
+      "explicacion": "Al ser un documento público probatorio de estudios, goza de vigencia legal indefinida."
+    },
+    {
+      "question": "Si una persona altera una Libreta Electrónica impresa, ¿cómo se verifica la versión oficial?",
+      "options": [
+        "Al escanear el código QR original, este remite a la base de datos oficial del Ministerio con las notas reales",
+        "Buscando si tiene borrones en el papel",
+        "Preguntando a los vecinos",
+        "Revisando el papel"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 7",
+      "explicacion": "El escaneo del código QR consulta directamente el servidor seguro del Ministerio."
+    },
+    {
+      "question": "¿Qué sucede con los registros del SIEALT de un CEA que fue clausurado por Resolución Administrativa?",
+      "options": [
+        "Se transfieren bajo custodia a la Dirección Distrital de Educación respectiva para emisión de duplicados",
+        "Se borran de la base de datos",
+        "Se entregan a una entidad privada",
+        "Se destruyen físicamente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 28, Parágrafo II",
+      "explicacion": "Se transfieren a la Dirección Distrital para resguardar la trayectoria de los estudiantes."
+    },
+    {
+      "question": "¿En qué plataforma web oficial del Ministerio de Educación los participantes pueden verificar sus calificaciones?",
+      "options": [
+        "En el Portal Oficial del SIE (Sistema de Información Educativa)",
+        "En redes sociales",
+        "En un sitio web de clasificados",
+        "En blogs no oficiales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 14",
+      "explicacion": "El portal oficial del SIE es la plataforma habilitada para la consulta de calificaciones."
+    },
+    {
+      "question": "Caso Práctico: Un facilitador por error registró 35 puntos a un participante, pero en su cuaderno de campo es 75. El semestre se consolidó hace 15 días. ¿Cómo procede?",
+      "options": [
+        "Llenar el Formulario SIEALT-MN-070-400 en 2 ejemplares, adjuntar cuaderno de campo y tramitar ante la Dirección Distrital",
+        "Alterar la libreta impresa con bolígrafo",
+        "Hacer repetir el módulo al estudiante",
+        "Aumentarle puntos en el siguiente semestre sin avisar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículos 19 y 21",
+      "explicacion": "Dentro del plazo de 2 meses procede la modificación mediante el Formulario 400 y respaldos."
+    },
+    {
+      "question": "Caso Práctico: Un participante solicita su Certificado Técnico pero concluyó hace 3 años y no figura en el sistema por omisión de nota. ¿Qué trámite corresponde?",
+      "options": [
+        "Tramitar un proceso de Inclusión Extemporánea de Notas con respaldo documental del archivo del CEA y Resolución Administrativa de la DDE",
+        "Obligarlo a inscribirse y cursar de nuevo",
+        "Entregar un papel manuscrito sin registro",
+        "Denegar el trámite por paso del tiempo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 20",
+      "explicacion": "Transcurridos más de 2 meses, la inclusión extemporánea requiere Resolución Administrativa de la DDE."
+    },
+    {
+      "question": "Caso Práctico: El Director de un CEA cobra un monto a los egresados por concepto de empastado de la Libreta. ¿Qué falta comete?",
+      "options": [
+        "Comete falta grave por vulnerar el Principio de Gratuidad, estando sujeto a proceso disciplinario",
+        "No comete falta si usa el dinero para pintura",
+        "Es una falta leve sin importancia",
+        "Es un cobro permitido por norma local"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 3, inc. e) y Art. 33",
+      "explicacion": "La norma prohíbe cualquier cobro por la emisión o entrega de libretas y certificados."
+    },
+    {
+      "question": "Caso Práctico: Un estudiante pierde su libreta electrónica en un viaje y acude a la DDE de otro departamento. ¿Le pueden entregar el duplicado?",
+      "options": [
+        "Sí, cualquier DDE del país puede acceder al SIEALT y reimprimir el duplicado gratuitamente",
+        "No, debe viajar obligatoriamente a su municipio de origen",
+        "No, requiere denuncia especial",
+        "Solo si realiza un pago especial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 12",
+      "explicacion": "Al ser un sistema nacional centralizado, el duplicado se emite en cualquier DDE sin costo."
+    },
+    {
+      "question": "Caso Práctico: Un facilitador le entrega sus credenciales del SIEALT a un tercero para que suba sus notas. El tercero modifica datos erróneamente. ¿Qué responsabilidad tiene el facilitador?",
+      "options": [
+        "Asume la responsabilidad administrativa y disciplinaria plena por ceder credenciales personales e intransferibles",
+        "Ninguna, la culpa es del tercero",
+        "Se le exonera por ser un favor de un familiar",
+        "Se sanciona únicamente al tercero"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 14, Parágrafo III y Art. 33",
+      "explicacion": "Las credenciales son personales e intransferibles; el titular responde por los registros realizados con su usuario."
+    },
+    {
+      "question": "Caso Práctico: Un participante extranjero presenta Cédula de Identidad de su país de origen vencida. ¿Cómo actúa el CEA según el RUDEAL?",
+      "options": [
+        "Lo registra provisionalmente en el RUDEAL con su documento de origen e instruye la regularización de permanencia",
+        "Le niega la inscripción e impide el acceso al centro",
+        "Le cobra una multa",
+        "Le asigna una identidad no verificada"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 13",
+      "explicacion": "Se garantiza el acceso a la educación registrando el documento de origen mientras regulariza su situación."
+    },
+    {
+      "question": "Caso Práctico: Un Formulario SIEALT-MN-070-400 presenta corrector blanco sobre la casilla de nota anterior. ¿Qué procede?",
+      "options": [
+        "Rechazar inmediatamente el formulario e instruir que se llene un nuevo ejemplar limpio y sin alteraciones",
+        "Raspillar el corrector para revisar el número",
+        "Aprobarlo con una firma encima del corrector",
+        "Aceptarlo bajo compromiso verbal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 21, Instrucciones",
+      "explicacion": "Los formularios con enmiendas físicas o corrector líquido se rechazan automáticamente."
+    },
+    {
+      "question": "Caso Práctico: Un CEA rural sin internet no pudo entregar el medio magnético en plazo por un bloqueo de carreteras. ¿Cómo se resuelve la reapertura del sistema?",
+      "options": [
+        "El Director presenta un informe justificativo de fuerza mayor ante la Dirección Distrital para habilitar el sistema",
+        "Se clausura el CEA inmediatamente",
+        "Se reprueba a todos los estudiantes de la zona",
+        "Se le impone una sanción económica personal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 17, Parágrafo II",
+      "explicacion": "La fuerza mayor debidamente justificada permite la habilitación extemporánea del sistema."
+    },
+    {
+      "question": "Caso Práctico: Un participante aprueba sus módulos pero su libreta impreso tiene una falta de ortografía en el apellido. ¿Requiere Resolución Administrativa?",
+      "options": [
+        "No, la corrección de datos de filiación en el RUDEAL la realiza el Técnico SIE presentando el Certificado de Nacimiento corregido",
+        "Sí, requiere juicio ordinario",
+        "Sí, requiere ley parlamentaria",
+        "No se puede corregir nunca"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 13, Parágrafo III",
+      "explicacion": "La corrección de datos de filiación es un trámite técnico administrativo directo en el RUDEAL."
+    },
+    {
+      "question": "Caso Práctico: Un Director de CEA se niega a entregar la libreta a un estudiante por no asistir a una actividad extracurricular no obligatoria. ¿Qué falta comete?",
+      "options": [
+        "Comete falta grave por condicionamiento e intimidación, sancionada según el Reglamento de Faltas del Magisterio",
+        "Actúa de acuerdo a su criterio disciplinario",
+        "Es una falta leve sin trascendencia",
+        "El estudiante pierde el derecho a reclamar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 11 y 33",
+      "explicacion": "La entrega de la libreta es incondicional; retenerla por motivos ajenos a la evaluación es sancionable."
+    },
+    {
+      "question": "¿Qué sanción legal contempla el ordenamiento para quien altere ilegalmente notas en el sistema SIEALT?",
+      "options": [
+        "Proceso administrativo sancionador y responsabilidad legal por falsedad de registros públicos",
+        "Una llamada de atención verbal",
+        "Un descuento menor",
+        "Suspensión por dos días de clases"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 34",
+      "explicacion": "La alteración fraudulenta de registros públicos constituye una falta gravísima sancionada administrativamente."
+    },
+    {
+      "question": "En cursos técnicos de salud o ramas especializadas, ¿quién avala la nota modular práctica en el SIEALT?",
+      "options": [
+        "El facilitador responsable asignado al módulo en el SIEALT respaldado en su cuaderno de campo",
+        "El director del centro de salud en una carta manuscrita",
+        "El participante mediante autoevaluación",
+        "El gobierno municipal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 30",
+      "explicacion": "Las notas modulares las registra el facilitador responsable en base a sus instrumentos de evaluación."
+    },
+    {
+      "question": "¿Qué documento constituye el elemento probatorio central en una inspección de auditoría sobre notas en el CEA?",
+      "options": [
+        "El Cuaderno de Campo o Registro de Evaluación del Facilitador con las evidencias físicas",
+        "Testimonios orales no respaldados",
+        "Mensajes informales de texto",
+        "Comentarios de terceros"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 22",
+      "explicacion": "El cuaderno de campo/registro del facilitador es el instrumento físico oficial de respaldo."
+    },
+    {
+      "question": "Si una Libreta Electrónica impresa sufre deterioro accidental, ¿cómo se procede para obtener una nueva impresión?",
+      "options": [
+        "Solicitar directamente en la Dirección del CEA la reimpresión gratuita a través del SIEALT",
+        "Pagar una multa por maltrato de documentos",
+        "Presentar un trámite notariado costoso",
+        "Esperar a la siguiente gestión"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 12",
+      "explicacion": "La reimpresión por deterioro es gratuita y directa en el CEA al estar los datos resguardados en el sistema."
+    },
+    {
+      "question": "¿Quién debe verificar que las notas de los centralizadores impresos coincidan exactamente con las del SIEALT?",
+      "options": [
+        "La o el Director del CEA junto con la Comisión Técnica Pedagógica antes de la firma final",
+        "El consejo de estudiantes",
+        "El personal de mantenimiento",
+        "El chofer del centro"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 29, Numeral 3",
+      "explicacion": "El Director del CEA verifica la consistencia entre los centralizadores impresos y el sistema."
+    },
+    {
+      "question": "Caso Práctico: Un docente registró por error a un estudiante como 'Retirado' en vez de 'Aprobado'. Han pasado 3 meses de la consolidación. ¿Cómo se resuelve?",
+      "options": [
+        "El Director del CEA debe tramitar ante la DDE la emisión de una Resolución Administrativa con el Formulario 400 y cuadernos de campo",
+        "Inscribir al estudiante sin corregir el sistema",
+        "Obligarlo a repetir todo el curso",
+        "Cambiar la nota en el sistema sin autorización"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 20",
+      "explicacion": "Pasados los 2 meses ordinarios, la corrección del estado requiere obligatoriamente una Resolución Administrativa de la DDE."
+    },
+    {
+      "question": "¿Qué entidad pública de fiscalización puede realizar auditorías sobre las modificaciones de notas en el SIEALT?",
+      "options": [
+        "La Contraloría General del Estado y la Unidad de Auditoría Interna del Ministerio de Educación",
+        "Empresas privadas de auditoría no contratadas",
+        "La junta vecinal local",
+        "Asociaciones no gubernamentales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 25, Parágrafo III",
+      "explicacion": "Los registros del SIEALT están sujetos al control gubernamental de la Contraloría y Auditoría Interna."
+    },
+    {
+      "question": "¿Qué validez legal tienen las firmas digitales y marcas de seguridad almacenadas en el servidor del SIEALT?",
+      "options": [
+        "Tienen plena validez legal y valor probatorio conforme al marco de firma digital y tecnologías de información",
+        "Carecen de valor probatorio",
+        "Valen solo si se imprimen con sello de agua especial",
+        "Valen de forma temporal por 30 días"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 7",
+      "explicacion": "Las firmas y códigos digitales en los sistemas estatales gozan de plena validez jurídica."
+    },
+    {
+      "question": "¿En qué caso la DDE debe rechazar una solicitud de modificación de notas presentada en el Formulario 400?",
+      "options": [
+        "Cuando exista inconsistencia insubsanable entre el cuaderno de campo y lo solicitado, o falten respaldos probatorios",
+        "Cuando el tramite provenga de un CEA de provincia",
+        "Cuando el formulario sea llenado por una facilitadora mujer",
+        "Cuando el estudiante tenga más de 25 años"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 27, Parágrafo II",
+      "explicacion": "La falta de respaldo documental o la inconsistencia de datos motiva el rechazo de la solicitud."
+    },
+    {
+      "question": "En conclusión, ¿cuál es el objetivo estratégico central de la R.M. N° 800/2015 en la modernización de la Educación Alternativa?",
+      "options": [
+        "Garantizar la transparencia, seguridad jurídica, gratuidad y celeridad en la certificación académica mediante tecnologías informáticas",
+        "Instaurar el cobro de nuevos aranceles",
+        "Eliminar la formación de personas adultas",
+        "Exigir que cada estudiante compre una computadora personal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 800/2015, Artículo 1",
+      "explicacion": "Modernizar, transparentar y asegurar la gratuidad y seguridad de los documentos académicos mediante el SIEALT."
+    },
+    {
+      "question": "Según el Artículo 28 numeral 4, ¿qué debe hacer el Director del CEA si un participante reprobó o postergó un área de conocimientos al final del semestre?",
+      "options": [
+        "Organizar la realización y el registro del examen de nivelación de notas al final de cada semestre",
+        "Expulsar inmediatamente al participante del centro educativo",
+        "Cobrarle una multa en efectivo antes de tomarle la prueba",
+        "Promoverlo de curso automáticamente asignándole la nota máxima"
+      ],
+      "answer": 0,
+      "fuente": "Reglamento RM 800/2015, Artículo 28, numeral 4",
+      "explicacion": "El Director debe garantizar la organización y el registro del examen de nivelación semestral."
+    }
+  ]
+}

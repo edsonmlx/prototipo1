@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "14_rm_0190_2024_evaluacion_desarrollo_curricular",
+    "nombre": "R.M. N° 0190/2024 Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular",
+    "detalle": "Resolución Ministerial de 12 de marzo de 2024",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objeto principal del Reglamento aprobado mediante la R.M. N° 0190/2024 de 12 de marzo de 2024?",
+      "options": [
+        "Establecer la escala salarial del personal docente y administrativo de Educación Regular",
+        "Regular el sistema de evaluación de los procesos educativos en el desarrollo curricular del Subsistema de Educación Regular",
+        "Normar los procesos de infraestructura y equipamiento de las unidades educativas",
+        "Reglamentar exclusivamente la promoción de estudiantes con discapacidad"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 1",
+      "explicacion": "El Artículo 1 establece expresamente que el objeto del reglamento es regular el sistema de evaluación de los procesos educativos en el desarrollo curricular del Subsistema de Educación Regular."
+    },
+    {
+      "question": "¿En qué niveles e instituciones del Subsistema de Educación Regular se aplica obligatoriamente la R.M. N° 0190/2024?",
+      "options": [
+        "Únicamente en unidades educativas fiscales de nivel secundario",
+        "Solo en institutos técnicos superiores y centros de educación alternativa",
+        "En Educación Inicial (etapa escolarizada), Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva en U.E. fiscales, privadas y de convenio",
+        "Exclusivamente en unidades educativas de convenio y privadas del área urbana"
+      ],
+      "answer": 2,
+      "fuente": "R.M. N° 0190/2024, Artículo 2",
+      "explicacion": "El Artículo 2 determina el ámbito de aplicación en los tres niveles de Educación Regular en unidades educativas fiscales, privadas y de convenio."
+    },
+    {
+      "question": "Según el Artículo 3 de la R.M. N° 0190/2024, ¿cómo se define la 'Evaluación de la formación integral y holística'?",
+      "options": [
+        "Un examen cuantitativo final e inalterable sobre contenidos teóricos",
+        "Un proceso de valoración a través del análisis, reflexión crítica y constructiva del desarrollo de las y los estudiantes en el marco del MESCP",
+        "Una prueba estandarizada aplicada por la Dirección Distrital al terminar la gestión",
+        "Un trámite administrativo para sancionar a los estudiantes con bajo rendimiento"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 3",
+      "explicacion": "El Artículo 3 la concibe como un proceso dinámico, permanente y reflexivo para identificar logros, potencialidades y dificultades reorientando la práctica pedagógica."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un objetivo explícito de la evaluación según el Artículo 4 de la norma?",
+      "options": [
+        "Clasificar a los estudiantes en rangos competitivos para otorgar becas comerciales",
+        "Enfatizar la investigación exploratoria y producción creativa como estrategia pedagógica contribuyendo a la transformación social",
+        "Sancionar económicamente a los docentes cuyo grupo no alcance el 100% de aprobados",
+        "Eliminar la participación de la Comisión Técnico Pedagógica en las unidades educativas"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 4 inc. a)",
+      "explicacion": "El Artículo 4 inciso a) señala como primer objetivo enfatizar la investigación exploratoria y producción creativa como estrategia pedagógica."
+    },
+    {
+      "question": "¿Por qué la evaluación se considera 'Integral y holística' según las características señaladas en el Artículo 5?",
+      "options": [
+        "Porque permite medir únicamente los conocimientos teóricos memorizados",
+        "Porque permite valorar el desarrollo de las dimensiones: Ser, Saber, Hacer y Decidir de las y los estudiantes",
+        "Porque evalúa de manera idéntica a todos los subsistemas del Estado",
+        "Porque se aplica sólo al finalizar la gestión escolar mediante una prueba única"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 5 inc. a)",
+      "explicacion": "La integralidad y holisicidad radican en la comprensión y valoración del todo mediante las cuatro dimensiones: Ser, Saber, Hacer y Decidir."
+    },
+    {
+      "question": "Según el Artículo 5 inc. c), ¿qué implica la característica 'Dialógica y reflexiva' de la evaluación?",
+      "options": [
+        "Que la nota final la decide de forma unilateral el director de la unidad educativa",
+        "Que a través del diálogo permanente y el respeto a las diferencias se analizan y valoran los logros, limitaciones y dificultades",
+        "Que los estudiantes deben debatir públicamente sus notas frente a toda la escuela",
+        "Que la evaluación se realiza mediante una entrevista oral obligatoria por semana"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 5 inc. c)",
+      "explicacion": "Implica analizar los procesos educativos a través de la comunicación asertiva, el respeto mutuo y el cumplimiento de responsabilidades de todos los actores."
+    },
+    {
+      "question": "¿Qué significa que la evaluación tenga carácter 'Flexible' (Art. 5 inc. e)?",
+      "options": [
+        "Que el estudiante puede elegir la fecha en que desea rendir sus exámenes según su conveniencia",
+        "Que permite aplicar variedad de estrategias, técnicas e instrumentos de evaluación de acuerdo a las necesidades educativas",
+        "Que el maestro puede cambiar la nota mínima de aprobación libremente",
+        "Que no es obligatorio registrar calificaciones en la Libreta Escolar Electrónica"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 5 inc. e)",
+      "explicacion": "La flexibilidad radica en adaptar las metodologías e instrumentos evaluativos según la diversidad y requerimientos del grupo o estudiante."
+    },
+    {
+      "question": "¿A qué se refiere la característica de evaluación 'Transparente' (Art. 5 inc. g)?",
+      "options": [
+        "A la publicación de listas de aplazados en la puerta principal de la U.E.",
+        "A que los procesos de valoración se desarrollan de manera abierta, permitiendo el acceso a la información generada a los actores educativos",
+        "A la entrega de libretas impresas en hojas plásticas transparentes",
+        "A la prohibición de guardar los exámenes en archivos escolares"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 5 inc. g)",
+      "explicacion": "Garantiza que la información y resultados de la evaluación sean de conocimiento abierto, claro y oportuno para estudiantes y padres de familia."
+    },
+    {
+      "question": "¿Qué disposición de la R.M. N° 0473/2021 de 20 de agosto de 2021 fue decretada en la R.M. N° 0190/2024?",
+      "options": [
+        "Fue ratificada y declarada imprescriptible",
+        "Fue abrogada expresamente mediante el Artículo 3 de la Resolución Ministerial N° 0190/2024",
+        "Fue modificada únicamente en su capítulo de educación especial",
+        "Fue declarada en reserva hasta la gestión 2026"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Resuelve Artículo 3",
+      "explicacion": "El Artículo 3 de la R.M. N° 0190/2024 abroga expresamente la Resolución Ministerial N° 0473/2021."
+    },
+    {
+      "question": "¿Qué constituye la Libreta Escolar Electrónica de acuerdo con los Considerandos e Informe Técnico de la norma?",
+      "options": [
+        "Un borrador borrable sujeto a modificaciones informales",
+        "El documento oficial de certificación, comunicación y acreditación de los resultados logrados, que se constituye en declaración jurada",
+        "Un requisito administrativo optativo que solo se entrega a pedido del tutor",
+        "Un certificado expedido por el Ministerio de Gobierno"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Considerando II y Art. 71",
+      "explicacion": "La Libreta Escolar Electrónica es el documento acreditativo oficial con rango de declaración jurada firmado por el Director y Asesor de Curso."
+    },
+    {
+      "question": "¿Qué se establece respecto a la evaluación en casos extremos de crisis sanitaria o desastres naturales en la Disposición Transitoria Única?",
+      "options": [
+        "Se suspende automáticamente toda evaluación y se aprueba a todos los estudiantes con 100 puntos",
+        "La evaluación se realizará tomando en cuenta las contingencias, previa recomendación del Ministerio de Salud",
+        "Se transfieren las U.E. a la modalidad de educación superior",
+        "Queda prohibida la entrega de libretas escolares durante tres años"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Transitoria Única",
+      "explicacion": "Fija la adaptabilidad del sistema evaluativo frente a emergencias nacionales o desastres naturales en coordinación con las autoridades de salud."
+    },
+    {
+      "question": "Según el Artículo 5 inc. i), ¿por qué la evaluación es 'Cualitativa y cuantitativa'?",
+      "options": [
+        "Porque asigna únicamente letras al azar en el boletín escolar",
+        "Porque valora las habilidades y capacidades en las 4 dimensiones expresándolas tanto literalmente como de forma numérica",
+        "Porque depende de dos exámenes escritos semanales",
+        "Porque la nota cualitativa anula a la nota numérica en el sistema SIE"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 5 inc. i)",
+      "explicacion": "Integra la apreciación descriptiva del desarrollo de habilidades con la expresión numérica representativa en la escala de 1 a 100."
+    },
+    {
+      "question": "¿Cuál es la característica de evaluación denominada 'Sistemática' (Art. 5 inc. k)?",
+      "options": [
+        "Que requiere el uso exclusivo de computadoras para tomar exámenes",
+        "Que integra métodos, estrategias, materiales y horarios inherentes a los procesos educativos involucrando la realidad sociocultural",
+        "Que la evaluación se realiza una sola vez al año de forma automática",
+        "Que prohíbe las actividades prácticas de laboratorio"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 5 inc. k)",
+      "explicacion": "Sistemática porque articula ordenadamente métodos, instrumentos y contexto para asegurar la continuidad del proceso pedagógico."
+    },
+    {
+      "question": "¿Qué objetivo de la evaluación (Art. 4 inc. f) ampara a los estudiantes con necesidades educativas especiales?",
+      "options": [
+        "Otorgarles la eximición total de la asistencia a clases",
+        "Orientar la evaluación a estudiantes con necesidades educativas especiales en igualdad de oportunidades y equiparación de condiciones",
+        "Segregarlos a centros de rehabilitación fuera del sistema regular",
+        "Asignarles una calificación fija de 51 puntos sin evaluación"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 4 inc. f)",
+      "explicacion": "Garantiza el derecho a la educación inclusiva mediante evaluaciones adaptadas con equiparación de condiciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5 inc. h), ¿qué define a la evaluación como 'Confiable'?",
+      "options": [
+        "A que el estudiante aprueba únicamente si el maestro lo conoce desde el año anterior",
+        "A que la valoración como resultado de la información obtenida se desarrolla de manera responsable e imparcial",
+        "A que se aplica el mismo examen a nivel nacional sin importar el contexto",
+        "A que la calificación final es inapelable y secreta"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 5 inc. h)",
+      "explicacion": "Asegura objetividad, imparcialidad y rigor ético en la recolección de evidencias y asignación de valoraciones."
+    },
+    {
+      "question": "¿Qué es la Comisión Técnico Pedagógica (CTP) según el Artículo 6 Parágrafo I?",
+      "options": [
+        "Un tribunal disciplinario encargado de sancionar faltas de los docentes",
+        "La instancia en la unidad educativa que brinda apoyo técnico pedagógico a la gestión curricular para atender casos con dificultades de aprendizaje, discapacidad o rezago",
+        "El comité de padres de familia que administra el bono Juancito Pinto",
+        "La junta de auxilio escolar constituida por el Municipio"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 6 Parágrafo I",
+      "explicacion": "Es la instancia interna de la U.E. para apoyar la gestión curricular y dar respuesta a casos pedagógicos requeridos."
+    },
+    {
+      "question": "Según el Art. 6 Parágrafo II, ¿en qué momento deben realizarse las acciones de apoyo pedagógico (reforzamiento, adaptaciones curriculares o 2da instancia)?",
+      "options": [
+        "En las vacaciones de fin de año de forma obligatoria",
+        "Antes de la conclusión de cada trimestre",
+        "Durante el primer mes de la siguiente gestión escolar",
+        "Únicamente el último día de clases del año"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 6 Parágrafo II",
+      "explicacion": "Todas las acciones de apoyo y nivelación propuestas por la CTP deben ejecutarse oportunamente antes de que finalice el trimestre correspondiente."
+    },
+    {
+      "question": "¿Cómo se toman las decisiones y recomendaciones dentro de la Comisión Técnico Pedagógica (Art. 6 Parágrafo III)?",
+      "options": [
+        "Por voto secreto y mayoría simple del consejo de profesores",
+        "Por consenso, debiendo ser asumidas por los maestros de los diferentes niveles, áreas y campos",
+        "Por imposición directa del Director Distrital",
+        "Por sorteo aleatorio entre los integrantes de la CTP"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 6 Parágrafo III",
+      "explicacion": "La norma exige expresamente la toma de decisiones por consenso para garantizar el compromiso de la comunidad docente."
+    },
+    {
+      "question": "En el Nivel de Educación Primaria Comunitaria Vocacional, ¿cómo se conforma la Comisión Técnico Pedagógica (Art. 7 Parágrafo I inc. b)?",
+      "options": [
+        "Por todos los maestros de la unidad educativa sin excepción",
+        "Por la Directora o Director de la U.E. y un representante de los maestros por año de escolaridad",
+        "Por el Director Distrital y los representantes del Junta Escolar",
+        "Por el psicólogo del municipio y un representante de los padres"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 7 I inc. b)",
+      "explicacion": "En Primaria la CTP se constituye por la autoridad directiva y un docente representante por cada año de escolaridad."
+    },
+    {
+      "question": "En Educación Secundaria Comunitaria Productiva, ¿quiénes integran la CTP según el Art. 7 Parágrafo I inc. c)?",
+      "options": [
+        "El Director de la U.E. y los asesores de promo únicamente",
+        "La Directora o Director de la U.E. y representantes de las y los maestros por cada Campo de Saberes y Conocimientos",
+        "El presidente de la promoción y dos docentes del área de matemáticas",
+        "Cualquier docente que tenga más de 10 años de servicio en el plantel"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 7 I inc. c)",
+      "explicacion": "En Secundaria la representación docente ante la CTP se organiza por Campos de Saberes y Conocimientos."
+    },
+    {
+      "question": "¿Cómo se conforma la CTP en Unidades Educativas Asociadas que cuentan con uno hasta cuatro maestros (Art. 7 Parágrafo III)?",
+      "options": [
+        "Se eximen de conformar la CTP debiendo acudir al distrito",
+        "Estos maestros (de 1 a 4) serán directamente responsables de la Comisión Técnico Pedagógica",
+        "Se nombra a un padre de familia como presidente de la CTP",
+        "Se fusiona la CTP con la alcaldía de la región"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 7 Parágrafo III",
+      "explicacion": "En U.E. asociadas pequeñas con 1 a 4 docentes, la totalidad de los maestros asume directamente las funciones de la CTP."
+    },
+    {
+      "question": "¿Con qué periodicidad debe programar la CTP reuniones para analizar y plantear soluciones a las dificultades de aprendizaje (Art. 8 inc. e)?",
+      "options": [
+        "Diariamente al finalizar la jornada laboral",
+        "A mediados de cada trimestre",
+        "Únicamente al cierre definitivo de la gestión académica",
+        "Una vez cada dos años"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 8 inc. e)",
+      "explicacion": "Las reuniones periódicas de análisis de dificultades se programan a mediados de cada trimestre para intervenir a tiempo."
+    },
+    {
+      "question": "¿Con qué anticipación debe convocar la CTP a los padres de familia a reunión informativa sobre estudiantes con dificultades (Art. 8 inc. f)?",
+      "options": [
+        "El último día de entrega de notas",
+        "Un mes antes de la conclusión del trimestre",
+        "24 horas antes del consejo evaluativo",
+        "No es necesario convocar a los padres hasta fin de año"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 8 inc. f)",
+      "explicacion": "Exige convocar a los padres un mes antes del cierre de trimestre para asumir responsabilidades compartidas de apoyo oportuno."
+    },
+    {
+      "question": "Según el Artículo 8 inc. m), ¿en qué caso la CTP y Dirección deben presentar informe a la Defensoría de la Niñez y Adolescencia (DNA)?",
+      "options": [
+        "Cuando un estudiante pierda sus útiles escolares",
+        "Respecto a estudiantes que no tienen el apoyo de sus madres, padres o tutores, precautelando su derecho a la educación",
+        "Cuando un alumno falte dos días por motivos de salud",
+        "Siempre que el estudiante obtenga menos de 30 puntos en autoevaluación"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 8 inc. m)",
+      "explicacion": "Protege el derecho a la educación notificando a la DNA ante el abandono o irresponsabilidad reiterada de los progenitores."
+    },
+    {
+      "question": "¿Qué acción de intercambio pedagógico prevé el Artículo 69 para la Comisión Técnico Pedagógica?",
+      "options": [
+        "Organizar viajes de turismo para los docentes al extranjero",
+        "Realizar un intercambio pedagógico en evaluación mínimamente una vez por gestión con otra U.E. de similares características",
+        "Vender los instrumentos de evaluación a colegios privados",
+        "Tomar exámenes estandarizados comprados de otras U.E."
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 69",
+      "explicacion": "Establece el intercambio pedagógico evaluativo entre unidades educativas al menos una vez al año para fortalecer la práctica docente."
+    },
+    {
+      "question": "¿Quiénes eligen a la presidencia y secretaría de la Comisión Técnico Pedagógica (Art. 7 Parágrafo II)?",
+      "options": [
+        "El Director Distrital mediante memorándum",
+        "Son elegidos entre las maestras y maestros integrantes de la Comisión",
+        "La Junta Escolar mediante votación en asamblea",
+        "Se designan por orden alfabético de apellidos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 7 Parágrafo II",
+      "explicacion": "La directiva de la CTP es elegida democráticamente de manera interna entre los propios docentes miembros de la comisión."
+    },
+    {
+      "question": "Según el Artículo 8 inc. j), ¿cuál es el instrumento obligatorio de registro en cada sesión de la CTP?",
+      "options": [
+        "Grabación de audio en MP3",
+        "Elaboración de actas de cada una de las sesiones",
+        "Un boletín de prensa escolar",
+        "Un correo electrónico enviado al Ministerio"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 8 inc. j)",
+      "explicacion": "Cada sesión de la CTP debe respaldarse formalmente mediante el labrado del acta correspondiente."
+    },
+    {
+      "question": "¿Qué función tiene la CTP respecto a los estudiantes de talento extraordinario (Art. 8 inc. k)?",
+      "options": [
+        "Sancionarlos con tareas dobles",
+        "Presentar informes a la Dirección con sugerencias de soluciones e inclusión de ponderación para estudiantes de talento extraordinario",
+        "Obligarlos a dar clases en reemplazo de los docentes",
+        "Avanzarlos directamente a la universidad"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 8 inc. k)",
+      "explicacion": "La CTP propone medidas pedagógicas pertinentes, aceleración y ponderación adecuada a estudiantes con talento extraordinario."
+    },
+    {
+      "question": "De acuerdo al Artículo 8 inc. g), las reuniones ordinarias de la CTP se realizan trimestralmente. ¿Cuándo se realizan las extraordinarias?",
+      "options": [
+        "Se prohíben las reuniones extraordinarias",
+        "En casos de necesidades fundamentadas, a convocatoria de la Dirección en cualquier momento",
+        "Únicamente los domingos por la tarde",
+        "Solo si lo autoriza el Ministerio de Economía"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 8 inc. g)",
+      "explicacion": "La CTP puede sesionar de emergencia cuando existan motivos justificados que requieran atención pedagógica urgente."
+    },
+    {
+      "question": "¿Quién analiza en primera instancia los casos de bajo rendimiento remitidos por la Dirección según el Art. 9 III inc. a)?",
+      "options": [
+        "El Consejo de Padres de Familia",
+        "La Comisión Técnico Pedagógica, proponiendo alternativas técnico pedagógicas",
+        "La Policía Boliviana",
+        "El Tribunal Constitucional Plurinacional"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 III inc. a)",
+      "explicacion": "Corresponde a la CTP analizar técnicamente los casos de bajo rendimiento y recomendar las medidas de apoyo oportunas."
+    },
+    {
+      "question": "¿Quiénes son los responsables del registro de calificaciones en el Sistema de Información Educativa (SIE) en Inicial y Primaria (Art. 9 IV inc. h)?",
+      "options": [
+        "Las y los estudiantes del curso",
+        "Las maestras y los maestros de aula",
+        "El regente o portero de la unidad educativa",
+        "La secretaria de la Dirección Distrital"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 IV inc. h)",
+      "explicacion": "En Educación Inicial y Primaria, los docentes de aula son los responsables directos de subir las notas al SIE."
+    },
+    {
+      "question": "En Secundaria Comunitaria Productiva, ¿quién es responsable del registro de calificaciones en el SIE (Art. 9 IV inc. i)?",
+      "options": [
+        "Exclusivamente el Director de la U.E.",
+        "El tutor de curso, en coordinación con la maestra o maestro de Área de Saberes y Conocimientos",
+        "El presidente del centro de estudiantes",
+        "Un profesional informático contratado por los padres"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 IV inc. i)",
+      "explicacion": "En Secundaria se delega la responsabilidad centralizadora del llenado al tutor del curso coordinando con los docentes de materia."
+    },
+    {
+      "question": "¿Qué carácter legal tiene la Libreta Escolar Electrónica según el Artículo 9 IV inc. g)?",
+      "options": [
+        "Se constituye en declaración jurada y su alteración o modificación está sujeta a sanciones administrativas",
+        "Un borrador informativo sin valor normativo",
+        "Un certificado de conducta emitido por la junta escolar",
+        "Un documento de propiedad privada inexpugnable"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 IV inc. g)",
+      "explicacion": "Posee rango pleno de declaración jurada; cualquier manipulación ilegal acarrea responsabilidad penal y administrativa."
+    },
+    {
+      "question": "¿Quiénes firman y sellan obligatoriamente la Libreta Escolar Electrónica al finalizar cada trimestre (Art. 9 IV inc. j)?",
+      "options": [
+        "El presidente de curso y el representante de la junta de padres",
+        "La Directora o Director de la unidad educativa o núcleo, en coordinación con la o el asesor de curso",
+        "El Director Distrital y el Alcalde Municipal",
+        "El maestro de educación física únicamente"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 IV inc. j)",
+      "explicacion": "La validez formal del documento exige la firma y sello conjunto de la autoridad directiva y el asesor de curso."
+    },
+    {
+      "question": "¿Dónde debe registrar el maestro el desarrollo curricular de manera procesual y permanente (Art. 9 IV inc. c)?",
+      "options": [
+        "En hojas sueltas recicladas",
+        "En el Cuaderno Pedagógico de la o el maestro",
+        "En su libreta personal de notas telefónicas",
+        "En la pizarra del aula exclusivamente"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 IV inc. c)",
+      "explicacion": "El Cuaderno Pedagógico es el instrumento oficial de registro cotidiano, continuo y obligatorio del docente."
+    },
+    {
+      "question": "Según el Artículo 9 VI, ¿cuál es la responsabilidad primordial de la madre, padre y/o tutor en el proceso formativo?",
+      "options": [
+        "Pagar una mensualidad obligatoria al maestro de aula",
+        "Brindar educación a sus hijas e hijos asumiendo la corresponsabilidad, realizando seguimiento permanente y asistiendo a reuniones",
+        "Aprobar los exámenes en lugar de sus hijos",
+        "Elaborar los trabajos prácticos para garantizar la nota"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 Parágrafo VI",
+      "explicacion": "La norma define la corresponsabilidad familiar como el deber ineludible de acompañar y apoyar la formación académica de los hijos."
+    },
+    {
+      "question": "¿Qué responsabilidad tienen los estudiantes según el Artículo 9 Parágrafo V inc. a)?",
+      "options": [
+        "Elegir el horario de entrada y salida del colegio",
+        "Participar de forma activa, creativa, comprometida, responsable y obligatoria en el desarrollo curricular",
+        "Calificar el desempeño salarial de sus profesores",
+        "Eximirse de hacer tareas domiciliarias"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 Parágrafo V",
+      "explicacion": "El estudiante asume el rol activo y responsable de su propia formación académica y conducta ética."
+    },
+    {
+      "question": "¿En qué momento debe realizarse la entrega oficial de la Libreta Escolar Electrónica a las madres/padres de familia (Art. 9 IV inc. l)?",
+      "options": [
+        "A mediados del año escolar en una bolsa cerrada",
+        "En la reunión de informe de fin de trimestre convocada con participación de la Dirección",
+        "Vía WhatsApp de manera informal sin reunión",
+        "Únicamente al concluir el sexto de secundaria"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 IV inc. l)",
+      "explicacion": "La entrega es presencial e informativa al cierre de cada trimestre en asamblea de padres registrada en acta."
+    },
+    {
+      "question": "De acuerdo al Artículo 63 inc. c y d), ¿qué derecho ampara la información evaluativa de los estudiantes?",
+      "options": [
+        "Derecho a la difusión pública en redes sociales",
+        "Derecho a la privacidad a favor de las y los estudiantes, siendo proporcionada exclusivamente a partes autorizadas",
+        "Derecho a ser comercializada a empresas privadas",
+        "Derecho a ser destruida al término del mes"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 63 inc. c y d)",
+      "explicacion": "Resguarda la confidencialidad de las calificaciones y diagnósticos de los menores frente a terceros no autorizados."
+    },
+    {
+      "question": "Según el Artículo 64 Parágrafo IV, ¿qué se prohíbe taxativamente en los procesos de evaluación?",
+      "options": [
+        "Usar bolígrafos de color azul",
+        "Todo tipo de discriminación, influencias o favoritismos",
+        "Tomar exámenes los días lunes",
+        "La autoevaluación del estudiante"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 64 Parágrafo IV",
+      "explicacion": "Se prohíbe todo favoritismo o sesgo discriminatorio garantizando imparcialidad y equidad evaluativa."
+    },
+    {
+      "question": "¿Quién realiza el seguimiento y apoyo técnico pedagógico a los maestros en la aplicación de instrumentos (Art. 9 II inc. a)?",
+      "options": [
+        "La o el Director de la unidad educativa",
+        "El ministro de Economía",
+        "El presidente de la Junta Vecinal",
+        "Un auditor externo privado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 II inc. a)",
+      "explicacion": "Es atribución y responsabilidad técnica de la autoridad directiva supervisar la correcta evaluación aplicada por sus docentes."
+    },
+    {
+      "question": "Según el Art. 9 II inc. e), ¿a qué instancias debe derivar el Director los casos especiales de estudiantes (discapacidad, talento extraordinario)?",
+      "options": [
+        "A la brigada policial más cercana",
+        "A la Comisión Técnico Pedagógica y/o Centros de Educación Especial / Centros Integrales Multisectoriales",
+        "Al registro civil para su anulación",
+        "A un tribunal de arbitraje comercial"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 II inc. e)",
+      "explicacion": "El Director encausa institucionalmente los requerimientos especiales ante la CTP y gabinetes multidisciplinarios del área de especial."
+    },
+    {
+      "question": "¿Qué sucede si se comprueba la alteración no autorizada de calificaciones en la Libreta Electrónica (Art. 9 IV inc. g y Art. 63 inc. b)?",
+      "options": [
+        "Se le otorga una felicitación al responsable",
+        "Se dará inicio a las acciones administrativas y sanciones correspondientes al autor",
+        "Se elimina el curso completo del sistema",
+        "Se otorga 100 puntos a todos los estudiantes afectados"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 9 IV inc. g y 63 inc. b",
+      "explicacion": "Cualquier alteración irregular de un documento con rango de declaración jurada deriva en procesos sumarios y penales."
+    },
+    {
+      "question": "¿Qué responsabilidad tiene el maestro respecto a los estudiantes que no asisten a la U.E. (Art. 9 IV inc. m)?",
+      "options": [
+        "Ignorar las faltas hasta fin de año",
+        "Informar oportunamente a la Dirección y a las madres, padres y/o tutores",
+        "Expulsarlos de la escuela de forma inmediata",
+        "Aumentarles la nota por inasistencia"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 9 IV inc. m)",
+      "explicacion": "Exige alertas tempranas del docente ante ausencias no justificadas para prevenir la deserción o detectar vulneraciones."
+    },
+    {
+      "question": "Según el Artículo 73 Parágrafo II, ¿cuál es el instrumento de uso obligatorio donde el maestro registra el avance y criterios de evaluación?",
+      "options": [
+        "El cuaderno pedagógico",
+        "El libro de caja chica del colegio",
+        "La agenda personal del director",
+        "Una hoja volante semanal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 73 Parágrafo II",
+      "explicacion": "El cuaderno pedagógico consolida de forma técnico-pedagógica toda la información del avance programático y resultados."
+    },
+    {
+      "question": "En el caso de estudiantes con discapacidad intelectual, ¿cuál es el referente más importante y obligatorio para su proceso formativo (Art. 10 inc. c)?",
+      "options": [
+        "El promedio del estudiante más destacado del aula",
+        "Las recomendaciones de la evaluación integral de diagnóstico o transitabilidad, sin afectar objetivos ni contenidos de la planificación",
+        "Un examen estandarizado de admisión",
+        "El criterio exclusivo del presidente de la junta escolar"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 10 inc. c)",
+      "explicacion": "El diagnóstico del equipo multidisciplinario guía obligatoriamente las adaptaciones sin recortar las metas del currículo."
+    },
+    {
+      "question": "¿Hasta qué edad máxima al 30 de junio pueden ser incorporados al Subsistema Regular las niñas, niños y adolescentes en desventaja social (Art. 11)?",
+      "options": [
+        "Hasta los 18 años cumplidos",
+        "Menor a 15 años al 30 de junio de la gestión",
+        "Hasta los 10 años únicamente",
+        "Sin límite de edad en Educación Inicial"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 11",
+      "explicacion": "Ajusta la edad tope a menores de 15 años al 30 de junio para su inserción al nivel regular correspondiente."
+    },
+    {
+      "question": "Mencione tres poblaciones consideradas en situación de desventaja social según el Artículo 11:",
+      "options": [
+        "Estudiantes universitarios, docentes jubilados y profesionales con maestría",
+        "Trabajadores, víctimas de violencia o trata, e hijos de personas privadas de libertad",
+        "Propietarios de colegios privados, comerciantes informales e inmigrantes con visa de trabajo",
+        "Deportistas profesionales, diplomáticos y funcionarios públicos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 11",
+      "explicacion": "El Artículo 11 enumera explícitamente a menores trabajadores, víctimas de violencia, trata, hijos de privados de libertad, en situación de calle, etc."
+    },
+    {
+      "question": "Según el Artículo 17 Parágrafo I, ¿qué documento reemplaza a la Libreta Electrónica Escolar para la promoción en nivelación de desventaja social?",
+      "options": [
+        "Un certificado médico de buena salud",
+        "El Acta Supletoria emitida por la Dirección y la CTP",
+        "Una carta de recomendación del barrio",
+        "El título de bachiller provisional"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 17 Parágrafo I",
+      "explicacion": "El Acta Supletoria de Promoción posee plena validez legal equivalente para acreditar los años o nivelados."
+    },
+    {
+      "question": "¿Qué valor legal posee el Acta Supletoria según el Artículo 18 de la norma?",
+      "options": [
+        "Un valor temporal de 30 días únicamente",
+        "Tiene valor legal igual a la Libreta Escolar Electrónica",
+        "No tiene valor legal fuera de la unidad educativa",
+        "Requiere la firma de un juez de partido para ser válida"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 18",
+      "explicacion": "El Artículo 18 dota expresamente al Acta Supletoria del mismo rango y equivalencia legal que la libreta electrónica."
+    },
+    {
+      "question": "¿En qué consiste la 'Nivelación por rezago escolar' descrita en el Artículo 21 Parágrafo I?",
+      "options": [
+        "En hacer repetir de curso dos veces al estudiante",
+        "En promover al estudiante en uno o más años de escolaridad mediante evaluación, cuando tenga 2 o más años de diferencia respecto a su grupo etáreo",
+        "En darle clases nocturnas obligatorias a niños de 6 años",
+        "En eximirlo de rendir evaluaciones durante toda la escolaridad"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 21 Parágrafo I",
+      "explicacion": "Permite recuperar la correspondencia etárea nivelando al estudiante previa evaluación pedagógica y psicosocial."
+    },
+    {
+      "question": "Según el Artículo 22 Parágrafo I, ¿cuál es la prohibición o causal de inaplicabilidad del rezago escolar?",
+      "options": [
+        "Estudiantes que ingresen por primera vez a la escuela",
+        "Estudiantes que tuvieran retención (reprobación) en años anteriores",
+        "Estudiantes nacidos en el extranjero",
+        "Estudiantes de U.E. privadas"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 22 Parágrafo I",
+      "explicacion": "La nivelación por rezago es inaplicable a estudiantes retenidos previamente, aplacándose por única vez en la escolaridad."
+    },
+    {
+      "question": "¿Se puede aplicar la nivelación por rezago escolar en el sexto año de Educación Secundaria (Art. 22 Parágrafo II)?",
+      "options": [
+        "Sí, siempre que el estudiante pague la matrícula",
+        "No, está prohibida su aplicación al sexto año de escolaridad de Educación Secundaria Comunitaria Productiva",
+        "Sí, con autorización del presidente del estado",
+        "Sí, únicamente en los colegios de convenio"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 22 Parágrafo II",
+      "explicacion": "El parágrafo II del Art. 22 prohíbe taxativamente la promoción por rezago en el último año del nivel secundario."
+    },
+    {
+      "question": "En el caso de estudiantes con Talento Extraordinario, ¿qué documento acredita su aceleración de grado (Art. 23 Parágrafo III)?",
+      "options": [
+        "El diploma de honor de fin de curso",
+        "El Acta Supletoria de Aceleración llenada tras evaluación por la CTP e informe documentado",
+        "Un carnet expedido por el Ministerio de Ciencia y Tecnología",
+        "Una nota escrita del profesor de aula"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 23 Parágrafo III",
+      "explicacion": "Acredita la promoción acelerada fundamentada mediante el Acta Supletoria de aceleración e informe técnico."
+    },
+    {
+      "question": "¿Quiénes deben capacitarse para brindar atención adecuada a personas con discapacidad o ventaja social según el Art. 20?",
+      "options": [
+        "Solo los estudiantes de secundaria",
+        "Las maestras, maestros y personal administrativo, recibiendo cursos certificados por el Ministerio de Educación",
+        "Los porteros y choferes únicamente",
+        "Los miembros de la junta de vecinos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 20",
+      "explicacion": "Exige actualización constante y especializada del personal docente y administrativo acreditada por el Ministerio."
+    },
+    {
+      "question": "Según el Artículo 65, ¿con qué instituciones se coordina la atención de estudiantes con dificultades en el aprendizaje?",
+      "options": [
+        "Con institutos bancarios comerciales",
+        "Con instituciones del ámbito de Educación Especial más próximas",
+        "Con el Ministerio de Defensa",
+        "Con federaciones de transporte público"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 65",
+      "explicacion": "Establece redes de apoyo pedagógico entre la unidad regular y los centros de educación especial especializados."
+    },
+    {
+      "question": "Definición de Adaptaciones Curriculares según el Artículo 66 de la R.M. N° 0190/2024:",
+      "options": [
+        "Modificaciones totales que eliminan el 90% de la materia",
+        "Modificaciones y/o ajustes que se realizan a los elementos del currículo (pedagogía, metodología, materiales, evaluación) sin afectar objetivos ni contenidos",
+        "Cambios de colegio decretados por el director",
+        "Exámenes orales improvisados el día de la prueba"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 66",
+      "explicacion": "Ajustan la forma de enseñar y evaluar sin degradar la calidad ni recortar los objetivos y contenidos del nivel."
+    },
+    {
+      "question": "¿Cuáles son las dos modalidades de apoyo complementario según el Artículo 68?",
+      "options": [
+        "Cobro de clases particulares remuneradas y tareas para la casa",
+        "Clases de apoyo por pares o en grupo y tutorías desarrolladas por maestras/os",
+        "Expulsión temporal y suspensión de exámenes",
+        "Contratación de profesores externos pagados por los padres"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 68 inc. a y b",
+      "explicacion": "Dispone el apoyo gratuito intrínseco mediante tutorías docentes y aprendizaje cooperativo entre pares."
+    },
+    {
+      "question": "Según el Artículo 10 inc. e, ¿a qué están sujetos los estudiantes matriculados en Educación Inclusiva?",
+      "options": [
+        "Exclusivamente a los reglamentos de salud del municipio",
+        "Al cumplimiento de todos los aspectos establecidos en el presente reglamento de evaluación",
+        "A reglas especiales fijadas por los padres sin control docente",
+        "A no ser evaluados cuantitativamente en ningún nivel"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 10 inc. e)",
+      "explicacion": "Determina que la inclusión escolar se rige bajo los parámetros normativos y evaluación integral del SEP."
+    },
+    {
+      "question": "¿Qué documento de compromiso deben firmar los padres de niños trabajadores o en desventaja social (Art. 19)?",
+      "options": [
+        "Un pagaré bancario en favor de la escuela",
+        "Un compromiso de corresponsabilidad en el proceso formativo, coordinado si es necesario con la Defensoría (DNA)",
+        "Un contrato de trabajo infantil regulado",
+        "Una exención de responsabilidad para el colegio"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 19",
+      "explicacion": "Formaliza el compromiso de apoyo continuo del tutor para evitar la deserción del estudiante en desventaja."
+    },
+    {
+      "question": "¿Cómo es la evaluación en el Nivel de Educación Inicial en Familia Comunitaria según el Artículo 34?",
+      "options": [
+        "Exclusivamente cuantitativa de 1 a 100 puntos",
+        "Cualitativa, valorando el desarrollo de capacidades, cualidades y potencialidades en las 4 dimensiones",
+        "Basada en exámenes escritos semanales",
+        "Por promedio aritmético entre conducta y asistencia"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 34",
+      "explicacion": "En el Nivel Inicial la evaluación es de carácter estrictamente cualitativo y procesual."
+    },
+    {
+      "question": "¿Cuáles son los 4 rangos de la valoración cualitativa en Educación Inicial (Art. 37)?",
+      "options": [
+        "Sobresaliente, Bueno, Regular y Malo",
+        "Desarrollo Pleno (DP), Desarrollo Óptimo (DO), Desarrollo Aceptable (DA) y En Desarrollo (ED)",
+        "Aprobado, Reprobado, Excelente e Insuficiente",
+        "Nivel A, Nivel B, Nivel C y Nivel D"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 37",
+      "explicacion": "Define taxativamente los cuatro rangos de desempeño cualitativo aplicados en la libreta del Nivel Inicial."
+    },
+    {
+      "question": "¿Cómo se define el criterio de promoción en Educación Inicial en Familia Comunitaria (Art. 44)?",
+      "options": [
+        "Es por examen sumativo final de 51 puntos",
+        "La promoción del año de escolaridad es automática, previo cumplimiento de las actividades programadas en el plan de estudios",
+        "Se aprueba sólo si el estudiante sabe leer y escribir perfectamente",
+        "Depende de una prueba tomada por la comisión del distrito"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 44",
+      "explicacion": "En Nivel Inicial la promoción a Primaria es automática habiendo cumplido las actividades del plan de estudios."
+    },
+    {
+      "question": "En Primaria y Secundaria, ¿cuál es la ponderación máxima asignada a las dimensiones evaluadas por el maestro y a la autoevaluación (Arts. 49, 50, 56, 57)?",
+      "options": [
+        "Ser (10), Saber (30), Hacer (30), Decidir (10), Autoevaluación (20) = 100",
+        "Ser (5), Saber (45), Hacer (40), Decidir (5) y Autoevaluación (5) = Total 100 puntos",
+        "Saber (50) y Hacer (50) únicamente",
+        "Ser (25), Saber (25), Hacer (25) y Decidir (25)"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 49, 50, 56 y 57",
+      "explicacion": "Fija exactamente el cuadro de distribución de puntajes sobre 100: Saber 45 pts, Hacer 40 pts, Ser 5 pts, Decidir 5 pts y Autoevaluación 5 pts."
+    },
+    {
+      "question": "¿En qué dimensiones realiza el estudiante su autoevaluación y cuántos puntos pondera (Arts. 29, 49, 56)?",
+      "options": [
+        "En la dimensión Saber sobre 45 puntos",
+        "En las dimensiones del Ser y Decidir sobre 5 puntos para ambas, incorporándose al promedio final del área",
+        "En la dimensión Hacer sobre 40 puntos",
+        "En conducta y disciplina sobre 10 puntos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 29, 49 y 56",
+      "explicacion": "La autoevaluación se enfoca en el desarrollo ético y comunitario (Ser y Decidir) ponderando 5 puntos en total."
+    },
+    {
+      "question": "Según la escala cuali-cuantitativa (Arts. 50 II, 57 II), ¿cuál es el rango de puntos para 'Desarrollo Aceptable (DA)' y su condición?",
+      "options": [
+        "De 1 a 50 puntos - Retenido",
+        "De 51 a 68 puntos - Promovido",
+        "De 69 a 84 puntos - Promovido",
+        "De 85 a 100 puntos - Promovido"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 50 II y 57 II",
+      "explicacion": "El rango DA abarca de 51 a 68 puntos asignando la condición promocional al estudiante."
+    },
+    {
+      "question": "¿Cuál es el puntaje mínimo de aprobación en el rendimiento cuantitativo anual de un Área de Saberes (Arts. 50, 51, 57, 58)?",
+      "options": [
+        "70 puntos",
+        "51 puntos",
+        "40 puntos",
+        "60 puntos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 51 y 58",
+      "explicacion": "La nota mínima de aprobación tanto trimestral como en el promedio anual de un área es de 51 puntos."
+    },
+    {
+      "question": "¿Cuál es la regla de retención en Educación Primaria Comunitaria Vocacional según el Artículo 51 inc. a)?",
+      "options": [
+        "Se retiene si reprobó cuatro o más áreas",
+        "Las y los estudiantes que obtengan un promedio anual menor a 51 puntos en UNA de las Áreas de Saberes y Conocimientos serán retenidos",
+        "No existe la retención en primaria bajo ningún concepto",
+        "Se retiene únicamente por faltar a los desfiles patrios"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 51 inc. a)",
+      "explicacion": "En Primaria la reprobación del promedio anual en al menos UNA sola área da lugar a la retención de grado."
+    },
+    {
+      "question": "¿Cuál es la regla de retención en Educación Secundaria Comunitaria Productiva según el Artículo 58 inc. a)?",
+      "options": [
+        "Las y los estudiantes que obtengan promedios anuales menores a 51 puntos en una o más Áreas de Saberes y Conocimientos serán retenidos",
+        "Solo si reprueban siete materias al mismo tiempo",
+        "Si reprueban autoevaluación tres veces",
+        "Únicamente si la junta escolar lo autoriza por unanimidad"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 58 inc. a)",
+      "explicacion": "En Secundaria la obtención de nota menor a 51 en una o más áreas deriva en la retención del año de escolaridad."
+    },
+    {
+      "question": "Según el Artículo 26 Parágrafo I, la asistencia del estudiante es parte de la valoración y tiene el carácter de:",
+      "options": [
+        "Optativa y voluntaria según la materia",
+        "Puntual, obligatoria, ineludible e indelegable",
+        "Sujeta a pago de multa por atrasos",
+        "Reemplazable por trabajos en línea"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 26 Parágrafo I",
+      "explicacion": "La asistencia regular es un deber presencial directo e ineludible evaluado dentro del desarrollo curricular."
+    },
+    {
+      "question": "¿En qué plazo máximo debe la madre, padre o tutor justificar las inasistencias del estudiante (Art. 26 Parágrafo III)?",
+      "options": [
+        "Hasta el último día de clases del año",
+        "En los primeros cinco días hábiles después de su ausencia",
+        "En un plazo de 24 horas obligatorias mediante carta notariada",
+        "No se requiere justificar si la ausencia fue menor a un mes"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 26 Parágrafo III",
+      "explicacion": "Se fija un plazo de 5 días hábiles posteriores a la falta para presentar los respaldos que permitan la reprogramación de evaluaciones."
+    },
+    {
+      "question": "¿Qué derecho de licencia especial se garantiza a las estudiantes en situación de embarazo (Art. 26 Parágrafo IV)?",
+      "options": [
+        "Licencia definitiva con pérdida del año escolar",
+        "Licencia temporal (dentro del calendario escolar) según prescripción médica pre y post parto garantizando su derecho a la educación",
+        "Obligación de trasladarse a un colegio nocturno",
+        "Eximición de entregar tareas pero sin derecho a libreta"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 26 Parágrafo IV",
+      "explicacion": "Protege el derecho fundamental a la maternidad y educación con licencias pre y post natales adaptadas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28 Parágrafo I, ¿quienes participan en la 'Evaluación Comunitaria' trimestral?",
+      "options": [
+        "Solamente el Director Distrital y los concejales del municipio",
+        "Directora/or, maestras/os, madres, padres, tutores, estudiantes y la Comisión Técnico Pedagógica",
+        "Los representantes de los partidos políticos locales",
+        "Los medios de comunicación locales únicamente"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 28 Parágrafo I",
+      "explicacion": "Es una asamblea participativa tripartita de análisis holístico e intercultural entre escuela, familia y estudiantes."
+    },
+    {
+      "question": "¿Qué se valora en la dimensión del 'Saber' según el Artículo 31 Numeral 2?",
+      "options": [
+        "El peinado y la puntualidad en los actos cívicos",
+        "Los saberes y conocimientos propios y científicos mediante procesos de comprensión, aplicación, análisis, valoración, creación o producción",
+        "La fuerza física en deportes de contacto",
+        "El patrimonio económico de los padres de familia"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 31 Numeral 2",
+      "explicacion": "Evalúa la aprehensión cognitiva, crítica y conceptual de los contenidos del plan de estudios."
+    },
+    {
+      "question": "¿Qué se valora en la dimensión del 'Hacer' según el Artículo 31 Numeral 3?",
+      "options": [
+        "La asistencia pasiva a los talleres",
+        "El desarrollo de habilidades y destrezas en la aplicación de saberes científicos y técnico-tecnológicos para la resolución de problemas",
+        "La memorización de fechas históricas sin comprenderlas",
+        "El cumplimiento de cuotas de la junta escolar"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 31 Numeral 3",
+      "explicacion": "En el Hacer se evalúa la práctica, destreza procedimental y aplicación transformadora de los conocimientos."
+    },
+    {
+      "question": "¿Qué se valora en la dimensión del 'Decidir' según el Artículo 31 Numeral 4?",
+      "options": [
+        "La nota cuantitativa asignada por el director",
+        "El pensamiento crítico, propositivo, la voluntad con sentido comunitario y la capacidad de emprendimiento e impacto social",
+        "La capacidad de copiar en los exámenes sin ser descubierto",
+        "La elección de la directiva de los padres"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 31 Numeral 4",
+      "explicacion": "Evalúa el compromiso político, comunitario y propositivo de transformación de la realidad del estudiante."
+    },
+    {
+      "question": "Definición de 'Perfil de Salida' según el Artículo 33 de la norma:",
+      "options": [
+        "El trámite de retiro definitivo de la U.E.",
+        "Describe y explica las capacidades, cualidades y potencialidades alcanzadas por los estudiantes al concluir un determinado año de escolaridad",
+        "El inventario de muebles al salir de clases",
+        "La lista de aplazados publicada en la puerta"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 33",
+      "explicacion": "Define las competencias y capacidades mínimas logradas al cierre de cada grado para asegurar la transitabilidad."
+    },
+    {
+      "question": "Según los rangos de la escala cuantitativa (Arts. 50 II, 57 II), ¿cuál es el rango para 'Desarrollo Pleno (DP)'?",
+      "options": [
+        "De 51 a 68 puntos",
+        "De 85 a 100 puntos",
+        "De 69 a 84 puntos",
+        "Hasta 50 puntos"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 50 II y 57 II",
+      "explicacion": "DP abarca de 85 a 100 puntos representando la máxima categoría cuali-cuantitativa."
+    },
+    {
+      "question": "Según el Artículo 27, ¿por qué se valoran los saberes y conocimientos propios desarrollados fuera del aula?",
+      "options": [
+        "Porque sustituyen al plan de estudios nacional",
+        "Porque los estudiantes desarrollan capacidades dentro y fuera de la escuela, debiendo tomarse en cuenta si están planificados",
+        "Para reducir el horario escolar a la mitad",
+        "Solo si los estudiantes pagan una tasa especial"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 27",
+      "explicacion": "Articula la educación de la comunidad con la escuela valorando aprendizajes integrales y vivenciales planificados."
+    },
+    {
+      "question": "En caso de estudiantes retenidos en Primaria o Secundaria (Arts. 51 inc. b, 58 inc. b), ¿qué procedimiento se aplica para la siguiente gestión?",
+      "options": [
+        "Se les expulsa del subsistema regular",
+        "Se informa a sus padres para que asuman la responsabilidad de su inscripción automática en el mismo año de escolaridad",
+        "Deben rendir un examen de ingreso pagado",
+        "Se les transfiere a la educación universitaria"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 51 inc. b y 58 inc. b",
+      "explicacion": "Asegura la continuidad escolar garantizando el cupo e inscripción automática en el mismo año retenido."
+    },
+    {
+      "question": "¿Cuáles son las tres fases de la evaluación del desarrollo curricular según los Artículos 59, 60 y 61?",
+      "options": [
+        "Evaluación inicial, intermedia y final",
+        "Evaluación de Inicio o Diagnóstica, Evaluación Permanente y Continua, y Evaluación de Logros de Aprendizajes",
+        "Evaluación escrita, oral y práctica",
+        "Evaluación primaria, secundaria y técnica"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 59, 60 y 61",
+      "explicacion": "Estructura el proceso formativo en las tres etapas consecutivas: diagnóstica, continua y de cierre de logros."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la 'Evaluación de Inicio o Diagnóstica' (Art. 59 Parágrafo I)?",
+      "options": [
+        "Reprobar a los estudiantes que no sepan los contenidos antes de empezar las clases",
+        "Identificar saberes, conocimientos previa, necesidades y potencialidades para ajustar la planificación curricular",
+        "Cobrar la matrícula escolar según el nivel detectado",
+        "Clasificar a los alumnos en aulas de mejores y peores"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 59 Parágrafo I",
+      "explicacion": "Su objetivo es estrictamente pedagógico y adaptativo para adecuar el Plan de Desarrollo Curricular al punto de partida real."
+    },
+    {
+      "question": "De acuerdo al Artículo 60 Parágrafo III, ¿qué tipo de actividades evaluativas deben ser recurrentes en la práctica pedagógica?",
+      "options": [
+        "Pruebas sorpresa sin aviso cada día",
+        "Evaluaciones escritas, orales y productivas, registradas de manera sistemática en el cuaderno pedagógico evitando la improvisación",
+        "Trabajos prácticos para hacer en casa durante los fines de semana",
+        "Exámenes orales individuales de 3 horas"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 60 Parágrafo III",
+      "explicacion": "Exige variedad metodológica (escrita, oral, productiva) planificada y controlada por la Dirección para evitar improvisaciones."
+    },
+    {
+      "question": "Según el Artículo 61, ¿cuándo se realiza la 'Evaluación de Logros de Aprendizajes' y cuál es su fin?",
+      "options": [
+        "A la mitad de cada clase para tomar lista",
+        "Al finalizar el trimestre, permitiendo al maestro diseñar estrategias inmediatas de nivelación y superación de dificultades",
+        "Únicamente al terminar el bachillerato",
+        "Cada cinco años para medir el avance del país"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 61",
+      "explicacion": "Permite verificar el grado de alcance de los perfiles al cierre trimestral e implementar nivelaciones inmediatas."
+    },
+    {
+      "question": "De acuerdo con la Disposición Adicional Segunda, ¿cómo deben ponderarse las evaluaciones de trabajos prácticos, exámenes, orales o productos?",
+      "options": [
+        "Con diferentes escalas según el gusto del maestro",
+        "Deberán tener una sola ponderación cuantitativa, no existiendo diferencias en la valoración de un mismo tipo de trabajo, evitando la discriminación",
+        "Multiplicando por dos los trabajos de las mujeres",
+        "Asignando puntaje extra a los primeros en entregar"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Segunda",
+      "explicacion": "Establece equidad y no discriminación: el mismo tipo de trabajo o evaluación debe tener idéntico criterio y ponderación para todos."
+    },
+    {
+      "question": "¿Qué establece la Disposición Adicional Tercera respecto a 'regalar' o asignar puntos de colaboración?",
+      "options": [
+        "Se permite regalar hasta 10 puntos a fin de año",
+        "Bajo ninguna circunstancia se asignará puntaje como forma de colaboración, puesto que no existe la compensación de calificación",
+        "Se permite la colaboración si los padres donan pintura para el aula",
+        "Se pueden compensar puntos de matemáticas con educación física"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Tercera",
+      "explicacion": "Prohíbe terminantemente la asignación de puntos 'de regalo' o regalos compensatorios, exigiendo superar las fallas con apoyo pedagógico real."
+    },
+    {
+      "question": "Según la Disposición Adicional Cuarta Parágrafo I, ¿dónde deben realizarse los trabajos prácticos, informes o resúmenes?",
+      "options": [
+        "En la casa con ayuda de profesores particulares pagados",
+        "En la unidad educativa y en presencia de la o el maestro, prohibiéndose trabajos elaborados fuera, plagiados o hechos por padres",
+        "En ciber-cafés durante la noche",
+        "Se pueden comprar hechos del mercado"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Cuarta I",
+      "explicacion": "Prohíbe expresamente tareas pesadas para la casa o compra de trabajos, exigiendo que se elaboren en el aula bajo guía del maestro."
+    },
+    {
+      "question": "De acuerdo a la Disposición Adicional Cuarta Parágrafo II, ¿a qué debe responder la valoración de los trabajos prácticos?",
+      "options": [
+        "A lo costoso del material utilizado",
+        "A la utilidad, funcionalidad y formación integral de los estudiantes, más allá de lo estético",
+        "Únicamente a la belleza del empastado o carátula",
+        "Al peso en gramos del papel presentado"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Cuarta II",
+      "explicacion": "Prioriza el aprendizaje práctico, razonamiento y utilidad real del producto sobre el adorno exterior o gasto económico."
+    },
+    {
+      "question": "Según la Disposición Adicional Quinta Parágrafo I, ¿qué ocurre ante agresiones o reclamos infundados de padres contra maestros por reprobación?",
+      "options": [
+        "Se aprueba automáticamente al estudiante para evitar problemas",
+        "Deberán ser atendidos en las instancias pertinentes según normativa, debiendo los padres asumir la responsabilidad de sus actos",
+        "Se destituye al maestro de inmediato sin investigación",
+        "Se clausura la unidad educativa"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Quinta I",
+      "explicacion": "Protege la labor docente frente a coacciones, presiones o amedrentamientos indebidos de apoderados exigiendo evidencias."
+    },
+    {
+      "question": "De acuerdo a la Disposición Adicional Quinta Parágrafo II, ¿qué está prohibido respecto a las notas?",
+      "options": [
+        "Prohibido reprobar a más de dos alumnos",
+        "Está prohibida la manipulación de madres, padres, tutores u otros actores para obligar a asignar una valoración que no corresponde",
+        "Prohibido publicar las notas en el SIE",
+        "Prohibido entregar libretas impresas"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Quinta II",
+      "explicacion": "Prohíbe la injerencia o amedrentamiento de terceros para modificar o chantajear la nota asignada éticamente por el docente."
+    },
+    {
+      "question": "Según la Disposición Adicional Quinta Parágrafo III, ¿se permite la compensación por error de registro de calificaciones del maestro?",
+      "options": [
+        "Sí, aumentando 20 puntos en el siguiente trimestre",
+        "Está prohibida la compensación por error de registro de calificaciones de la o el maestro",
+        "Sí, mediante pago de una multa a la dirección",
+        "Sí, borrando la libreta con corrector fluido"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Quinta III",
+      "explicacion": "Prohíbe 'compensar' de forma informal errores de digitación; cualquier corrección requiere los canales sumarios administrativos."
+    },
+    {
+      "question": "Según la Disposición Adicional Primera, ¿cómo se rige la incorporación de estudiantes provenientes de otros países?",
+      "options": [
+        "Rindiendo un examen de ingreso pagado en dólares",
+        "Se regirá a los acuerdos y convenios de homologaciones firmados con los Estados respectivos",
+        "Ingresando obligatoriamente al primer curso de primaria sin importar la edad",
+        "Presentando una fianza bancaria"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Primera",
+      "explicacion": "Aplica los tratados e instrumentos internacionales y convenios bilatelares de homologación educativa vigentes."
+    },
+    {
+      "question": "De acuerdo al Artículo 62 Parágrafo II, ¿qué acciones deben desarrollar los maestros para superar las dificultades de enseñanza y aprendizaje?",
+      "options": [
+        "Aumentar el número de exámense sorpresas",
+        "Acciones de reforzamiento, evaluaciones complementarias, retroalimentaciones y adecuaciones curriculares",
+        "Recomendar clases particulares pagadas fuera del colegio",
+        "Sancionar con nota mínima a los rezagados"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 62 Parágrafo II",
+      "explicacion": "Obliga a la aplicación preventiva de reforzamiento, retroalimentación y evaluaciones adaptadas para salvar las brechas."
+    },
+    {
+      "question": "¿Qué responsabilidad tiene el Director de la U.E. sobre el cuaderno pedagógico (Art. 60 Parágrafo III, Art. 64 Parágrafo III)?",
+      "options": [
+        "Firmarlo sin leer al final del año",
+        "Controlar, verificar y supervisar que la información reflejada en el cuaderno pedagógico sea real, coherente y sistemática",
+        "Guardarlo bajo llave en la Dirección Distrital",
+        "Venderlo a los padres de familia"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículos 60 III y 64 III",
+      "explicacion": "Atribuye a la dirección la tarea de supervisión continua para verificar la veracidad y consistencia de los registros de sus maestros."
+    },
+    {
+      "question": "Según el Artículo 70, ¿en relación a qué se aplica el uso de instrumentos de evaluación en el cuaderno pedagógico?",
+      "options": [
+        "En relación a la disciplina y la limpieza del aula",
+        "En relación al desarrollo de las dimensiones: Ser, Saber, Hacer y Decidir para valorar el logro de los objetivos holísticos y perfiles de salida",
+        "En relación a las cuotas aportadas por los padres",
+        "En relación a la asistencia a desfiles municipales"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 70",
+      "explicacion": "Garantiza que toda herramienta o instrumento evaluativo responda integralmente a los objetivos del plan curricular y sus 4 dimensiones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 71 Parágrafos II y III, ¿cuál es la diferencia de la Libreta Electrónica entre Nivel Inicial y los Niveles Primaria/Secundaria?",
+      "options": [
+        "En Inicial es de color azul y en Secundaria es roja",
+        "En Inicial expresa la valoración CUALITATIVA de los resultados; en Primaria y Secundaria expresa la valoración CUANTITATIVA y es de acreditación promocional",
+        "En Inicial no lleva firma del director y en Secundaria sí",
+        "En Primaria es digital y en Inicial es escrita a mano"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 71 Parágrafos II y III",
+      "explicacion": "Diferencia la acreditación cualitativa propia del desarrollo en Inicial frente a la acreditación cuantitativa promocional en Primaria y Secundaria."
+    },
+    {
+      "question": "Según el Artículo 74 Parágrafo I, ¿quiénes son los encargados de planificar y realizar el acompañamiento pedagógico?",
+      "options": [
+        "Exclusivamente los técnicos de la Dirección Distrital",
+        "La Directora o Director, Comisión Técnico Pedagógica, maestras y maestros",
+        "El presidente de la Junta Escolar y los delegados de curso",
+        "El personal de limpieza de la U.E."
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 74 Parágrafo I",
+      "explicacion": "Organiza el equipo interno de gestión escolar responsable de dar seguimiento directo al avance de los aprendizajes."
+    },
+    {
+      "question": "Según el Artículo 74 Parágrafo II, ¿cuál es el objetivo final del informe técnico de acompañamiento pedagógico?",
+      "options": [
+        "Publicar una lista de docentes sancionados",
+        "Organizar y desarrollar acciones pedagógicas que permitan mejorar el rendimiento académico de las y los estudiantes",
+        "Cerrar los cursos que tengan bajo rendimiento",
+        "Aumentar el costo de la pensión escolar"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 74 Parágrafo II",
+      "explicacion": "El diagnóstico técnico debe traducirse inmediatamente en planes de mejora pedagógica en beneficio de los estudiantes."
+    },
+    {
+      "question": "De acuerdo a la Disposición Adicional Séptima, ¿qué instancia regula los aspectos técnicos-administrativos no previstos en el reglamento?",
+      "options": [
+        "La Junta Escolar de Madres y Padres de Familia",
+        "El Viceministerio de Educación Regular mediante instructivos específicos",
+        "Cada maestro según su libre criterio",
+        "El Ministerio de Trabajo y Empleo"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Séptima",
+      "explicacion": "Atribuye la regulación complementaria o la solución de vacíos técnicos al Viceministerio de Educación Regular."
+    },
+    {
+      "question": "¿En qué marco constitucional y normativo se sustenta el Reglamento de Evaluación del Desarrollo Curricular aprobado por la R.M. N° 0190/2024?",
+      "options": [
+        "En la Constitución Política del Estado, la Ley N° 070 Avelino Siñani - Elizardo Pérez y los Planes Curriculares del SEP",
+        "Únicamente en el Código de Comercio de Bolivia",
+        "En la Ley General del Trabajo y decretos reglamentarios",
+        "En normativas internacionales sin validez legal en Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Marco Normativo",
+      "explicacion": "El reglamento se fundamenta en la CPE y la Ley N° 070 del Educación para garantizar una evaluación integral e inclusiva."
+    },
+    {
+      "question": "¿Cuál es la característica de la evaluación que se refiere al respeto y valoración de la diversidad de aprendizajes e identidades culturales de las y los estudiantes?",
+      "options": [
+        "Característica Homogénea",
+        "Característica Inclusive e Intercultural",
+        "Característica Sancionatoria",
+        "Característica Rígida"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. d)",
+      "explicacion": "El principio de interculturalidad e inclusión promueve el reconocimiento de ritmos, estilos y saberes propios sin discriminación."
+    },
+    {
+      "question": "Según el Artículo 5 del Reglamento de Evaluación, ¿cuál es uno de los fines primordiales de la evaluación cuali-cuantitativa?",
+      "options": [
+        "Orientar, retroalimentar y tomar decisiones oportunas para mejorar los procesos de aprendizaje",
+        "Expulsar a los estudiantes que no obtengan 100 puntos en el primer trimestre",
+        "Establecer un ranking público para clasificar a los estudiantes de mejor a peor",
+        "Eliminar las adaptaciones curriculares en Educación Secundaria"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 5, inc. b)",
+      "explicacion": "La evaluación tiene un carácter formativo y orientador orientado al acompañamiento continuo y la mejora de los aprendizajes."
+    },
+    {
+      "question": "¿Qué implica la característica de 'Transparencia' en el proceso de evaluación del desarrollo curricular?",
+      "options": [
+        "Que los criterios, instrumentos y resultados de evaluación sean de conocimiento previo y público para estudiantes y padres de familia",
+        "Que solo el Director de la Unidad Educativa conozca las notas",
+        "Que las calificaciones se publiquen en redes sociales personales del maestro",
+        "Que se oculten las notas hasta el final del año escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. g)",
+      "explicacion": "La transparencia exige que la comunidad educativa conozca anticipadamente qué y cómo se evaluará, así como los resultados oportunos."
+    },
+    {
+      "question": "En el enfoque del Modelo Educativo Sociocomunitario Productivo, ¿qué significa que la evaluación sea 'Cualitativa y Cuantitativa'?",
+      "options": [
+        "Que valora tanto los procesos de desarrollo personal, comunitario y valórico como el logro ponderado en una escala numérica",
+        "Que solo se aplican exámenes escritos con nota numérica",
+        "Que las notas cualitativas se convierten automáticamente en sanciones disciplinarias",
+        "Que no se otorgan calificaciones numéricas en ningún nivel"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. i)",
+      "explicacion": "Combina la apreciación descriptiva del desarrollo de las dimensiones humanas con la valoración numérica acumulativa."
+    },
+    {
+      "question": "¿Cómo se define la evaluación 'Científica' en la R.M. N° 0190/2024?",
+      "options": [
+        "Como el uso de métodos, técnicas e instrumentos válidos, confiables y con rigor pedagógico",
+        "Como la exigencia de que todos los estudiantes sean científicos universitarios",
+        "Como la memorización exclusiva de formulas de laboratorio",
+        "Como la aplicación obligatoria de pruebas psicológicas clínicas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. b)",
+      "explicacion": "La evaluación es científica porque utiliza metodologías objetivas y sistematizadas para analizar el desempeño estudiantil."
+    },
+    {
+      "question": "¿Qué función cumple la evaluación 'Diagnóstica' al inicio del año escolar o de cada unidad temática?",
+      "options": [
+        "Identificar saberes previos, necesidades educativas y ritmos de aprendizaje para planificar el desarrollo curricular",
+        "Reprobar a los estudiantes que no recuerden la materia del año pasado",
+        "Asignar la nota definitiva del primer trimestre",
+        "Cobrar una tarifa especial a los padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 7",
+      "explicacion": "La evaluación diagnóstica recopila información sobre el estado inicial de los estudiantes para reajustar la planificación pedagógica."
+    },
+    {
+      "question": "La característica de la evaluación como 'Comunitaria' hace referencia a:",
+      "options": [
+        "La participación activa y coordinada de maestras, maestros, estudiantes, la CTP y padres de familia en el seguimiento educativo",
+        "La obligación de hacer exámenes grupales en la plaza pública",
+        "La votación de los vecinos para decidir quién aprueba el año",
+        "El cobro de multas comunitarias por inasistencia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. j)",
+      "explicacion": "Involucra a los actores sociales y educativos para corresponsabilizarse en el apoyo integral del estudiante."
+    },
+    {
+      "question": "¿Qué establece el reglamento sobre el carácter 'Permanente y Continuo' de la evaluación?",
+      "options": [
+        "Que se realiza a lo largo de todo el proceso formativo y no únicamente mediante un examen final",
+        "Que se debe tomar un examen escrito todos los días a primera hora",
+        "Que las clases deben durar 24 horas continuas",
+        "Que no se pueden otorgar vacaciones ni recesos escolares"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. f)",
+      "explicacion": "La evaluación constante permite detectar dificultades a tiempo y brindar apoyo pedagógico inmediato."
+    },
+    {
+      "question": "¿Qué documento normativo anterior queda abrogado con la entrada en vigencia de la R.M. N° 0190/2024?",
+      "options": [
+        "El Reglamento de Evaluación del Desarrollo Curricular aprobado por la R.M. N° 0084/2014 y normativas modificatorias contrarias",
+        "La Ley N° 070 de Educación",
+        "La Constitución Política del Estado",
+        "El Reglamento del Escalafón Nacional"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Abogatoria",
+      "explicacion": "La R.M. 0190/2024 abroga las resoluciones de evaluación del desarrollo curricular previas para actualizar los procedimientos."
+    },
+    {
+      "question": "¿Quién preside formalmente las sesiones de la Comisión Técnico Pedagógica (CTP) en la Unidad Educativa?",
+      "options": [
+        "La o el Director de la Unidad Educativa o la persona delegada oficialmente",
+        "El presidente de la Junta Escolar de Padres de Familia",
+        "El estudiante con el promedio más alto del colegio",
+        "El portero o regente del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 11, Parágrafo II",
+      "explicacion": "El Director o Directora de la U.E. encabeza la CTP como máxima autoridad técnico-pedagógica del establecimiento."
+    },
+    {
+      "question": "En el Nivel de Educación Secundaria Comunitaria Productiva, ¿cómo se organiza la representación docente ante la CTP?",
+      "options": [
+        "Por representantes de cada Campo de Saberes y Áreas de Conocimiento",
+        "Por sorteo entre los docentes nuevos",
+        "Un solo maestro para todo el nivel secundario",
+        "Por elección directa de los estudiantes de 6to de secundaria"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 12",
+      "explicacion": "Se conforma por delegados pedagógicos de los distintos campos de saberes para abordar de forma especializada cada área."
+    },
+    {
+      "question": "¿Cuál es la periodicidad mínima de reuniones ordinarias que debe sostener la Comisión Técnico Pedagógica durante el año escolar?",
+      "options": [
+        "Al menos una reunión a la mitad de cada trimestre y al final del mismo",
+        "Una sola reunión al finalizar el año lectivo",
+        "Reuniones diarias obligatorias fuera de horario de trabajo",
+        "Únicamente cuando exista una huelga docente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 14",
+      "explicacion": "Se reúne a medio trimestre para evaluar casos en riesgo académico y aplicar estrategias de apoyo oportuno."
+    },
+    {
+      "question": "Cuando un estudiante presenta dificultades persistentes de aprendizaje a mitad del trimestre, ¿cuál es la primera acción de la CTP?",
+      "options": [
+        "Recomendar al maestro la aplicación de planes de apoyo pedagógico complementario y adaptaciones",
+        "Expulsar inmediatamente al estudiante",
+        "Cobrar una multa económica a los padres",
+        "Reprobarlo automáticamente en el sistema SIE"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 15, inc. c)",
+      "explicacion": "La CTP propone medidas pedagógicas remediales para prevenir la reprobación o el abandono escolar."
+    },
+    {
+      "question": "¿Con cuánto tiempo de anticipación al cierre del trimestre debe la CTP notificar a las madres, padres o tutores sobre el riesgo académico de un estudiante?",
+      "options": [
+        "Con al menos 1 mes (30 días) de anticipación mediante informe escrito",
+        "El mismo día de la clausura del año escolar",
+        "No se debe notificar a los padres",
+        "Cinco minutos antes de entregar la libreta"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 16",
+      "explicacion": "La notificación oportuna garantiza que la familia pueda colaborar en las tutorías y reforzamientos en el hogar."
+    },
+    {
+      "question": "¿Qué medida debe adoptar la CTP si los padres o tutores incurren en abandono irresponsable de los procesos de apoyo pedagógico de su hijo?",
+      "options": [
+        "Remitir el caso mediante informe formal a la Defensoría de la Niñez y Adolescencia (DNA)",
+        "Prohibir el ingreso del estudiante a la escuela",
+        "Aumentar los impuestos de la familia",
+        "Reprobar al estudiante con nota cero"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 17",
+      "explicacion": "El abandono del acompañamiento familiar vulnera los derechos del menor, activando la intervención de la DNA."
+    },
+    {
+      "question": "¿En qué consiste la estrategia de 'Tutoría Educativa' en el marco del apoyo pedagógico complementario?",
+      "options": [
+        "En el acompañamiento pedagógico personalizado que realiza el maestro o un estudiante par para reforzar contenidos no consolidados",
+        "En la contratación de un profesor privado pagado por el colegio",
+        "En el aislamiento del estudiante en un depósito",
+        "En la asignación de tareas punitivas de castigo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 20",
+      "explicacion": "La tutoría brinda andamiaje pedagógico continuo para superar vacíos de aprendizaje detectados durante la evaluación continua."
+    },
+    {
+      "question": "¿Cuál es el objetivo del 'Aprender entre Pares' contemplado en los procesos de apoyo pedagógico?",
+      "options": [
+        "Fomentar el aprendizaje cooperativo donde estudiantes con mayor avance orientan y colaboran con sus compañeros",
+        "Promover la competencia destructiva entre estudiantes",
+        "Obligar a los alumnos a tomar el examen en parejas copiándose",
+        "Eximir al maestro de dictar clases"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 21",
+      "explicacion": "Aprovecha la interacción entre iguales para consolidar conocimientos y desarrollar valores de solidaridad."
+    },
+    {
+      "question": "¿Las actividades de apoyo pedagógico complementario asignadas por el maestro llevan una ponderación cuantitativa adicional?",
+      "options": [
+        "Sí, permiten reconsiderar la valoración cuantitativa de las dimensiones evaluadas en el trimestre",
+        "No, están totalmente prohibidas de alterar la nota",
+        "Solo si el estudiante paga una tarifa",
+        "Depende del resultado de un sorteo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 22",
+      "explicacion": "Los resultados del reforzamiento permiten ajustar y reemplazar las valoraciones previas no satisfactorias."
+    },
+    {
+      "question": "¿Qué documento elabora el maestro de área para registrar las acciones de apoyo pedagógico realizadas con los estudiantes?",
+      "options": [
+        "El Registro Pedagógico y el Plan de Apoyo Pedagógico Complementario",
+        "Una boleta de citación policial",
+        "Un pagaré bancario",
+        "Un acta de expulsión"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 23",
+      "explicacion": "El maestro debe evidenciar documentalmente el proceso de apoyo brindado en sus registros pedagógicos oficiales."
+    },
+    {
+      "question": "Si un estudiante demuestra aprovechamiento en el reforzamiento pedagógico, ¿hasta qué límite de puntuación se puede modificar su calificación trimestral?",
+      "options": [
+        "Hasta alcanzar la nota que refleje objetivamente el logro de los objetivos holísticos (pudiendo superar los 51 puntos)",
+        "Solo se le puede subir máximo 1 punto",
+        "No se puede modificar la nota bajo ninguna circunstancia",
+        "Se le otorga automáticamente 100 puntos sin revisar la tarea"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 24",
+      "explicacion": "Se revalora de manera justa el verdadero desempeño alcanzado tras el proceso de reforzamiento."
+    },
+    {
+      "question": "¿Qué autoridad debe supervisar que las y los maestros cumplan con la aplicación de las estrategias de apoyo pedagógico?",
+      "options": [
+        "La o el Director de la Unidad Educativa en coordinación con la CTP",
+        "La junta vecinal de la zona",
+        "La Policía Nacional",
+        "El Ministerio de Economía"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 25",
+      "explicacion": "Es función técnica del Director monitorear que el cuerpo docente brinde el apoyo pedagógico normado."
+    },
+    {
+      "question": "¿Cuál es la responsabilidad del maestro si omite aplicar las estrategias de apoyo pedagógico complementario a estudiantes en riesgo?",
+      "options": [
+        "Incurre en incumplimiento de funciones susceptible de sanción según el reglamento disciplinario del magisterio",
+        "Se le otorga un premio por ahorro de tiempo",
+        "No tiene ninguna consecuencia legal",
+        "Se le asciende de categoría automáticamente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 26",
+      "explicacion": "Garantizar el apoyo es un deber profesional docente cuya omisión vulnera los derechos del estudiante."
+    },
+    {
+      "question": "¿Quién aprueba los planes de apoyo pedagógico presentados por los maestros?",
+      "options": [
+        "La Comisión Técnico Pedagógica y la Dirección de la Unidad Educativa",
+        "El centro de estudiantes",
+        "Una imprenta privada",
+        "El alcalde municipal"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 27",
+      "explicacion": "La CTP revisa la viabilidad pedagógica y el Director valida el plan institucionalmente."
+    },
+    {
+      "question": "En el caso de estudiantes que se reincorporan por licencias justificadas, ¿cómo se procede con las evaluaciones no tomadas?",
+      "options": [
+        "Se reprograma la evaluación previa aplicación del periodo de regularización y apoyo pedagógico",
+        "Se les asigna nota cero directamente",
+        "Se les obliga a repetir el año en ese instante",
+        "Se les exige un cobro especial para tomarles el examen"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 28",
+      "explicacion": "El estudiante con inasistencia justificada mantiene intacto su derecho a ser evaluado en fechas reprogramadas."
+    },
+    {
+      "question": "¿Cómo se define el 'Rezago Escolar' según el reglamento de evaluación de la R.M. N° 0190/2024?",
+      "options": [
+        "Como la situación del estudiante que tiene una edad cronológica superior a la edad correspondiente al año de escolaridad que le corresponde por más de 2 años",
+        "Como la falta de uniforme escolar en el desfile",
+        "Como la inscripción en una escuela nocturna por trabajo",
+        "Como el olvido de los útiles escolares un día de clases"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 30",
+      "explicacion": "El rezago implica una brecha cronológica de 2 o más años respecto a la edad normativa del grado escolar."
+    },
+    {
+      "question": "¿En qué consiste el proceso de 'Nivelación' para estudiantes con rezago escolar?",
+      "options": [
+        "En un programa pedagógico intensivo que permite equiparar saberes para promover al año de escolaridad que corresponde a su edad",
+        "En regalarles el título de bachiller sin pasar clases",
+        "En transferirlos obligatoriamente a educación universitaria",
+        "En cobrarles el doble de pensión escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 31",
+      "explicacion": "Busca la reintegración adecuada al nivel educativo acorde a su etapa de desarrollo biológico y cognitivo."
+    },
+    {
+      "question": "¿Está permitida la nivelación o aceleración para estudiantes en el 6to año de Educación Secundaria Comunitaria Productiva?",
+      "options": [
+        "No, no procede la nivelación por rezago escolar en el último año de escolaridad de secundaria",
+        "Sí, en cualquier mes del año sin restricción",
+        "Solo si el estudiante paga un arancel especial en el Ministerio",
+        "Queda a criterio libre del portero"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 32, Parágrafo III",
+      "explicacion": "El egreso y titulación de bachillerato requiere el cumplimiento formal completo del diseño curricular de 6to de secundaria."
+    },
+    {
+      "question": "¿Qué documento respalda la promoción extraordinaria por aceleración en estudiantes con Talento Extraordinario?",
+      "options": [
+        "El Informe de Evaluación Multidisciplinaria emitido por el Centro de Educación Especial o equipo acreditado y la Resolución Administrativa de la DDE",
+        "Una carta simple del consejo de curso",
+        "Un recibo de pago de la junta escolar",
+        "La solicitud verbal del estudiante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 34",
+      "explicacion": "Requiere valoración científica especializada e instrumento legal expreso emitido por la Dirección Departamental."
+    },
+    {
+      "question": "En el caso de estudiantes con Discapacidad matriculados en Educación Regular, ¿quién elabora las Adaptaciones Curriculares?",
+      "options": [
+        "El maestro de aula en coordinación con la o el maestro de apoyo del Centro de Educación Especial (Modalidad Indirecta)",
+        "Los padres de familia solos en su casa",
+        "Una imprenta privada que vende textos",
+        "El portero del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 36",
+      "explicacion": "El trabajo coordinado entre el maestro regular y el especialista de educación especial garantiza adaptaciones pertinentes."
+    },
+    {
+      "question": "¿Las adaptaciones curriculares implican la disminución de la exigencia de los objetivos holísticos o la eliminación de contenidos fundamentales?",
+      "options": [
+        "No, ajustan las metodologías, materiales y formas de evaluación sin degradar el nivel formativo esencial",
+        "Sí, se debe eliminar todo el contenido del curso",
+        "Depende de si el estudiante es simpático",
+        "Sí, el estudiante no debe hacer nada en todo el año"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 37",
+      "explicacion": "Se adaptan los accesos, lenguajes (ej. Braille, LSB) y metodologías, preservando la calidad educativa."
+    },
+    {
+      "question": "¿Qué es el 'Acta Supletoria de Promoción'?",
+      "options": [
+        "Un documento legal que certifica la promoción de grado de estudiantes con discapacidad o situaciones especiales con adaptaciones curriculares",
+        "Un recibo de compra de cuadernos",
+        "Una sanción escrita para expulsar alumnos",
+        "El contrato de alquiler de la infraestructura"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 39",
+      "explicacion": "Otorga validez jurídica oficial en el SIE a las valoraciones realizadas con adaptaciones curriculares específicas."
+    },
+    {
+      "question": "¿Cómo se realiza la evaluación en estudiantes en situación de 'Vulnerabilidad o Desventaja Social' (ej. internación hospitalaria, privación de libertad)?",
+      "options": [
+        "Mediante programas de atención educativa hospitalaria o itinerante respetando su proceso pedagógico continuo",
+        "Se les suspende la matrícula hasta que salgan del hospital",
+        "Se les asigna nota reprobada automáticamente",
+        "Deben contratar profesores particulares a su costo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 41",
+      "explicacion": "El Estado garantiza la continuidad educativa y la flexibilidad evaluativa en entornos hospitalarios o de protección."
+    },
+    {
+      "question": "¿Cuál es el tratamiento de la evaluación para estudiantes gestantes (embarazadas)?",
+      "options": [
+        "Garantizar su permanencia, tolerancia de asistencia pre y post parto, adaptaciones de avance y reprogramación de evaluaciones",
+        "Expulsarlas inmediatamente del colegio por moralidad",
+        "Obligarlas a pagar el doble de pensión escolar",
+        "Aislarlas en un aula separada sin maestro"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 42",
+      "explicacion": "La norma protege los derechos constitucionales de las estudiantes en gestación prohibiendo cualquier forma de discriminación."
+    },
+    {
+      "question": "¿En qué nivel educativo la evaluación es 100% Cualitativa y no contempla la retención de grado?",
+      "options": [
+        "En el Nivel de Educación Inicial en Familia Comunitaria",
+        "En Educación Secundaria Comunitaria Productiva",
+        "En Educación Superior Universitaria",
+        "En todos los niveles educativos por igual"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 44",
+      "explicacion": "Educación Inicial es un nivel de desarrollo psicomotriz y socioafectivo donde la promoción es directa al cumplir las actividades."
+    },
+    {
+      "question": "En el Nivel de Educación Inicial, ¿cuál es la escala cualitativa de apreciación empleada en el informe de desarrollo integral?",
+      "options": [
+        "Desarrollo Pleno (DP), Desarrollo Optimo (DO), Desarrollo Aceptable (DA) y En Desarrollo (ED)",
+        "Excelente, Bueno, Regular, Malo",
+        "Aprobado de honor, Aprobado, Reprobado",
+        "100 puntos, 51 puntos, 0 puntos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 46",
+      "explicacion": "Utiliza descriptores cualitativos para reflejar el progreso en el desarrollo de las capacidades del niño."
+    },
+    {
+      "question": "¿A partir de qué nivel de educación la valoración combina la escala cualitativa con la escala cuantitativa numérica (1 a 100 puntos)?",
+      "options": [
+        "A partir del Nivel de Educación Primaria Comunitaria Vocacional",
+        "Desde el primer año de Educación Inicial",
+        "Solo en la Universidad",
+        "En ningún nivel se usa escala numérica"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 48",
+      "explicacion": "Primaria introduce la nota cuantitativa de 1 a 100 junto con su equivalente cualitativo trimestral."
+    },
+    {
+      "question": "¿Cuál es la nota mínima de aprobación cuantitativa en una asignatura o área de saberes en Primaria y Secundaria?",
+      "options": [
+        "51 puntos",
+        "70 puntos",
+        "30 puntos",
+        "100 puntos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 51",
+      "explicacion": "La puntuación comprendida entre 51 y 100 corresponde a la categoría de aprobación (DA, DO, DP)."
+    },
+    {
+      "question": "Un estudiante que obtiene una calificación trimestral cuantitativa entre 1 y 50 puntos se clasifica cualitativamente como:",
+      "options": [
+        "En Desarrollo (ED)",
+        "Desarrollo Aceptable (DA)",
+        "Desarrollo Óptimo (DO)",
+        "Desarrollo Pleno (DP)"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 52",
+      "explicacion": "La categoría 'En Desarrollo' (ED) equivale a una nota reprobatoria (menor a 51) que requiere reforzamiento."
+    },
+    {
+      "question": "¿Qué ponderación cuantitativa tiene asignada la dimensión del 'SABER' en el sistema de evaluación de Primaria y Secundaria?",
+      "options": [
+        "45 Puntos",
+        "10 Puntos",
+        "5 Puntos",
+        "80 Puntos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 56",
+      "explicacion": "La dimensión del Saber (comprensión de conceptos, teorías y conocimientos) se evalúa sobre un máximo de 45 puntos."
+    },
+    {
+      "question": "¿Qué aspectos se evalúan cuantitativamente dentro de la dimensión del 'HACER' (40 Puntos)?",
+      "options": [
+        "La aplicación práctica de conocimientos, destrezas, habilidades técnicas, experimentos, producción de materiales y resolución de problemas",
+        "La asistencia puntual únicamente",
+        "La memorización sin comprensión de fechas históricas",
+        "El color de los ojos del estudiante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 57",
+      "explicacion": "El Hacer mide la aplicabilidad y manifestación concreta de los conocimientos en productos o procedimientos."
+    },
+    {
+      "question": "¿Cuántos puntos suma el valor de la dimensión del 'SER' evaluada por el maestro de área?",
+      "options": [
+        "5 Puntos",
+        "45 Puntos",
+        "20 Puntos",
+        "50 Puntos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 58",
+      "explicacion": "El Ser (principios, valores socio-comunitarios, respeto, solidaridad) tiene una ponderación de 5 puntos asignados por el docente."
+    },
+    {
+      "question": "¿Qué evalúa el maestro dentro de la dimensión del 'DECIDIR' (5 Puntos)?",
+      "options": [
+        "La capacidad de toma de decisiones con sentido comunitario, impacto social, pensamiento crítico y transformación de la realidad",
+        "El peinado del estudiante para ir al colegio",
+        "La marca de calzado que utiliza el alumno",
+        "La elección de la junta escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 59",
+      "explicacion": "El Decidir valora la posición crítica y organizativa del estudiante puesta en acción comunitaria."
+    },
+    {
+      "question": "¿Cómo se realiza y pondera la 'AUTOEVALUACIÓN' del estudiante en el sistema de calificación trimestral?",
+      "options": [
+        "El estudiante realiza una valoración reflexiva sobre las dimensiones del SER y DECIDIR asignándose hasta un máximo de 5 puntos en total",
+        "El estudiante se otorga 100 puntos en todas las materias sin justificativo",
+        "La autoevaluación vale 50 puntos directos en matemática",
+        "La realiza el padre de familia en reemplazo del hijo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 60",
+      "explicacion": "Es un proceso pedagógico autoreflexivo con tope de 5 puntos concentrado en las dimensiones ético-actitudinales."
+    },
+    {
+      "question": "En el Nivel de Educación Primaria Comunitaria Vocacional, ¿cuál es la condición para que un estudiante sea retenido de año (repruebe)?",
+      "options": [
+        "Haber obtenido un promedio anual inferior a 51 puntos en al menos UNA Área de Saberes y Aprendizajes al finalizar el año lectivo",
+        "Tener una falta de asistencia justificadamente",
+        "Olvidarse la libreta escolar en su casa",
+        "Perder un examen diagnóstico en febrero"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 63",
+      "explicacion": "En primaria, la nota promedio anual reprobatoria (<51) en un área determina la retención del año escolar."
+    },
+    {
+      "question": "En el Nivel de Educación Secundaria Comunitaria Productiva, ¿cuándo procede la retención de año escolar?",
+      "options": [
+        "Cuando el estudiante obtiene una nota promedio anual menor a 51 puntos en UNA o MÁS Áreas de Saberes y Aprendizajes",
+        "Solo si reprueba las 12 materias del curso",
+        "Cuando tiene un atraso en el ingreso a clases",
+        "Si el padre no asiste a la reunión de fin de año"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 64",
+      "explicacion": "La reprobación del promedio anual de al menos una materia de secundaria impide la promoción al grado superior."
+    },
+    {
+      "question": "¿Existen los 'exámenes de segunda instancia' o 'reforzamiento de fin de año' antes del inicio de las inscripciones del nuevo año?",
+      "options": [
+        "No, el reforzamiento y apoyo pedagógico es continuo e intrinseco durante los tres trimestres del año escolar",
+        "Sí, se paga un examen en el mes de enero",
+        "Sí, el director puede vender un examen especial de aprobación",
+        "Se toma una prueba escrita el primer día de vacaciones"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 65",
+      "explicacion": "Se abolió el examen único de fin de año; la evaluación y recuperación son procesos continuos integrados durante las clases."
+    },
+    {
+      "question": "¿Qué documento oficial es el único válido para la acreditación y certificación de las calificaciones en el SEP?",
+      "options": [
+        "La Libreta Escolar Electrónica emitida oficialmente a través del Sistema de Información Educativa (SIE)",
+        "Una nota manuscrita en un cuaderno de borrador",
+        "Un recibo firmado por el regente",
+        "Un mensaje impreso de WhatsApp"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 67",
+      "explicacion": "La Libreta Escolar del SIE es el instrumento público oficial con fe pública para certificar la trayectoria estudiantil."
+    },
+    {
+      "question": "¿Cuál es la consecuencia legal de alterar, falsificar o modificar indebidamente las notas registradas en el sistema SIE?",
+      "options": [
+        "Constituye falta gravísima del servidor público susceptible de proceso administrativo disciplinario y penal según corresponda",
+        "Ninguna, es un procedimiento habitual sin sanción",
+        "Una simple llamada de atención verbal en privado",
+        "El pago de una pequeña multa a la junta escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 68",
+      "explicacion": "La libreta electrónica tiene carácter de declaración jurada; su alteración configura un delito de falsedad."
+    },
+    {
+      "question": "¿En qué plazo debe el maestro centralizar y subir sus notas trimestrales a la plataforma oficial del SIE?",
+      "options": [
+        "Dentro del cronograma fijado por el Ministerio de Educación al finalizar cada trimestre escolar",
+        "En el momento que el maestro lo desee al año siguiente",
+        "Únicamente en el mes de diciembre",
+        "No existe plazo ni fecha límite"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 69",
+      "explicacion": "El cumplimiento estricto del cronograma garantíza la emisión oportuna de los boletines e informes a la comunidad."
+    },
+    {
+      "question": "¿Cómo se realiza la entrega de las Libretas Escolares Trimestrales a las madres, padres o tutores?",
+      "options": [
+        "En asamblea general o reunión de aula convocada formalmente por el Director y tutores de curso al finalizar el trimestre",
+        "Se las envía con un servicio de mensajería pagado por el padre",
+        "Se las publica en un periódico de circulación nacional",
+        "No se entregan libretas a los padres"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 70",
+      "explicacion": "La reunión presencial permite explicar a la familia el rendimiento y los acuerdos pedagógicos para el siguiente periodo."
+    },
+    {
+      "question": "En el caso de estudiantes de 6to de Secundaria Comunitaria Productiva, ¿qué requisito es imprescindible para la entrega del Diploma de Bachiller Gratuito?",
+      "options": [
+        "Haber sido promovido (aprobado) en todas las áreas de saberes y aprendizajes del plan de estudios de 6to de secundaria",
+        "Pagar la fiesta de promoción del colegio",
+        "Tener una nota mayor a 90 en educación física",
+        "Haber cursado todos los años en la misma escuela"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 71",
+      "explicacion": "La emisión del título oficial requiere la culminación y aprobación formal de todo el currículo del nivel secundario."
+    },
+    {
+      "question": "¿Cómo se procede cuando un estudiante realiza un traslado de Unidad Educativa a mitad del trimestre escolar?",
+      "options": [
+        "La Unidad Educativa de origen emite un Informe de Calificaciones Parciales y Ficha de Traslado firmada por el Director",
+        "El estudiante debe repetir el trimestre desde cero en el nuevo colegio",
+        "Se le cobran los meses que restan del año en el colegio de origen",
+        "Se le obliga a tomar un examen de admisión punitivo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 72",
+      "explicacion": "El informe parcial permite al colegio de destino dar continuidad al cómputo de notas sin perjudicar al alumno."
+    },
+    {
+      "question": "¿Qué plazo tiene un estudiante o padre de familia para presentar una impugnación o reclamo escrito por una calificación ante la CTP?",
+      "options": [
+        "Hasta 5 días hábiles posteriores a la entrega oficial de la Libreta Escolar o reporte de notas",
+        "Hasta 6 meses después de terminado el año escolar",
+        "En el momento que desee hasta 5 años más tarde",
+        "No se puede impugnar ninguna nota por ningún motivo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 73",
+      "explicacion": "Fija un plazo perentorio de 5 días hábiles para revisar evidencias en caso de inconformidad fundada de los padres."
+    },
+    {
+      "question": "¿Quién resuelve en última instancia administrativa un reclamo o impugnación sobre notas si no hay acuerdo en la CTP?",
+      "options": [
+        "La o el Director Distrital de Educación mediante Resolución Administrativa fundada",
+        "El presidente del centro de estudiantes",
+        "Un juez ordinario de materia civil",
+        "La junta vecinal de padres"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 74",
+      "explicacion": "La Dirección Distrital es la autoridad jerárquica que define en última instancia el recurso de revisión de notas."
+    },
+    {
+      "question": "¿Qué dispone expresamente la Disposición Adicional Tercera de la R.M. N° 0190/2024 sobre el 'Regalo de Puntos' o incentivos monetarios/materiales?",
+      "options": [
+        "Queda estrictamente PROHIBIDO asignar puntaje por aportes económicos, rifas, kermesses, obsequios o colaboraciones ajenas a los objetivos holísticos",
+        "Se permite regalar 10 puntos a los alumnos que compren el libro del profesor",
+        "Se autoriza vender puntos para la fiesta de fin de año",
+        "Queda a libre criterio del docente el precio de los puntos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Tercera",
+      "explicacion": "La valoración pedagógica debe responder objetivamente al desarrollo de las dimensiones humanas y no a la mercantilización."
+    },
+    {
+      "question": "Según la Disposición Adicional Cuarta, Parágrafo I, los trabajos prácticos, álbumes, maquetas o resúmenes deben realizarse preferentemente en:",
+      "options": [
+        "El aula y en presencia del maestro durante el desarrollo de la clase",
+        "Casas particulares durante fines de semana",
+        "Fotocopiadoras especializadas de la ciudad",
+        "Empresas de impresión y diseño gráfico"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Cuarta, Parágrafo I",
+      "explicacion": "Se busca erradicar el plagio, la contratación de terceros o el gasto excesivo familiar, garantizando el trabajo en el aula."
+    },
+    {
+      "question": "¿Qué restricción existe sobre la asignación de 'Tareas Domiciliarias' para los fines de semana o periodos de descanso escolar?",
+      "options": [
+        "Está totalmente prohibida la recarga excesiva de tareas para fines de semana, garantizando el descanso y convivencia familiar",
+        "Se deben mandar mínimo 10 libros para leer el sábado y domingo",
+        "Es obligatorio hacer proyectos científicos en vacaciones de invierno",
+        "Los profesores deben tomar exámenes los domingos por la mañana"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Cuarta, Parágrafo II",
+      "explicacion": "Protege el derecho de la niñez al juego, al descanso y al tiempo en familia regulando el volumen de tareas en casa."
+    },
+    {
+      "question": "¿Se pueden exigir materiales costosos, textos impresos no autorizados o cuotas obligatorias para las evaluaciones de artes o tecnología?",
+      "options": [
+        "No, está prohibido exigir materiales de alto costo o condicionar la nota al pago o compra de insumos comerciales",
+        "Sí, es obligatorio comprar la lista de útiles más cara de la librería",
+        "Sí, quien no pague la cuota de materiales reprueba automáticamente",
+        "Solo si el colegio es de convenio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Quinta",
+      "explicacion": "Garantiza el principio de gratuidad y no discriminación económica en los procesos de aprendizaje y evaluación."
+    },
+    {
+      "question": "¿Qué establece la Disposición Adicional Sexta respecto a la protección del trabajo del maestro frente a presiones o amenazas de padres de familia?",
+      "options": [
+        "Prohíbe cualquier tipo de amedrentamiento, acoso u obligatoriedad impuesta por padres para modificar notas sin sustento pedagógico",
+        "Permite que los padres le pongan la nota directamente a los maestros",
+        "Obliga a los profesores a aceptar amenazas de muerte por aplazar a un alumno",
+        "Autoriza a las juntas escolares a despedir profesores en el acto"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Sexta",
+      "explicacion": "Resguarda el ejercicio ético y la autoridad pedagógica del docente frente a coacciones injustificadas."
+    },
+    {
+      "question": "En el caso de estudiantes que participan en representaciones deportivas o culturales oficiales del Estado, ¿cómo se aplica la evaluación?",
+      "options": [
+        "Se otorga tolerancia de asistencia, apoyo pedagógico específico y reprogramación de exámenes sin pérdida de puntaje",
+        "Se les obliga a renunciar a la selección nacional para no perder el año",
+        "Se les asigna nota reprobada en todas las materias que falten",
+        "Se les cobra una multa de inscripción"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Séptima",
+      "explicacion": "El Estado incentiva la representación destacada en deporte y ciencia protegiendo la trayectoria escolar."
+    },
+    {
+      "question": "¿Qué autoridad aprueba la nómina oficial de estudiantes graduados de Bachillerato en la Unidad Educativa?",
+      "options": [
+        "El Director de la Unidad Educativa mediante la consolidación del informe del SIE y visto bueno de la Dirección Distrital",
+        "El consejo estudiantil de 5to de secundaria",
+        "Una comisión de padres de familia de la junta escolar",
+        "La banda de música del colegio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 71, Parágrafo II",
+      "explicacion": "Es un acto administrativo formal de cierre de gestión respaldado por las autoridades educativas oficiales."
+    },
+    {
+      "question": "Si una Unidad Educativa no cuenta con Comisión Técnico Pedagógica conformada por tener pocos ítems (escuela unidocente o pluridocente), ¿quién asume sus funciones?",
+      "options": [
+        "La Dirección Distrital de Educación en coordinación con el Red de Maestros del sector",
+        "La junta vecinal del pueblo",
+        "Un comité de alumnos de primaria",
+        "Ninguna autoridad"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Transitoria Única",
+      "explicacion": "En escuelas unidocentes o rurales pequeñas, las funciones de la CTP se asumen a nivel de Red o Distrito."
+    },
+    {
+      "question": "¿Cuál es la falta que comete un maestro que no entrega a tiempo los cuadernos o pruebas evaluadas a sus estudiantes para su revisión?",
+      "options": [
+        "Incumplimiento del principio de transparencia y retroalimentación pedagógica, susceptible de llamada de atención",
+        "Infracción de tránsito",
+        "Delito tributario",
+        "Ninguna falta"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. g)",
+      "explicacion": "Los estudiantes tienen el derecho de revisar sus exámenes corregidos para aprender de sus errores de forma transparente."
+    },
+    {
+      "question": "¿Qué instrumento utiliza el maestro de Educación Primaria para registrar cualitativa y cuantitativamente las evaluaciones diarias?",
+      "options": [
+        "El Registro Pedagógico Oficial del Maestro",
+        "Un cuaderno personal sin formato",
+        "Una servilleta de papel",
+        "El libro de actas de la junta escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 66",
+      "explicacion": "El Registro Pedagógico es el instrumento técnico primario de control y seguimiento diario del proceso educativo."
+    },
+    {
+      "question": "Caso Práctico: Un maestro de secundaria decide evaluar el 100% del trimestre aplicando únicamente un examen escrito al final del periodo. ¿Qué vulneración comete?",
+      "options": [
+        "Vulnera el carácter holístico, continuo, procesual y multidimensional de la evaluación (Saber, Hacer, Ser, Decidir)",
+        "Ninguna, el examen único es la forma correcta de evaluar según el reglamento",
+        "Actúa con rigor científico universitario felicitado por el reglamento",
+        "Demuestra eficiencia al ahorrar papel"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículos 4 y 55",
+      "explicacion": "Está prohibido concentrar la nota en una sola prueba; se deben ponderar las 4 dimensiones en procesos variados."
+    },
+    {
+      "question": "Caso Práctico: Una estudiante de Primaria obtiene un promedio anual de 48 puntos en la materia de Matemática y 80 en el resto de las materias. ¿Cuál es su condición académica de fin de año?",
+      "options": [
+        "Es retenida en el mismo año de escolaridad (reprueba el año) por tener promedio menor a 51 en un área",
+        "Aprueba el año porque el promedio general de todas las materias es mayor a 51",
+        "Pasa a secundaria con la promesa de estudiar en vacaciones",
+        "Se le regalan 3 puntos automáticamente sin hacer nada"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 63",
+      "explicacion": "En primaria, la reprobación del promedio anual de un solo área implica la retención del grado."
+    },
+    {
+      "question": "Caso Práctico: Un profesor le pide a un estudiante 100 bolivianos para la kermesse del colegio a cambio de asignarle 10 puntos en la dimensión del Saber. ¿Qué norma viola?",
+      "options": [
+        "La Disposición Adicional Tercera que prohíbe terminantemente la asignación de puntos por aportes monetarios o materiales",
+        "Ninguna, las kermesses son actividades comunitarias aprobadas",
+        "Es una práctica legal incentiva por el reglamento",
+        "Solo viola el código de comercio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Tercera",
+      "explicacion": "Se sanciona severamente la mercantilización de las notas y el cobro de dinero por puntajes."
+    },
+    {
+      "question": "Caso Práctico: Un estudiante de 3ro de Secundaria se autoevalúa en las dimensiones del Ser y Decidir asignándose 10 puntos sobre 5. ¿Cómo debe actuar el sistema/docente?",
+      "options": [
+        "Ajustar la nota al tope máximo normado de 5 puntos en total para la autoevaluación y orientar al estudiante",
+        "Aceptar los 10 puntos y sumarlos a la nota final",
+        "Reprobar al estudiante con cero por no saber contar",
+        "Llamar a la policía por fraude informático"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 60",
+      "explicacion": "La autoevaluación tiene una ponderación cerrada de máximo 5 puntos repartida entre Ser y Decidir."
+    },
+    {
+      "question": "Caso Práctico: Un estudiante con discapacidad auditiva cursa 4to de Secundaria. El maestro no realiza adaptaciones y le toma un examen oral sin intérprete de LSB. ¿Qué principio se vulnera?",
+      "options": [
+        "El principio de Inclusión, Adaptación Curricular y Equidad del proceso evaluativo (Art. 36 y 37)",
+        "El principio de velocidad lectora",
+        "Ninguno, todos deben tomar el mismo examen sin distinción",
+        "El derecho a la libertad de prensa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículos 36 y 37",
+      "explicacion": "Es obligatorio brindar las adaptaciones de acceso y lenguaje (LSB) para garantizar una evaluación justa e inclusiva."
+    },
+    {
+      "question": "¿En qué consiste la 'Evaluación de Logros de Aprendizaje' aplicada al finalizar una unidad de formación o trimestre?",
+      "options": [
+        "En verificar el grado de desarrollo de los objetivos holísticos y las capacidades alcanzadas por los estudiantes",
+        "En tomar fotos a los estudiantes para el periódico escolar",
+        "En contar cuántos libros se vendieron en el colegio",
+        "En pintar la fachada de la escuela"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 9",
+      "explicacion": "Sintetiza la apreciación del avance respecto a las metas pedagógicas trazadas en la planificación."
+    },
+    {
+      "question": "¿Qué rol cumple la 'Matriz de Evaluación' en la elaboración de pruebas o instrumentos pedagógicos?",
+      "options": [
+        "Garantizar la coherencia entre los objetivos holísticos, los criterios de evaluación, los contenidos y las ponderaciones",
+        "Decorar la libreta escolar con flores",
+        "Cobrar peaje en la entrada de la sala de examen",
+        "Sustituir la presencia del maestro en el aula"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 10",
+      "explicacion": "La matriz de evaluación da rigor técnico y objetividad científica a la elaboración de reactivos e instrumentos."
+    },
+    {
+      "question": "¿Puede un estudiante reprobar el trimestre por tener un atraso aislado de 5 minutos en el ingreso?",
+      "options": [
+        "No, las faltas de puntualidad o disciplina aisladas deben tratarse según el Reglamento de Convivencia y no condicionan la nota académica de las dimensiones de saberes",
+        "Sí, el retraso cancela todas las notas del trimestre",
+        "Se le expulsa del sistema escolar plurinacional",
+        "Queda a criterio del conserje"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 61",
+      "explicacion": "No se debe mezclar punitivamente la falta disciplinaria con la evaluación cuantitativa de los conocimientos."
+    },
+    {
+      "question": "¿Qué sucede con las calificaciones de un estudiante de intercambio cultural o deportivo debidamente autorizado por el Ministerio?",
+      "options": [
+        "Se convalidan y homologan los estudios y valoraciones acreditadas por la institución receptora mediante Resolución",
+        "Pierde el año escolar obligatoriamente",
+        "Debe rendir exámenes de las 12 materias en un solo día al regresar",
+        "Se le cobran aranceles de reincorporación"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Séptima",
+      "explicacion": "El Estado respalda la movilidad estudiantil y la homologación de saberes acreditados oficialmente."
+    },
+    {
+      "question": "¿Quién es el responsable directo de velar por la aplicación transparente y justa de la R.M. N° 0190/2024 en la Unidad Educativa?",
+      "options": [
+        "La o el Director de la Unidad Educativa en coordinación con la CTP y el equipo docente",
+        "El alcalde municipal del lugar",
+        "El vendedor de la cantina escolar",
+        "La policía de tránsito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 8",
+      "explicacion": "El Director de U.E. como máxima autoridad pedagógica es el garante del cumplimiento normativo de la evaluación."
+    },
+    {
+      "question": "¿El Reglamento de Evaluación del Desarrollo Curricular R.M. N° 0190/2024 es de aplicación obligatoria en colegios privados?",
+      "options": [
+        "Sí, es de cumplimiento obligatorio y general en todas las unidades educativas fiscales, privadas y de convenio del Subsistema de Educación Regular",
+        "No, los colegios privados pueden inventarse sus propias reglas sin supervisión",
+        "Solo si el colegio privado lo desea voluntariamente",
+        "Únicamente aplica para escuelas rurales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 2",
+      "explicacion": "El subsistema de Educación Regular es único y rector en todo el territorio nacional sin excepción de dependencia."
+    },
+    {
+      "question": "¿Qué se requiere para autorizar una prueba de evaluación extemporánea o reprogramada?",
+      "options": [
+        "Presentación de la justificación documentada (médica, institucional o personal de fuerza mayor) ante la Dirección/Maestro en un plazo máximo de 5 días hábiles",
+        "Pagar una multa en efectivo al profesor",
+        "Una nota del centro de estudiantes",
+        "No se requiere justificación alguna"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 62",
+      "explicacion": "La reprogramación formal exige respaldo documental presentado dentro del plazo normado de 5 días hábiles."
+    },
+    {
+      "question": "¿Qué dimensión evalúa la comprensión conceptual, capacidad de análisis, síntesis e investigación teorica del estudiante?",
+      "options": [
+        "La Dimensión del SABER (45 Puntos)",
+        "La Dimensión del HACER (40 Puntos)",
+        "La Dimensión del SER (5 Puntos)",
+        "La Dimensión del DECIDIR (5 Puntos)"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 56",
+      "explicacion": "El Saber concentra la carga cognitiva y teórica del desarrollo de los contenidos curriculares."
+    },
+    {
+      "question": "¿Qué principio rector prohíbe la discriminación, estigmatización o etiquetado negativo de las y los estudiantes con bajo rendimiento?",
+      "options": [
+        "El principio de No Discriminación, Respeto a la Dignidad e Inclusión Educativa",
+        "El principio de libre mercado escolar",
+        "El principio de jerarquía militar",
+        "El principio de selección competitiva"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. c)",
+      "explicacion": "La evaluación debe promover la autoestima y el crecimiento personal sin estigmatizar el error como fracaso definitivo."
+    },
+    {
+      "question": "¿Cuál es la norma oficial que aprueba y pone en vigencia este Reglamento de Evaluación del Desarrollo Curricular?",
+      "options": [
+        "Resolución Ministerial N° 0190/2024 de 12 de marzo de 2024",
+        "Resolución Ministerial N° 0084/2014",
+        "Ley N° 2027 del Estatuto del Funcionario Público",
+        "Decreto Supremo N° 21060"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Encabezado y Artículo 1",
+      "explicacion": "La R.M. N° 0190/2024 emitida el 12 de marzo de 2024 es el instrumento legal rector de la evaluación escolar actual en Bolivia."
+    },
+    {
+      "question": "¿Cuál es la función del registro de firmas en el acta de la Comisión Técnico Pedagógica?",
+      "options": [
+        "Dar fe pública y validez legal a los acuerdos, recomendaciones y decisiones tomadas en beneficio de los estudiantes",
+        "Cobrar una dieta por la asistencia a la reunión",
+        "Acreditar el ingreso a la junta escolar",
+        "Sustituir el libro de asistencia biométrica"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 13, Parágrafo III",
+      "explicacion": "Las actas firmadas por los miembros de la CTP constituyen el respaldo documental de las decisiones pedagógicas."
+    },
+    {
+      "question": "En el Nivel de Educación Primaria, ¿qué se registra en el informe cualitativo trimestral que acompaña a la nota numérica?",
+      "options": [
+        "La apreciación descriptiva de los avances, logros, fortalezas y dificultades detectadas en el estudiante",
+        "La dirección domiciliaria exacta y teléfono del estudiante",
+        "La lista de útiles que debe comprar para el siguiente trimestre",
+        "Las amonestaciones policiales del estudiante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 50, Parágrafo II",
+      "explicacion": "El informe cualitativo orienta de manera detallada a los padres sobre el progreso pedagógico en Primaria."
+    },
+    {
+      "question": "¿Qué procedimiento aplica si un estudiante de Educación Secundaria reprueba el trimestre en la dimensión del Saber pero obtiene 100 en el Ser?",
+      "options": [
+        "Se calcula la nota trimestral ponderando todas las dimensiones conforme a la tabla oficial sin eliminar la nota reprobada del Saber",
+        "Aprobarlo automáticamente en la nota final trimestral por tener buen comportamiento",
+        "Duplicar la nota del Ser para tapar el Saber",
+        "Expulsarlo por no saber la teoría"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 55",
+      "explicacion": "La nota final trimestral es la suma ponderada de las cuatro dimensiones y la autoevaluación."
+    },
+    {
+      "question": "¿Quién está encargado de coordinar la aplicación de las evaluaciones diagnósticas a estudiantes que ingresan por traslado de otra Unidad Educativa?",
+      "options": [
+        "La o el Maestro de aula o asignatura con la orientación de la Comisión Técnico Pedagógica",
+        "El presidente de la junta escolar",
+        "La alcaldía municipal",
+        "El Ministerio de Salud"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 7, Parágrafo II",
+      "explicacion": "Permite conocer el nivel de preparación del estudiante trasladado para integrarlo sin lagunas pedagógicas."
+    },
+    {
+      "question": "¿Pueden los maestros aplicar pruebas de evaluación escritas sin previo aviso durante los periodos de descanso de vacaciones?",
+      "options": [
+        "No, las evaluaciones deben ser programadas, transparentes y notificadas con la debida anticipación en horario escolar",
+        "Sí, es obligatorio tomar pruebas sorpresivas por internet a medianoche",
+        "Depende de la voluntad del representante legal",
+        "Solo si el colegio es privado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 4, inc. g)",
+      "explicacion": "El principio de transparencia exige la planificación informada de las actividades evaluativas."
+    },
+    {
+      "question": "¿Qué autoridad aprueba la asignación de maestros tutores para acompañar a estudiantes con necesidades educativas específicas?",
+      "options": [
+        "La o el Director de la Unidad Educativa a propuesta de la CTP",
+        "La federación de maestros urbanos o rurales",
+        "El centro de estudiantes de secundaria",
+        "La defensoría del pueblo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 20, Parágrafo II",
+      "explicacion": "La asignación de funciones pedagógicas internas corresponde al Director en su rol de gestión institucional."
+    },
+    {
+      "question": "En el caso de estudiantes con Talento Extraordinario que avanzan en aceleración escolar, ¿dónde se registra su nueva condición?",
+      "options": [
+        "En el Sistema SIE mediante la actualización del RUDE y emisión de la Libreta Escolar del año acelerado",
+        "En un cuaderno de actas manuscrito de la junta escolar",
+        "No se registra en ningún sistema digital",
+        "En el libro de altas del centro de salud"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 35",
+      "explicacion": "El SIE actualiza la trayectoria escolar acelerada para garantizar la validez del historial educativo."
+    },
+    {
+      "question": "¿Qué acción pedagógica se debe adoptar si durante el primer trimestre la mayoría de un curso demuestra no haber comprendido un contenido nodo?",
+      "options": [
+        "Reajustar el Plan de Desarrollo Curricular (PDC) y aplicar la reprogramación de actividades de refuerzo pedagógico",
+        "Dar por avanzado el tema y continuar sin importar la reprobación masiva",
+        "Sancionar a todo el curso con nota cero",
+        "Cobrar una cuota especial para repetir la lección"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 18",
+      "explicacion": "La evaluación formativa reorienta la enseñanza adaptando el avance al logro real de los aprendizajes."
+    },
+    {
+      "question": "¿Cómo se acredita la Promoción de un estudiante que aprueba el 6to de Secundaria Comunitaria Productiva?",
+      "options": [
+        "Mediante la emisión del Certificado de Promoción y el Diploma de Bachiller Gratuito en el sistema SIE",
+        "Con la entrega de una medalla de plástico",
+        "Mediante un contrato privado con la universidad",
+        "Con un recibo de caja de la junta escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 71",
+      "explicacion": "La culminación del nivel secundario habilita el otorgamiento del título de Bachiller por mandato constitucional."
+    },
+    {
+      "question": "¿Cuál es la obligación de los padres de familia ante las convocatorias de la CTP o tutores por bajo rendimiento de sus hijos?",
+      "options": [
+        "Asistir de manera obligatoria y corresponsable para suscribir los compromisos de apoyo en el hogar",
+        "Enviar a un empleado o vecino en su representación sin carta poder",
+        "Ignorar las citaciones aduciendo falta de tiempo",
+        "Pagar una fianza para no asistir a la reunión"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 16, Parágrafo III",
+      "explicacion": "La corresponsabilidad familiar en el proceso formativo es un deber legal establecido en el reglamento."
+    },
+    {
+      "question": "En las Unidades Educativas Técnico Humanísticas (BTH), ¿cómo se integra la evaluación de las asignaturas técnicas en la Libreta Escolar?",
+      "options": [
+        "Se evalúan bajo las mismas dimensiones y criterios oficializados en la R.M. N° 0190/2024, ponderando el Saber, Hacer, Ser y Decidir",
+        "Tienen un sistema de letras sin notas ni aprobación",
+        "No se registran en la libreta del SIE",
+        "Se evalúan con notas del 1 al 10 en un libreta aparte no oficial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 54",
+      "explicacion": "La formación técnica BTH forma parte del currículo articulado y se califica bajo el sistema oficial del SEP."
+    },
+    {
+      "question": "¿Está permitido retener la Libreta Escolar de un estudiante por deudas de pensiones en Colegios Privados según las reglas de evaluación?",
+      "options": [
+        "No, la retención de documentos o libretas por motivos económicos está estrictamente prohibida en todo el SEP",
+        "Sí, se puede retener la libreta indefinidamente",
+        "Solo si el padre debe más de 5 meses",
+        "Queda a elección del dueño del colegio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Disposición Adicional Primera",
+      "explicacion": "El derecho a la documentación escolar y a la educación no puede subordinarse a disputas patrimoniales."
+    },
+    {
+      "question": "¿Qué valor tienen los 'Portafolios de Evidencias' en la evaluación de la dimensión del Hacer?",
+      "options": [
+        "Constituyen instrumentos técnico-pedagógicos para reunir muestras sistemáticas del trabajo, proyectos y producciones del estudiante",
+        "Son simples archivadores decorativos sin valor evaluativo",
+        "Sustituyen la asistencia a clases",
+        "Se utilizan únicamente para guardar comprobantes de pago"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 57, Parágrafo II",
+      "explicacion": "El portafolio documenta el desarrollo procesual y la calidad de los productos elaborados en el Hacer."
+    },
+    {
+      "question": "¿Qué autoridad verifica que no se vulneren los derechos de las y los estudiantes durante la aplicación del reglamento de evaluación?",
+      "options": [
+        "La o el Director de la Unidad Educativa, la CTP y la Dirección Distrital de Educación",
+        "El sindicato de choferes de la zona",
+        "El club deportivo de la comunidad",
+        "La empresa de transportes de encomiendas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 8",
+      "explicacion": "Las autoridades educativas institucionales son responsables de resguardar el debido proceso evaluativo."
+    },
+    {
+      "question": "¿Qué ocurre con las calificaciones de un estudiante que fallece antes de concluir el trimestre?",
+      "options": [
+        "Se da de baja en el sistema SIE registrando la novedad administrativa correspondiente de acuerdo al protocolo ministerial",
+        "Se le asigna nota reprobatoria en el sistema",
+        "Se le cobran las mensualidades a sus familiares",
+        "Se mantiene su nombre activado por 10 años"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Manual SIE",
+      "explicacion": "El sistema SIE contempla bajas administrativas respetando el protocolo de registro de matrícula."
+    },
+    {
+      "question": "¿Cuál es la función del 'Informe de Evaluación Diagnóstica' elaborado por el maestro al inicio del año?",
+      "options": [
+        "Sustentar las adecuaciones o reajustes del Plan de Desarrollo Curricular en los primeros 15 días de clases",
+        "Asignar la nota del primer trimestre sin dar más clases",
+        "Solicitar el despido del director de la escuela",
+        "Eliminar las materias de artes y educación física"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 7",
+      "explicacion": "El informe diagnóstico fundamenta la planificación curricular adaptada a las características iniciales del grupo."
+    },
+    {
+      "question": "¿Se pueden realizar modificaciones a las calificaciones en la Libreta Escolar una vez cerrado el trimestre en el sistema SIE?",
+      "options": [
+        "Solo de forma excepcional mediante Resolución Administrativa motivada aprobada por la Dirección Distrital tras revisión de evidencias por la CTP",
+        "Sí, cualquier maestro puede cambiar las notas en cualquier momento ingresando a internet",
+        "Sí, pagando un trámite en la junta escolar",
+        "Nunca, bajo ninguna circunstancia sin importar si hubo un error de tajada"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 68, Parágrafo III",
+      "explicacion": "La corrección de errores materiales de transclusión exige trámite administrativo justificado ante la Distrital."
+    },
+    {
+      "question": "¿Qué se valora en la 'Dimensión del Ser' respecto a la convivencia en la Unidad Educativa?",
+      "options": [
+        "La práctica manifestada de principios morales, respeto mutuo, solidaridad, equidad de género e interculturalidad",
+        "El peinado y uniforme de marca del estudiante",
+        "La cantidad de dinero que aporta a la kermesse",
+        "La velocidad para correr en el patio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 58",
+      "explicacion": "El Ser evalúa las actitudes, principios y valores humanos demostrados en la interrelación comunitaria."
+    },
+    {
+      "question": "¿Cuál es el objetivo de las 'Exposiciones o Ferias Pedagógicas' en el proceso evaluativo?",
+      "options": [
+        "Demostrar de forma integradora y comunitaria los logros de aprendizaje en la dimensión del Hacer y Decidir",
+        "Generar ganancias económicas vendiendo comida a los visitantes",
+        "Perder tiempo de clases sin avance en el programa",
+        "Sustituir al maestro por los padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 57, Parágrafo III",
+      "explicacion": "Las ferias permiten la difusión comunitaria de productos, proyectos y saberes desarrollados durante las unidades didácticas."
+    },
+    {
+      "question": "¿Qué norma rige el sistema de evaluación del desarrollo curricular en el Subsistema de Educación Regular de Bolivia?",
+      "options": [
+        "La Resolución Ministerial N° 0190/2024 de 12 de marzo de 2024",
+        "La Ley del Trabajo de 1939",
+        "El Código Penal de Bolivia",
+        "El Reglamento de Tránsito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0190/2024, Artículo 1",
+      "explicacion": "La R.M. N° 0190/2024 es el marco legal vigente que norma la evaluación curricular en Educación Regular."
+    },
+    {
+      "question": "Según el Artículo 4 inc. g, ¿qué principio democrático promueve la evaluación en el desarrollo curricular?",
+      "options": [
+        "La imposición autoritaria de sanciones sin derecho a réplica",
+        "Promover procesos de participación democrática e integral de los actores de la comunidad educativa para mejorar la evaluación",
+        "La elección por voto de los contenidos que se van a dictar",
+        "El sorteo de los diplomas de bachiller"
+      ],
+      "answer": 1,
+      "fuente": "R.M. N° 0190/2024, Artículo 4 inc. g)",
+      "explicacion": "Fomenta la participación comunitaria, transparente, dialógica y participativa de todos los actores del hecho educativo."
+    }
+  ]
+}

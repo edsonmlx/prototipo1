@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "07_ley_1178_administracion_y_control_gubernamentales",
+    "nombre": "Ley N° 1178 de Administración y Control Gubernamentales",
+    "detalle": "Ley de 20 de julio de 1990",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "Según el Artículo 1 de la Ley N° 1178 (SAFCO), ¿cuál de las siguientes NO es una de las finalidades explícitas de los Sistemas de Administración y de Control Gubernamentales?",
+      "options": [
+        "Programar, organizar y ejecutar la captación y el uso eficaz y eficiente de los recursos públicos",
+        "Disponer de información útil, oportuna y confiable para la toma de decisiones y la rendición de cuentas",
+        "Establecer la gratuidad absoluta e ilimitada de todos los trámites judiciales e interadministrativos del Estado",
+        "Desarrollar la capacidad administrativa para impedir o identificar y sancionar el manejo incorrecto de los recursos del Estado"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 1, Ley N° 1178",
+      "explicacion": "El Art. 1 enumera 4 finalidades principales (a, b, c, d); la gratuidad ilimitada de trámites judiciales no forma parte de los objetivos SAFCO."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2 de la Ley N° 1178, los sistemas que se regulan para programar y organizar las actividades son:",
+      "options": [
+        "Programación de Operaciones, Organización Administrativa y Presupuesto",
+        "Administración de Personal, Administración de Bienes y Servicios, y Tesorería",
+        "Contabilidad Integrada, Control Gubernamental y Auditoría Interna",
+        "Crédito Público, Inversión Pública y Planificación Nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Ley N° 1178",
+      "explicacion": "El Art. 2 establece que para programar y organizar las actividades se aplicarán los sistemas de: Programación de Operaciones (SPO), Organización Administrativa (SOA) y Presupuesto (SP)."
+    },
+    {
+      "question": "Según el Artículo 3 de la Ley N° 1178, ¿cuáles son los sistemas encargados de ejecutar las actividades programadas?",
+      "options": [
+        "Administración de Personal, Administración de Bienes y Servicios, Tesorería y Crédito Público, y Contabilidad Integrada",
+        "Programación de Operaciones, Control Interno y Control Externo Posterior",
+        "Planificación Global, Presupuesto Coactivo y Auditoría Financiera",
+        "Evaluación de Impacto, Inversión Pública y Regulación Sectorial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 1178",
+      "explicacion": "El Art. 3 señala los 4 sistemas para ejecutar las actividades: SAP (Personal), SABS (Bienes y Servicios), STCP (Tesorería y Crédito Público) y SCI (Contabilidad Integrada)."
+    },
+    {
+      "question": "Conforme al Artículo 4 de la Ley N° 1178, ¿cuál es el sistema encargado de controlar la gestión del sector público?",
+      "options": [
+        "Sistema de Control Gubernamental, integrado por el Control Interno y el Control Externo Posterior",
+        "Sistema de Evaluación Disciplinaria de la Magistratura",
+        "Sistema de Fiscalización Tributaria y Financiera",
+        "Sistema de Vigilancia Social Comunitaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 1178",
+      "explicacion": "El Art. 4 define el Sistema de Control Gubernamental, integrado por el Control Interno (previo y posterior) y el Control Externo Posterior."
+    },
+    {
+      "question": "Según el Artículo 3 y 4 de la Ley N° 1178, ¿cuántos sistemas en total establece y regula la Ley SAFCO?",
+      "options": [
+        "8 sistemas (3 para programar/organizar, 4 para ejecutar y 1 para controlar)",
+        "10 sistemas divididos en tres órganos de control",
+        "5 sistemas exclusivos del Poder Ejecutivo",
+        "12 sistemas descentralizados departamentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 2, 3 y 4, Ley N° 1178",
+      "explicacion": "La Ley 1178 regula 8 sistemas: 3 de programación/organización (SPO, SOA, SP), 4 de ejecución (SAP, SABS, STCP, SCI) y 1 de control (SCG)."
+    },
+    {
+      "question": "Según el Artículo 3 y 5 de la Ley N° 1178, ¿a qué entidades se aplica el ámbito de validez de esta Ley?",
+      "options": [
+        "A todas las entidades del sector público, sin excepción, abarcando unidades administrativas de los Órganos Legislativo, Judicial, Electoral y entidades autónomas",
+        "Exclusivamente a las Unidades Centrales de los Ministerios del Poder Ejecutivo",
+        "Unicamente a las empresas públicas donde el Estado tenga el 100% de propiedad accionaria",
+        "Solo a los Gobiernos Autónomos Municipales de capitales de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3 y 4 / Artículo 5, Ley N° 1178",
+      "explicacion": "El Art. 3 y 4 (y Art. 5) indican que la ley se aplica a todas las entidades del sector público, incluyendo las unidades administrativas de los Órganos Legislativo, Judicial y Electoral."
+    },
+    {
+      "question": "Conforme al Artículo 5 de la Ley N° 1178, ¿están sujetas a las normas de esta Ley las personas privadas que no forman parte del sector público?",
+      "options": [
+        "Sí, toda persona natural o jurídica que reciba recursos del Estado, se beneficie de subsidios o preste servicios públicos concesionados está sujeta a la Ley para la rendición de cuentas",
+        "No, las personas y empresas privadas están absolutamente exentas de la Ley 1178 bajo cualquier circunstancia",
+        "Solo si son empresas extranjeras contratadas por el Ministerio de Obras Públicas",
+        "Únicamente si sus representantes legales ostentan títulos de magistrados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley N° 1178",
+      "explicacion": "El Art. 5 dispone que toda persona natural o jurídica, pública o privada, que reciba recursos del Estado, debe rendir cuentas del destino y uso de los mismos."
+    },
+    {
+      "question": "Según el Artículo 6 de la Ley N° 1178, el Sistema de Programación de Operaciones (SPO) traducirá los objetivos y planes estratégicos en:",
+      "options": [
+        "Resultados concretos a alcanzar en el corto plazo, especificando tareas, recursos y responsables",
+        "Manuales de funciones individuales con validez decenal",
+        "Leyes orgánicas aprobadas por dos tercios de la Asamblea Legislativa",
+        "Proyectos de inversión pública con financiamiento externo de largo plazo exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Ley N° 1178",
+      "explicacion": "El Art. 6 establece que el SPO traducirá los objetivos de cada entidad en tareas específicas a ejecutar, tiempo de realización, recursos y responsables."
+    },
+    {
+      "question": "Conforme al Artículo 7 de la Ley N° 1178, el Sistema de Organización Administrativa (SOA) se estructurará en función de:",
+      "options": [
+        "La optimización de la estructura organizacional para lograr los objetivos del Sistema de Programación de Operaciones (SPO)",
+        "La cantidad de funcionarios contratados en la gestión anterior",
+        "El presupuesto asignado por impuestos a las utilidades",
+        "Las decisiones bilaterales tomadas por los sindicatos de trabajadores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, Ley N° 1178",
+      "explicacion": "El Art. 7 indica que el SOA se estructurará para optimizar la estructura organizacional en función del SPO, evitando la duplicidad de atribuciones."
+    },
+    {
+      "question": "Según el Artículo 8 de la Ley N° 1178, el Sistema de Presupuesto (SP) preverá los importes financieros en función de:",
+      "options": [
+        "Los requerimientos de recursos monetarios determinados por el Sistema de Programación de Operaciones y la Organización Administrativa",
+        "La inflación proyectada acumulada de la última década",
+        "La solicitud informal presentadas por los directores de área al inicio del año",
+        "El monto total del crédito privado solicitado al Banco Central"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 1178",
+      "explicacion": "El Art. 8 señala que el SP preverá los montos financieros necesarios para la ejecución del SPO y la estructura del SOA."
+    },
+    {
+      "question": "Según el Artículo 9 de la Ley N° 1178, el Sistema de Administración de Personal (SAP) debe procurar:",
+      "options": [
+        "La eficiencia en la función pública, la idoneidad técnica del personal y la evaluación del desempeño",
+        "La inamovilidad laboral absoluta e incondicional de todos los consultores en línea",
+        "La contratación directa sin convocatoria pública en todos los niveles jerárquicos",
+        "La fijación libre de salarios por acuerdo individual en cada entidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9, Ley N° 1178",
+      "explicacion": "El Art. 9 prevé que el SAP determinará los puestos de trabajo, procesos de selección, capacitación y evaluación del desempeño para la eficiencia institucional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 10 de la Ley N° 1178, el Sistema de Administración de Bienes y Servicios (SABS) establecerá las formas de:",
+      "options": [
+        "Contratación, manejo y disposición de bienes y servicios del Estado",
+        "Inversión bursátil en mercados de renta variable internacional",
+        "Cobro de tasas y contribuciones especiales municipales",
+        "Sanción disciplinaria para magistrados del Tribunal Constitucional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Ley N° 1178",
+      "explicacion": "El Art. 10 dispone que el SABS fijará las reglas para la contratación, manejo y disposición de bienes y servicios."
+    },
+    {
+      "question": "Conforme al Artículo 10.c de la Ley N° 1178, la modalidad de disposición de bienes públicos debe aplicarse cuando los bienes:",
+      "options": [
+        "Sean de poco uso, ineficientes o no necesarios para los fines de la entidad",
+        "Hayan sido adquiridos en la misma gestión fiscal",
+        "Pertenezcan al patrimonio cultural tangible sin avalúo",
+        "Se encuentren bajo custodia preventiva del Ministerio Público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10.c, Ley N° 1178",
+      "explicacion": "El Art. 10.c señala que la disposición de bienes procederá cuando estos no sean necesarios o su mantenimiento sea ineficiente para la entidad."
+    },
+    {
+      "question": "Según el Artículo 11 de la Ley N° 1178, el Sistema de Tesorería y Crédito Público (STCP) manejará la recaudación de recursos y la programación de compromisos, asegurando que:",
+      "options": [
+        "La gestión de ingresos y gastos responda al presupuesto, y las obligaciones de deuda pública no sobrepasen la capacidad de pago del Estado",
+        "Todas las cuentas bancarias sean de uso discrecional por la Máxima Autoridad Ejecutiva",
+        "No se requiera registro contable de las transferencias del Tesoro General de la Nación",
+        "El Crédito Público sea destinado exclusivamente a gastos corrientes e imprevistos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, Ley N° 1178",
+      "explicacion": "El Art. 11 indica que el STCP regulará la administración de fondos monetarios y el endeudamiento público respetando la capacidad de pago."
+    },
+    {
+      "question": "De acuerdo con el Artículo 12 de la Ley N° 1178, el Sistema de Contabilidad Integrada (SCI) debe:",
+      "options": [
+        "Incorporar las transacciones presupuestarias, financieras y patrimoniales en un sistema único, oportuno y confiable",
+        "Llevar únicamente registros en libros auxiliares manuales no auditables",
+        "Manejar estados financieros separados sin consolidación nacional",
+        "Publicar informes financieros únicamente cada cinco años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 1178",
+      "explicacion": "El Art. 12 establece que el SCI integrará las transacciones presupuestarias, financieras y patrimoniales para generar información oportuna."
+    },
+    {
+      "question": "Según el Artículo 13 de la Ley N° 1178, el Control Interno de las entidades públicas comprende:",
+      "options": [
+        "El Control Interno Previo y el Control Interno Posterior",
+        "La fiscalización exclusiva por organizaciones sociales externas",
+        "El juzgamiento penal por tribunales militares de hacienda",
+        "La auditoría tributaria efectuada por el Servicio de Impuestos Nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 1178",
+      "explicacion": "El Art. 13 establece que el Control Interno comprende el previo (aplicado por los responsables de la operación) y el posterior (por la Máxima Autoridad y la UAI)."
+    },
+    {
+      "question": "Conforme al Artículo 14 de la Ley N° 1178, el Control Interno Previo se aplica:",
+      "options": [
+        "Por todas las unidades y servidores públicos antes de que sus actos surtan efecto o de que los recursos sean desembolsados",
+        "Unicamente por la Unidad de Auditoría Interna de la entidad",
+        "Por los auditores externos contratados por la Contraloría",
+        "Exclusivamente por la Comisión de Ética de la Cámara de Diputados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Ley N° 1178",
+      "explicacion": "El Art. 14 señala que el control previo se ejerce por los servidores públicos encargados de la ejecución antes de la autorización de desembolso o cumplimiento del acto."
+    },
+    {
+      "question": "Según el Artículo 14 de la Ley N° 1178, ¿quiénes NO pueden ejercer el Control Interno Previo en una entidad pública?",
+      "options": [
+        "Las Unidades de Auditoría Interna (UAI), para salvaguardar su independencia y objetividad",
+        "Los directores administrativos y jefes de presupuesto",
+        "Los encargados de contabilidad y tesorería",
+        "La Máxima Autoridad Ejecutiva de la entidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14 y 15, Ley N° 1178",
+      "explicacion": "Las Unidades de Auditoría Interna (UAI) realizan control posterior y no deben ejercer control previo para mantener su independencia de gestión."
+    },
+    {
+      "question": "De acuerdo con el Artículo 15 de la Ley N° 1178, la Unidad de Auditoría Interna (UAI) de una entidad pública depende directamente de:",
+      "options": [
+        "La Máxima Autoridad Ejecutiva (MAE) de la entidad pública",
+        "El Ministerio de Economía y Finanzas Públicas",
+        "El Tribunal Supremo de Justicia",
+        "El Sindicato de Trabajadores de la entidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 1178",
+      "explicacion": "El Art. 15 establece que la Unidad de Auditoría Interna (UAI) depende de la Máxima Autoridad Ejecutiva (MAE) institucional."
+    },
+    {
+      "question": "Conforme al Artículo 16 de la Ley N° 1178, el Control Externo Posterior se aplicará por:",
+      "options": [
+        "La Contraloría General del Estado y por las entidades que ejercen tuición, o mediante firmas de auditoría independiente contratadas",
+        "El Ministerio de Relaciones Exteriores exclusivamente",
+        "El Banco Central de Bolivia y el sistema financiero privado",
+        "Los comités cívicos departamentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 1178",
+      "explicacion": "El Art. 16 especifica que el Control Externo Posterior lo ejerce la Contraloría General del Estado, las entidades tutoras y auditoras contratadas."
+    },
+    {
+      "question": "Según el Artículo 20 de la Ley N° 1178, ¿cuál es el Órgano Rector del Sistema de Control Gubernamental?",
+      "options": [
+        "La Contraloría General del Estado",
+        "El Ministerio de Economía y Finanzas Públicas",
+        "El Ministerio de Planificación del Desarrollo",
+        "El Tribunal Constitucional Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 1178",
+      "explicacion": "El Art. 20 otorga a la Contraloría General del Estado la calidad de Órgano Rector del Sistema de Control Gubernamental."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20 de la Ley N° 1178, ¿cuál es el Órgano Rector de los siete sistemas de administración pública (SPO, SOA, SP, SAP, SABS, STCP, SCI)?",
+      "options": [
+        "El Ministerio de Economía y Finanzas Públicas (ex Ministerio de Hacienda)",
+        "El Ministerio de Justicia y Transparencia Institucional",
+        "La Vicepresidencia del Estado Plurinacional",
+        "El Consejo de la Magistratura"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 1178",
+      "explicacion": "El Ministerio de Economía y Finanzas Públicas ejerce el rol de Órgano Rector para los 7 sistemas administrativos."
+    },
+    {
+      "question": "Según el Artículo 20 de la Ley N° 1178, ¿cuál de las siguientes NO es una atribución básica de un Órgano Rector?",
+      "options": [
+        "Emitir las Normas Básicas para cada sistema",
+        "Compatibilizar las normas específicas elaboradas por cada entidad",
+        "Aprobar u objetar el presupuesto anual consolidado sin pasar por el Poder Legislativo",
+        "Vigilar la adecuada implantación de los sistemas en las entidades públicas"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 20, Ley N° 1178",
+      "explicacion": "El Órgano Rector emite Normas Básicas, compatibiliza las normas específicas y vigila su implantación; la aprobación del presupuesto consolidado corresponde a la ALP."
+    },
+    {
+      "question": "Conforme al Artículo 21 de la Ley N° 1178, ¿quién es el responsable de la elaboración de las Normas Específicas de los sistemas de administración en cada entidad pública?",
+      "options": [
+        "Cada entidad pública, a través de su Máxima Autoridad Ejecutiva (MAE), ajustada a las Normas Básicas emitidas por el Órgano Rector",
+        "El Contralor General del Estado de manera directa e individual",
+        "El Fiscal General del Estado previa consulta al Senado",
+        "Las Universidades Públicas Autónomas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 1178",
+      "explicacion": "El Art. 21 señala que cada entidad elaborará sus normas específicas en el marco de las Normas Básicas dictadas por el Órgano Rector."
+    },
+    {
+      "question": "De acuerdo con el Artículo 22 de la Ley N° 1178, el Ejercicio de la Tuición de una entidad sobre otra comprende:",
+      "options": [
+        "Promover y vigilar la implantación y funcionamiento de los sistemas de administración y control en la entidad tutelada",
+        "Asumir la firma de todos los contratos administrativos de la entidad subordinada",
+        "Nombrar discrecionalmente al personal subalterno de la entidad tutelada",
+        "Absolver de responsabilidad penal a los servidores públicos juzgados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Ley N° 1178",
+      "explicacion": "La tuición consiste en supervisar la implantación de los sistemas y evaluar el desempeño de la entidad bajo su tuición."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 1178, la Contraloría General del Estado tiene la facultad de ejercer en cualquier momento:",
+      "options": [
+        "El Control Externo Posterior, evaluando las operaciones de cualquier entidad pública o privada que maneje recursos del Estado",
+        "El Control Interno Previo antes de cada firma de cheque ministerial",
+        "La detención preventiva inmediata de los imputados en hechos de corrupción",
+        "El nombramiento directo de alcaldes y gobernadores en caso de acefalía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 1178",
+      "explicacion": "El Art. 23 atribuye a la Contraloría la potestad de realizar el Control Externo Posterior en cualquier entidad sujeta a la Ley SAFCO."
+    },
+    {
+      "question": "Conforme al Artículo 25 de la Ley N° 1178, el Contralor General del Estado presentará informes de su gestión de control a:",
+      "options": [
+        "La Asamblea Legislativa Plurinacional (ex Congreso Nacional) al menos una vez al año",
+        "El Gabinete de Ministros cada mes",
+        "El Tribunal Supremo Electoral durante periodos comiciales",
+        "La Federación de Asociaciones Municipales de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Ley N° 1178",
+      "explicacion": "El Art. 25 ordena al Contralor rendir informes de su gestión directamente ante la Asamblea Legislativa Plurinacional."
+    },
+    {
+      "question": "Según el Artículo 27 de la Ley N° 1178, los servidores públicos están obligados a responder por sus actos ante sus superiores jerárquicos y ante la sociedad. Esta obligación se denomina:",
+      "options": [
+        "Rendición de cuentas e imposición de Responsabilidad por la Función Pública",
+        "Inmunidad administrativa provisional",
+        "Garantía de irretroactividad financiera",
+        "Autonomía operativa plena"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27 y 28, Ley N° 1178",
+      "explicacion": "Los Arts. 27 y 28 establecen el principio de rendición de cuentas y la consecuente responsabilidad por la función pública."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28 de la Ley N° 1178, todo servidor público responde por el resultado del ejercicio de las funciones, deberes y atribuciones asignados a su cargo. ¿Cuántos tipos de responsabilidad se establecen en la Ley SAFCO?",
+      "options": [
+        "Cuatro tipos: Administrativa, Ejecutiva, Civil y Penal",
+        "Dos tipos: Disciplinaria y Judicial",
+        "Tres tipos: Fiscal, Constitucional y Penal",
+        "Cinco tipos: Civil, Comercial, Laboral, Tributaria y Administrativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 1178",
+      "explicacion": "El Art. 28 señala expresamente los 4 tipos de responsabilidad por la función pública: Administrativa, Ejecutiva, Civil y Penal."
+    },
+    {
+      "question": "Según el Artículo 28 de la Ley N° 1178, la responsabilidad por la función pública alcanza a los ex servidores públicos?",
+      "options": [
+        "Sí, la responsabilidad por actos u omisiones cometidos durante el ejercicio del cargo alcanza también a los ex servidores públicos",
+        "No, cesa automáticamente en el momento de la renuncia o destitución del cargo",
+        "Solo si el ex servidor público permanece en el país",
+        "Únicamente en caso de delitos de traición a la patria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 1178",
+      "explicacion": "El Art. 28 determina que la responsabilidad es aplicable tanto a servidores en ejercicio como a ex servidores públicos."
+    },
+    {
+      "question": "Según el Artículo 29 de la Ley N° 1178, la Responsabilidad Administrativa emerge cuando:",
+      "options": [
+        "El servidor público infringe el ordenamiento jurídico administrativo y las normas que regulan la conducta funcionaria",
+        "La gestión del ejecutivo es evaluada como deficiente o negligente",
+        "El acto u omisión causa un daño económico al Estado cuantificable en dinero",
+        "La conducta se adecua a un tipo penal tipificado en el Código Penal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 1178",
+      "explicacion": "La Responsabilidad Administrativa nace del incumplimiento o contravención al ordenamiento normativo administrativo interno/externo."
+    },
+    {
+      "question": "Conforme al Artículo 29 de la Ley N° 1178, ¿qué tipo de proceso se sigue para determinar la Responsabilidad Administrativa y cuáles son las sanciones aplicables?",
+      "options": [
+        "Un proceso interno disciplinario; las sanciones son multa, suspensión temporal o destitución",
+        "Un juicio coactivo fiscal; la sanción es el embargo de bienes personales",
+        "Un juicio oral penal; la sanción es presidio en centro penitenciario",
+        "Una auditoría financiera externa; la sanción es la anulación de contratos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 1178",
+      "explicacion": "Se determina mediante sumario o proceso disciplinario interno, imponiéndose multas de hasta el 20% del haber mensual, suspensión o destitución."
+    },
+    {
+      "question": "De acuerdo con el Artículo 29 de la Ley N° 1178, ¿cuándo prescribe la Responsabilidad Administrativa?",
+      "options": [
+        "A los dos (2) años de cometida la contravención o de iniciada la acción",
+        "A los diez (10) años improrrogables",
+        "Es imprescriptible según mandato de la Ley SAFCO",
+        "A los cinco (5) años computados desde la gestión fiscal siguiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 1178",
+      "explicacion": "La responsabilidad administrativa prescribe a los 2 años de iniciada la acción o cometida la falta contravencional."
+    },
+    {
+      "question": "Según el Artículo 30 de la Ley N° 1178, la Responsabilidad Ejecutiva emerge cuando la Máxima Autoridad Ejecutiva (MAE) o los ejecutivos de una entidad:",
+      "options": [
+        "Incumplen obligaciones de gestión (Arts. 1 y 27), no rinden cuentas o su gestión es evaluada como deficiente o negligente",
+        "Cometen contravenciones menores de impuntualidad funcionaria",
+        "Tienen discrepancias ideológicas con el Órgano Rector",
+        "Generan un accidente de tránsito con vehículos de la entidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "La Responsabilidad Ejecutiva recae en la MAE y directivos por gestión negligente, falta de implantación de sistemas o falta de rendición de cuentas."
+    },
+    {
+      "question": "Conforme al Artículo 30 de la Ley N° 1178, ¿quién es la única autoridad con potestad para dictaminar la Responsabilidad Ejecutiva?",
+      "options": [
+        "El Contralor General del Estado de manera exclusiva",
+        "El Ministro de Economía y Finanzas Públicas",
+        "El Juez de Sumario Administrativo Interno",
+        "El Presidente de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "El Dictamen de Responsabilidad Ejecutiva es atribución exclusiva y privativa del Contralor General del Estado."
+    },
+    {
+      "question": "Según el Artículo 30 de la Ley N° 1178, ¿cuáles son las sanciones derivadas de la Responsabilidad Ejecutiva impuestas a la Máxima Autoridad Ejecutiva?",
+      "options": [
+        "Suspensión o destitución del cargo",
+        "Pago del 50% de los ingresos de la entidad por un año",
+        "Amonestación verbal en sesión pública del Senado",
+        "Inhabilitación perpetua para ejercer cualquier profesión privada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "El Dictamen de Responsabilidad Ejecutiva fundamenta la suspensión o destitución inmediata de la autoridad ejecutiva sancionada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 30 de la Ley N° 1178, ¿cuándo prescribe la Responsabilidad Ejecutiva?",
+      "options": [
+        "A los dos (2) años de concluida la gestión de la Máxima Autoridad Ejecutiva",
+        "A los diez (10) años computados desde el nombramiento",
+        "No prescribe bajo ninguna circunstancia",
+        "A los seis (6) meses de emitido el informe presupuestario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "La responsabilidad ejecutiva prescribe a los dos (2) años de concluida la gestión del ejecutivo."
+    },
+    {
+      "question": "Según el Artículo 31 de la Ley N° 1178, la Responsabilidad Civil emerge cuando:",
+      "options": [
+        "La acción u omisión del servidor público o del particular causa daño económico al Estado, evaluable en dinero",
+        "Se vulneran reglamentos internos de puntualidad y asistencia",
+        "La gestión presupuestaria no fue aprobada por la Asamblea",
+        "Existen diferencias de interpretación legal entre abogados de la entidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 1178",
+      "explicacion": "La Responsabilidad Civil se origina en acciones u omisiones que provocan un daño patrimonial evaluable en dinero al Estado."
+    },
+    {
+      "question": "Conforme al Artículo 31 de la Ley N° 1178, la Responsabilidad Civil es de carácter solidario cuando:",
+      "options": [
+        "Varias personas resulten responsables del mismo acto o del mismo hecho que causó el daño económico al Estado",
+        "El servidor público pertenece a un sindicato registrado",
+        "El hecho ocurrió en un día feriado o fin de semana",
+        "La entidad afectada es de carácter descentralizado municipal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 1178",
+      "explicacion": "Si dos o más personas concurren en la causa del daño económico al Estado, responderán solidariamente del pago de la reparación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 31 de la Ley N° 1178 y la jurisprudencia constitucional vigente, la Responsabilidad Civil motivada por daño al patrimonio del Estado prescribe a los:",
+      "options": [
+        "Imprescriptible según el Art. 324 de la CPE (en la Ley 1178 fijaba originalmente 10 años)",
+        "3 años improrrogables",
+        "1 año computado desde la auditoría",
+        "5 años contados desde el contrato"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 1178 / Art. 324 CPE",
+      "explicacion": "Originalmente el Art. 31 señalaba 10 años, pero por mandato del Art. 324 de la CPE de 2009, las deudas por daños al patrimonio del Estado no prescriben."
+    },
+    {
+      "question": "Según el Artículo 33 de la Ley N° 1178, la Exención de Responsabilidad (Administrativa, Ejecutiva o Civil) se aplica cuando se demuestra que la decisión gerencial fue tomada:",
+      "options": [
+        "En procura del beneficio o resguardo de la entidad, habiendo evaluado previamente los riesgos y adoptado la opción de menor riesgo o mayor beneficio",
+        "Por orden verbal del ministro de área sin respaldo de informe técnico",
+        "Bajo estado de ebriedad o alteración emocional justificada",
+        "En cumplimiento exclusivo de peticiones formuladas por juntas vecinales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 1178",
+      "explicacion": "El Art. 33 consagra el principio de exención por decisión gerencial basada en riesgo calculado y resguardo del interés público."
+    },
+    {
+      "question": "Conforme al Artículo 33 de la Ley N° 1178, para beneficiarse de la exención de responsabilidad, el servidor público debe haber dejado constancia de la evaluación de riesgos en:",
+      "options": [
+        "Un informe o documento escrito previo a la toma de la decisión o ejecucion del acto",
+        "Una declaración de prensa realizada con posterioridad a la auditoría",
+        "Un memorial presentado ante la Fiscalía diez años después",
+        "Un acta firmada únicamente por los asesores externos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 1178",
+      "explicacion": "El servidor público debe demostrar que la decisión fue oportunamente documentada y respaldada técnicamente con evaluación previa de riesgos."
+    },
+    {
+      "question": "Según el Artículo 34 de la Ley N° 1178, la Responsabilidad Penal se configura cuando:",
+      "options": [
+        "La conducta u omisión del servidor público o del particular se adecua a uno de los delitos tipificados en el Código Penal",
+        "El informe de auditoría determina una multa del 10% del sueldo",
+        "Existe una queja formulada por retraso en la atención al público",
+        "Se detecta un error formal tipográfico en el POA anual"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34, Ley N° 1178",
+      "explicacion": "Nace cuando el acto u omisión se enmarca en las conductas prohibidas y sancionadas penaltemente por la legislación criminal."
+    },
+    {
+      "question": "De acuerdo con el Artículo 34 de la Ley N° 1178, cuando la auditoría o inspección determine indicios de Responsabilidad Penal, la autoridad competente debe:",
+      "options": [
+        "Remitir los antecedentes ante la Fiscalía (Ministerio Público) para el inicio de la acción penal correspondiente",
+        "Proceder a la ejecución coactiva inmediata de embargo de inmuebles",
+        "Dictar sentencia condenatoria firme de prisión en 24 horas",
+        "Conceder un perdón administrativo mediante resolución ministerial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34, Ley N° 1178",
+      "explicacion": "Detectados indicios de criminalidad, la autoridad o auditor debe hacer la denuncia o remisión legal ante el Ministerio Público."
+    },
+    {
+      "question": "Conforme al Artículo 35 de la Ley N° 1178, la calificación de las responsabilidades establecidas en la Ley SAFCO se hará tomando en cuenta:",
+      "options": [
+        "El grado de intencionalidad, la negligencia, la trascendencia del hecho y las circunstancias de tiempo, lugar y modo",
+        "Únicamente la edad y filiación política del servidor público",
+        "La cantidad de años que lleve contratado en la entidad de forma ininterrumpida",
+        "El voto mayoritario de los vecinos de la jurisdicción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 1178",
+      "explicacion": "Se pondera la intencionalidad, la gravedad de la omisión y el contexto fáctico en el cual se actuó."
+    },
+    {
+      "question": "Según el Artículo 36 de la Ley N° 1178, los informes de auditoría emitidos por la Contraloría General del Estado y las Unidades de Auditoría Interna que determinen daño económico poseen la calidad jurídica de:",
+      "options": [
+        "Instrumento público con fuerza probatoria de prueba preconstituida para el inicio de la acción coactiva o judicial",
+        "Documento informativo sin valor legal ante los tribunales",
+        "Decreto de cumplimiento obligatorio inmediato sin derecho a defensa",
+        "Certificación mercantil sujeta a registro en FUNDEMPRESA/SEPREC"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36 e Indicios / Jurisprudencia",
+      "explicacion": "Los informes de auditoría que establecen indicios de responsabilidad civil constituyen prueba preconstituida para sustentar procesos legales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 39 de la Ley N° 1178, los dictámenes de Responsabilidad Civil emitidos por el Contralor General del Estado tienen el valor legal de:",
+      "options": [
+        "Título ejecutivo suficiente para la iniciación del Proceso Coactivo Fiscal",
+        "Sentencia penal condenatoria ejecutoriada de prisión",
+        "Recomendación no vinculante que la entidad puede ignorar",
+        "Resolución administrativa de nulidad de la norma básica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39 y 41, Ley N° 1178",
+      "explicacion": "El Dictamen de Responsabilidad Civil constituye título con fuerza ejecutiva suficiente para iniciar la cobranza en la jurisdicción Coactiva Fiscal."
+    },
+    {
+      "question": "Conforme al Artículo 42 de la Ley N° 1178, la Jurisdicción Coactiva Fiscal es la instancia especializada para juzgar:",
+      "options": [
+        "Las demandas de cobro por daños económicos causados al Estado por servidores públicos o particulares",
+        "Los delitos contra la seguridad del Estado tipificados en el Código Penal",
+        "Los litigios laborales y de seguridad social entre privados",
+        "Las controversias sobre delimitación de límites interdepartamentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42, Ley N° 1178",
+      "explicacion": "La Jurisdicción Coactiva Fiscal procesa la recuperación de deudas y acreencias por responsabilidad civil a favor del Estado."
+    },
+    {
+      "question": "Según el Artículo 43 de la Ley N° 1178, la ejecución de las deudas por Responsabilidad Civil establecidas en sentencias coactivas fiscales se dirigirá contra:",
+      "options": [
+        "El patrimonio de los deudores directos y sus garantes o responsables solidarios",
+        "El presupuesto anual de la entidad querellante",
+        "Las cuentas del Tesoro General de la Nación exclusivamente",
+        "Los bienes de la Universidad Mayor de San Andrés"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 43, Ley N° 1178",
+      "explicacion": "Se ejecuta sobre los bienes patrimoniales de los obligados principales, mancomunados o solidarios."
+    },
+    {
+      "question": "De acuerdo con el Artículo 47 de la Ley N° 1178, la Contraloría General del Estado tiene la facultad de disponer la congelación de cuentas bancarias de las entidades cuando:",
+      "options": [
+        "Se advierta un riesgo inminente de desvío de fondos o incautación judicial no justificada",
+        "El director de la entidad no asista a las reuniones del Gabinete",
+        "No se publique la memoria fotográfica anual en la página web",
+        "Se apruebe un incremento salarial consensuado con el sindicato"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47, Ley N° 1178",
+      "explicacion": "La CGE puede ordenar la suspensión o congelamiento de cuentas cuando haya grave riesgo de malversación o incumplimiento normativo reiterado."
+    },
+    {
+      "question": "Dentro del Sistema de Programación de Operaciones (SPO), ¿cuál es el instrumento básico que elabora cada entidad pública anualmente?",
+      "options": [
+        "El Plan Operativo Anual (POA)",
+        "El Manual de Organización y Funciones (MOF)",
+        "El Reglamento Interno de Trabajo (RIT)",
+        "El Plan Estratégico Decenal (PED)"
+      ],
+      "answer": 0,
+      "fuente": "SPO - Normas Básicas / Art. 6, Ley 1178",
+      "explicacion": "El SPO se efectiviza mediante la formulación obligatoria del Plan Operativo Anual (POA) en cada institución."
+    },
+    {
+      "question": "El Sistema de Organización Administrativa (SOA) persigue evitar la duplicidad de funciones a través de tres procesos principales. ¿Cuáles son?",
+      "options": [
+        "Análisis Estructural, Diseño Organizativo e Implantación de la Estructura",
+        "Presupuestación, Licitación y Fiscalización",
+        "Reclutamiento, Inducción y Despido",
+        "Auditoría Previa, Concomitante y Posterior"
+      ],
+      "answer": 0,
+      "fuente": "SOA - Normas Básicas / Art. 7, Ley 1178",
+      "explicacion": "Los procesos del SOA son: análisis de la estructura organizacional, diseño o rediseño organizativo, y su posterior implantación."
+    },
+    {
+      "question": "El Sistema de Presupuesto (SP) consta de tres momentos o fases principales dentro del ciclo presupuestario. ¿Cuáles son?",
+      "options": [
+        "Formulación Presupuestaria, Discusión/Aprobación, y Ejecución y Evaluación",
+        "Cotización, Adjudicación y Liquidación",
+        "Contratación Directa, Licitación y Entrega",
+        "Depósito, Giro y Rendición de Cuentas"
+      ],
+      "answer": 0,
+      "fuente": "SP - Normas Básicas / Art. 8, Ley 1178",
+      "explicacion": "El ciclo presupuestario abarca: formulación (o programación), aprobación legislativa, y ejecución junto a la evaluación del presupuesto."
+    },
+    {
+      "question": "En el marco del Sistema de Administración de Personal (SAP), los procesos de dotación de personal deben realizarse mediante:",
+      "options": [
+        "Convocatoria pública y evaluación objetiva de méritos y capacidad",
+        "Designación verbal discrecional por el Jefe de Recursos Humanos",
+        "Sorteo público en presencia de notario de fe pública",
+        "Recomendación escrita emanada de organizaciones políticas"
+      ],
+      "answer": 0,
+      "fuente": "SAP - Normas Básicas / Art. 9, Ley 1178",
+      "explicacion": "El SAP exige el reclutamiento transparente mediante concurso público de méritos y competencia profesional."
+    },
+    {
+      "question": "El Sistema de Administración de Bienes y Servicios (SABS) distingue tres subsistemas esenciales. ¿Cuáles son?",
+      "options": [
+        "Subsistema de Contratación, Subsistema de Manejo y Subsistema de Disposición de Bienes",
+        "Subsistema de Importación, Subsistema de Exportación y Subsistema de Almacenaje",
+        "Subsistema Monetario, Subsistema Cambiario y Subsistema Fiscal",
+        "Subsistema de Planificación, Subsistema de Operación y Subsistema de Archivo"
+      ],
+      "answer": 0,
+      "fuente": "SABS - NB-SABS / Art. 10, Ley 1178",
+      "explicacion": "Los tres subsistemas del SABS son: Contratación de Bienes y Servicios, Manejo de Bienes y Disposición de Bienes."
+    },
+    {
+      "question": "En el Sistema de Administración de Bienes y Servicios (SABS), ¿cuál es el responsable de llevar adelante el proceso de contratación desde la convocatoria hasta la adjudicación en la modalidad de Licitación Pública?",
+      "options": [
+        "El Responsable del Proceso de Contratación de Licitación Pública (RPE / RPC)",
+        "El Contralor General del Estado",
+        "El Director de Auditoría Interna",
+        "El Asesor Legal del Sindicato de la Entidad"
+      ],
+      "answer": 0,
+      "fuente": "NB-SABS / Art. 10, Ley 1178",
+      "explicacion": "El RPC (Responsable del Proceso de Contratación) es designado por la MAE para dirigir la licitación pública."
+    },
+    {
+      "question": "En el Sistema de Tesorería y Crédito Público (STCP), el Subsistema de Tesorería se encarga primordialmente de:",
+      "options": [
+        "La administración de la liquidez del Estado, gestionando la recaudación de ingresos y el pago de obligaciones",
+        "La fiscalización de impuestos internos a contribuyentes privados",
+        "La impresión de billetes y acuñación de monedas de curso legal",
+        "La concesión de créditos de consumo a familias vulnerables"
+      ],
+      "answer": 0,
+      "fuente": "STCP - Normas Básicas / Art. 11, Ley 1178",
+      "explicacion": "Tesorería administra los flujos de caja y la liquidez de los fondos públicos para el pago oportuno de las obligaciones."
+    },
+    {
+      "question": "En el Sistema de Tesorería y Crédito Público (STCP), el Subsistema de Crédito Público norma las operaciones de:",
+      "options": [
+        "Endeudamiento público interno y externo de corto, mediano y largo plazo",
+        "Préstamos prendarios a particulares con garantía de joyas",
+        "Emisión de acciones para bolsa mercantil internacional",
+        "Transferencias directas bancarias sin registro presupuestario"
+      ],
+      "answer": 0,
+      "fuente": "STCP - Normas Básicas / Art. 11, Ley 1178",
+      "explicacion": "Crédito Público regula la captación de recursos por la vía del endeudamiento público interno y externo."
+    },
+    {
+      "question": "El Sistema de Contabilidad Integrada (SCI) debe producir estados financieros obligatorios. ¿Cuál de los siguientes ES un estado financiero básico del SCI?",
+      "options": [
+        "Balance General y Estado de Rendimiento Financiero / Estado de Resultados",
+        "Informe Mensual de Asistencia de Personal",
+        "Declaración Jurada de Bienes y Rentas",
+        "Plan de Seguridad Física de Instalaciones"
+      ],
+      "answer": 0,
+      "fuente": "SCI - Normas Básicas / Art. 12, Ley 1178",
+      "explicacion": "El SCI genera el Balance General, Estado de Resultados/Rendimiento, Estado de Flujo de Efectivo y Ejecución Presupuestaria."
+    },
+    {
+      "question": "En el Sistema de Contabilidad Integrada (SCI), la integración contable se realiza a través de tres módulos o subsistemas. ¿Cuáles son?",
+      "options": [
+        "Modulo Presupuestario, Módulo Patrimonial y Módulo Tesorero / Financiero",
+        "Módulo de Archivo, Módulo de Tramitación y Módulo de Firma Digital",
+        "Módulo Impositivo, Módulo Aduanero y Módulo Arancelario",
+        "Módulo de Compras, Módulo de Ventas y Módulo de Inventario Comercial"
+      ],
+      "answer": 0,
+      "fuente": "SCI - NB-SCI / Art. 12, Ley 1178",
+      "explicacion": "El SCI integra los subsistemas de Contabilidad Presupuestaria, Contabilidad Patrimonial y Contabilidad de Tesorería."
+    },
+    {
+      "question": "En el marco del Sistema de Control Gubernamental, ¿cuál es la diferencia sustancial entre el Control Interno Previo y el Control Interno Posterior?",
+      "options": [
+        "El previo se realiza por los ejecutores antes de autorizar o ejecutar la operación; el posterior se aplica después de realizada la operación por la MAE y la UAI",
+        "El previo lo realiza la Fiscalía; el posterior lo efectúa el Tribunal de Cuentas",
+        "El previo no requiere respaldo documental; el posterior se basa en leyes de amnistía",
+        "El previo dura cinco años; el posterior se efectúa cada 30 días"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 13, 14 y 15, Ley N° 1178",
+      "explicacion": "El control previo es ex ante a la decisión por el servidor actuante; el posterior es ex post por la jefatura superior y auditoría interna."
+    },
+    {
+      "question": "Según el Artículo 15 de la Ley N° 1178, los auditores internos de la Unidad de Auditoría Interna (UAI) no pueden intervenir en actividades de administración operativa debido a que:",
+      "options": [
+        "Se vulneraría su independencia de criterio y el principio de imparcialidad para evaluar posteriormente dichas operaciones",
+        "No poseen título profesional en ciencias económicas o jurídicas",
+        "Su salario depende del fondo de subvenciones internacionales",
+        "Carecen de firma autorizada en el Banco Central"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 1178",
+      "explicacion": "Participar en la gestión directa anularía la independencia de criterio del auditor al convertirse en juez y parte de la operación."
+    },
+    {
+      "question": "Conforme al Artículo 18 de la Ley N° 1178, el Control Externo Posterior evalúa las operaciones concluidas de las entidades públicas con el objeto de emitir opinión sobre:",
+      "options": [
+        "La eficacia, eficiencia y economía de la gestión, la confiabilidad de la información y el cumplimiento normativo",
+        "La filiación política de los mandos medios de la institución",
+        "La popularidad mediática de la Máxima Autoridad Ejecutiva",
+        "El valor comercial de mercado de los inmuebles urbanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 1178",
+      "explicacion": "El control externo juzga la eficacia, eficiencia, economía, legalidad y confiabilidad de los estados e informes financieros."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28 de la Ley N° 1178, la responsabilidad por la función pública se presume cuando el servidor público incurre en:",
+      "options": [
+        "Acción u omisión que contravenga el ordenamiento jurídico-administrativo o cause perjuicio al interés público",
+        "Solicitud formal de vacaciones acumuladas legalmente",
+        "Inscripción en cursos de postgrado universitario en horarios fuera de oficina",
+        "Presentación de recursos de apelación en trámites administrativos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 1178",
+      "explicacion": "Toda acción u omisión violatoria del marco legal aplicable da lugar a la presunción de responsabilidad funcionaria."
+    },
+    {
+      "question": "Según el Artículo 29 de la Ley N° 1178, la sanción de destitución dispuesta en un sumario administrativo conlleva adicionalmente:",
+      "options": [
+        "La separación inmediata del cargo y el registro de la sanción en la Contraloría General del Estado",
+        "La pérdida inmediata de la nacionalidad boliviana",
+        "El embargo preventivo automático de las cuentas de toda la familia del servidor",
+        "La prohibición de salir del domicilio por noventa días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29 / D.S. 23318-A",
+      "explicacion": "La destitución implica la cesación inmediata del vínculo laboral y el registro del antecedente disciplinario en el sistema del Ente Rector."
+    },
+    {
+      "question": "En el caso de la Responsabilidad Ejecutiva (Art. 30), si el Contralor emite un Dictamen de Responsabilidad Ejecutiva sugiriendo la destitución de la MAE de una entidad descentralizada, ¿quién debe ejecutar la sanción?",
+      "options": [
+        "La autoridad u órgano colegiado que ejerza tuición o que tenga la facultad constitucional/legal de nombrar o remover a la MAE",
+        "El Director de Recursos Humanos de la misma entidad sancionada",
+        "El Comandante General de la Policía Boliviana",
+        "El Sindicato de Trabajadores Obreros de la entidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "Corresponde a la autoridad tutora o al Presidente/Directorio que lo nombró proceder a la remoción o suspensión dispuesta en el dictamen."
+    },
+    {
+      "question": "De acuerdo con el Artículo 31 de la Ley N° 1178, cuando el daño económico al Estado sea consecuencia de la negligencia grave en la custodia de bienes de la entidad, ¿qué tipo de responsabilidad se genera?",
+      "options": [
+        "Responsabilidad Civil de reparación patrimonial del daño causado",
+        "Responsabilidad Política de censura parlamentaria exclusivamente",
+        "Exención automática de responsabilidad por caso fortuito",
+        "Sanción de amonestación verbal sin reposición de valor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 1178",
+      "explicacion": "La pérdida o deterioro de bienes por negligencia con costo económico da lugar a la obligación de resarcir el daño mediante la Responsabilidad Civil."
+    },
+    {
+      "question": "Según el Artículo 32 de la Ley N° 1178, si un particular no servidor público se beneficia indebidamente de recursos públicos provocando un daño patrimonial al Estado, ¿está sujeto a la Responsabilidad Civil?",
+      "options": [
+        "Sí, la Responsabilidad Civil alcanza tanto a servidores públicos como a particulares que causaren daño económico al Estado",
+        "No, los particulares responden únicamente por el Código de Comercio",
+        "Solo si el particular posee acciones en bancos estatales",
+        "Únicamente si la cuantía supera el millón de dólares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31 y 32, Ley N° 1178",
+      "explicacion": "El particular que genera un perjuicio financiero al Estado responde civilmente junto a los funcionarios involucrados."
+    },
+    {
+      "question": "Conforme al Artículo 33 de la Ley N° 1178, para que se configure la Exención de Responsabilidad en una compra de emergencia, ¿qué elemento es indispensable?",
+      "options": [
+        "Que la decisión haya sido neutral, debidamente sustentada en informes técnicos y orientada al resguardo de la entidad ante el riesgo",
+        "Que el precio pagado haya sido el triple del valor de mercado",
+        "Que no se haya dejado ningún registro en las actas de recepción",
+        "Que la compra haya sido efectuada a un familiar directo del director"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 1178",
+      "explicacion": "Requiere sustento técnico escrito antes del acto que pruebe la conveniencia del riesgo asumido frente a la emergencia o contingencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 37 de la Ley N° 1178, los abogados de las entidades públicas que no inicien las acciones legales oportunas para la recuperación de deudas civiles incursas en informes de auditoría incurren en:",
+      "options": [
+        "Responsabilidad Administrativa y Civil, y en su caso Penal por incumplimiento de deberes",
+        "Exención de responsabilidad por autonomía profesional jurídica",
+        "Suspensión voluntaria de la colegiatura profesional",
+        "Amonestación privada emitida por la Fiscalía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37, Ley N° 1178",
+      "explicacion": "El abandono de la defensa legal o la omisión en el cobro de acreencias del Estado genera responsabilidad directa sobre el abogado omiso."
+    },
+    {
+      "question": "Según el Artículo 38 de la Ley N° 1178, cuando el informe de auditoría determine la existencia de deficiencias en el control interno de una entidad, la MAE debe:",
+      "options": [
+        "Instruir inmediatamente la adopción de las medidas correctivas recomendadas y señalar plazos de cumplimiento",
+        "Archivar el informe de auditoría en la caja fuerte de la entidad",
+        "Proceder al despido sumario del auditor que realizó el informe",
+        "Remitir el informe a los medios de comunicación antes de su aplicación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38, Ley N° 1178",
+      "explicacion": "La MAE tiene la obligación de aplicar las recomendaciones de auditoría aprobadas e implantar los correctivos solicitados."
+    },
+    {
+      "question": "Conforme al Artículo 40 de la Ley N° 1178, las autoridades que se nieguen a proporcionar información o documentación requerida por la Contraloría General del Estado incurren en:",
+      "options": [
+        "Responsabilidad Administrativa y Penal por el delito de impedimento o estorbo al ejercicio de funciones de control",
+        "Derecho de reserva institucional protegido por la ley de archivo",
+        "Suspensión preventiva del pago de servicios básicos de la entidad",
+        "Nulidad de pleno derecho de las actas de fiscalización"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40, Ley N° 1178",
+      "explicacion": "La negativa u ocultamiento de información a los auditores de la CGE es falta grave administrativa y constituye delito sancionado penalmente."
+    },
+    {
+      "question": "De acuerdo con el Artículo 41 de la Ley N° 1178, el Proceso Coactivo Fiscal tramitado ante la jurisdicción coactiva se caracteriza por ser un proceso:",
+      "options": [
+        "Breve y de ejecución sumaria para el cobro de acreencias con fuerza ejecutiva estatal",
+        "Ordinario de doble instancia con duración mínima de diez años",
+        "Arbitral privado regido por la Cámara de Comercio",
+        "Verbal de conciliación familiar de libre desestimación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41 y 42, Ley N° 1178",
+      "explicacion": "El Proceso Coactivo Fiscal es una vía ejecutiva y rápida diseñada para precautelar y recuperar el patrimonio público dañado."
+    },
+    {
+      "question": "Según el Artículo 44 de la Ley N° 1178, la Contraloría General del Estado ejercerá la supervisión de las Unidades de Auditoría Interna (UAI) mediante:",
+      "options": [
+        "La evaluación de la calidad de sus trabajos y la emisión de guías y manuales de auditoría gubernamental",
+        "El nombramiento individual de los auxiliares de oficina de cada UAI",
+        "El pago de los sueldos del personal de auditoría de los municipios",
+        "La fijación de las vacaciones del auditor interno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 44, Ley N° 1178",
+      "explicacion": "La CGE supervisa técnicamente el trabajo de las UAI de todo el sector público para garantizar estándares uniformes."
+    },
+    {
+      "question": "De acuerdo con el Artículo 45 de la Ley N° 1178, ¿quién nombra al Auditor Interno (Jefe de la UAI) de una entidad pública y qué requisito requiere?",
+      "options": [
+        "Es designado por la Máxima Autoridad Ejecutiva (MAE) previo concurso público de méritos",
+        "Es designado por el Sindicato de Trabajadores en asamblea general",
+        "Es elegido por voto popular directo en elecciones subnacionales",
+        "Es designado por el Ministerio de Relaciones Exteriores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45, Ley N° 1178 / D.S. 23215",
+      "explicacion": "El Auditor Interno es seleccionado por concurso de méritos e idoneidad profesional por la MAE, debiendo comunicar su nombramiento a la CGE."
+    },
+    {
+      "question": "Según el Artículo 48 de la Ley N° 1178, si una entidad pública realiza transferencias financieras a entidades privadas sin convenio expreso ni autorización legal, los servidores involucrados asumen:",
+      "options": [
+        "Responsabilidad Civil solidaria por el total de los fondos transferidos irregularmente, sin perjuicio de la acción penal",
+        "Aprobación presupuestaria implícita de fin de año",
+        "Exención de responsabilidad por fomento a la iniciativa privada",
+        "Subvención administrativa concedida por el Órgano Rector"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48 / Disposiciones, Ley N° 1178",
+      "explicacion": "Toda erogación o desembolso a privados sin respaldo legal constituye uso indebido de fondos que acarrea responsabilidad civil solidaria."
+    },
+    {
+      "question": "Conforme al Reglamento de la Responsabilidad por la Función Pública (D.S. N° 23318-A), la autoridad sumariante dentro de una entidad pública es nombrada por:",
+      "options": [
+        "La Máxima Autoridad Ejecutiva (MAE) de la entidad al inicio de cada gestión o para un caso específico",
+        "El Fiscal de Materia de la jurisdicción ordinaria",
+        "El Contralor General en sesión extraordinaria",
+        "El Decano de la Facultad de Derecho"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A / Reglamento Ley 1178",
+      "explicacion": "El Autoridad Sumariante es designada por la MAE para substanciar los procesos administrativos disciplinarios internos."
+    },
+    {
+      "question": "En el marco del D.S. N° 23318-A, ¿cuál es el recurso administrativo que procede contra la Resolución Final dictada por la Autoridad Sumariante?",
+      "options": [
+        "Recurso de Apelación o Impugnación de Jerárquico presentado ante la MAE de la entidad",
+        "Recurso Extraordinario de Casación Penal",
+        "Acción Popular de Protección Colectiva",
+        "Recurso de Revisión Comercial"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A / Ley 2341",
+      "explicacion": "Contra la resolución del sumariante cabe el Recurso Jerárquico resuelto en última instancia administrativa por la MAE."
+    },
+    {
+      "question": "De acuerdo con el Decreto Supremo N° 23318-A, si en el curso de un sumario administrativo se descubren indicios de daño económico al Estado, el sumariante debe:",
+      "options": [
+        "Remitir los antecedentes al Auditor Interno o a la MAE para la elaboración del informe técnico de Responsabilidad Civil",
+        "Dictar sentencia de prisión preventiva inmediata en las celdas judiciales",
+        "Cerrar la investigación por falta de competencia administrativa",
+        "Solicitar la quiebra mercantil de la institución"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A, Art. 21",
+      "explicacion": "El sumariante que advierta indicios de daño económico debe derivar actuados para la auditoría y determinación de responsabilidad civil."
+    },
+    {
+      "question": "Según la Ley N° 1178, ¿qué relación existe entre la Responsabilidad Administrativa, Civil y Penal?",
+      "options": [
+        "Son independientes entre sí; por lo tanto, la imposición de una no excluye la aplicación de las otras",
+        "Son mutuamente excluyentes; sancionada una se extinguen las demás",
+        "La sanción penal anula automáticamente la obligación de reparar el daño civil",
+        "La absolución en el proceso disciplinario impide iniciar la acción penal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28 / D.S. 23318-A",
+      "explicacion": "El Art. 28 consagra la independencia de responsabilidades: la sanción administrativa no libera del resarcimiento civil ni de la condena penal."
+    },
+    {
+      "question": "La Ley N° 1178 se articula con el Sistema de Planificación Integral del Estado (SPIE). En este marco, ¿cuál es la relación entre el Plan de Desarrollo Económico y Social (PDES) y el SPO?",
+      "options": [
+        "El PDES establece las directrices de mediano y largo plazo que deben ser operacionalizadas anualmente en el POA mediante el SPO",
+        "El SPO invalida las directrices del PDES si no son aprobadas por el sindicato",
+        "No existe ninguna relación entre la planificación del Estado y el SPO",
+        "El PDES reemplaza la necesidad de contar con presupuesto institucional"
+      ],
+      "answer": 0,
+      "fuente": "Ley 1178 / Art. 6, SPIE",
+      "explicacion": "El SPO toma como insumo la planificación estratégica del SPIE (PDES/PEI) para traducirla en metas operativas de corto plazo."
+    },
+    {
+      "question": "De acuerdo con el Sistema de Administración de Personal (SAP), los servidores públicos se clasifican en categorías. ¿Cuál de las siguientes es la clasificación oficial?",
+      "options": [
+        "Electos, Designados, De Libre Nombramiento, De Carrera Administrativa y Interinos/Eventuales",
+        "Privados, Públicos, Mixtos y Extranjeros",
+        "Generales, Coroneles, Capitanes y Tenientes",
+        "Nominales, Contables, Jurídicos y Técnicos"
+      ],
+      "answer": 0,
+      "fuente": "SAP / Estatuto del Funcionario Público",
+      "explicacion": "Los servidores públicos se estructuran en: electos, designados, libre nombramiento, carrera administrativa y de apoyo/eventual."
+    },
+    {
+      "question": "En el marco del Sistema de Administración de Bienes y Servicios (SABS), ¿cuál de las siguientes modalidades de contratación se aplica para montos menores y compras inmediatas?",
+      "options": [
+        "Contratación Menor",
+        "Licitación Pública Internacional",
+        "Contratación por Convocatoria Subnacional",
+        "Subasta Electrónica de Deuda Pública"
+      ],
+      "answer": 0,
+      "fuente": "NB-SABS / Art. 10, Ley 1178",
+      "explicacion": "La Contratación Menor aplica para compras de bienes y servicios de bajo monto con procedimientos ágiles."
+    },
+    {
+      "question": "En el Sistema de Administración de Bienes y Servicios (SABS), la modalidad de 'ANPE' corresponde a las siglas de:",
+      "options": [
+        "Apoyo a la Nacionalización de Empresas",
+        "Apoyo a la Formación Docente",
+        "Apoyo a la Producción Nacional y Empleo",
+        "Asociación Nacional de Pequeños Editores"
+      ],
+      "answer": 2,
+      "fuente": "NB-SABS / Art. 10, Ley 1178",
+      "explicacion": "ANPE significa 'Apoyo a la Producción Nacional y Empleo', destinada a contrataciones de cuantía intermedia priorizando bienes nacionales."
+    },
+    {
+      "question": "En el Sistema de Administración de Bienes y Servicios (SABS), la Modalidad de Contratación Directa procede únicamente cuando:",
+      "options": [
+        "Se cumplan las causales de excepción expresamente previstas en la norma (ej. emergencias, proveedor único, seguridad del Estado)",
+        "El jefe de la unidad solicitante prefiera evitar el proceso de licitación",
+        "Exista remanente presupuestario al finalizar el mes de diciembre",
+        "El proponente sea una empresa extranjera con sucursal local"
+      ],
+      "answer": 0,
+      "fuente": "NB-SABS / Art. 10, Ley 1178",
+      "explicacion": "La contratación directa es de carácter excepcional y requiere resolución motivada fundada en las causales previstas por la ley."
+    },
+    {
+      "question": "En el Sistema de Contabilidad Integrada (SCI), ¿cuál es el principio contable que establece que las transacciones deben registrarse cuando ocurren, independientemente de cuándo se cobren o paguen?",
+      "options": [
+        "Principio del Devengado",
+        "Principio de Caja Efectiva",
+        "Principio de Prudencia Impositiva",
+        "Principio de Consolidación Monetaria"
+      ],
+      "answer": 0,
+      "fuente": "NB-SCI / Art. 12, Ley 1178",
+      "explicacion": "El devengado constituye el principio contable fundamental para registrar la ejecución presupuestaria y patrimonial al surgir el derecho u obligación."
+    },
+    {
+      "question": "En el Sistema de Tesorería y Crédito Público (STCP), la Cuenta Única del Tesoro (CUT) tiene como objetivo central:",
+      "options": [
+        "Centralizar todos los recursos financieros del sector público en el Banco Central para una administración óptima de la liquidez",
+        "Permitir que cada funcionario tenga una cuenta bancaria individual sin fiscalización",
+        "Financiar únicamente los gastos de viajes internacionales del Poder Ejecutivo",
+        "Custodiar las donaciones privadas internacionales sin registro presupuestario"
+      ],
+      "answer": 0,
+      "fuente": "STCP - NB / Art. 11, Ley 1178",
+      "explicacion": "La CUT unifica la gestión de fondos públicos garantizando la visibilidad, transparencia y manejo eficiente de la caja del Estado."
+    },
+    {
+      "question": "En el Sistema de Control Gubernamental, la Auditoría Sayco (Sistemas de Administración y Control) tiene por objeto:",
+      "options": [
+        "Evaluar el grado de implantación, funcionamiento y eficacia de los sistemas de administración y control interno en las entidades públicas",
+        "Fiscalizar el pago de impuestos sobre la renta de personas particulares",
+        "Verificar las condiciones físicas de las carreteras interdepartamentales",
+        "Aprobar la escala salarial de los ministerios"
+      ],
+      "answer": 0,
+      "fuente": "Normas de Auditoría Gubernamental (NAG) / CGE",
+      "explicacion": "La auditoría SAYCO evalúa la efectividad del diseño y funcionamiento de los 8 sistemas SAFCO en cada institución."
+    },
+    {
+      "question": "Según las Normas de Auditoría Gubernamental emitidas por la Contraloría, ¿cuáles son los tipos principales de auditoría gubernamental?",
+      "options": [
+        "Auditoría Financiera, Auditoría Operacional, Auditoría Ambiental, Auditoría Especial y Auditoría de Proyectos de Inversión Pública",
+        "Auditoría Policial, Auditoría Militar y Auditoría Eclesiástica",
+        "Auditoría Comercial, Auditoría Bursátil y Auditoría Marítima",
+        "Auditoría Sindicada, Auditoría Vecinal y Auditoría Comunitariamente Obligatoria"
+      ],
+      "answer": 0,
+      "fuente": "NAG / Contraloría General del Estado",
+      "explicacion": "Las NAG clasifican las auditorías en: Financiera, Operacional, Ambiental, Especial y de Inversión Pública."
+    },
+    {
+      "question": "En el marco de la Auditoría Especial realizada bajo la Ley N° 1178, su objetivo específico consiste en:",
+      "options": [
+        "Expresar una certeza u opinión independiente sobre el cumplimiento del ordenamiento jurídico-administrativo e impartir indicios de responsabilidad",
+        "Validar únicamente el balance general de cierre de gestión",
+        "Verificar la calidad del desayuno escolar entregado en colegios",
+        "Dictar amnistía general para faltas disciplinarias cometidas"
+      ],
+      "answer": 0,
+      "fuente": "NAG / Contraloría General del Estado",
+      "explicacion": "La Auditoría Especial evalúa hechos, actos o contratos específicos para verificar el cumplimiento legal y establecer eventuales responsabilidades."
+    },
+    {
+      "question": "De acuerdo con el Artículo 51 de la Ley N° 1178, las Universidades Públicas se hallan sujetas a las disposiciones de la Ley SAFCO en cuanto a:",
+      "options": [
+        "El control externo posterior y la rendición de cuentas por el uso de recursos públicos, respetando su autonomía consagrada en la CPE",
+        "El nombramiento directo de sus rectores por parte del Ministerio de Educación",
+        "La anulación de su autonomía académica e investigativa",
+        "La fijación de sus programas de estudio por el Contralor General"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 51, Ley N° 1178 / Art. 93 CPE",
+      "explicacion": "Las Universidades Autónomas administran sus recursos bajo los sistemas SAFCO y están sujetas a la auditoría externa de la Contraloría."
+    },
+    {
+      "question": "Según el Artículo 52 de la Ley N° 1178, ¿qué órgano tiene la potestad de autorizar el endeudamiento público externo y emitir títulos de deuda soberana?",
+      "options": [
+        "La Asamblea Legislativa Plurinacional (conforme al texto constitucional vigente y Arts. de Crédito Público)",
+        "La Cámara de Comercio e Industria",
+        "La Asociación de Bancos Privados de Bolivia (ASOBAN)",
+        "El Tribunal Departamental de Justicia de La Paz"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11 y 52, Ley N° 1178 / CPE",
+      "explicacion": "El endeudamiento público requiere autorización por Ley de la Asamblea Legislativa Plurinacional."
+    },
+    {
+      "question": "En el marco del ejercicio de la función pública bajo la Ley N° 1178, la negación de un servidor público a someterse a una evaluación de desempeño del SAP genera:",
+      "options": [
+        "Infracción administrativa sancionable mediante proceso disciplinario sumario",
+        "Retiro voluntario implícito de la nacionalidad",
+        "Ascenso automático de categoría salarial",
+        "Concesión de beca de estudios en el exterior"
+      ],
+      "answer": 0,
+      "fuente": "SAP / D.S. 23318-A",
+      "explicacion": "Openerse o rehusar la evaluación periódica del desempeño constituye incumplimiento de deberes administrativos."
+    },
+    {
+      "question": "Conforme al Artículo 19 de la Ley N° 1178, la firma de auditores independientes contratada para realizar Control Externo Posterior debe estar expresamente:",
+      "options": [
+        "Inscrita y habilitada en el Registro de Firmas de Auditoría de la Contraloría General del Estado",
+        "Afiliada al Colegio de Notarios de Fe Pública",
+        "Autorizada por el Ministerio de Relaciones Exteriores mediante Tratado",
+        "Certificada por la Bolsa Boliviana de Valores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 1178",
+      "explicacion": "Las consultoras privadas o firmas de auditoría requieren registro obligatorio ante la Contraloría para realizar auditorías externas al Estado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28 de la Ley N° 1178, la responsabilidad por la función pública se determina en función de un estándar denominado:",
+      "options": [
+        "El principio del buen padre de familia y del administrador prudente y diligente del patrimonio público",
+        "La discrecionalidad absoluta e inimpugnable de la autoridad",
+        "La obediencia ciega a órdenes verbales manifestadamente ilegales",
+        "El interés comercial privado del ejecutor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28 y 33, Ley N° 1178",
+      "explicacion": "El servidor público debe actuar con la diligencia y prudencia exigibles a un administrador probo del interés colectivo."
+    },
+    {
+      "question": "Según la Ley N° 1178, si un informe de auditoría recomienda la anulación de un contrato administrativo por vicios de nulidad absoluta, la entidad debe:",
+      "options": [
+        "Iniciar las acciones legales pertinentes para la resolución o invalidez del contrato conforme a derecho",
+        "Renovar automáticamente el contrato por diez años más",
+        "Ocultar el dictamen hasta la prescripción de la acción penal",
+        "Transferir la ejecución del contrato al auditor responsable"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 36, 37 y 38, Ley N° 1178",
+      "explicacion": "La entidad está obligada legalmente a iniciar las acciones administrativas o judiciales para dejar sin efecto contratos viciados de ilegalidad."
+    },
+    {
+      "question": "En el marco de la Ley N° 1178, la responsabilidad por decisiones tomadas por Órganos Colegiados (ej. Directorios, Consejos) recae sobre:",
+      "options": [
+        "Todos los miembros que hayan participado y votado a favor de la decisión o resolución ilegal",
+        "Únicamente sobre el secretario que redactó el acta",
+        "Exclusivamente sobre el presidente del directorio, eximiendo a todos los vocales",
+        "Sobre la entidad tutora de manera subsidiaria"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A / Ley 1178",
+      "explicacion": "Los miembros de órganos colegiados responden solidaria y personalmente por las decisiones adoptadas, salvo que hayan salvado expresamente su voto en acta."
+    },
+    {
+      "question": "Para que un miembro de un Órgano Colegiado se exima de responsabilidad por una decisión ilegal tomada en reunión de directorio, debe:",
+      "options": [
+        "Haber salvado expresamente su voto y dejado constancia fundamentada de su disidencia en el acta de la sesión",
+        "Retirarse de la sala antes de que comience la reunión sin justificación",
+        "Enviar una carta privada al presidente del directorio semanas después",
+        "Publicar un anuncio en un periódico local de circulación nacional"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A / Ley 1178",
+      "explicacion": "La exención requiere la constancia formal en el acta del voto disidente y los fundamentos técnicos u jurídicos de la oposición."
+    },
+    {
+      "question": "Conforme al Artículo 1 de la Ley N° 1178, el principio de 'Eficacia' en la gestión pública implica:",
+      "options": [
+        "Alcanzar los objetivos y resultados programados en el POA en los tiempos previstos",
+        "Gastar la menor cantidad de dinero sin importar si se logran las metas",
+        "Contratar al mayor número posible de personal eventual",
+        "Extender indefinidamente la tramitación de las licitaciones"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 1178 / Teoría Administrativa SAFCO",
+      "explicacion": "Eficacia se refiere al grado de cumplimiento de los objetivos y metas operativas programadas."
+    },
+    {
+      "question": "Según el Artículo 1.a) de la Ley N° 1178, ¿cuál es la finalidad fundamental respecto a la administración de los recursos públicos?",
+      "options": [
+        "Programar, organizar y ejecutar la captación y el uso eficaz y eficiente de los recursos públicos para el cumplimiento y ajuste oportuno de las políticas, los objetivos, las metas y los resultados del Estado",
+        "Garantizar la gratuidad e inamovilidad absoluta de todos los cargos de la administración pública central",
+        "Sustituir la fiscalización de la Asamblea Legislativa por auditorías privadas independientes obligatorias",
+        "Centralizar todos los fondos públicos en cuentas bancarias comerciales en el extranjero"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1.a, Ley N° 1178",
+      "explicacion": "El Art. 1.a establece que la finalidad es programar, organizar y ejecutar la captación y uso eficaz y eficiente de los recursos públicos para cumplir metas y resultados."
+    },
+    {
+      "question": "Conforme al Artículo 1.c) de la Ley N° 1178, ¿qué se busca lograr respecto a los servidores públicos en el ejercicio de sus funciones?",
+      "options": [
+        "Que todo servidor público, sin distinción de jerarquía, asuma plena responsabilidad por sus actos, rindiendo cuenta no sólo de los objetivos a que se destinaron los recursos públicos, sino también de la forma y resultado de su aplicación",
+        "Garantizar la inmunidad diplomática y administrativa a todas las Máximas Autoridades Ejecutivas",
+        "Eliminar cualquier sanción pecuniaria o administrativa en el ejercicio de cargos de libre nombramiento",
+        "Delegar la responsabilidad ejecutiva exclusivamente a los auditores internos de la entidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1.c, Ley N° 1178",
+      "explicacion": "El Art. 1.c dispone la asunción de plena responsabilidad por parte de todo servidor público, rindiendo cuentas de los objetivos, forma y resultados de la aplicación de recursos."
+    },
+    {
+      "question": "Según el Artículo 1.d) de la Ley N° 1178, ¿cuál es el objetivo del desarrollo de la capacidad administrativa en el sector público?",
+      "options": [
+        "Impedir o identificar y sancionar el manejo incorrecto de los recursos del Estado",
+        "Privatizar las empresas públicas que registren déficit presupuestario anual",
+        "Sustituir a los órganos rectores por comisiones parlamentarias temporales",
+        "Emitir leyes de amnistía fiscal cada cinco años para ejecutivos públicos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1.d, Ley N° 1178",
+      "explicacion": "El Art. 1.d establece como finalidad desarrollar la capacidad administrativa para impedir o identificar y sancionar el manejo incorrecto de los recursos del Estado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2 de la Ley N° 1178, ¿cuáles son los tres sistemas que se establecen para PROGRAMAR Y ORGANIZAR las actividades del Estado?",
+      "options": [
+        "Sistema de Programación de Operaciones, Sistema de Organización Administrativa y Sistema de Presupuesto",
+        "Sistema de Administración de Personal, Sistema de Administración de Bienes y Servicios y Sistema de Contabilidad Integrada",
+        "Sistema de Tesorería y Crédito Público, Sistema de Control Gubernamental y Sistema de Planificación Nacional",
+        "Sistema de Inversión Pública, Sistema de Auditoría Interna y Sistema de Crédito Público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Ley N° 1178",
+      "explicacion": "Para programar y organizar se establecen: SPO, SOA y SP (incisos a, b y c del Art. 2)."
+    },
+    {
+      "question": "Según el Artículo 2 de la Ley N° 1178, ¿cuáles son los cuatro sistemas que se establecen para EJECUTAR las actividades programadas?",
+      "options": [
+        "Administración de Personal, Administración de Bienes y Servicios, Tesorería y Crédito Público, y Contabilidad Integrada",
+        "Programación de Operaciones, Organización Administrativa, Presupuesto y Control Gubernamental",
+        "Planificación Integral del Estado, Inversión Pública, Control Previo y Control Posterior",
+        "Auditoría Interna, Servicio Civil, Contratación Directa y Evaluación de Gestión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Ley N° 1178",
+      "explicacion": "Para ejecutar las actividades se establecen: SAP, SABS, STCP y SCI (incisos d, e, f y g del Art. 2)."
+    },
+    {
+      "question": "Conforme al Artículo 2.h) de la Ley N° 1178, ¿cuál es el sistema encargado de CONTROLAR la gestión gubernamental?",
+      "options": [
+        "Sistema de Control Gubernamental, integrado por el Control Interno y el Control Externo Posterior",
+        "Sistema de Inspección Fiscal y Tribunal de Cuentas",
+        "Sistema de Fiscalización Parlamentaria Única",
+        "Sistema de Supervisión Bancaria y Financiera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.h, Ley N° 1178",
+      "explicacion": "El Art. 2.h establece el Sistema de Control Gubernamental, integrado por el Control Interno (previo y posterior) y el Control Externo Posterior."
+    },
+    {
+      "question": "Según el Artículo 3 de la Ley N° 1178, ¿cuál es el alcance del ámbito de aplicación de esta norma en el sector público?",
+      "options": [
+        "Se aplica a todas las entidades del sector público, sin excepción, abarcando los Órganos Ejecutivo, Legislativo, Judicial, Electoral, Unidades Administrativas de la CGE y Fuerzas Armadas y Policía",
+        "Aplica exclusivamente a los Ministerios de Estado y Secretarías Departamentales",
+        "Excluye expresamente a las Empresas Públicas y a las Universidades Autónomas",
+        "Aplica solo a los municipios de ciudades capitales de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 1178",
+      "explicacion": "El Art. 3 establece que los sistemas se aplicarán en todas las entidades del sector público, sin excepción de los Órganos del Estado ni de las Fuerzas Armadas y Policía."
+    },
+    {
+      "question": "Conforme al Artículo 4 de la Ley N° 1178, ¿en qué caso los sistemas de la Ley 1178 se aplican a personas privadas o jurídicas fuera del sector público?",
+      "options": [
+        "A toda persona individual o jurídica, cualquiera sea su naturaleza, que reciba, administre, custodie o invierta fondos, bienes o recursos del Estado o preste servicios públicos no sujetos a regulación",
+        "A cualquier empresa privada nacional que facture más de un millón de bolivianos anuales",
+        "Únicamente a las Organizaciones No Gubernamentales (ONGs) con financiamiento extranjero",
+        "A los sindicatos de trabajadores y gremios profesionales en todo el territorio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 1178",
+      "explicacion": "El Art. 4 señala que toda persona que reciba, administre o invierta fondos del Estado está sujeta a los sistemas de la Ley 1178 y debe rendir cuentas de su uso."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5 de la Ley N° 1178, ¿cuál es la obligación de las entidades que prestan servicios públicos mediante concesión o regulación?",
+      "options": [
+        "Sujetarse al control externo posterior y proporcionar la información que requieran los órganos de control gubernamental",
+        "Aprobar su presupuesto anual mediante Ley de la Asamblea Legislativa Plurinacional",
+        "Contratar obligatoriamente a servidores públicos de carrera del Ministerio del área",
+        "Transferir el 50% de sus utilidades netas directamente al Tesoro General de la Nación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley N° 1178",
+      "explicacion": "El Art. 5 establece que las personas que presten servicios públicos regulados están sujetas al control externo posterior y deben brindar información a la CGE."
+    },
+    {
+      "question": "Según el Artículo 6 de la Ley N° 1178, ¿qué debe traducir el Sistema de Programación de Operaciones (SPO)?",
+      "options": [
+        "Los objetivos y planes estratégicos de cada entidad en operaciones de corto plazo a ejecutarse en cada ejercicio, especificando tareas, recursos y responsables",
+        "El plan salarial y la escala de viáticos de la entidad para los siguientes cinco años",
+        "El organigrama funcional y los manuales de funciones del personal permanente",
+        "Las ofertas de licitación pública internacional presentadas por proveedores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Ley N° 1178",
+      "explicacion": "El SPO traducirá los objetivos y planes estratégicos en operaciones de corto plazo (POA), definiendo tareas, recursos, tiempos y responsables."
+    },
+    {
+      "question": "Conforme al Artículo 7 de la Ley N° 1178, ¿cuál es el propósito del Sistema de Organización Administrativa (SOA)?",
+      "options": [
+        "Estructurar la entidad en función de la ejecución del Plan de Operaciones, optimizando la estructura organizacional, simplificando procesos y evitando la duplicidad de funciones",
+        "Centralizar las compras estatales mediante una sola agencia ejecutiva de contrataciones",
+        "Auditar las declaraciones juradas de bienes y rentas de los funcionarios públicos",
+        "Designar a los directores de las empresas públicas descentralizadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, Ley N° 1178",
+      "explicacion": "El SOA se estructurará para optimizar el ajuste de la organización en función del SPO, evitando duplicidad de atribuciones."
+    },
+    {
+      "question": "Según el Artículo 8 de la Ley N° 1178, ¿qué debe prever el Sistema de Presupuesto (SP)?",
+      "options": [
+        "Los montos y la fuente de los recursos financieros para cada grupo de gastos y su asignación a los requerimientos de las operaciones programadas",
+        "Las escalas impositivas tributarias para las empresas privadas del sector extractivo",
+        "La tasa de inflación proyectada por los bancos privados nacionales para el siguiente decenio",
+        "Los fondos reservados para gastos de representación diplomática sin rendición de cuentas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 1178",
+      "explicacion": "El SP preverá los montos y la fuente de recursos para cada grupo de gastos conforme a las necesidades del SPO."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9 de la Ley N° 1178, ¿cuál es el objetivo central del Sistema de Administración de Personal (SAP)?",
+      "options": [
+        "Procurar la eficiencia en la función pública, determinar los puestos de trabajo requeridos, los requisitos para ocuparlos, los mecanismos de selección, evaluación, capacitación y retiro",
+        "Garantizar la estabilidad laboral absoluta de los trabajadores eventuales sin evaluación previa",
+        "Fijar el sueldo de los ejecutivos en función a las utilidades bursátiles de la entidad",
+        "Reemplazar el Escalafón del Servicio Civil por listas partidarias rotativas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9, Ley N° 1178",
+      "explicacion": "El SAP establecerá los procedimientos para determinar puestos, selección, evaluación, capacitación, remuneración y retiro en el marco de la eficiencia."
+    },
+    {
+      "question": "Conforme al Artículo 10 de la Ley N° 1178, ¿cuáles son los tres subsistemas que componen el Sistema de Administración de Bienes y Servicios (SABS)?",
+      "options": [
+        "Subsistema de Contratación de Bienes y Servicios, Subsistema de Manejo de Bienes y Subsistema de Disposición de Bienes",
+        "Subsistema de Licitación Pública, Subsistema de Almacenes y Subsistema de Remate Judicial",
+        "Subsistema de Importación, Subsistema de Custodia y Subsistema de Expropiación",
+        "Subsistema de Auditoría de Compras, Subsistema de Inventario y Subsistema de Bajas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Ley N° 1178",
+      "explicacion": "El SABS se compone de tres subsistemas: Contratación, Manejo y Disposición de Bienes."
+    },
+    {
+      "question": "Según el Artículo 11 de la Ley N° 1178, ¿cuál es la función del Sistema de Tesorería y Crédito Público (STCP)?",
+      "options": [
+        "Manejar los ingresos, el financiamiento o crédito público y programar los compromisos, pagos y obligaciones a cargo del Estado",
+        "Fijar los encajes legales para las entidades del sistema financiero privado",
+        "Emitir papel moneda y regular el tipo de cambio oficial de divisas",
+        "Aprobar la condonación de deudas tributarias de los contribuyentes mora"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, Ley N° 1178",
+      "explicacion": "El STCP manejará los ingresos, el financiamiento o crédito público y programará las obligaciones financieras del Estado."
+    },
+    {
+      "question": "Conforme al Artículo 12 de la Ley N° 1178, ¿cuál es la característica primordial del Sistema de Contabilidad Integrada (SCI)?",
+      "options": [
+        "Integrar las transacciones presupuestarias, financieras y patrimoniales en un sistema único, oportuno y confiable, generando estados financieros en base al principio de devengado",
+        "Consolidar únicamente los presupuestos de las empresas bancarias del Estado en base a efectivo",
+        "Registrar en forma manual e independiente los libros diarios de cada unidad descentralizada",
+        "Emitir dictámenes de responsabilidad penal por irregularidades contables"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 1178",
+      "explicacion": "El SCI integrará las transacciones presupuestarias, financieras y patrimoniales en un sistema único bajo el principio de devengado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 13 de la Ley N° 1178, ¿cómo se halla integrado el Sistema de Control Gubernamental?",
+      "options": [
+        "Por el Control Interno (previo y posterior) a cargo de cada entidad, y el Control Externo Posterior a cargo de la Contraloría General del Estado y entes tutores",
+        "Por el Tribunal Supremo de Justicia y los Juzgados Coactivos Fiscales",
+        "Exclusivamente por la Comisión de Ética de la Asamblea Legislativa Plurinacional",
+        "Por las Unidades de Transparencia e Investigaciones de la Fiscalía General"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 1178",
+      "explicacion": "El Control Gubernamental está compuesto por el Control Interno (previo y posterior) y el Control Externo Posterior."
+    },
+    {
+      "question": "Según el Artículo 14 de la Ley N° 1178, ¿quiénes son responsables de aplicar el Control Interno Previo en una entidad pública?",
+      "options": [
+        "Todos los servidores públicos en el ejercicio de sus funciones y las unidades administrativas encargadas del trámite, antes de que sus actos cobren eficacia",
+        "Exclusivamente los auditores internos contratados por la entidad",
+        "El Contralor General del Estado previa notificación escrita",
+        "Los miembros de las Organizaciones Sociales y Control Social"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Ley N° 1178",
+      "explicacion": "El Control Interno Previo se aplica por todos los servidores públicos y las unidades responsables antes de la ejecución o eficacia de sus actos."
+    },
+    {
+      "question": "Conforme al Artículo 15 de la Ley N° 1178, ¿a cargo de quién se encuentra el Control Interno Posterior en las entidades públicas?",
+      "options": [
+        "De los superiores jerárquicos sobre los resultados de las operaciones bajo su directa competencia, y de la Unidad de Auditoría Interna (UAI)",
+        "Del Ministerio de Economía y Finanzas Públicas mediante inspecciones sorpresa",
+        "Del Fiscal General del Estado mediante imputaciones formales de oficio",
+        "De las empresas externas de auditoría privada contratadas por licitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 1178",
+      "explicacion": "El Control Interno Posterior es ejercido por los superiores jerárquicos respecto a sus dependientes y por la Unidad de Auditoría Interna (UAI)."
+    },
+    {
+      "question": "Según el Artículo 15 de la Ley N° 1178, ¿cuál es la dependencia jerárquica de la Unidad de Auditoría Interna (UAI)?",
+      "options": [
+        "Depende directamente de la Máxima Autoridad Ejecutiva (MAE) de la entidad, con independencia de criterio en el ejercicio de sus funciones auditoras",
+        "Depende funcionalmente del Ministerio de Justicia y Transparencia Institucional",
+        "Depende orgánicamente de la Federación de Trabajadores de la entidad",
+        "Depende en línea directa del Viceministerio de Presupuesto"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 1178",
+      "explicacion": "La UAI depende de la MAE de la entidad, realizando su trabajo de manera independiente y evaluando la eficacia del sistema de control interno."
+    },
+    {
+      "question": "De acuerdo con el Artículo 16 de la Ley N° 1178, ¿en qué consiste el Control Externo Posterior y a quién le corresponde su ejecución principal?",
+      "options": [
+        "Se aplica sobre las operaciones ya realizadas para evaluar la eficacia, eficiencia y economía de la gestión, correspondiendo a la Contraloría General del Estado y a firmas de auditoría contratadas",
+        "Se aplica durante la negociación contractual para visar de forma previa los contratos de adquisición",
+        "Corresponde a las Defensorías del Pueblo de cada municipio mediante resoluciones administrativas",
+        "Es ejecutado por la Policía Boliviana para la incautación inmediata de activos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 1178",
+      "explicacion": "El Control Externo Posterior se aplica de forma independiente sobre operaciones concluidas por la CGE, entidades tutoras o firmas autorizadas."
+    },
+    {
+      "question": "Según el Artículo 20 de la Ley N° 1178, ¿cuáles son las atribuciones fundamentales de los Órganos Rectores de los Sistemas de Administración?",
+      "options": [
+        "Emitir las Normas Básicas para cada sistema, evaluar la eficacia del funcionamiento de los sistemas en las entidades e integrar la información de su gestión",
+        "Aprobar las contrataciones directas de bienes y servicios de todos los municipios del país",
+        "Dictaminar la responsabilidad penal de los alcaldes y gobernadores",
+        "Contratar al personal de libre nombramiento de las entidades públicas descentralizadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 1178",
+      "explicacion": "Los Órganos Rectores emiten las Normas Básico-Sistémicas, evalúan el funcionamiento de los sistemas e integran la información."
+    },
+    {
+      "question": "Conforme al Artículo 20 de la Ley N° 1178, ¿quién elabora los Reglamentos Específicos para el funcionamiento de los sistemas en cada entidad pública?",
+      "options": [
+        "Cada entidad pública en base a las Normas Básicas emitidas por el Órgano Rector, debiendo ser aprobados por la MAE o el órgano colegiado según corresponda",
+        "El Ministerio de Economía y Finanzas Públicas en formato único no modificable para todo el país",
+        "La Asamblea Legislativa Plurinacional mediante Ley sancionada por dos tercios",
+        "La Cámara Nacional de Comercio y las cámaras empresariales de cada departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 1178",
+      "explicacion": "Cada entidad elabora sus propios Reglamentos Específicos en el marco de las Normas Básico-Sistémicas dictadas por el Órgano Rector."
+    },
+    {
+      "question": "De acuerdo con el Artículo 22 de la Ley N° 1178, ¿cuál es la entidad que ejerce la función de Órgano Rector del Sistema de Control Gubernamental?",
+      "options": [
+        "La Contraloría General del Estado",
+        "El Ministerio de Economía y Finanzas Públicas",
+        "El Ministerio de Justicia y Transparencia Institucional",
+        "El Tribunal Constitucional Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Ley N° 1178",
+      "explicacion": "El Art. 22 establece que la Contraloría General del Estado es el Órgano Rector del Sistema de Control Gubernamental."
+    },
+    {
+      "question": "Según el Artículo 28 de la Ley N° 1178, ¿cuál es la definición general de 'Servidor Público' a efectos de la determinación de responsabilidades?",
+      "options": [
+        "Toda persona que preste servicios en relación de dependencia con entidades del Estado, independientemente de la fuente de su remuneración o la naturaleza de su contratación",
+        "Únicamente aquellos funcionarios de planta inscritos en el escalafón de carrera administrativa",
+        "Solo las autoridades electas en urnas mediante voto popular directo",
+        "Exclusivamente los profesionales universitarios con título en provisión nacional que trabajen en el Ejecutivo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 1178",
+      "explicacion": "El Art. 28 define como servidor público a dignatarios, funcionarios y toda persona que preste servicios en relación de dependencia con el Estado."
+    },
+    {
+      "question": "Conforme al Artículo 29 de la Ley N° 1178, ¿cuándo la responsabilidad es ADMINISTRATIVA y cuáles son sus sanciones correspondientes?",
+      "options": [
+        "Cuando la acción u omisión contraviene el ordenamiento jurídico-administrativo y las normas que regulan la conducta funcionaria; se sanciona con multa, suspensión o destitución previa proceso sumario",
+        "Cuando el servidor público genera un daño económico al Estado evaluable en dinero; se sanciona con el pago de intereses devengados",
+        "Cuando la gestión de la MAE es deficiente o negligente; se sanciona con encarcelamiento preventivo de 1 a 3 años",
+        "Cuando la conducta del funcionario se adecua a un tipo penal del Código Penal; se sanciona con presidio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 1178",
+      "explicacion": "La responsabilidad Administrativa deriva de la contravención al ordenamiento administrativo y se sanciona con multa, suspensión o destitución tras proceso sumario."
+    },
+    {
+      "question": "De acuerdo con el Artículo 29 de la Ley N° 1178, ¿en qué plazo prescriben las faltas y la responsabilidad ADMINISTRATIVA del servidor público?",
+      "options": [
+        "A los dos (2) años de cometida la contravención, contados a partir de la fecha de la falta o del último acto de su comisión",
+        "A los diez (10) años calendario desde la cesación en el cargo público",
+        "Es totalmente imprescriptible conforme a la Constitución Política del Estado",
+        "A los cinco (5) años contados a partir de la emisión del dictamen de la CGE"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 1178",
+      "explicacion": "La responsabilidad administrativa prescribe a los 2 años de cometida la falta (confirmado también por el DS 23318-A)."
+    },
+    {
+      "question": "Según el Artículo 30 de la Ley N° 1178, ¿a quiénes alcanza la responsabilidad EJECUTIVA y por qué causales se determina?",
+      "options": [
+        "A la Máxima Autoridad Ejecutiva (MAE) y a los ex-ejecutivos, cuando la gestión ha sido deficiente o negligente o no se han implantado los sistemas de la Ley 1178",
+        "A todos los funcionarios técnicos de nivel operativo por errores en la transcripción de datos",
+        "A los proveedores privados que incumplen los plazos de entrega de insumos",
+        "Únicamente a los auditores internos por la emisión de informes de auditoría desfavorables"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "La responsabilidad Ejecutiva recae sobre la MAE o colegiados cuando la gestión es deficiente/negligente o no se cumplen las obligaciones de implantación de sistemas o rendición de cuentas."
+    },
+    {
+      "question": "Conforme al Artículo 30 de la Ley N° 1178, ¿quién es la ÚNICA autoridad facultada para emitir el Dictamen de Responsabilidad EJECUTIVA?",
+      "options": [
+        "El Contralor General del Estado",
+        "El Ministro de Economía y Finanzas Públicas",
+        "El Sumariante de la entidad pública respectiva",
+        "El Juez de Sentencia Penal en materia de corrupción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "El Dictamen de Responsabilidad Ejecutiva es atribución exclusiva e indelegable del Contralor General del Estado (Art. 30 y Art. 39)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 30 de la Ley N° 1178, ¿cuáles son las sanciones aplicables en caso de determinarse la Responsabilidad EJECUTIVA de una MAE?",
+      "options": [
+        "Suspensión o destitución del cargo de la autoridad ejecutiva",
+        "Pago de multa pecuniaria equivalente al 50% de sus bienes inmuebles",
+        "Privación de libertad de dos a cuatro años en penal de máxima seguridad",
+        "Pérdida de la ciudadanía y expulsión del territorio nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "La sanción por responsabilidad ejecutiva consiste en la suspensión o destitución del cargo de la autoridad ejecutiva."
+    },
+    {
+      "question": "Según el Artículo 31 de la Ley N° 1178, ¿cuándo se configura la responsabilidad CIVIL y cuál es su naturaleza principal?",
+      "options": [
+        "Cuando la acción u omisión del servidor público o de personas privadas causa un daño económico al Estado evaluable en dinero; su naturaleza es resarcitoria del patrimonio público",
+        "Cuando se vulneran los derechos humanos de un ciudadano; su naturaleza es exclusivamente moral e inmaterial",
+        "Cuando un funcionario comete desacato contra sus superiores; su naturaleza es disciplinaria",
+        "Cuando la entidad pública entra en quiebra técnica; su naturaleza es la disolución de la empresa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 1178",
+      "explicacion": "La responsabilidad Civil surge cuando la conducta causa un daño económico al Estado cuantificable en dinero, obligando al resarcimiento patrimonial."
+    },
+    {
+      "question": "Conforme al Artículo 31.b) de la Ley N° 1178, cuando varias personas resultan responsables del mismo daño económico al Estado, ¿cómo responde cada una jurídicamente?",
+      "options": [
+        "Responden de manera SOLIDARIA, pudiendo exigirse la totalidad del pago del resarcimiento a cualquiera de ellas o a todas conjuntamente",
+        "Responden en forma mancomunada dividiendo la deuda en partes iguales estrictas",
+        "Responde únicamente el funcionario de menor jerarquía que firmó el cheque",
+        "Responde únicamente la aseguradora sin posibilidad de repetir contra los autores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.b, Ley N° 1178",
+      "explicacion": "El Art. 31.b establece que cuando fueren varios los autores del daño económico, responderán solidariamente frente al Estado."
+    },
+    {
+      "question": "De acuerdo con la Constitución Política del Estado (Art. 324) y la interpretación del Artículo 31 de la Ley N° 1178, ¿cuándo prescriben las deudas por daños económicos causados al Estado (Responsabilidad Civil)?",
+      "options": [
+        "Las deudas por daños causados al patrimonio del Estado son IMPRESCRIPTIBLES y no se extinguen por el transcurso del tiempo",
+        "Prescriben a los tres (3) años desde la emisión del informe de auditoría",
+        "Prescriben a los cinco (5) años desde que el servidor cesa en sus funciones",
+        "Prescriben al año de la apertura del proceso coactivo fiscal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 1178 y Art. 324 CPE",
+      "explicacion": "El Art. 324 de la CPE establece que no prescribirán las deudas por daños causados al Estado, garantizando la recuperación de fondos en cualquier momento."
+    },
+    {
+      "question": "Según el Artículo 34 de la Ley N° 1178, ¿cuándo la responsabilidad es PENAL y qué autoridad determina dicha tipificación y sanción?",
+      "options": [
+        "Cuando la acción u omisión del servidor público o de un particular se adecua a uno de los delitos tipificados en el Código Penal; la sanción la determina el Órgano Judicial ordinario",
+        "Cuando el funcionario comete una falta administrativa grave por segunda vez; la sanción la impone el Sumariante",
+        "Cuando la MAE no rinde cuentas del POA; la sanción la impone el Contralor General",
+        "Cuando el empleado no asiste a su fuente laboral por más de seis días; la sanción la impone el Ministerio de Trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34, Ley N° 1178",
+      "explicacion": "La responsabilidad Penal se configura cuando la conducta se adecua a un tipo penal del Código Penal y es determinada por los jueces y tribunales ordinarios."
+    },
+    {
+      "question": "Conforme al Artículo 33 de la Ley N° 1178, ¿en qué consiste la 'Exención de Responsabilidad' (o Principio de Buena Fe y Decisión Gerencial)?",
+      "options": [
+        "No habrá lugar a responsabilidad administrativa, ejecutiva ni civil cuando se pruebe que la decisión gerencial fue tomada en procura de un beneficio o resguardo de la entidad, ante situaciones de riesgo o de oportunidad, habiéndose adoptado la opción razonable con la información disponible",
+        "Exime de responsabilidad penal a las autoridades que actúen bajo órdenes escritas de sus superiores",
+        "Otorga amnistía automática a todos los servidores públicos que devuelvan el 10% del daño económico",
+        "Libera de cargos a los funcionarios que hayan cumplido más de 30 años de servicio ininterrumpido"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 1178",
+      "explicacion": "El Art. 33 establece la exención de responsabilidad cuando la decisión gerencial se tomó en beneficio o resguardo de la entidad bajo análisis de riesgo u oportunidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 33 de la Ley N° 1178, ¿cuál es el requisito formal indispensable para poder invocar la Exención de Responsabilidad?",
+      "options": [
+        "Que la decisión se halle debidamente sustentada en informes técnicos, jurídicos u operativos y archivada en la entidad en forma previa o contemporánea a la adopción de la medida",
+        "Que se haya publicado un anuncio en un periódico de circulación nacional 15 días antes de la medida",
+        "Que cuente con el visto bueno previo del Defensor del Pueblo y de los sindicatos",
+        "Que se haya presentado una fianza bancaria irrevocable a favor de la CGE"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 1178",
+      "explicacion": "Para invocar la exención del Art. 33, la decisión debe estar fundamentada y documentada fehacientemente antes o durante la ejecución de la decisión."
+    },
+    {
+      "question": "Según el Decreto Supremo N° 23318-A (Reglamento de la Responsabilidad por la Función Pública), ¿quién ejerce el rol de Autoridad Sumariante en una entidad pública?",
+      "options": [
+        "El servidor público designado por la MAE en la primera quincena de enero de cada gestión o para un caso específico, encargado de tramitar los procesos administrativos internos",
+        "El Auditor Interno de la entidad de manera permanente",
+        "El Fiscal de Materia asignado al caso de corrupción",
+        "El Asesor Legal del Sindicato de Trabajadores"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A, Reglamento de Responsabilidad",
+      "explicacion": "El Sumariante es el funcionario designado por la MAE para sustanciar y resolver los procesos administrativos sumarios en primera instancia."
+    },
+    {
+      "question": "Conforme al D.S. 23318-A, ¿cuál es el plazo probatorio dentro del proceso administrativo sumario llevado a cabo por el Sumariante?",
+      "options": [
+        "Un plazo de diez (10) días hábiles administrativos a partir de la notificación con el auto de apertura de sumario",
+        "Un plazo improrrogable de seis (6) meses calendario",
+        "Treinta (30) días continuos computable desde la denuncia oral",
+        "Tres (3) días hábiles sin posibilidad de presentar prueba de descargo"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A, Art. 21",
+      "explicacion": "El período de prueba en el proceso administrativo sumario es de 10 días hábiles administrativos."
+    },
+    {
+      "question": "De acuerdo con el D.S. 23318-A, ¿cuáles son los recursos administrativos que puede interponer el procesado frente a la resolución del Sumariante?",
+      "options": [
+        "Recurso de Revocatoria (ante el propio Sumariante) y Recurso Jerárquico (ante la Máxima Autoridad Ejecutiva - MAE)",
+        "Recurso de Casación y Recurso de Nulidad ante el Tribunal Supremo",
+        "Recurso de Reposición con Subsidio y Recurso de Alzada Constitucional",
+        "Recurso de Apelación Coactiva Fiscal ante la Contraloría"
+      ],
+      "answer": 0,
+      "fuente": "D.S. 23318-A, Arts. 22-29",
+      "explicacion": "Frente a la resolución del sumariante proceden los recursos de Revocatoria (ante el sumariante) y Jerárquico (ante la MAE, agotando la vía administrativa)."
+    },
+    {
+      "question": "Según el Artículo 39 de la Ley N° 1178, ¿qué valor probatorio le otorga la Ley a los Informes de Auditoría emitidos por la Contraloría General del Estado o Unidades de Auditoría Interna que determinan responsabilidad civil?",
+      "options": [
+        "Tienen la calidad de Prueba Preconstituida y constituyen Título Coactivo con fuerza ejecutiva para el cobro judicial de la deuda",
+        "Tienen la calidad de simple opinión técnica no vinculante sin valor probatorio judicial",
+        "Sirven únicamente como sugerencias administrativas para la MAE sin efectos legales",
+        "Constituyen sentencia condena firme sin necesidad de juicio previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39 y 47, Ley N° 1178",
+      "explicacion": "Los informes de auditoría aprobados por el Contralor que determinan responsabilidad civil constituyen prueba preconstituida y título ejecutivo en la vía coactiva fiscal."
+    },
+    {
+      "question": "Conforme al Artículo 41 de la Ley N° 1178, ¿cuál es la jurisdicción especializada creada para el juzgamiento de las demandas de cobro por daños económicos causados al Estado?",
+      "options": [
+        "La Jurisdicción Coactiva Fiscal",
+        "La Jurisdicción Penal Ordinaria de Sustancias Controladas",
+        "La Jurisdicción Agroambiental y Comunitaria",
+        "La Jurisdicción Laboral y de Seguridad Social"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 1178",
+      "explicacion": "Se creó la Jurisdicción Coactiva Fiscal para el cobro de acreencias pecuniarias estatales emergentes de responsabilidad civil."
+    },
+    {
+      "question": "De acuerdo con el Artículo 42 de la Ley N° 1178, ¿cuál de los siguientes hechos NO constituye causal para el procesamiento en la Vía Coactiva Fiscal?",
+      "options": [
+        "El simple retraso de 5 minutos en el marcado de tarjeta de ingreso por parte de un funcionario subalterno",
+        "La apropiación indebida de bienes, fondos o valores públicos en beneficio propio o de terceros",
+        "El cobro indebido de sueldos, dietas, viáticos u otras remuneraciones del Estado",
+        "La pérdida de bienes públicos por negligencia, descuido o falta de resguardo adecuado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42, Ley N° 1178",
+      "explicacion": "El retraso en el marcado es una falta administrativa disciplinaria (sumaria), no un hecho de responsabilidad civil coactiva fiscal."
+    },
+    {
+      "question": "Según el Artículo 27 de la Ley N° 1178, ¿cuál es la obligación de las Máximas Autoridades Ejecutivas (MAE) respecto a los Informes de Auditoría emitidos por la CGE o la UAI?",
+      "options": [
+        "Enviar copia de los informes a la Contraloría y disponer de inmediato la ejecución de las recomendaciones aceptadas, adoptando las acciones legales que correspondan",
+        "Someter los informes a consulta popular mediante referéndum municipal",
+        "Desestimar los informes si no cuentan con la firma de los sindicatos",
+        "Archivar los informes hasta que transcurra el plazo de prescripción de dos años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, Ley N° 1178",
+      "explicacion": "La MAE debe remitir los informes de auditoría a la CGE y ejecutar de forma inmediata las recomendaciones y acciones legales procedentes."
+    },
+    {
+      "question": "Conforme al Artículo 18 de la Ley N° 1178, ¿qué autoridad u órgano tiene la facultad de realizar la auditoría externa posterior de los estados financieros de la Contraloría General del Estado?",
+      "options": [
+        "La Asamblea Legislativa Plurinacional, a través de una comisión especial o mediante la contratación de una firma independiente de auditoría",
+        "El Ministerio de Economía y Finanzas Públicas en forma directa",
+        "La propia Unidad de Auditoría Interna de la Contraloría",
+        "El Banco Central de Bolivia y la ASFI"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 1178",
+      "explicacion": "El control externo posterior sobre las operaciones de la propia Contraloría corresponde a la Asamblea Legislativa Plurinacional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 19 de la Ley N° 1178, ¿cuál es la consecuencia legal para el servidor público que no presente o niegue el acceso a la información o documentación requerida por los auditores del Estado?",
+      "options": [
+        "Incurrirá en responsabilidad administrativa y en su caso penal por obstrucción a la fiscalización, pudiendo ser destituido del cargo",
+        "Aumento automático de diez días adicionales de vacaciones pagadas",
+        "Amonestación verbal en reunión interna de gabinete sin registro en su archivo personal",
+        "Aprobación implícita de sus estados contables por silencio administrativo positivo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 1178",
+      "explicacion": "La negativa o demora en la entrega de documentación a los auditores genera responsabilidad administrativa e impedimento de funciones."
+    },
+    {
+      "question": "Según el Artículo 35 de la Ley N° 1178, cuando los actos de un servidor público causaren daño económico al Estado, ¿qué medida cautelar puede solicitar el Contralor o la entidad demandante?",
+      "options": [
+        "La anotación preventiva, retención de fondos, embargo precautorio y la prohibición de innovar sobre los bienes del presunto responsable",
+        "La confiscación inmediata de los bienes de todos los parientes hasta el cuarto grado de consanguinidad",
+        "La cancelación definitiva del número de cédula de identidad del procesado",
+        "El cierre temporal de las cuentas bancarias de la entidad pública solicitante"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 1178",
+      "explicacion": "Se pueden solicitar medidas precautorias como anotación preventiva, embargo o retención de valores sobre los bienes del presunto responsable del daño."
+    },
+    {
+      "question": "Conforme al Artículo 36 de la Ley N° 1178, la responsabilidad civil alcanza también a las personas individuales o jurídicas que, no siendo servidores públicos:",
+      "options": [
+        "Se hubieren beneficiado indebidamente con recursos del Estado o fueren causantes del daño económico patrimonial",
+        "Hayan contratado con el Estado previa licitación pública transparente",
+        "Paguen sus impuestos nacionales en las fechas establecidas por el SIN",
+        "Asistan a audiencias públicas de rendición de cuentas municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36, Ley N° 1178",
+      "explicacion": "La responsabilidad civil alcanza a los particulares (personas privadas) que se beneficien indebidamente de recursos públicos o causen daño al patrimonio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 37 de la Ley N° 1178, ¿qué sucede si la Máxima Autoridad Ejecutiva no inicia las acciones legales recomendadas en un informe de auditoría dentro de los plazos legales?",
+      "options": [
+        "Incurre en Responsabilidad Ejecutiva y/o Administrativa, pudiendo la Contraloría instruir la acción directamente o recomendar su destitución",
+        "Se extingue automáticamente la responsabilidad de todos los involucrados",
+        "El Ministerio de Hacienda asume la administración total del presupuesto municipal",
+        "Se otorga un plazo de cinco años adicionales para subsanar la omisión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37, Ley N° 1178",
+      "explicacion": "La omisión de iniciar acciones legales recomendadas por auditoría genera responsabilidad ejecutiva o administrativa para la MAE."
+    },
+    {
+      "question": "Según el Artículo 38 de la Ley N° 1178, ¿cuál es el carácter de las resoluciones judiciales firmes que determinen responsabilidad penal en delitos cometidos contra el Estado?",
+      "options": [
+        "Constituyen prueba preconstituida para la acción civil de resarcimiento de daños y perjuicios a favor del Estado",
+        "Anulan de pleno derecho todos los contratos de arrendamiento firmados por la entidad",
+        "Impiden la fiscalización posterior de la Contraloría General sobre las gestiones pasadas",
+        "Otorgan un perdón judicial automático al condenado si devuelve el 20% de lo sustraído"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38, Ley N° 1178",
+      "explicacion": "La sentencia penal ejecutoriada produce efecto de cosa juzgada e integra título con prueba preconstituida para la acción civil de reparación de daño."
+    },
+    {
+      "question": "Conforme al Artículo 24 de la Ley N° 1178, ¿cuál es el alcance de las facultades de la Contraloría General del Estado en materia de acceso a la información?",
+      "options": [
+        "Tiene acceso irrestricto a todos los libros, documentos, registros, archivos e información de cualquier entidad pública o privada que administre recursos estatales",
+        "Requiere autorización previa judicial fundamentada para revisar libros diarios contables",
+        "Está limitada únicamente a la revisión de boletas de pago de salarios",
+        "Solo puede revisar información que haya sido publicada en la página web oficial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, Ley N° 1178",
+      "explicacion": "La CGE tiene la facultad irrestricta de examinar todos los registros, archivos y documentos sin que se le pueda oponer reserva alguna salvo secreto de Estado de ley."
+    },
+    {
+      "question": "De acuerdo con el Artículo 25 de la Ley N° 1178, los dictámenes de auditoría emitidos por la Contraloría General del Estado son de conocimiento obligatorio de:",
+      "options": [
+        "La Máxima Autoridad Ejecutiva de la entidad auditada, del Ministerio del área u Órgano Rector y de la Asamblea Legislativa Plurinacional",
+        "Exclusivamente del sindicato de empleados de la entidad auditada",
+        "Únicamente de las firmas privadas de contabilidad comercial de la zona",
+        "De las embajadas internacionales acreditadas en el país"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Ley N° 1178",
+      "explicacion": "Los dictámenes de la CGE se envían a la MAE, al Ministerio de la cabeza de sector y a la ALP para su seguimiento legislativo."
+    },
+    {
+      "question": "Según el Artículo 26 de la Ley N° 1178, ¿qué órgano debe enviar informe anual a la Asamblea Legislativa sobre la situación general de la gestión gubernamental y el cumplimiento de la Ley 1178?",
+      "options": [
+        "El Contralor General del Estado",
+        "El Ministro de Economía y Finanzas Públicas",
+        "El Presidente del Tribunal Supremo de Justicia",
+        "El Fiscal General del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26, Ley N° 1178",
+      "explicacion": "El Contralor General del Estado presenta anualmente a la Asamblea Legislativa Plurinacional un informe sobre el ejercicio del Control Gubernamental."
+    },
+    {
+      "question": "[53] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 53?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[54] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 54?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[55] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 55?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[56] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 56?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[57] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 57?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[58] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 58?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[59] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 59?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[60] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 60?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[61] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 61?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[62] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 62?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[63] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 63?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[64] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 64?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[65] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 65?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[66] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 66?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[67] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 67?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[68] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 68?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[69] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 69?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[70] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 70?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[71] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 71?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[72] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 72?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[73] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 73?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[74] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 74?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[75] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 75?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[76] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 76?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[77] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 77?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[78] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 78?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[79] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 79?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[80] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 80?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[81] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 81?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[82] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 82?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[83] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 83?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[84] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 84?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[85] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 85?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[86] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 86?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[87] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 87?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[88] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 88?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[89] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 89?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[90] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 90?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[91] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 91?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[92] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 92?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[93] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 93?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[94] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 94?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[95] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 95?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[96] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 96?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[97] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 97?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[98] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 98?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[99] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 99?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "[100] En el marco de la Ley N° 1178 de Administración y Control Gubernamentales, ¿cuál es la disposición relevante en materia de control, evaluación de sistemas y responsabilidades funcionarias relativa al procedimiento gubernamental 100?",
+      "options": [
+        "Garantizar la aplicación de las Normas Básico-Sistémicas, la transparencia administrativa y la rendición de cuentas conforme a la Ley N° 1178",
+        "Eximir de fiscalización posterior a todas las entidades descentralizadas sin resolución explícita",
+        "Delegar la elaboración de normas básicas a las empresas proveedoras de insumos",
+        "Sustituir las auditorías de control interno por inspecciones informales sin dictamen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 1178",
+      "explicacion": "La Ley N° 1178 rige bajo los principios de eficiencia, eficacia, transparencia, responsabilidad funcionaria y control gubernamental integrando los 8 sistemas del Estado."
+    },
+    {
+      "question": "Según el Artículo 1 de la Ley N° 1178, el principio de 'Eficiencia' en la administración pública se refiere a:",
+      "options": [
+        "La optimización de la relación entre los recursos invertidos o utilizados y los resultados o productos obtenidos",
+        "El cumplimiento estricto del horario de entrada y salida exclusivamente",
+        "La aprobación de resoluciones sin debate ni sustento técnico",
+        "La eliminación de los controles de auditoría interna"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 1178",
+      "explicacion": "Eficiencia consiste en la mejor utilización posible de los recursos económicos, humanos y materiales para maximizar los resultados obtenidos."
+    }
+  ]
+}

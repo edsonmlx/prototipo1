@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "02_ley_070_avelino_sinani_elizardo_perez",
+    "nombre": "Ley N° 070 de Educación Avelino Siñani - Elizardo Pérez",
+    "detalle": "Ley de 20 de diciembre de 2010",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Según el Artículo 1.2 de la Ley N° 070, cuál es la consideración jurídica e institucional de la educación respecto a la responsabilidad del Estado?",
+      "options": [
+        "Es un servicio público descentralizado sujeto a subsidios estatales compartidos con la sociedad civil",
+        "Constituye una función suprema y primera responsabilidad financiera del Estado, con obligación indeclinable de sostenerla, garantizarla y gestionarla",
+        "Es un derecho ciudadano secundario cuya administración corresponde exclusivamente a las Entidades Territoriales Autónomas",
+        "Es un servicio esencial de co-financiamiento obligatorio entre el Tesoro General de la Nación y el sector privado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 1.2, Ley N° 070",
+      "explicacion": "El Art. 1.2 establece expresamente que la educación constituye una función suprema y primera responsabilidad financiera del Estado, con la obligación indeclinable de sostenerla, garantizarla y gestionarla."
+    },
+    {
+      "question": "¿Cuáles son los tres componentes que integran el Sistema Educativo Plurinacional sobre el cual el Estado y la sociedad ejercen tuición plena (Art. 1.3)?",
+      "options": [
+        "Educación Escolarizada, Educación Superior Universitaria y Educación Técnica no Formal",
+        "Educación Regular, Educación Alternativa y Especial, y Educación Superior de Formación Profesional",
+        "Educación Inicial, Educación Primaria-Secundaria y Educación de Posgrado",
+        "Educación Fiscal, Educación Privada y Educación Comunitaria de Pueblos Originarios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 1.3, Ley N° 070",
+      "explicacion": "El Art. 1.3 especifica que el sistema educativo comprende la educación regular, la alternativa y especial, y la educación superior de formación profesional."
+    },
+    {
+      "question": "Conforme al Artículo 1.4 de la Ley N° 070, ¿por qué tipo de instituciones está compuesto el Sistema Educativo Plurinacional?",
+      "options": [
+        "Instituciones educativas fiscales, instituciones educativas privadas e instituciones educativas de convenio",
+        "Instituciones públicas autónomas, institutos descentralizados y centros comunitarios",
+        "Unidades educativas urbanas, rurales, fronterizas y de régimen especial",
+        "Escuelas estatales, academias privadas y centros de investigación pedagógica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1.4, Ley N° 070",
+      "explicacion": "El Art. 1.4 indica explícitamente que el sistema educativo está compuesto por las instituciones educativas fiscales, privadas y de convenio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 1.8 y 1.9 de la Ley N° 070, ¿hasta qué nivel la educación es obligatoria y hasta dónde la educación fiscal es gratuita?",
+      "options": [
+        "Es obligatoria hasta el nivel primario y gratuita únicamente hasta el bachillerato",
+        "Es obligatoria hasta la Educación Inicial y gratuita en todas las universidades privadas",
+        "Es obligatoria hasta el bachillerato, y la educación fiscal es gratuita en todos sus niveles hasta el superior",
+        "Es obligatoria hasta el nivel técnico medio y gratuita únicamente para poblaciones vulnerables"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 1.8 y 1.9, Ley N° 070",
+      "explicacion": "El numeral 8 establece que la educación es obligatoria hasta el bachillerato, y el numeral 9 señala que la educación fiscal es gratuita en todos sus niveles hasta el superior."
+    },
+    {
+      "question": "¿Bajo qué condición específica se garantiza el funcionamiento de las Unidades Educativas Privadas según el Artículo 2.III de la Ley N° 070?",
+      "options": [
+        "Sujeto a la aprobación anual de los Consejos Educativos Comunitarios y cobro libre de pensiones",
+        "Previa verificación de condiciones y cumplimiento de requisitos en reglamentación específica aprobada por el Ministerio de Educación",
+        "Mediante acreditación internacional obligatoria expedida por universidades acreditadas del exterior",
+        "A través de convenio directo con las Direcciones Distritales sin tuición del nivel central"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2.III, Ley N° 070",
+      "explicacion": "El Art. 2.III determina que el Estado garantiza su funcionamiento previa verificación de las condiciones y cumplimiento de requisitos establecidos en reglamentación específica aprobada por el Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 2.IV, ¿cuál es la característica fundamental de las Unidades Educativas de Convenio?",
+      "options": [
+        "Tienen fines de lucro comercial y funcionan independientemente de las políticas educativas nacionales",
+        "Funcionan con fines de servicio social, acceso libre y sin fines de lucro, bajo tuición de autoridades públicas respetando la administración de entidades religiosas",
+        "Son financiadas en un 100% por aranceles estudiantiles y administradas por gobiernos municipales",
+        "Se reservan el derecho de admisión exclusivo para miembros de la confesión religiosa administradora"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2.IV, Ley N° 070",
+      "explicacion": "El Art. 2.IV indica que funcionan con fines de servicio social, con acceso libre y sin fines de lucro, bajo tuición de autoridades públicas respetando el derecho de administración de entidades religiosas sobre dichas unidades."
+    },
+    {
+      "question": "¿Qué principio garantiza el Artículo 2.VI y VII de la Ley N° 070 respecto al personal docente, administrativo y de servicio?",
+      "options": [
+        "La libre contratación por parte de los directores de unidad educativa e inamovilidad temporal de tres años",
+        "La carrera docente y la inamovilidad del personal mediante el Reglamento del Escalafón Nacional del Servicio de Educación como instrumento normativo de vigencia plena",
+        "El contrato a plazo fijo renovable sujeto a evaluación anual de padres de familia",
+        "La jubilación obligatoria a los 25 años de servicio sin derecho a escalafón"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2.VI y VII, Ley N° 070",
+      "explicacion": "Se garantiza la carrera docente y la inamovilidad del personal del magisterio, reconociendo al Escalafón Nacional como instrumento normativo de vigencia plena."
+    },
+    {
+      "question": "¿Qué sector estudiantil queda expresamente exceptuado del derecho a la organización estudiantil según el Artículo 2.IX?",
+      "options": [
+        "Los estudiantes de unidades educativas de convenio y centros de educación alternativa",
+        "Los estudiantes de los institutos militares y policiales por encontrarse sujetos a régimen especial y normativa específica",
+        "Los alumnos de educación especial con necesidades de aprendizaje asociadas a discapacidad",
+        "Los estudiantes universitarios de casas de estudio privadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2.IX, Ley N° 070",
+      "explicacion": "El Art. 2.IX establece que se exceptúa del derecho a la organización estudiantil a los estudiantes de institutos militares y policiales por estar sujetos a régimen especial."
+    },
+    {
+      "question": "Según el Artículo 3.1, la educación en Bolivia es descolonizadora, liberadora, revolucionaria, anti-imperialista y despatriarcalizadora. ¿Cuál es su orientación principal?",
+      "options": [
+        "Hacia la asimilación gradual de valores culturales occidentales en los planes urbanos",
+        "A la reafirmación cultural de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas en la construcción del Estado Plurinacional y el Vivir Bien",
+        "A la privatización de los servicios de investigación aplicada en ciencias exactas",
+        "Al reemplazo del currículo técnico por programas exclusivamente político-ideológicos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.1, Ley N° 070",
+      "explicacion": "El Art. 3.1 establece que está orientada a la reafirmación cultural de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas para construir el Estado Plurinacional y el Vivir Bien."
+    },
+    {
+      "question": "En el marco del Artículo 3.4, ¿qué significa que la educación sea 'Única, diversa y plural'?",
+      "options": [
+        "Única en cuanto a la administración financiera departamental, y diversa según la doctrina religiosa de cada municipio",
+        "Única en cuanto a calidad, política educativa y currículo base (erradicando diferencias fiscal/privada, urbano/rural), y diversa en su aplicación y pertinencia al contexto geográfico, social, cultural y lingüístico",
+        "Única para la educación universitaria y diversa para la educación escolar primaria de frontera",
+        "Única en el idioma castellano obligatorio y diversa en asignaturas optativas técnicas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.4, Ley N° 070",
+      "explicacion": "El Art. 3.4 define que es única en cuanto a calidad, política educativa y currículo base erradicando diferencias entre lo fiscal y privado, urbano y rural; y diversa/plural en su aplicación a cada contexto sociocultural y lingüístico."
+    },
+    {
+      "question": "¿Cómo define el Artículo 3.6 el carácter laico de la educación boliviana?",
+      "options": [
+        "Prohíbe estrictamente cualquier expresión de espiritualidad o fe en todas las unidades educativas del país",
+        "Es laica, pluralista y espiritual, reconoce y garantiza la libertad de conciencia, de fe y de enseñanza de religión, así como la espiritualidad indígena, propiciando el diálogo interreligioso sin imposición dogmática",
+        "Establece la enseñanza obligatoria de la religión católica en institutos de convenio e impone textos catequísticos",
+        "Declara la laicidad únicamente para el nivel universitario, manteniendo la instrucción confesional en primaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.6, Ley N° 070",
+      "explicacion": "El Art. 3.6 señala que la educación es laica, pluralista y espiritual, garantizando la libertad de conciencia y de fe, la enseñanza de religión y la espiritualidad de las NPIOC sin imposición dogmática."
+    },
+    {
+      "question": "Según el Artículo 3.13, ¿cuáles son los principios ético-morales de la sociedad plural que asume y promueve la educación?",
+      "options": [
+        "Libertad, Igualdad, Fraternidad y Propiedad Privada",
+        "Ama qhilla, ama llulla, ama suwa, suma qamaña, ñandereko, teko kavi, ivi maraei y qhapaj ñan",
+        "Eficiencia, Eficacia, Transparencia y Competitividad Comercial",
+        "Orden, Paz, Soberanía Económica y Unidad Sindical"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.13, Ley N° 070",
+      "explicacion": "El Art. 3.13 explicita los principios ético-morales ancestrales: ama qhilla, ama llulla, ama suwa (no seas flojo, mentiroso ni ladrón), suma qamaña (Vivir Bien), ñandereko, teko kavi, ivi maraei y qhapaj ñan."
+    },
+    {
+      "question": "¿Cuál de los siguientes enunciados corresponde a un FIN de la educación según el Artículo 4.10?",
+      "options": [
+        "Garantizar la venta de bienes públicos para infraestructura escolar descentralizada",
+        "Contribuir a reafirmar el derecho irrenunciable e imprescriptible del territorio que le dé acceso al Océano Pacífico y su espacio marítimo al Estado Plurinacional de Bolivia",
+        "Establecer cobros escalonados de matriculación en universidades de régimen especial",
+        "Acreditar institutos de capacitación laboral mediante agencias privadas extranjeras"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.10, Ley N° 070",
+      "explicacion": "El Art. 4.10 establece como fin educativo el contribuir a reafirmar el derecho irrenunciable e imprescriptible de acceso soberano al Océano Pacífico y su espacio marítimo."
+    },
+    {
+      "question": "Según el Artículo 4.6, ¿qué tipo de sociedad busca promover la educación dentro de sus fines constitutivos?",
+      "options": [
+        "Una sociedad teocrática con jerarquía eclesiástica oficial",
+        "Una sociedad despatriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos",
+        "Una sociedad corporativista basada en cuotas de producción agraria",
+        "Una sociedad de libre mercado sin regulación estatal de contenidos curriculares"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.6, Ley N° 070",
+      "explicacion": "El Art. 4.6 señala expresamente el fin de promover una sociedad despatriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia y los derechos humanos."
+    },
+    {
+      "question": "En el Artículo 5.11, ¿qué mecanismos se disponen para garantizar el acceso y la permanencia de estudiantes con menos posibilidades económicas?",
+      "options": [
+        "Préstamos bancarios con tasa de interés preferencial administrados por la banca privada",
+        "Programas sociales específicos desde todos los niveles de gobierno con recursos, alimentación, vestimenta, transporte, material escolar, residencias estudiantiles en áreas dispersas y becas al mérito",
+        "Exención de impuestos a empresas que patrocinen escuelas secundarias técnicas",
+        "Trabajo comunitario obligatorio de los estudiantes durante los fines de semana"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.11, Ley N° 070",
+      "explicacion": "El Art. 5.11 encomienda programas sociales con alimentación, vestimenta, transporte, material escolar, residencias en áreas dispersas y becas a la excelencia."
+    },
+    {
+      "question": "Según el Artículo 5.18, ¿quiénes deben participar en el planteamiento de indicadores y parámetros de evaluación y acreditación de la calidad educativa a nivel internacional?",
+      "options": [
+        "Únicamente los organismos financieros multilaterales de crédito",
+        "El Estado Plurinacional planteando indicadores que respondan a la diversidad sociocultural y lingüística del país en el marco de la soberanía e identidad plurinacional",
+        "Empresas consultoras internacionales de auditoría educativa",
+        "Las embajadas extranjeras acreditadas en Bolivia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.18, Ley N° 070",
+      "explicacion": "El Art. 5.18 establece que en el marco de la soberanía e identidad plurinacional, se plantearán a nivel internacional indicadores y parámetros que respondan a la diversidad sociocultural y lingüística."
+    },
+    {
+      "question": "¿Qué establece el Artículo 5.21 respecto a las niñas, niños y adolescentes con talentos extraordinarios en el aprendizaje?",
+      "options": [
+        "Que deben ser transferidos obligatoriamente a instituciones privadas del exterior",
+        "Promover y garantizar su educación permanente bajo la misma estructura, principios y valores del Sistema Educativo Plurinacional",
+        "Acelerar su egreso del bachillerato a los 10 años sin cursar la secundaria productiva",
+        "Eximirles del aprendizaje de idiomas originarios y educación cívica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.21, Ley N° 070",
+      "explicacion": "El Art. 5.21 establece promover y garantizar la educación permanente de personas con talentos extraordinarios bajo la misma estructura, principios y valores del SEP."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.I, ¿cómo se define y aplica la Intraculturalidad en el currículo educativo?",
+      "options": [
+        "Como el estudio exclusivo de la historia europea en los niveles superiores de instrucción",
+        "Promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas de las NPIOC, comunidades interculturales y afrobolivianas, incorporando sus saberes y cosmovisiones en el currículo",
+        "Como la traducción mecánica de textos científicos en inglés al idioma castellano",
+        "Como la homogeneización pedagógica de las costumbres urbanas en los centros rurales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.I, Ley N° 070",
+      "explicacion": "El Art. 6.I define la intraculturalidad como la recuperación, fortalecimiento, desarrollo y cohesión interna de las culturas, incorporando sus saberes y cosmovisiones en el currículo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.II, ¿cuál es la esencia de la Interculturalidad?",
+      "options": [
+        "La subordinación de los conocimientos locales a las tecnologías extranjeras importadas",
+        "El desarrollo de la interrelación e interacción de conocimientos, saberes, ciencia y tecnología propios con otras culturas, en igualdad de condiciones y fortaleciendo la identidad propia",
+        "La erradicación de las lenguas originarias en favor de una lengua internacional de negocios",
+        "La separación territorial estricta de los procesos educativos de cada etnia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.II, Ley N° 070",
+      "explicacion": "El Art. 6.II define la interculturalidad como la interrelación e interacción equilibrada de saberes propios con otras culturas en igualdad de condiciones."
+    },
+    {
+      "question": "Según el Artículo 7.1 y 7.2, ¿cuál es la regla obligatoria sobre el uso de lenguas en poblaciones monolingües o con predominio originario/castellano?",
+      "options": [
+        "El castellano es siempre la primera lengua obligatoria y el inglés la segunda en todo el territorio",
+        "En poblaciones de predominio originario: L1 originaria y L2 castellano; en poblaciones de predominio castellano: L1 castellano y L2 originaria",
+        "La lengua originaria se enseña únicamente como asignatura optativa sin valor académico",
+        "En el nivel primario solo se permite el uso del castellano para evitar confusiones gramaticales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.1 y 7.2, Ley N° 070",
+      "explicacion": "El Art. 7 especifica que en comunidades con predominio originario, la L1 es la originaria y L2 castellano; y donde predomina el castellano, L1 castellano y L2 originaria."
+    },
+    {
+      "question": "¿Cómo se determina la elección de la lengua originaria en comunidades o regiones trilingües o plurilingües según el Artículo 7.3?",
+      "options": [
+        "Mediante sorteo público administrado por la Dirección Departamental de Educación",
+        "Sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios (L1 originaria elegida y L2 castellano)",
+        "Por imposición directa del Ministerio de Relaciones Exteriores",
+        "Se adopta automáticamente el idioma extranjero más comercial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.3, Ley N° 070",
+      "explicacion": "El Art. 7.3 señala que en regiones trilingües o plurilingües, los consejos comunitarios definen la lengua originaria según criterios de territorialidad y transterritorialidad."
+    },
+    {
+      "question": "¿Desde qué momento y bajo qué modalidad se introduce la enseñanza de la lengua extranjera según el Artículo 7.5?",
+      "options": [
+        "De forma optativa únicamente en el último año del nivel secundario",
+        "De forma gradual y obligatoria desde los primeros años de escolaridad, con metodología pertinente y personal especializado",
+        "Solamente en universidades e institutos técnicos superiores",
+        "Como materia extracuricular no evaluable en escuelas privadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.5, Ley N° 070",
+      "explicacion": "El Art. 7.5 manda que la enseñanza de la lengua extranjera se inicie de forma gradual y obligatoria desde los primeros años de escolaridad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7.6, ¿cuál es el estatus de la enseñanza del lenguaje de señas en el Sistema Educativo Plurinacional?",
+      "options": [
+        "Es un derecho de los estudiantes que lo requieran y forma parte de la formación plurilingüe de las maestras y maestros",
+        "Es una actividad extracurricular exclusiva de centros privados especializados no reconocidos por el Estado",
+        "Es obligatorio únicamente para el personal administrativo de los ministerios",
+        "Se aplica solo como prueba piloto en la ciudad de La Paz"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.6, Ley N° 070",
+      "explicacion": "El Art. 7.6 establece que el lenguaje de señas es un derecho de los estudiantes que lo requieran y parte de la formación plurilingüe de las y los maestros."
+    },
+    {
+      "question": "¿Cuáles son los tres niveles que integran la estructura del Subsistema de Educación Regular según el Artículo 11?",
+      "options": [
+        "Educación Inicial, Educación Primaria Urbana y Educación Secundaria Técnica",
+        "Educación Inicial en Familia Comunitaria, Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva",
+        "Educación Básica, Educación Intermedia y Educación Media Superior",
+        "Educación Parvularia, Educación Fundamental y Bachillerato Unificado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 11, Ley N° 070",
+      "explicacion": "El Art. 11 define la estructura del Subsistema Regular: Inicial en Familia Comunitaria, Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva."
+    },
+    {
+      "question": "Según el Artículo 12, ¿cuál es la duración total del nivel de Educación Inicial en Familia Comunitaria y cómo se divide?",
+      "options": [
+        "Duración de 3 años, divididos en 2 años no escolarizados y 1 año escolarizado",
+        "Duración de 5 años: 3 años de etapa no escolarizada (responsabilidad compartida familia-comunidad-Estado) y 2 años de etapa escolarizada",
+        "Duración de 6 años totalmente escolarizados en unidades parvularias",
+        "Duración de 4 años dividida en dos etapas de 2 años bajo tuición municipal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 12, Ley N° 070",
+      "explicacion": "El Art. 12 especifica que Educación Inicial dura 5 años: etapa no escolarizada de 3 años y etapa escolarizada de 2 años."
+    },
+    {
+      "question": "¿Cuál es la duración exacta y el propósito central de la Educación Primaria Comunitaria Vocacional según el Artículo 13?",
+      "options": [
+        "Duración de 5 años orientada al adiestramiento militar básico",
+        "Duración de 6 años, constituye el cimiento del proceso formativo, brinda formación básica e intracultural/intercultural/plurilingüe orientando la vocación del estudiante",
+        "Duración de 8 años abarcando contenidos de educación superior técnica",
+        "Duración de 4 años exclusiva para el aprendizaje de lectoescritura"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 13, Ley N° 070",
+      "explicacion": "El Art. 13 fija una duración de 6 años para Primaria Comunitaria Vocacional, como cimiento de formación cualitativa y orientación vocacional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14, ¿cuál es la duración de la Educación Secundaria Comunitaria Productiva y qué titulación progresiva otorga?",
+      "options": [
+        "Duración de 4 años, otorgando Diploma de Bachiller en Humanidades exclusivamente",
+        "Duración de 6 años, articulando la educación humanística y técnica-tecnológica, orientada a la obtención del Diploma de Bachiller Técnico Humanístico y progresivamente Técnico Medio",
+        "Duración de 5 años, con título universitario directo de Licenciatura en Pedagogía",
+        "Duración de 3 años en modalidad virtual no escolarizada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 14, Ley N° 070",
+      "explicacion": "El Art. 14 establece 6 años de duración para Secundaria Comunitaria Productiva, conducente al Diploma de Bachiller Técnico Humanístico y grado de Técnico Medio."
+    },
+    {
+      "question": "Según el Artículo 15, ¿a quiénes está dirigida la 'Educación escolarizada integral para la población en desventaja social'?",
+      "options": [
+        "Exclusivamente a estudiantes universitarios no graduados por reprobación académica",
+        "A niñas, niños, adolescentes y jóvenes trabajadores desprotegidos y en desventaja social, mediante programas especiales de hogares abiertos con salud, alimentación y reinserción escolar",
+        "A deportistas de alto rendimiento inscritos en clubes profesionales",
+        "A hijos de diplomáticos acreditados en misiones internacionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 15, Ley N° 070",
+      "explicacion": "El Art. 15 destina esta modalidad a niños, jóvenes trabajadores desprotegidos y en desventaja social mediante hogares abiertos, atención integral y rezago escolar."
+    },
+    {
+      "question": "Según el Artículo 16.II, ¿bajo qué enfoques pedagógicos y sociales se desarrolla la Educación Alternativa y Especial?",
+      "options": [
+        "Enfoques de Conductismo Estricto, Memoria Mecánica y Estandarización Internacional",
+        "Enfoques de la Educación Popular y Comunitaria, Educación Inclusiva y Educación a lo largo de la vida",
+        "Enfoques de Instrucción Militar Castrense y Disciplina Rígida",
+        "Enfoques de Autodidactismo Digital y Exámenes Abiertos no Supervisados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 16.II, Ley N° 070",
+      "explicacion": "El Art. 16.II fundamenta este subsistema en la Educación Popular y Comunitaria, Educación Inclusiva y Educación a lo largo de la vida."
+    },
+    {
+      "question": "¿Qué establece el Artículo 18 de la Ley N° 070 respecto a los saberes, conocimientos y experiencias previas de las personas?",
+      "options": [
+        "Deben ser invalidados si no cuentan con un certificado expedido por una unidad académica fiscal",
+        "Serán reconocidos y homologados a niveles y modalidades que correspondan al Subsistema de Educación Alternativa y Especial",
+        "Requieren un examen presencial en la sede central del Ministerio de Educación con costo arancelario",
+        "Solo se homologan para personas mayores de 60 años jubiladas del sector público"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 18, Ley N° 070",
+      "explicacion": "El Art. 18 señala que saberes y experiencias adquiridos en la práctica cotidiana y comunitaria serán reconocidos y homologados en Educación Alternativa y Especial."
+    },
+    {
+      "question": "Según el Artículo 19.III, ¿cuáles son las certificaciones técnicas que se otorgan en el Subsistema de Educación Alternativa y Especial?",
+      "options": [
+        "Perito Mercantil, Experto Agrícola y Maestro Mayor",
+        "Técnico Básico, Técnico Auxiliar y Técnico Medio, habilitando la continuidad en Educación Superior",
+        "Licenciado Técnico, Magíster Aplicado y Doctor Industrial",
+        "Diploma de Capacitación Obrera y Certificado de Asistencia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 19.III, Ley N° 070",
+      "explicacion": "El Art. 19.III determina las certificaciones: Técnico Básico, Técnico Auxiliar y Técnico Medio, que habilitan el acceso a la educación superior."
+    },
+    {
+      "question": "De acuerdo con el Artículo 22, ¿cuáles son las dos áreas constitutivas de la Educación Alternativa?",
+      "options": [
+        "Educación Escolar Primaria y Educación Universitaria Nocturna",
+        "Educación de Personas Jóvenes y Adultas, y Educación Permanente",
+        "Educación Sindical y Educación Vecinal",
+        "Educación Comercial y Educación Agrícola"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 22, Ley N° 070",
+      "explicacion": "El Art. 22 establece las áreas de Educación Alternativa: a) Educación de Personas Jóvenes y Adultas, y b) Educación Permanente."
+    },
+    {
+      "question": "Según el Artículo 23.I, ¿a qué grupo poblacional está destinada la Educación de Personas Jóvenes y Adultas?",
+      "options": [
+        "Niños menores de 10 años que abandonaron la escuela primaria",
+        "Personas mayores a quince años, ofreciendo una educación sistemática de carácter técnico-humanístico",
+        "Únicamente a profesionales universitarios con grado de Maestría",
+        "A trabajadores jubilados del sector bancario exclusivamente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 23.I, Ley N° 070",
+      "explicacion": "El Art. 23.I destina la Educación de Personas Jóvenes y Adultas a personas mayores a 15 años."
+    },
+    {
+      "question": "¿Cómo se caracteriza a la Educación Permanente en el Artículo 24.I?",
+      "options": [
+        "Como un nivel escolarizado rígido con asistencia diaria obligatoria en horario matutino",
+        "Destinada a toda la población, ofrece procesos formativos no escolarizados que responden a necesidades, expectativas e intereses de organizaciones, comunidades y familias",
+        "Un programa exclusivo de postgrado para docentes de la Universidad Pedagógica",
+        "Un curso de nivelación de tres meses para ingresar a la Escuela de Jueces"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 24.I, Ley N° 070",
+      "explicacion": "El Art. 24.I define la Educación Permanente como no escolarizada, destinada a toda la población para responder a necesidades sociocomunitarias y productivas."
+    },
+    {
+      "question": "Según el Artículo 26, ¿cuáles son las tres áreas de la Educación Especial?",
+      "options": [
+        "Educación Auditiva, Educación Visual y Educación Motora",
+        "Educación para Personas con Discapacidad, Educación para Personas con Dificultades en el Aprendizaje, y Educación para Personas con Talento Extraordinario",
+        "Educación Infantil Especial, Educación de Adultos Especial y Educación Gerariátrica",
+        "Educación Inclusiva Urbana, Educación Especial Rural y Educación Hospitalaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 26, Ley N° 070",
+      "explicacion": "El Art. 26 divide la Educación Especial en: Personas con Discapacidad, Personas con Dificultades en el Aprendizaje, y Personas con Talento Extraordinario."
+    },
+    {
+      "question": "Según el Artículo 27.I, ¿cuáles son las dos modalidades generales de atención en la Educación Especial?",
+      "options": [
+        "Modalidad Presencial y Modalidad Virtual",
+        "Modalidad Directa (para estudiantes con discapacidad que requieren servicios especializados) y Modalidad Indirecta (inclusión en el SEP sensibilizando a la comunidad)",
+        "Modalidad Interna y Modalidad Ambulatoria",
+        "Modalidad Escolarizada y Modalidad Académica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 27.I, Ley N° 070",
+      "explicacion": "El Art. 27.I norma las modalidades: Directa (atención especializada integral) e Indirecta (inclusión en los otros subsistemas educacionales)."
+    },
+    {
+      "question": "¿Cuáles son las cuatro estructuras que componen la Educación Superior de Formación Profesional conforme al Artículo 30?",
+      "options": [
+        "Formación de Maestros, Formación Técnica/Tecnológica, Formación Artística y Formación Universitaria",
+        "Formación Militar, Formación Policial, Formación Eclesiástica y Formación Agropecuaria",
+        "Universidades Públicas, Universidades Privadas, Institutos Normales y Centros de Comercio",
+        "Escuelas de Grado, Escuelas de Posgrado, Colegios de Abogados e Institutos Industriales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 070",
+      "explicacion": "El Art. 30 estructura la Educación Superior en: Formación de Maestras/os, Formación Técnica y Tecnológica, Formación Artística y Formación Universitaria."
+    },
+    {
+      "question": "Según el Artículo 32.3, ¿por qué la Formación Superior de Maestras y Maestros es de carácter fiscal y gratuito?",
+      "options": [
+        "Por recomendación expresa de las agencias de acreditación internacionales",
+        "Porque el Estado asume la responsabilidad, por constituirse en una función suprema y primera responsabilidad financiera del Estado",
+        "Porque se financia exclusivamente mediante donaciones de entidades privadas",
+        "Porque los estudiantes pagan su colegiatura mediante trabajo de campo no remunerado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 32.3, Ley N° 070",
+      "explicacion": "El Art. 32.3 declara que la formación docente es fiscal y gratuita porque constituye función suprema y primera responsabilidad financiera estatal."
+    },
+    {
+      "question": "De acuerdo con el Artículo 34, ¿cuál es la estructura de la Formación de Maestras y Maestros?",
+      "options": [
+        "Formación Básica, Formación Intermedia y Formación Avanzada",
+        "Formación Inicial, Formación Post gradual y Formación Continua",
+        "Formación Normalista, Formación Universitaria y Formación Doctoral",
+        "Formación Presencial, Formación a Distancia y Formación Dual"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 34, Ley N° 070",
+      "explicacion": "El Art. 34 establece los tres componentes: a) Formación Inicial, b) Formación Post gradual, y c) Formación Continua de maestras y maestros."
+    },
+    {
+      "question": "Según el Artículo 35.III, ¿cuál es la duración de la Formación Inicial de maestros y qué grado académico otorga?",
+      "options": [
+        "Duración de 3 años con grado académico de Técnico Superior",
+        "Duración de 5 años de estudio en el currículo único con grado académico de Licenciatura",
+        "Duración de 4 años con grado de Bachiller Pedagógico",
+        "Duración de 6 años con grado académico de Maestría en Educación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 35.III, Ley N° 070",
+      "explicacion": "El Art. 35.III establece 5 años de estudio en el currículo único de las ESFM con el grado académico de Licenciatura."
+    },
+    {
+      "question": "Según el Artículo 36, ¿cuáles son las ÚNICAS instituciones autorizadas en Bolivia para ofertar y desarrollar programas académicos de formación inicial de maestras y maestros?",
+      "options": [
+        "Todas las universidades públicas y privadas con acreditación viceministerial",
+        "Las Escuelas Superiores de Formación de Maestras y Maestros (ESFM)",
+        "Los institutos de capacitación pedagógica municipales",
+        "Las facultades de humanidades de las universidades privadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 36, Ley N° 070",
+      "explicacion": "El Art. 36 establece la exclusividad: Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas instituciones autorizadas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 39.II, ¿qué institución especializada dependiente del Ministerio de Educación desarrolla la Formación Post gradual para maestras y maestros?",
+      "options": [
+        "El Centro de Altos Estudios Nacionales",
+        "La Universidad Pedagógica",
+        "La Academia Nacional de Ciencias",
+        "El Instituto de Investigaciones Pedagógicas de La Paz"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 39.II, Ley N° 070",
+      "explicacion": "El Art. 39.II norma que la Formación Post gradual para maestros será desarrollada por la Universidad Pedagógica."
+    },
+    {
+      "question": "Según el Artículo 43.II, ¿cómo se crean las Escuelas Superiores Tecnológicas y qué nivel de formación complementaria ofrecen?",
+      "options": [
+        "Se crean por Resolución Ministerial y ofrecen diplomados técnicos nocturnos",
+        "Se crean por Decreto Supremo y desarrollan programas complementarios de formación especializada a nivel Licenciatura para profesionales técnico superior",
+        "Se crean por Ordenanza Municipal y otorgan títulos de doctorado industrial",
+        "Se crean por Ley Departamental para certificar capacitaciones de tres semanas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 43.II, Ley N° 070",
+      "explicacion": "El Art. 43.II establece que las Escuelas Superiores Tecnológicas se crean por Decreto Supremo y dictan programas a nivel Licenciatura para técnicos superiores."
+    },
+    {
+      "question": "De acuerdo con el Artículo 45, ¿cuáles son los niveles de formación técnica en los Institutos Técnicos e Institutos Tecnológicos?",
+      "options": [
+        "Especialidad, Maestría y Doctorado",
+        "Capacitación, Técnico Medio post-bachillerato y Técnico Superior",
+        "Auxiliar de Campo, Operador de Planta y Jefe de Mantenimiento",
+        "Diplomado Técnico, Licenciatura Industrial y Post-Doctorado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 45.I, Ley N° 070",
+      "explicacion": "El Art. 45.I norma los niveles en institutos técnicos/tecnológicos: a) Capacitación, b) Técnico Medio-post bachillerato, y c) Técnico Superior."
+    },
+    {
+      "question": "Según el Artículo 49.III, ¿cuál es la característica e instancia de creación de las Escuelas Bolivianas Interculturales en Formación Artística?",
+      "options": [
+        "Son entidades privadas creadas por las gobernaciones a nivel Técnico Auxiliar",
+        "Son instituciones educativas fiscales que desarrollan programas a nivel Licenciatura en expresiones artísticas, creadas por Decreto Supremo (una por área artística)",
+        "Son centros vecinales autorizados por la Dirección Distrital para talleres veraniegos",
+        "Son facultades de arquitectura adscritas a universidades extranjeras"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 49.III, Ley N° 070",
+      "explicacion": "El Art. 49.III indica que las Escuelas Bolivianas Interculturales son fiscales, otorgan Licenciatura y son creadas por Decreto Supremo (una por área)."
+    },
+    {
+      "question": "Según el Artículo 54, ¿cuáles son los grados académicos reconocidos en el nivel de Postgrado universitario?",
+      "options": [
+        "Certificado de Asistencia, Diplomado Experto y Maestría Ejecutiva",
+        "Diplomado, Especialidad, Maestría, Doctorado y Post doctorado",
+        "Técnico Superior Postgrado, Licenciatura Avanzada y Doctorado Honoris Causa",
+        "Especialidad Sindical, Maestría Política y Cátedra Libre"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 54.2, Ley N° 070",
+      "explicacion": "El Art. 54.2 enumera los grados de postgrado: Diplomado, Especialidad, Maestría, Doctorado y Post doctorado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 55, ¿cuáles son los cuatro tipos de universidades reconocidas en el Estado Plurinacional de Bolivia?",
+      "options": [
+        "Universidades Metropolitanas, Regionales, Provinciales y Municipales",
+        "Universidades Públicas Autónomas, Universidades Privadas, Universidades Indígenas y Universidades de Régimen Especial",
+        "Universidades Reales, Pontificias, Seculares y Laicas",
+        "Universidades Fiscales, Universidades Subvencionadas, Universidades Corporativas y Universidades Virtuales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 55, Ley N° 070",
+      "explicacion": "El Art. 55 reconoce: a) Públicas Autónomas, b) Privadas, c) Indígenas, y d) De Régimen Especial."
+    },
+    {
+      "question": "Según el Artículo 59.1 y 59.4, ¿cómo se autoriza la apertura de una Universidad Privada y quién otorga los Títulos Profesionales?",
+      "options": [
+        "Apertura por Ley Departamental y Título otorgado por la misma universidad privada",
+        "Apertura autorizada mediante Decreto Supremo; la Universidad expide Diplomas Académicos y los Títulos Profesionales son otorgados por el Ministerio de Educación",
+        "Apertura por Resolución Municipal y Título emitido por el Colegio de Profesionales",
+        "Apertura por trámite ante la Notaría de Fe Pública y Título otorgado por la Corte Suprema"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 59.1 y 59.4, Ley N° 070",
+      "explicacion": "El Art. 59 determina que la apertura es por Decreto Supremo. La Universidad emite el Diploma Académico y el Ministerio de Educación otorga el Título Profesional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 59.5, ¿cómo se conforma el tribunal para la defensa de grados académicos en las Universidades Privadas?",
+      "options": [
+        "Con tres docentes de la misma universidad privada exclusivamente",
+        "Con un Tribunal Proporcional conformado entre la Universidad Pública, la Universidad Privada y el Ministerio de Educación",
+        "Mediante jurados nombrados por el Comité Olímpico Nacional",
+        "Con delegados de la Cámara de Comercio e Industria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 59.5, Ley N° 070",
+      "explicacion": "El Art. 59.5 exige un tribunal proporcional compuesto por la Universidad Pública, la Universidad Privada y el Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 60.3, ¿cuál es la instancia encargada de definir las políticas institucionales en las Universidades Indígenas?",
+      "options": [
+        "El Consejo Rectoral de Universidades Privadas",
+        "Las Juntas Comunitarias, compuestas por organizaciones indígenas nacionales y departamentales",
+        "El Senado de la República",
+        "La Asamblea de Socios del Banco Central"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 60.3, Ley N° 070",
+      "explicacion": "El Art. 60.3 establece que la definición de políticas institucionales corresponde a las Juntas Comunitarias compuestas por organizaciones indígenas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 61.1 y 61.3, ¿cuáles son las Universidades de Régimen Especial y bajo qué tuición y supervisión se encuentran?",
+      "options": [
+        "Son la Universidad Católica y la Universidad Andina; bajo tuición de la Cancillería",
+        "Son la Universidad Militar y la Universidad Policial; bajo tuición del Ministerio del ramo (Defensa/Gobierno) e institucionalmente y en lo académico bajo supervisión del Ministerio de Educación",
+        "Son las escuelas de aviación civil; bajo tuición exclusiva de las municipalidades",
+        "Son los seminarios diocesanos; bajo tuición del Ministerio de Cultos exclusivamente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 61.1 y 61.3, Ley N° 070",
+      "explicacion": "El Art. 61 define como Régimen Especial a la Universidad Militar y Policial; en lo institucional bajo el Ministerio del ramo y en lo académico bajo supervisión del Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 65.2, ¿cuáles son las ÚNICAS instituciones que pueden desarrollar programas de postgrado para especialización e investigación científica?",
+      "options": [
+        "Los institutos técnicos superiores y ONG acreditadas",
+        "Las Universidades",
+        "Las Direcciones Departamentales de Educación",
+        "Los centros de capacitación comunitaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 65.2, Ley N° 070",
+      "explicacion": "El Art. 65.2 reserva con exclusividad a las Universidades la facultad de desarrollar programas de postgrado para especialización e investigación."
+    },
+    {
+      "question": "Según el Artículo 67, ¿cuál es el rol y estatus de los profesionales en Ciencias de la Educación y Pedagogía en el Sistema Educativo Plurinacional?",
+      "options": [
+        "Asumen la dirección titular de las unidades educativas e ingresan automáticamente a la categoría CERO del Escalafón",
+        "Apoyan y fortalecen el SEP en orientación educativa, psicopedagogía, investigación, diseño curricular y evaluación, sin incorporarse al escalafón docente",
+        "Tienen prohibición absoluta de trabajar en instituciones fiscales",
+        "Reemplazan a los maestros de aula en el nivel primario obligatoriamente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 67, Ley N° 070",
+      "explicacion": "El Art. 67 establece que prestan apoyo técnico-pedagógico y psicopedagógico especializado sin incorporarse al escalafón docente."
+    },
+    {
+      "question": "¿Qué entidad se crea en el Artículo 68 para la evaluación y acreditación de la educación superior universitaria?",
+      "options": [
+        "El Consejo Nacional de Acreditación Privada (CNAP)",
+        "La Agencia Plurinacional de Evaluación y Acreditación de la Educación Superior Universitaria (APEAESU)",
+        "La Superintendencia de Educación Universitaria (SEU)",
+        "El Instituto de Calidad Internacional (ICI)"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 68, Ley N° 070",
+      "explicacion": "El Art. 68 crea la Agencia Plurinacional de Evaluación y Acreditación de la Educación Superior Universitaria (APEAESU) de carácter descentralizado."
+    },
+    {
+      "question": "Conforme al Artículo 69.2, ¿cómo se articulan la complementariedad curricular para garantizar la unidad e integridad del SEP?",
+      "options": [
+        "Mediante la imposición de un texto escolar único elaborado por la DDE de La Paz",
+        "Se expresa en el Currículo Base de carácter intercultural, y los Currículos Regionalizados y Diversificados de carácter intracultural",
+        "A través de exámenes bimestrales estandarizados por la UNESCO",
+        "Mediante la sustitución del currículo nacional por planes municipales independientes"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 69.2, Ley N° 070",
+      "explicacion": "El Art. 69.2 articula el Currículo Base (intercultural) con los Currículos Regionalizados y Diversificados (intraculturales)."
+    },
+    {
+      "question": "Según el Artículo 69.3, ¿quién es el responsable de diseñar, aprobar e implementar el Currículo Base del Sistema Educativo Plurinacional?",
+      "options": [
+        "Los Gobiernos Municipales mediante Ordenanza",
+        "El Ministerio de Educación con participación de los actores educativos",
+        "Las Universidades Privadas reunidas en congreso",
+        "La Conferencia Episcopal Boliviana"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 69.3, Ley N° 070",
+      "explicacion": "El Art. 69.3 encomienda al Ministerio de Educación la responsabilidad de diseñar, aprobar e implementar el currículo base."
+    },
+    {
+      "question": "De acuerdo con el Artículo 70.1 y 70.3, ¿qué expresa el Currículo Regionalizado y qué tipo de competencia es su gestión?",
+      "options": [
+        "Expresa contenidos extranjeros; es competencia privativa del nivel central",
+        "Expresa la particularidad y características del contexto sociocultural y lingüístico de las NPIOC; su gestión es una competencia concurrente entre el nivel central y las ETAs",
+        "Expresa normas administrativas de las unidades de convenio; es competencia exclusiva municipal",
+        "Expresa el reglamento disciplinario militar; es competencia del Ministerio de Defensa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 70, Ley N° 070",
+      "explicacion": "El Art. 70 define que el currículo regionalizado atiende al contexto sociocultural/lingüístico y su gestión es competencia concurrente entre el nivel central y las ETAs."
+    },
+    {
+      "question": "Según el Artículo 72.I, ¿quién ejerce la tuición sobre la administración y gestión del Sistema Educativo Plurinacional?",
+      "options": [
+        "La Contraloría General del Estado",
+        "El Estado Plurinacional a través del Ministerio de Educación",
+        "Los Gobiernos Departamentales mediante los ex-SEDUCA",
+        "La Federación de Empresarios Privados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 72.I, Ley N° 070",
+      "explicacion": "El Art. 72.I establece que el Estado Plurinacional, a través del Ministerio de Educación, ejerce la tuición sobre la administración y gestión del SEP."
+    },
+    {
+      "question": "De acuerdo con el Artículo 76, ¿cómo se organiza la Estructura Administrativa y de Gestión del Sistema Educativo Plurinacional?",
+      "options": [
+        "Nivel Ejecutivo, Nivel Judicial y Nivel Electoral",
+        "Nivel Central, Nivel Departamental y Nivel Autonómico",
+        "Nivel Urbano, Nivel Rural y Nivel Fronterizo",
+        "Nivel Primario, Nivel Secundario y Nivel Universitario"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 76, Ley N° 070",
+      "explicacion": "El Art. 76 establece las tres instancias organizativas: a) Nivel Central, b) Nivel Departamental, y c) Nivel Autonómico."
+    },
+    {
+      "question": "¿Cuáles son las tres Subdirecciones que dependen de cada Dirección Departamental de Educación (DDE) según el Artículo 78.b?",
+      "options": [
+        "Subdirección Financiera, Subdirección Jurídica y Subdirección Técnica",
+        "Subdirección de Educación Regular, Subdirección de Educación Superior de Formación Profesional, y Subdirección de Educación Alternativa y Especial",
+        "Subdirección Escolar Urbana, Subdirección Escolar Rural y Subdirección de Becas",
+        "Subdirección Infraestructura, Subdirección Equipamiento y Subdirección Personal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 78.b, Ley N° 070",
+      "explicacion": "El Art. 78.b especifica las tres subdirecciones departamentales: Regular, Superior de Formación Profesional, y Alternativa y Especial."
+    },
+    {
+      "question": "De acuerdo con el Artículo 79.1 y 79.2, ¿cómo se efectúa la designación de los Directores Departamentales y Directores Distritales de Educación?",
+      "options": [
+        "Por votación directa y secreta de los estudiantes en urnas públicas",
+        "Por concurso de méritos y examen de competencia en el marco del reglamento del escalafón y reglamentación emanada del Ministerio de Educación",
+        "Por libre nombramiento del Alcalde Municipal respectivo",
+        "Por designación hereditaria de las autoridades tradicionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 79, Ley N° 070",
+      "explicacion": "El Art. 79 establece que las autoridades de gestión educativa (Directores/Subdirectores) son designados mediante concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "Según el Artículo 80.1, ¿cuáles son las responsabilidades específicas de los Gobiernos Departamentales en el ámbito de la gestión educativa?",
+      "options": [
+        "Pagar los sueldos de las maestras y maestros de unidades educativas primarias",
+        "Dotar, financiar y garantizar servicios básicos, infraestructura, mobiliario, material educativo y equipamiento a los Institutos Técnicos y Tecnológicos en su jurisdicción",
+        "Aprobar el currículo base plurinacional de educación secundaria",
+        "Administrar los internados militares de las Fuerzas Armadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 80.1, Ley N° 070",
+      "explicacion": "El Art. 80.1 asigna a los Gobiernos Departamentales la dotación, financiamiento y garantía de infraestructura/equipamiento para los Institutos Técnicos y Tecnológicos."
+    },
+    {
+      "question": "Según el Artículo 80.2, ¿cuáles son las responsabilidades de los Gobiernos Municipales respecto a la infraestructura y equipamiento educativo?",
+      "options": [
+        "Dotar, financiar y garantizar servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de Unidades Educativas (Regular, Alternativa y Especial) y Direcciones Distritales/Núcleo",
+        "Construir la sede social de las universidades privadas de su municipio",
+        "Financiar pasajes internacionales para investigaciones postdoctorales",
+        "Emitir los títulos de Licenciatura de los institutos normales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 80.2, Ley N° 070",
+      "explicacion": "El Art. 80.2 establece la responsabilidad municipal sobre infraestructura, servicios básicos, mobiliario y equipamiento de Unidades Educativas y Direcciones Distritales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 80.3.e, ¿qué garantía económica deben brindar las Autonomías Indígena Originaria Campesinas en su jurisdicción?",
+      "options": [
+        "El pago de impuesto sobre utilidades a las empresas educativas locales",
+        "Recursos económicos para la atención de alimentación complementaria (desayuno escolar) y transporte escolar en casos justificados",
+        "El otorgamiento de créditos hipotecarios docentes",
+        "El mantenimiento de aeronaves de instrucción universitaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 80.3.e, Ley N° 070",
+      "explicacion": "El Art. 80.3.e responsabiliza a las AIOC de garantizar recursos para alimentación complementaria y transporte escolar en casos justificados."
+    },
+    {
+      "question": "Según el Artículo 81, ¿quién otorga gratuitamente el Diploma de Bachiller y cuál es el trámite exigido?",
+      "options": [
+        "Las alcaldías municipales cobrando un arancel notarial regulado",
+        "El Ministerio de Educación a través de las Direcciones Departamentales de Educación, a la culminación de la secundaria de manera gratuita",
+        "Las universidades privadas mediante examen de admisión pagado",
+        "Los Consejos Educativos Comunitarios en ceremonias tradicionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 81, Ley N° 070",
+      "explicacion": "El Art. 81 señala que el Ministerio de Educación mediante las DDEs otorga gratuitamente el Diploma de Bachiller a la culminación de estudios."
+    },
+    {
+      "question": "¿Qué sistema establece el Artículo 82 para el reconocimiento formal de competencias laborales y artísticas desarrolladas en la práctica a lo largo de la vida?",
+      "options": [
+        "El Registro Mercantil de Operadores Técnicos",
+        "El Sistema Plurinacional de Certificación de Competencias (SPCC)",
+        "El Colegio de Oficios Libres y Artesanías",
+        "El Padrón Nacional de Empadronamiento Laboral"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 82, Ley N° 070",
+      "explicacion": "El Art. 82 crea y norma el Sistema Plurinacional de Certificación de Competencias para reconocer saberes y oficios adquiridos en la práctica."
+    },
+    {
+      "question": "Según el Artículo 83.1 y 83.2, ¿cuál es la naturaleza y función principal del Observatorio Plurinacional de la Calidad Educativa (OPCE)?",
+      "options": [
+        "Una empresa privada encargada de auditar la contabilidad de las unidades educativas de convenio",
+        "Una institución pública descentralizada, técnica, especializada e independiente, encargada del seguimiento, medición, evaluación y acreditación de la calidad en los subsistemas Regular, Alternativo y Especial",
+        "Un órgano judicial de juzgamiento de faltas disciplinarias del magisterio",
+        "Una comisión legislativa de la Asamblea Plurinacional que aprueba el presupuesto escolar"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 83, Ley N° 070",
+      "explicacion": "El Art. 83 crea el OPCE como institución pública descentralizada, técnica e independiente para evaluar la calidad educativa en educación regular, alternativa y especial."
+    },
+    {
+      "question": "De acuerdo con el Artículo 87, ¿qué institución se crea para diseñar y desarrollar estrategias de apoyo a las políticas de transformación del Sistema Educativo Plurinacional?",
+      "options": [
+        "El Centro de Documentación Pedagógica",
+        "El Instituto de Investigaciones Educativas Plurinacional",
+        "La Academia de Ciencias de la Educación",
+        "El Fondo de Inversión Educativa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 87, Ley N° 070",
+      "explicacion": "El Art. 87 crea el Instituto de Investigaciones Educativas Plurinacional dependiente del Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 88.1 y 88.2, ¿qué entidad descentralizada se encarga de la investigación lingüística/cultural y de crear los institutos de lenguas y culturas por cada NPIOC?",
+      "options": [
+        "El Viceministerio de Interculturalidad",
+        "El Instituto Plurinacional de Estudio de Lenguas y Culturas (IPELC)",
+        "La Academia Boliviana de la Lengua Castellana",
+        "El Museo Nacional de Etnografía y Folklore"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 88, Ley N° 070",
+      "explicacion": "El Art. 88 crea el Instituto Plurinacional de Estudio de Lenguas y Culturas (IPELC), encargado de crear institutos de lenguas y culturas por cada nación o pueblo indígena."
+    },
+    {
+      "question": "De acuerdo con el Artículo 89, ¿cuáles son las fuentes de financiamiento del Sistema Educativo Plurinacional?",
+      "options": [
+        "Exclusivamente préstamos de la banca comercial internacional",
+        "Recursos del Tesoro General del Estado y de las Entidades Territoriales Autónomas según corresponda, conforme a la Ley del Presupuesto y el Art. 77 de la CPE",
+        "Aranceles de matrícula pagados obligatoriamente por los estudiantes fiscales",
+        "Donaciones de fundaciones privadas extranjeras sujetas a auditoría externa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 89, Ley N° 070",
+      "explicacion": "El Art. 89 dispone el financiamiento por parte del TGE y de las ETAs según la Ley del Presupuesto General del Estado y la CPE."
+    },
+    {
+      "question": "¿Cuál es la máxima instancia de participación de todos los sectores de la sociedad para la formulación y definición de lineamientos de la política plurinacional de educación (Art. 92.a)?",
+      "options": [
+        "El Gabinete Ministerial del Órgano Ejecutivo",
+        "El Congreso Plurinacional de Educación, convocado por el Ministerio de Educación cada cinco años",
+        "La Junta Nacional de Padres de Familia",
+        "La Asamblea General de la Universidad Boliviana"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 92.a, Ley N° 070",
+      "explicacion": "El Art. 92.a establece que el Congreso Plurinacional de Educación es la máxima instancia participativa, convocada cada 5 años por el Ministerio del área."
+    },
+    {
+      "question": "Según el Artículo 92.b, ¿cuál es la función del Consejo Educativo Plurinacional?",
+      "options": [
+        "Administrar la caja de salud del magisterio fiscal",
+        "Proponer proyectos de políticas educativas integrales de consenso y evaluar el cumplimiento de las conclusiones del Congreso Plurinacional de Educación",
+        "Fijar el sueldo de los profesores de colegios privados",
+        "Sancionar penalmente a los estudiantes con faltas disciplinarias"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 92.b, Ley N° 070",
+      "explicacion": "El Art. 92.b indica que el Consejo Educativo Plurinacional propone políticas integrales de consenso y evalúa las conclusiones del Congreso Plurinacional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 92.c, ¿cómo participan las naciones y pueblos indígena originario campesinos en la formulación de políticas y gestión educativa?",
+      "options": [
+        "Mediante representantes designados por los partidos políticos de turno",
+        "A través de sus organizaciones matrices, Consejos Educativos de Pueblos Originarios (CEPOs) e instancias propias con representación nacional, regional y transterritorial",
+        "A través de encuestas telefónicas organizadas por el INE",
+        "Como observadores sin voz ni voto en los municipios urbanos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 92.c, Ley N° 070",
+      "explicacion": "El Art. 92.c norma la participación activa de los pueblos originarios a través de sus organizaciones matrices y los CEPOs."
+    },
+    {
+      "question": "Según la Disposición Transitoria Primera, ¿en qué plazo debió el Observatorio de la Calidad Educativa adecuar su estructura a la CPE y a la Ley N° 070?",
+      "options": [
+        "En un plazo de treinta días calendario",
+        "En el plazo de noventa días",
+        "En un plazo de un año invariable",
+        "En el lapso de cinco años coincidiendo con el Congreso"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Transitoria Primera, Ley N° 070",
+      "explicacion": "La Transitoria Primera dio un plazo explícito de 90 días para la adecuación del Observatorio de la Calidad Educativa."
+    },
+    {
+      "question": "Conforme a la Disposición Transitoria Segunda, ¿de qué entidad pasaron a depender los Institutos, Academias y Escuelas de Bellas Artes de carácter fiscal?",
+      "options": [
+        "Del Ministerio de Culturas y Turismo exclusivamente",
+        "Del Ministerio de Educación según reglamento específico",
+        "De las alcaldías municipales donde residen",
+        "De la Universidad Pública Autónoma del departamento"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Transitoria Segunda, Ley N° 070",
+      "explicacion": "La Transitoria Segunda transfirió la dependencia de Institutos/Academias de Bellas Artes fiscales al Ministerio de Educación."
+    },
+    {
+      "question": "Según la Disposición Transitoria Cuarta, ¿qué trámite debieron realizar las Universidades Privadas legalmente establecidas en un plazo de 180 días?",
+      "options": [
+        "La donación del 50% de su patrimonio al Tesoro General",
+        "La jerarquización de la normativa que autoriza su funcionamiento en base a Decreto Supremo en concordancia con la Constitución Política del Estado",
+        "El cierre definitivo de sus facultades de ciencias de la salud",
+        "La fusión obligatoria con la Universidad Pública Autónoma"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Transitoria Cuarta, Ley N° 070",
+      "explicacion": "La Transitoria Cuarta exigió tramitar en 180 días la jerarquización normativa de su autorización mediante Decreto Supremo."
+    },
+    {
+      "question": "De acuerdo con la Disposición Transitoria Quinta, ¿qué programa implementó el Ministerio de Educación para docentes en ejercicio y egresados de Normales?",
+      "options": [
+        "Programas de jubilación anticipada con indemnización doble",
+        "Programas de formación complementaria (PROFOCOM) para la obtención del grado de licenciatura equivalente al otorgado por las ESFM",
+        "Cursos de capacitación en gestión administrativa contable",
+        "Exámenes de reválida quinquenal obligatoria con pérdida de título"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Transitoria Quinta, Ley N° 070",
+      "explicacion": "La Transitoria Quinta dispuso programas de formación complementaria para que maestros en ejercicio obtengan la Licenciatura."
+    },
+    {
+      "question": "¿Qué dispuso la Disposición Transitoria Novena respecto a los ex Servicios Departamentales de Educación (SEDUCA)?",
+      "options": [
+        "Su privatización mediante licitación pública internacional",
+        "Aprobar su transformación en Direcciones Departamentales de Educación (DDE), transfiriendo su estructura, personal, presupuesto y bienes inmuebles/muebles",
+        "Su cierre definitivo traspasando sus funciones a la Policía Boliviana",
+        "Su conversión en secretarías privadas de las gobernaciones"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Transitoria Novena, Ley N° 070",
+      "explicacion": "La Transitoria Novena ordenó la transferencia institucional, administrativa, patrimonial y de personal de los ex-SEDUCA a las DDEs."
+    },
+    {
+      "question": "Según la Disposición Transitoria Décima Primera, ¿cuál es el tratamiento que otorga el Estado a las 'Escuelas de Frontera'?",
+      "options": [
+        "Son transferidas a la administración de organismos internacionales de auxilio",
+        "Son prioridad del Estado, tendrán carácter integral y recibirán atención prioritaria en personal, infraestructura y equipamiento",
+        "Tienen cobro de pensiones escalonadas para sostener su infraestructura",
+        "Funcionan únicamente bajo la modalidad a distancia por televisión digital"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Transitoria Décima Primera, Ley N° 070",
+      "explicacion": "La Transitoria Décima Primera declara a las escuelas de frontera como prioridad del Estado con atención prioritaria integral."
+    },
+    {
+      "question": "De acuerdo con la Disposición Abrogatoria Única de la Ley N° 070, ¿qué norma legal quedó expresamente abrogada?",
+      "options": [
+        "La Ley del Abogado y la Ley Orgánica del Poder Judicial de 1993",
+        "La Ley N° 1565 de Reforma Educativa de 7 de julio de 1994 y la Ley N° 3009 del Consejo Nacional de Acreditación",
+        "El Código de Educación Boliviana de 1955 sin sustitución alguna",
+        "La Ley del Estatuto del Funcionario Público"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Abrogatoria Única, Ley N° 070",
+      "explicacion": "La Disposición Abrogatoria abroga expresamente la Ley 1565 de Reforma Educativa de 1994 y la Ley 3009 del CONAES."
+    },
+    {
+      "question": "En el marco del Artículo 3.9, la educación es 'Productiva y territorial'. ¿A qué se orienta específicamente este principio?",
+      "options": [
+        "A la venta industrial de insumos escolares en mercados internacionales",
+        "A la producción intelectual y material, al trabajo creador y a la relación armónica con la Madre Tierra, fortaleciendo la gestión territorial indígena",
+        "A la explotación intensiva no regulada de recursos minerales en los predios escolares",
+        "A la construcción de parques industriales urbanos financiados por cobro de matrículas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.9, Ley N° 070",
+      "explicacion": "El Art. 3.9 orienta la educación productiva y territorial a la producción intelectual/material y la convivencia armónica con la Madre Tierra."
+    },
+    {
+      "question": "Según el Artículo 4.3, ¿cuál es el objeto de universalizar los saberes y conocimientos propios?",
+      "options": [
+        "Sustituir la matemática y física universal por relatos orales no sistematizados",
+        "El desarrollo de una educación desde las identidades culturales",
+        "Cumplir con metas estadísticas de la Organización Mundial del Comercio",
+        "Acreditar institutos de idiomas sin validez académica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.3, Ley N° 070",
+      "explicacion": "El Art. 4.3 define que universalizar los saberes propios busca desarrollar la educación desde las identidades culturales del país."
+    },
+    {
+      "question": "Según el Artículo 5.6, ¿por qué se prioriza la educación en las zonas de frontera dentro de los objetivos del Sistema Educativo Plurinacional?",
+      "options": [
+        "Para fomentar la importación de mercadería libre de impuestos",
+        "Para contribuir al fortalecimiento de la seguridad, defensa y desarrollo del Estado Plurinacional resguardando la soberanía",
+        "Para probar prototipos de aulas virtuales en climas extremos",
+        "Para descentralizar el cobro de aranceles universitarios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.6, Ley N° 070",
+      "explicacion": "El Art. 5.6 explicita que priorizar la educación en las fronteras resguarda la soberanía, seguridad y defensa del Estado."
+    },
+    {
+      "question": "Conforme al Artículo 5.13, ¿cuál es el objetivo fijado para las maestras y maestros en ejercicio en los subsistemas Regular, Alternativo y Especial?",
+      "options": [
+        "La rotación departamental obligatoria cada doce meses",
+        "Implementar políticas educativas de formación continua y actualización permanente",
+        "Su inclusión forzosa en la plantilla salarial de las empresas públicas extractivas",
+        "La rendición de pruebas psicotécnicas semanales bajo pena de destitución"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.13, Ley N° 070",
+      "explicacion": "El Art. 5.13 manda implementar políticas educativas de formación continua y actualización para maestras y maestros."
+    },
+    {
+      "question": "De acuerdo con el Artículo 10.4, ¿qué competencia lingüística se busca lograr en los estudiantes del Subsistema de Educación Regular al egresar?",
+      "options": [
+        "El dominio exclusivo del castellano neutro y un dialecto regional",
+        "Habilidades y aptitudes comunicativas trilingües: un idioma indígena originario, castellano y un extranjero",
+        "La fluidez en cuatro idiomas europeos exclusivamente",
+        "El manejo de lenguajes de programación computacional sin idiomas verbales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 10.4, Ley N° 070",
+      "explicacion": "El Art. 10.4 fija como objetivo del subsistema regular lograr aptitudes comunicativas trilingües (originario, castellano, extranjero)."
+    },
+    {
+      "question": "Según el Artículo 17.1, ¿a partir de qué edad se prioriza la democratización del acceso educativo en Educación Alternativa para iniciar o continuar estudios?",
+      "options": [
+        "A partir de los 21 años de edad",
+        "Principalmente de las personas mayores a quince años que requieren iniciar o continuar sus estudios",
+        "A partir de los 18 años cumplidos únicamente con libreta militar",
+        "Para personas de la tercera edad mayores de 65 años exclusivamente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 17.1, Ley N° 070",
+      "explicacion": "El Art. 17.1 señala que la educación alternativa atiende principalmente a personas mayores a quince años."
+    },
+    {
+      "question": "Según el Artículo 20, ¿cuál es la dependencia y duración de los programas en los Centros de Capacitación Técnica?",
+      "options": [
+        "Dependen de la Universidad Pública Autónoma y dictan carreras de 5 años",
+        "Desarrollan programas de corta duración y dependen del Subsistema de Educación Alternativa y Especial (fiscales, de convenio y privados)",
+        "Dependen del Ministerio de Trabajo y dictan cursos de postdoctorado",
+        "Dependen de las Fuerzas Armadas y otorgan libreta militar de servicio auxiliar"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 20, Ley N° 070",
+      "explicacion": "El Art. 20 establece que los Centros de Capacitación Técnica dictan programas de corta duración dependientes de Educación Alternativa y Especial."
+    },
+    {
+      "question": "Conforme al Artículo 25.I, ¿cómo define la Ley N° 070 a los estudiantes con 'Talento Extraordinario'?",
+      "options": [
+        "A aquellos que dominan dos deportes olímpicos simultáneamente",
+        "A estudiantes con excelente aprovechamiento y toda niña, niño y adolescente con talento natural destacado según el Art. 82.III de la CPE",
+        "A estudiantes egresados de colegios privados con promedio perfecto de calificación",
+        "A hijos de artistas plásticos con exposición en galerías nacionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 25.I, Ley N° 070",
+      "explicacion": "El Art. 25.I define talento extraordinario refiriéndose a estudiantes con excelente aprovechamiento y talento natural destacado."
+    },
+    {
+      "question": "Según el Artículo 35.V y VI, ¿qué requisito académico deben cumplir los Directores Generales y Docentes de las Escuelas Superiores de Formación de Maestros?",
+      "options": [
+        "Directores: Título de Abogado; Docentes: Bachilleres calificados",
+        "Directores Generales: Profesional con grado superior al que otorgan las Escuelas; Docentes: Profesional con título de maestro y grado académico igual o superior al que oferta la institución",
+        "Directores: Militar retirado; Docentes: Ingenieros comerciales sin experiencia pedagógica",
+        "Directores y Docentes: Grado académico de Doctor Honoris Causa internacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 35.V y VI, Ley N° 070",
+      "explicacion": "El Art. 35 exige que la dirección tenga grado superior al de Licenciatura que otorga la ESFM, y los docentes título de maestro y grado igual o superior."
+    },
+    {
+      "question": "De acuerdo con el Artículo 38, ¿qué otorga el Ministerio de Educación a los graduados de las ESFM y cuál es su efecto en el Magisterio?",
+      "options": [
+        "Otorga un certificado provisional de suplencia por dos años sin escalafón",
+        "Otorga el Título de Maestro con grado de Licenciatura y su respectivo reconocimiento automático en el Escalafón del Magisterio",
+        "Otorga una licencia de enseñanza municipal renovable mediante arancel",
+        "Otorga la libreta militar de reserva instruida"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 38, Ley N° 070",
+      "explicacion": "El Art. 38 señala que el Ministerio otorga el Título de Maestro con grado de Licenciatura y reconocimiento directo en el Escalafón."
+    },
+    {
+      "question": "Según el Artículo 40, ¿cuál es la naturaleza jurídica de la Formación Continua para la maestra y el maestro?",
+      "options": [
+        "Es una actividad voluntaria remunerada con tarifa por hora extra",
+        "Es un derecho y un deber de toda maestra y maestro, orientada a su actualización y capacitación para mejorar la calidad educativa",
+        "Es una sanción disciplinaria aplicable únicamente a maestros suspendidos",
+        "Es un requisito optativo exigido únicamente para ejercer cargos en el exterior"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 40, Ley N° 070",
+      "explicacion": "El Art. 40.I establece expresamente que la formación continua es un derecho y un deber de toda maestra y maestro."
+    },
+    {
+      "question": "De acuerdo con el Artículo 46.II, ¿qué nivel académico deben poseer los Rectores de los Institutos Técnicos, Tecnológicos y Escuelas Superiores Tecnológicas?",
+      "options": [
+        "Grado de Bachiller en Humanidades con 10 años de experiencia técnica",
+        "Grado académico superior a los programas ofertados por la institución",
+        "Cualquier título universitario sin importar el grado",
+        "Diploma de egresado de las Fuerzas Armadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 46.II, Ley N° 070",
+      "explicacion": "El Art. 46.II dispone que las y los Rectores deben ser profesionales con grado académico superior a los programas ofertados."
+    },
+    {
+      "question": "Según el Artículo 50, ¿cuáles son las tres opciones institucionales en la Formación Superior Artística y sus grados de salida?",
+      "options": [
+        "Centros de Capacitación, Institutos de Formación Artística (Capacitación, Técnico Medio, Técnico Superior) y Escuelas Bolivianas Interculturales (Licenciatura)",
+        "Escuelas de Música, Conservatorios Municipales y Talles Barrio",
+        "Academias de Danza Clásica, Institutos de Teatro y Facultades de Cine",
+        "Aulas Abiertas de Pintura y Centros Universitarios de Escultura"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50, Ley N° 070",
+      "explicacion": "El Art. 50 estructura la Formación Artística en: Centros de Capacitación, Institutos de Formación Artística y Escuelas Bolivianas Interculturales."
+    },
+    {
+      "question": "Conforme al Artículo 62.I y 63.I, ¿cuál es la misión constitucional compartida que diferencia a las Universidades Militar y Policial dentro del SEP?",
+      "options": [
+        "Son entidades privadas autofinanciadas mediante aranceles de matrículas",
+        "Son de régimen especial por su carácter castrense y policial; forman profesionales para la seguridad, defensa de la soberanía, desarrollo integral y seguridad interna",
+        "Rinden exámenes de grado ante tribunales de la Universidad Autónoma de La Paz",
+        "Otorgan exclusivamente títulos de técnico medio en educación física"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 62 y 63, Ley N° 070",
+      "explicacion": "Los Arts. 62 y 63 regulan el régimen especial de la Universidad Militar y Policial para la seguridad, defensa y desarrollo del Estado."
+    },
+    {
+      "question": "Según el Artículo 66, ¿qué requisitos deben cumplir las Universidades Extranjeras para ofertar programas en Bolivia?",
+      "options": [
+        "Basta con una publicación en un periódico de circulación nacional",
+        "Cumplir requisitos para apertura de Universidades Privadas, autorización expresa del Ministerio de Educación y someterse a normas bolivianas",
+        "Eximirse de la legislación boliviana amparándose en su embajada originaria",
+        "Tener una sucursal comercial registrada en Fundempresa únicamente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 66, Ley N° 070",
+      "explicacion": "El Art. 66 exige a las universidades extranjeras cumplir los requisitos de las privadas y contar con autorización expresa del Ministerio de Educación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 71, ¿cómo se define la 'Administración y Gestión de la Educación'?",
+      "options": [
+        "Como la venta de servicios de consultoría pedagógica a municipios",
+        "Es la instancia que planifica, organiza, dirige y controla los recursos del Sistema Educativo Plurinacional, con participación social",
+        "Como el cobro centralizado de aportes sindicales docentes",
+        "Como la licitación anual de mobiliario para colegios de convenio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 71, Ley N° 070",
+      "explicacion": "El Art. 71 la define como la instancia que planifica, organiza, dirige y controla los recursos del SEP con participación social."
+    },
+    {
+      "question": "Según el Artículo 73, ¿cuáles son los principios de la administración y gestión educativa en el SEP?",
+      "options": [
+        "Centralismo estricto, Secreto de Estado, Jerarquía militar y Lucro financiero",
+        "Participación, democracia y comunitarismo; Horizontalidad en decisiones; Equitativa y complementaria; Transparencia y rendición de cuentas",
+        "Autonomía empresarial, Privatización asistida, Eficiencia mercantil y Burocracia rígida",
+        "Desregulación normativa, Arbitrio individual y Competencia comercial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 73, Ley N° 070",
+      "explicacion": "El Art. 73 enumera los principios: Participación/democracia, Horizontalidad, Equitativa/complementaria, y Transparencia con rendición de cuentas."
+    },
+    {
+      "question": "Según el Artículo 84, ¿qué son las instancias de 'Apoyo Técnico de Recursos y Servicios'?",
+      "options": [
+        "Empresas privadas de mantenimiento de computadoras escolares",
+        "Instancias de apoyo técnico pedagógico al SEP para la adecuada implementación del currículo educativo",
+        "Unidades policiales de vigilancia en portones escolares",
+        "Comités de auditoría contable de las bancadas parlamentarias"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 84, Ley N° 070",
+      "explicacion": "El Art. 84 las define como instancias de apoyo técnico-pedagógico al SEP para la correcta implementación curricular."
+    },
+    {
+      "question": "Conforme a la Disposición Transitoria Décima Tercera (Planes Intersectoriales) en relación al Art. 143, ¿cuáles son prioridades estatales en la educación?",
+      "options": [
+        "La enseñanza de finanzas bursátiles y comercio exterior",
+        "Educación sin violencia, educación en derechos humanos, seguridad ciudadana, derechos de la Madre Tierra, contra el racismo, y valores/ética",
+        "La instrucción de manejo de maquinaria pesada agrícola",
+        "El adiestramiento de tripulaciones aéreas comerciales"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Transitoria Décima Segunda, Ley N° 070",
+      "explicacion": "La Transitoria Décima Segunda prioriza programas intersectoriales en derechos humanos, no violencia, seguridad ciudadana, Madre Tierra y lucha contra el racismo."
+    },
+    {
+      "question": "De acuerdo con la Disposición Final Primera de la Ley N° 070, ¿cuándo entra en vigencia esta norma y cómo se ejecuta su implementación?",
+      "options": [
+        "Entra en vigencia a los cinco años de su sanción mediante ley complementaria",
+        "Entra en vigencia a partir de la fecha de su promulgación y publicación (20 de diciembre de 2010), con implementación progresiva mediante Decretos y Resoluciones reglamentarias",
+        "Entra en vigencia únicamente tras referéndum popular aprobatorio",
+        "Entra en vigencia retroactiva desde el año 2000"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Final Primera, Ley N° 070",
+      "explicacion": "La Final Primera dispone que la ley entra en vigencia a partir de su promulgación/publicación con implementación progresiva reglamentaria."
+    },
+    {
+      "question": "Según el Artículo 3.1 de la Ley N° 070, ¿cuál es el carácter fundamental de la educación en cuanto a la descolonización?",
+      "options": [
+        "Es decolonizadora, liberadora, revolucionaria, antiimperialista y transformadora de las estructuras económicas, sociales, culturales y políticas",
+        "Es neutra y laica, respetando las tradiciones coloniales y republicanas sin interferir en las estructuras de poder",
+        "Es un modelo occidentalizado enfocado exclusivamente en la adaptación al mercado global capitalista",
+        "Es un proceso exclusivamente académico sin proyección de transformación social o política"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.1, Ley N° 070",
+      "explicacion": "El Art. 3.1 define la educación como descolonizadora, liberadora, revolucionaria, antiimperialista y transformadora de las estructuras del Estado."
+    },
+    {
+      "question": "¿De acuerdo con el Artículo 3.8 de la Ley N° 070, cómo se concibe la educación respecto a la tierra y el territorio?",
+      "options": [
+        "Es territorializada, orientada a la explotación mercantil ilimitada de recursos naturales no renovables",
+        "Es comunitaria, democrática y participativa, sin relación directa con el territorio o la Madre Tierra",
+        "Es promotora de la convivencia armónica con la Madre Tierra, orientada al desarrollo sostenible y al Vivir Bien",
+        "Es una actividad exclusivamente urbana ajena a las cosmovisiones agrarias e indígenas"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 3.8, Ley N° 070",
+      "explicacion": "El Art. 3.8 establece que la educación promueve la convivencia armónica con la Madre Tierra para el Vivir Bien."
+    },
+    {
+      "question": "Según el Artículo 4 de la Ley N° 070, ¿en qué nivel del Sistema Educativo es obligatorio el desarrollo de la lengua materna, segunda lengua y lengua extranjera?",
+      "options": [
+        "Únicamente en la Educación Superior de Formación Profesional",
+        "En todo el Sistema Educativo Plurinacional, según el contexto territorial y lingüístico",
+        "Exclusivamente en Unidades Educativas privadas de ciudades capitales",
+        "Solo en la Educación Alternativa de Adultos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4, Ley N° 070",
+      "explicacion": "El Art. 4 regula la educación plurilingüe obligatoria en todo el Sistema Educativo Plurinacional."
+    },
+    {
+      "question": "En el marco del Artículo 5 de la Ley N° 070, ¿cuál es uno de los objetivos centrales de la educación respecto a las lenguas originarias?",
+      "options": [
+        "Sustituir gradualmente los idiomas originarios por el castellano normativo",
+        "Recuperar, preservar, desarrollar y difundir los idiomas oficiales de las naciones y pueblos indígena originario campesinos",
+        "Limitar el uso de lenguas originarias al ámbito doméstico y familiar",
+        "Utilizar las lenguas originarias solo como traducción pasiva en la enseñanza primaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.10, Ley N° 070",
+      "explicacion": "El Art. 5.10 manda la recuperación, preservación, desarrollo y difusión de las lenguas de las naciones originarias."
+    },
+    {
+      "question": "Conforme al Artículo 6 de la Ley N° 070, ¿cómo se define la Intraculturalidad en la educación?",
+      "options": [
+        "La asimilación de la cultura boliviana por parte de colectividades extranjeras residentes",
+        "La reconstrucción y desarrollo de las culturas y saberes propios de las naciones y pueblos originarios para la consolidación del Estado Plurinacional",
+        "El intercambio comercial e industrial entre municipios de un mismo departamento",
+        "La homogenización cultural de la sociedad boliviana bajo patrones urbanos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.I, Ley N° 070",
+      "explicacion": "La Intraculturalidad promueve el fortalecimiento de la identidad, saberes y lenguas de las naciones originarias."
+    },
+    {
+      "question": "Según el Artículo 6.II de la Ley N° 070, ¿qué implica la Interculturalidad en el ámbito educativo?",
+      "options": [
+        "El aislamiento voluntario de las comunidades indígenas para evitar influencias externas",
+        "El desarrollo de la interrelación e interacción entre conocimientos de diversas culturas en igualdad de condiciones y respeto mutuo",
+        "La subordinación de los saberes locales a la ciencia positivista occidental",
+        "La enseñanza exclusiva de contenidos internacionales en el sistema escolar"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.II, Ley N° 070",
+      "explicacion": "La Interculturalidad implica el diálogo armónico entre conocimientos de distintas culturas sin jerarquías."
+    },
+    {
+      "question": "Según el Artículo 7 de la Ley N° 070, ¿cuál es la regla para la enseñanza del idioma originario en poblaciones monolingües castellanas?",
+      "options": [
+        "Es optativo y queda a criterio voluntario del Director del establecimiento",
+        "Se enseña como segunda lengua, desde los primeros años de escolaridad",
+        "Queda prohibida su enseñanza para evitar la sobrecarga curricular",
+        "Se posterga obligatoriamente hasta el nivel universitario"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.1, Ley N° 070",
+      "explicacion": "El Art. 7.1 señala que en poblaciones monolingües castellanas, la lengua originaria se enseña como segunda lengua."
+    },
+    {
+      "question": "¿Qué establece el Artículo 7.2 de la Ley N° 070 sobre la enseñanza en poblaciones monolingües o con lengua materna originaria?",
+      "options": [
+        "La enseñanza se realiza en la lengua originaria como primera lengua y el castellano como segunda lengua",
+        "El castellano es obligatorio como primera lengua desde el primer día de clases",
+        "Se prohíbe el uso de libros en castellano durante los primeros 10 años de estudio",
+        "Solo se permite la enseñanza en lengua originaria en escuelas rurales unidocentes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.2, Ley N° 070",
+      "explicacion": "En regiones monolingües o predominantemente originarias, la lengua materna originaria es la primera lengua de enseñanza y el castellano la segunda."
+    },
+    {
+      "question": "Según el Artículo 7.4 de la Ley N° 070, ¿cuándo se inicia la enseñanza de una lengua extranjera?",
+      "options": [
+        "Desde el primer año de Educación Inicial",
+        "Desde los primeros años de escolaridad con enfoque comunicativo",
+        "Únicamente en el nivel de postgrado universitario",
+        "A partir de la titulación del grado técnico medio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.4, Ley N° 070",
+      "explicacion": "La lengua extranjera se enseña gradualmente desde los primeros años de escolaridad como instrumento de comunicación internacional."
+    },
+    {
+      "question": "En el Artículo 8 de la Ley N° 070, ¿cuáles son los tres Subsistemas que componen el Sistema Educativo Plurinacional?",
+      "options": [
+        "1. Educación Regular; 2. Educación Alternativa y Especial; 3. Educación Superior de Formación Profesional",
+        "1. Educación Escolarizada; 2. Educación Universitaria; 3. Educación Militar",
+        "1. Educación Primaria; 2. Educación Secundaria; 3. Educación Técnica",
+        "1. Educación Fiscal; 2. Educación Privada; 3. Educación de Convenio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 070",
+      "explicacion": "El Sistema Educativo Plurinacional se estructura en tres subsistemas: Regular, Alternativa y Especial, y Superior de Formación Profesional."
+    },
+    {
+      "question": "Según el Artículo 11 de la Ley N° 070, ¿cuáles son los niveles de estructura del Subsistema de Educación Regular?",
+      "options": [
+        "Educación Parvularia, Educación Básica, Educación Media y Educación Superior",
+        "Educación Inicial en Familia Comunitaria, Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva",
+        "Educación Infantil, Educación General Básica y Bachillerato Diversificado",
+        "Educación Preescolar, Educación Primaria Urbana y Educación Técnica Humanística"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 11, Ley N° 070",
+      "explicacion": "El Subsistema de Educación Regular comprende los tres niveles señalados en el Art. 11."
+    },
+    {
+      "question": "Conforme al Artículo 12 de la Ley N° 070, ¿cuáles son las dos etapas de la Educación Inicial en Familia Comunitaria?",
+      "options": [
+        "Etapa no escolarizada (de 0 a 3 años) y etapa escolarizada (de 4 a 5 años)",
+        "Etapa maternal (0 a 2 años) y etapa pre-kínder (3 a 5 años)",
+        "Etapa comunitaria (0 a 4 años) y etapa de transición (5 años)",
+        "Etapa inicial familiar (0 a 1 año) y etapa institucionalizada (2 a 5 años)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 070",
+      "explicacion": "La Educación Inicial abarca la etapa no escolarizada (3 años de duración) y la escolarizada (2 años de duración)."
+    },
+    {
+      "question": "Según el Artículo 12.I de la Ley N° 070, ¿quién tiene la responsabilidad compartida en la etapa no escolarizada de la Educación Inicial?",
+      "options": [
+        "Corresponde exclusivamente a las Guarderías de los Gobiernos Municipales",
+        "Es de responsabilidad compartida entre la familia, la comunidad y el Estado",
+        "Compete únicamente a las organizaciones no gubernamentales e iglesias",
+        "Es una función directa y exclusiva del Ministerio de Salud"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 12.I, Ley N° 070",
+      "explicacion": "La etapa no escolarizada involucra la corresponsabilidad de la familia, la comunidad y el Estado."
+    },
+    {
+      "question": "Según el Artículo 13 de la Ley N° 070, ¿cuál es la duración y orientación pedagógica de la Educación Primaria Comunitaria Vocacional?",
+      "options": [
+        "Tiene 5 años de duración y orientación estrictamente teórica y memorística",
+        "Tiene 6 años de duración y orienta al desarrollo de capacidades, habilidades y vocaciones productivas",
+        "Tiene 8 años de duración y otorga el diploma de técnico básico de manera automática",
+        "Tiene 4 años de duración y se enfoca solo en la alfabetización funcional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 13, Ley N° 070",
+      "explicacion": "La Educación Primaria dura 6 años y sienta las bases para el desarrollo de vocaciones cualitativas y productivas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14 de la Ley N° 070, ¿qué diploma otorga la culminación de la Educación Secundaria Comunitaria Productiva?",
+      "options": [
+        "Título de Técnico Superior Universitario otorgado por el DDE",
+        "Diploma de Bachiller Humanístico y Diploma de Técnico Medio de acuerdo a la especialidad productiva",
+        "Certificado de Egreso Científico expedido por el Ministerio de Educación",
+        "Título en Provisión Nacional de Bachiller en Ciencias Exactas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 14, Ley N° 070",
+      "explicacion": "Permite la obtención del Bachillerato Técnico Humanístico con el título de Técnico Medio."
+    },
+    {
+      "question": "Según el Artículo 14.II de la Ley N° 070, ¿cuál es la duración de la Educación Secundaria Comunitaria Productiva?",
+      "options": [
+        "4 años lectivos",
+        "5 años lectivos",
+        "6 años lectivos",
+        "3 años de formación teórica y 1 de pasantía"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 14.II, Ley N° 070",
+      "explicacion": "La Educación Secundaria tiene una duración de 6 años de estudio en la modalidad productiva."
+    },
+    {
+      "question": "Conforme al Artículo 15 de la Ley N° 070, ¿cuál es el carácter de las Unidades Educativas Fiscales?",
+      "options": [
+        "Son de financiamiento mixto y cobro de matrículas semestrales de mantenimiento",
+        "Son gratuitas, sostenidas y gestionadas 100% por el Estado en sus distintos niveles de gobierno",
+        "Son administradas de manera privada con subsidio parcial estatal",
+        "Son autosostenibles mediante proyectos agrícolas de los estudiantes"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 15, Ley N° 070",
+      "explicacion": "Las Unidades Educativas Fiscales son totalmente gratuitas y sostenidas por el Estado."
+    },
+    {
+      "question": "Según el Artículo 15.II de la Ley N° 070, ¿qué regulación aplica a las Unidades Educativas Privadas?",
+      "options": [
+        "Están exentas de la supervisión del Ministerio de Educación y fijan tarifas libres",
+        "Funcionan bajo autorización y reglamentación del Ministerio de Educación, sujetas a fiscalización estatal y prohibición de lucro en perjuicio de la sociedad",
+        "Tienen la obligación de afiliarse a universidades privadas para validar su currículo",
+        "Se rigen estrictamente por las normas del Código de Comercio sin control pedagógico"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 15.II, Ley N° 070",
+      "explicacion": "El Estado fiscaliza y autoriza el funcionamiento de las Unidades Educativas Privadas."
+    },
+    {
+      "question": "Según el Artículo 15.III de la Ley N° 070, ¿qué define a las Unidades Educativas de Convenio?",
+      "options": [
+        "Son escuelas de propiedad extranjera que reciben financiamiento internacional sin control estatal",
+        "Son instituciones educativas no lucrativas de servicio social gestionadas por iglesias u organizaciones sin fines de lucro en convenio con el Estado",
+        "Son empresas privadas autorizadas mediante ley expresa de la Asamblea Legislativa",
+        "Son centros comunitarios autonómicos con docentes pagados por los padres de familia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 15.III, Ley N° 070",
+      "explicacion": "Son instituciones de convenio sin fines de lucro, que prestan servicio social en coordinación con el Estado."
+    },
+    {
+      "question": "Según el Artículo 16 de la Ley N° 070, ¿a quiénes está destinado el Subsistema de Educación Alternativa y Especial?",
+      "options": [
+        "Exclusivamente a estudiantes destacados con promedio sobresaliente",
+        "A personas y comunidades que requieren continuar o complementar sus estudios fuera del sistema regular, o que presentan discapacidad, talento extraordinario o dificultades de aprendizaje",
+        "Únicamente a personas en situación de encierro penitenciario",
+        "A personal militar y policial en proceso de ascenso"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 16, Ley N° 070",
+      "explicacion": "Atiende las necesidades educativas de la población en situación de vulnerabilidad, vulneración o formación permanente."
+    },
+    {
+      "question": "Según el Artículo 17 de la Ley N° 070, ¿cuáles son las dos áreas que componen el Subsistema de Educación Alternativa y Especial?",
+      "options": [
+        "1. Educación de Adultos; 2. Educación Técnica Vocacional",
+        "1. Educación Alternativa; 2. Educación Especial",
+        "1. Educación No Formal; 2. Educación Informal",
+        "1. Educación Inclusiva; 2. Educación Especializada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 17, Ley N° 070",
+      "explicacion": "El subsistema se divide estructuralmente en Educación Alternativa y Educación Especial."
+    },
+    {
+      "question": "Conforme al Artículo 20 de la Ley N° 070, ¿cuáles son las dos estructuras de la Educación Alternativa?",
+      "options": [
+        "Educación de Personas Jóvenes y Adultas, y Educación Permanente",
+        "Educación Alfabetizadora y Educación Técnica Superior",
+        "Educación Popular y Educación Semipresencial",
+        "Educación Comunitaria y Educación de Posgrado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 070",
+      "explicacion": "Comprende la Educación de Personas Jóvenes y Adultas (EPJA) y la Educación Permanente no escolarizada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 21 de la Ley N° 070, ¿a partir de qué edad se considera la Educación de Personas Jóvenes y Adultas?",
+      "options": [
+        "A partir de los 12 años cumplidos",
+        "A partir de los 15 años cumplidos",
+        "A partir de los 18 años cumplidos",
+        "A partir de los 21 años cumplidos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 21, Ley N° 070",
+      "explicacion": "La EPJA está destinada a personas mayores de 15 años que requieren iniciar o continuar estudios."
+    },
+    {
+      "question": "Según el Artículo 22 de la Ley N° 070, ¿qué caracteriza a la Educación Permanente?",
+      "options": [
+        "Otorga títulos de licenciatura con defensa de tesis académica formal",
+        "Es una formación no escolarizada dirigida a toda la población, orientada a fortalecer la conciencia comunitaria y el desarrollo socio-productivo",
+        "Es obligatoria para todos los funcionarios públicos durante 5 años",
+        "Se imparte de manera exclusiva en institutos militares de postgrado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 22, Ley N° 070",
+      "explicacion": "La Educación Permanente responde a necesidades socio-comunitarias no escolarizadas para la vida."
+    },
+    {
+      "question": "Según el Artículo 25 de la Ley N° 070, ¿cuáles son los tres ámbitos de atención en la Educación Especial?",
+      "options": [
+        "1. Ceguera; 2. Sordera; 3. Parálisis",
+        "1. Personas con Discapacidad; 2. Personas con Dificultades en el Aprendizaje; 3. Personas con Talento Extraordinario",
+        "1. Niños huérfanos; 2. Adultos mayores; 3. Migrantes",
+        "1. Educación especial urbana; 2. Educación especial rural; 3. Educación especial hospitalaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 25, Ley N° 070",
+      "explicacion": "El Art. 25 señala explícitamente estas tres áreas de la Educación Especial."
+    },
+    {
+      "question": "Según el Artículo 26 de la Ley N° 070, ¿cuáles son las dos modalidades de atención en la Educación Especial?",
+      "options": [
+        "Modalidad Presencial y Modalidad Virtual",
+        "Modalidad Directa (para personas con discapacidad) y Modalidad Indirecta (inclusiva en el sistema regular/alternativo)",
+        "Modalidad Hospitalaria y Modalidad Domiciliaria",
+        "Modalidad Internado y Modalidad Externado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 26, Ley N° 070",
+      "explicacion": "Se realiza a través de la Modalidad Directa (Centros de Educación Especial) e Indirecta (escuelas inclusivas)."
+    },
+    {
+      "question": "Según el Artículo 27 de la Ley N° 070, ¿cuál es el principio ordenador de la Educación Especial respecto a la integración social?",
+      "options": [
+        "La segregación en centros especiales cerrados de por vida",
+        "La educación inclusiva, promoviendo la equiparación de oportunidades y la eliminación de barreras arquitectónicas, actitudinales y comunicacionales",
+        "La exoneración total de evaluaciones y asistencia a centros de estudio",
+        "La derivación obligatoria al sistema de salud sin formación pedagógica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 27, Ley N° 070",
+      "explicacion": "Garantiza la educación inclusiva y la equiparación de oportunidades para las personas con necesidades especiales."
+    },
+    {
+      "question": "Según el Artículo 28 de la Ley N° 070, ¿cuál es la finalidad de la Educación Superior de Formación Profesional?",
+      "options": [
+        "La formación de profesionales de nivel técnico e intelectual con compromiso social, científico, crítico, ético y productivo",
+        "La preparación exclusiva de mano de obra barata para empresas multinacionales",
+        "La expedición de títulos universitarios sin carga de investigación",
+        "El adiestramiento militar y de defensa nacional en todas las facultades"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 070",
+      "explicacion": "Forma profesionales con sólida formación integral, científica, técnica y conciencia crítica."
+    },
+    {
+      "question": "Conforme al Artículo 29 de la Ley N° 070, ¿cuáles son la cuatro estructuras que componen la Educación Superior de Formación Profesional?",
+      "options": [
+        "1. Formación de Maestras y Maestros; 2. Formación Técnica y Tecnológica; 3. Formación Artística; 4. Formación Universitaria",
+        "1. Licenciaturas; 2. Maestrías; 3. Doctorados; 4. Posdoctorados",
+        "1. Universidades Públicas; 2. Universidades Privadas; 3. Institutos Tecnológicos; 4. Academias Militares",
+        "1. Pregrado; 2. Posgrado; 3. Investigación; 4. Extensión Universitaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 070",
+      "explicacion": "El Art. 29 establece las cuatro áreas estructurales de la Educación Superior."
+    },
+    {
+      "question": "Según el Artículo 31 de la Ley N° 070, ¿cuál es la característica de la Formación Docente en las Escuelas Superiores de Formación de Maestras y Maestros (ESFM)?",
+      "options": [
+        "Es privada, arancelada y dura 3 años académicos",
+        "Es única, intracomunitaria, fiscal, gratuita y de 5 años de duración con nivel de Licenciatura",
+        "Es semipresencial y de libre ingreso sin examen de admisión",
+        "Es de 2 años de duración y otorga el título de Técnico Superior"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 31, Ley N° 070",
+      "explicacion": "La formación de maestros es única, fiscal, gratuita, con 5 años de estudio a nivel Licenciatura."
+    },
+    {
+      "question": "Según el Artículo 33 de la Ley N° 070, ¿cuál es la exclusividad conferida a las ESFM y a la Universidad Pedagógica?",
+      "options": [
+        "Pueden formar profesionales en derecho y medicina además de maestros",
+        "Son las únicas instituciones autorizadas para ofertar programas de formación docente e innovaciones pedagógicas del Sistema Educativo Plurinacional",
+        "Tienen prohibido expedir títulos reconocidos por el Ministerio de Educación",
+        "Deben depender administrativamente de las Universidades Autónomas locales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 33, Ley N° 070",
+      "explicacion": "Tienen la exclusividad institucional para la formación inicial y de postgrado de maestras y maestros."
+    },
+    {
+      "question": "Conforme al Artículo 34 de la Ley N° 070, ¿cuál es la función de la Universidad Pedagógica?",
+      "options": [
+        "Impartir educación secundaria inicial a jóvenes postulantes a la docencia",
+        "Formar profesionales docentes a nivel de posgrado, actualización y especialización continua",
+        "Acreditar carreras universitarias del área de ingeniería y arquitectura",
+        "Sustituir a la Contraloría en la auditoría de escuelas públicas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 34, Ley N° 070",
+      "explicacion": "La Universidad Pedagógica se encarga del posgrado y especialización del magisterio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 36 de la Ley N° 070, ¿qué principio protege la inamovilidad de las maestras y maestros del sector público?",
+      "options": [
+        "Inamovilidad absoluta libre de cualquier proceso disciplinario",
+        "Inamovilidad en función a la evaluación, desempeño, escalafón docente y normativa vigente",
+        "Inamovilidad condicionada al aporte de cuotas partidarias",
+        "Sujeción al régimen de libre contratación del Código de Comercio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 36, Ley N° 070",
+      "explicacion": "El Estado garantiza la carrera docente y la inamovilidad bajo el Reglamento del Escalafón y evaluación."
+    },
+    {
+      "question": "Según el Artículo 40 de la Ley N° 070, ¿cuáles son los niveles de formación que ofrecen los Institutos Técnicos y Tecnológicos?",
+      "options": [
+        "Técnico Medio Post-bachillerato y Técnico Superior",
+        "Capacitación, Técnico Medio-Capacitado, Técnico Superior e Ingeniero Comercial",
+        "Capacitación, Técnico Básico, Técnico Auxiliar, Técnico Medio y Técnico Superior",
+        "Exclusivamente Licenciaturas en ciencias aplicadas"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 40, Ley N° 070",
+      "explicacion": "Abarca desde niveles de capacitación y técnico básico/auxiliar/medio hasta técnico superior."
+    },
+    {
+      "question": "Según el Artículo 43 de la Ley N° 070, ¿cuál es la diferencia de nivel académico que pueden alcanzar las Escuelas Superiores Tecnológicas?",
+      "options": [
+        "Otorga el grado de Maestría y Doctorado industrial",
+        "Desarrollan formación técnica a nivel Licenciatura y diplomas de especialidad",
+        "Tienen la misma validez que un curso de capacitación acelerada de 3 meses",
+        "Forman exclusivamente técnicos auxiliares no egresados de secundaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 43, Ley N° 070",
+      "explicacion": "Las Escuelas Superiores Tecnológicas forman profesionales a nivel Licenciatura."
+    },
+    {
+      "question": "Según el Artículo 47 de la Ley N° 070, ¿cuáles son los niveles de formación de las escuelas e institutos de Formación Artística?",
+      "options": [
+        "Capacitación, Técnico Medio, Técnico Superior y Licenciatura en Artes",
+        "Solo talleres libres de apreciación cultural de fin de semana",
+        "Diplomados internacionales de bellas artes únicamente",
+        "Doctorado honoris causa artístico sin pasar por niveles previos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47, Ley N° 070",
+      "explicacion": "Comprende capacitación, técnico medio, técnico superior y nivel licenciatura artística."
+    },
+    {
+      "question": "Conforme al Artículo 50 de la Ley N° 070, ¿qué institutos artísticos son creados como entidades públicas de máxima excelencia?",
+      "options": [
+        "Las Escuelas Bolivianas Interculturales (EBI)",
+        "Los Conservatorios Municipales de Música Clásica",
+        "Las Academias de Baile Moderno Privadas",
+        "Los Museos Nacionales de Historia Natural"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50, Ley N° 070",
+      "explicacion": "Las EBIs son instituciones públicas que desarrollan formación artística superior intercultural."
+    },
+    {
+      "question": "Según el Artículo 52 de la Ley N° 070, ¿cuál es la clasificación de las universidades en el Estado Plurinacional de Bolivia?",
+      "options": [
+        "1. Públicas Autónomas; 2. Privadas; 3. Indígenas; 4. de Régimen Especial",
+        "1. Nacionales; 2. Departamentales; 3. Municipales",
+        "1. Tradicionales; 2. Modernas; 3. Tecnológicas",
+        "1. Seculares; 2. Religiosas; 3. Militares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 070",
+      "explicacion": "El Art. 52 clasifica las universidades en estas cuatro categorías de funcionamiento."
+    },
+    {
+      "question": "Según el Artículo 53 de la Ley N° 070, ¿qué principio norma a las Universidades Públicas Autónomas?",
+      "options": [
+        "La autonomía universitaria conforme a la Constitución Política del Estado (libre administración de recursos, nombramiento de autoridades y planes de estudio)",
+        "La tutela directa del Ministerio de Economía para la designación de Rectores",
+        "La supervisión del Gobernador departamental sobre los exámenes de grado",
+        "La prohibición de realizar actividades de investigación científica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 53, Ley N° 070",
+      "explicacion": "Se rigen por la Autonomía Universitaria consagrada en la CPE y la Ley 070."
+    },
+    {
+      "question": "Según el Artículo 56 de la Ley N° 070, ¿cómo se autoriza el funcionamiento de una Universidad Privada?",
+      "options": [
+        "Mediante Resolución Ministerial del Ministerio de Trabajo",
+        "Mediante Decreto Supremo emitido por el Órgano Ejecutivo",
+        "Por simple inscripción en la Fundación FUNDEMPRESA",
+        "Mediante Ordenanza Municipal del municipio correspondiente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 56, Ley N° 070",
+      "explicacion": "La apertura y funcionamiento de Universidades Privadas es autorizada por Decreto Supremo."
+    },
+    {
+      "question": "Conforme al Artículo 60 de la Ley N° 070, ¿cuál es la característica primordial de las Universidades Indígenas (UNIBOL)?",
+      "options": [
+        "Son instituciones privadas de cobro en dólares orientadas al mercado exterior",
+        "Son entidades públicas comunitarias que imparten enseñanza en idiomas originarios y orientan sus carreras a la producción territorial",
+        "Son centros secundarios de educación técnica vocacional para adolescentes",
+        "Dependen administrativamente de la Universidad de las Naciones Unidas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 60, Ley N° 070",
+      "explicacion": "Son públicas, vinculadas a las organizaciones indígenas, comunitarias y productivas."
+    },
+    {
+      "question": "Según el Artículo 62 de la Ley N° 070, ¿quiénes componen las Universidades de Régimen Especial?",
+      "options": [
+        "Las Universidades de las Fuerzas Armadas (EMI) y de la Policía Boliviana (UNIPOL)",
+        "Las escuelas privadas de aviación civil e institutos de gastronomía",
+        "Las sedes universitarias extranjeras autorizadas en Bolivia",
+        "Las universidades religiosas confesionales exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 62, Ley N° 070",
+      "explicacion": "Integran el Régimen Especial las instituciones universitarias de las Fuerzas Armadas y la Policía."
+    },
+    {
+      "question": "De acuerdo con el Artículo 67 de la Ley N° 070, ¿cuál es el organismo encargado de la acreditación universitaria?",
+      "options": [
+        "La Agencia Plurinacional de Evaluación y Acreditación de la Educación Superior Universitaria (APEAESU)",
+        "El Comité Ejecutivo de la Universidad Boliviana (CEUB)",
+        "El Ministerio de Planificación del Desarrollo",
+        "La Secretaría General de la OEA"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 67, Ley N° 070",
+      "explicacion": "La APEAESU es la entidad autónoma encargada de los procesos de evaluación y acreditación de la calidad universitaria."
+    },
+    {
+      "question": "Según el Artículo 68 de la Ley N° 070, ¿qué carácter tiene el posgrado en la Educación Superior?",
+      "options": [
+        "Tiene la función de profundizar la investigación científica, la innovación y la especialización tecnológica",
+        "Es de carácter opcional sin validez académica reconocida en el escalafón",
+        "Se reserva únicamente para graduados de universidades privadas extranjeras",
+        "Es impartido obligatoriamente por los Gobiernos Municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 68, Ley N° 070",
+      "explicacion": "El posgrado promueve la investigación de alto nivel, la innovación y la transformación de saberes."
+    },
+    {
+      "question": "Conforme al Artículo 69 de la Ley N° 070, ¿cómo se organiza la estructura curricular del Sistema Educativo Plurinacional?",
+      "options": [
+        "En Currículo Base (de carácter plurinacional) articulado con Currículos Regionalizados y Currículos Diversificados",
+        "En planes de estudio importados de la UNESCO adaptados fonéticamente",
+        "En currículos libres elaborados por cada junta de padres de familia",
+        "En un único texto cerrado impreso por el Ministerio de Educación sin variantes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 69, Ley N° 070",
+      "explicacion": "Se articula armónicamente mediante el Currículo Base nacional, Regionalizados y Diversificados."
+    },
+    {
+      "question": "Según el Artículo 70 de la Ley N° 070, ¿quién elabora y gestiona los Currículos Regionalizados?",
+      "options": [
+        "Las empresas editoriales privadas con contrato estatal",
+        "Las naciones y pueblos indígena originario campesinos en coordinación con las entidades territoriales y el Ministerio de Educación",
+        "Las embajadas extranjeras en convenio de cooperación",
+        "El Colegio de Profesionales de Bolivia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 70, Ley N° 070",
+      "explicacion": "Las naciones originarias diseñan los currículos regionalizados conforme a sus contextos culturales."
+    },
+    {
+      "question": "Según el Artículo 72 de la Ley N° 070, ¿cuál es el órgano de máxima autoridad del Sistema Educativo Plurinacional?",
+      "options": [
+        "El Ministerio de Educación",
+        "El Consejo de Rectores de Universidades Privadas",
+        "La Conferencia Episcopal Boliviana",
+        "La Central Obrera Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 72, Ley N° 070",
+      "explicacion": "El Ministerio de Educación es la entidad rectora de las políticas educativas del Estado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 76 de la Ley N° 070, ¿cuáles son las instancias de gestión desconcentrada a nivel departamental?",
+      "options": [
+        "Las Direcciones Departamentales de Educación (DDE)",
+        "Las Secretarías de Desarrollo Humano de las Alcaldías",
+        "Las Prefecturas de Departamento del antiguo régimen",
+        "Las Juntas Escolares de Distrito únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 76, Ley N° 070",
+      "explicacion": "Las DDEs son entidades desconcentradas del Ministerio de Educación en cada departamento."
+    },
+    {
+      "question": "Según el Artículo 79 de la Ley N° 070, ¿cómo se designa a las autoridades de las Direcciones Departamentales de Educación (DDE)?",
+      "options": [
+        "Por designación directa del Gobernador Departamental",
+        "Mediante Concurso Público de Méritos y Examen de Competencia convocado por el Ministerio de Educación",
+        "Por votación directa de los estudiantes de secundaria",
+        "Por sorteo entre los docentes con más de 30 años de servicio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 79, Ley N° 070",
+      "explicacion": "Las autoridades institucionales se eligen por concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "Según el Artículo 80 de la Ley N° 070, ¿cuál es la responsabilidad de los Gobiernos Autónomos Municipales en la educación?",
+      "options": [
+        "El pago de sueldos y salarios de los docentes de primaria y secundaria",
+        "La construcción, equipamiento, mantenimiento y provisión de insumos/servicios a las Unidades Educativas de su jurisdicción",
+        "El diseño del currículo base plurinacional de ciencias exactas",
+        "La contratación de rectores universitarios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 80.2, Ley N° 070",
+      "explicacion": "Los Municipios tienen la competencia exclusiva sobre la infraestructura, mantenimiento y equipamiento escolar."
+    },
+    {
+      "question": "Según el Artículo 81 de la Ley N° 070, ¿cuál es la competencia de los Gobiernos Autónomos Departamentales en educación?",
+      "options": [
+        "Dotar de infraestructura, equipamiento y mantenimiento a los Institutos Técnicos y Tecnológicos de su departamento",
+        "Gestionar las escuelas de formación militar y policial",
+        "Sancionar leyes de reforma al sistema de pensiones del magisterio",
+        "Supervisar las carreras de postgrado universitario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81, Ley N° 070",
+      "explicacion": "Las Gobernaciones son responsables de la infraestructura y equipamiento de institutos técnicos superiores."
+    },
+    {
+      "question": "Según el Artículo 83 de la Ley N° 070, ¿qué es el Observatorio Plurinacional de la Calidad Educativa (OPCE)?",
+      "options": [
+        "Una institución privada de auditoría académica para colegios particulares",
+        "Una entidad descentralizada, técnica e independiente que evalúa la calidad del Sistema Educativo Plurinacional",
+        "Un tribunal de juzgamiento disciplinario contra maestros en huelga",
+        "Una imprenta pública de libros de texto obligatorios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 83, Ley N° 070",
+      "explicacion": "El OPCE es la entidad técnica encargada del seguimiento y evaluación del sistema educativo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 85 de la Ley N° 070, ¿cuál es el objetivo del Instituto Plurinacional de Estudio de Lenguas y Culturas (IPELC)?",
+      "options": [
+        "Traducir las leyes nacionales al idioma inglés y francés",
+        "Desarrollar procesos de investigación, normalización, normatización y revitalización de las lenguas y culturas de las naciones originarias",
+        "Fiscalizar el cobro de pensiones en colegios privados",
+        "Coordinar intercambios estudiantiles con Europa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 85, Ley N° 070",
+      "explicacion": "El IPELC se dedica a la investigación y revitalización de lenguas de los pueblos originarios."
+    },
+    {
+      "question": "Según el Artículo 88 de la Ley N° 070, ¿qué institutos dependen del IPELC en cada nación o pueblo originario?",
+      "options": [
+        "Los Institutos de Lenguas y Culturas (ILC) de cada nación originaria",
+        "Las Direcciones Distritales de Educación",
+        "Los Consejos de Participación Popular",
+        "Las Academias de la Lengua Española"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 88, Ley N° 070",
+      "explicacion": "Se crean los Institutos de Lenguas y Culturas por cada nación o pueblo originario."
+    },
+    {
+      "question": "Según el Artículo 90 de la Ley N° 070, ¿cómo se ejerce la Participación Social Comunitaria en el sistema educativo?",
+      "options": [
+        "A través de las juntas de vecinos exclusivamente",
+        "Desde la Unidad Educativa, Núcleo, Distrito, Nivel Departamental y Plurinacional (Consejos Educativos)",
+        "Mediante sindicatos de trabajadores de la construcción",
+        "Por votación en elecciones generales de magistrados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 90, Ley N° 070",
+      "explicacion": "Se organiza territorial e institucionalmente en instancias comunitarias desde la base hasta el nivel plurinacional."
+    },
+    {
+      "question": "Según el Artículo 92 de la Ley N° 070, ¿cada cuánto tiempo debe convocarse el Congreso Plurinacional de Educación?",
+      "options": [
+        "Cada año calendario de manera ordinaria",
+        "Cada 5 años para evaluar el estado de la educación e instituir políticas de cambio",
+        "Cada 10 años mediante referéndum nacional",
+        "Únicamente cuando exista un conflicto gremial nacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 92, Ley N° 070",
+      "explicacion": "El Congreso Plurinacional de Educación se reúne ordinariamente cada 5 años."
+    },
+    {
+      "question": "Conforme al Artículo 93 de la Ley N° 070, ¿quiénes representan la voz de los pueblos originarios en la Participación Social Comunitaria?",
+      "options": [
+        "Los Consejos Educativos de Pueblos Originarios (CEPOs)",
+        "Las Juntas de Propietarios de Viviendas",
+        "Los Sindicatos Agropecuarios de Exportación",
+        "Las Comisiones de Fomento de los Clubes Sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 93, Ley N° 070",
+      "explicacion": "Los CEPOs (CEA, CEPOG, CEPOIM, etc.) representan la participación comunitaria de las naciones indígenas."
+    },
+    {
+      "question": "De acuerdo con las Disposiciones Transitorias de la Ley N° 070, ¿qué ocurrió con los ex-Institutos Normales Superiores (INS)?",
+      "options": [
+        "Fueron privatizados y vendidos a consorcios académicos internacionales",
+        "Se transformaron en Escuelas Superiores de Formación de Maestras y Maestros (ESFM)",
+        "Se clausuraron definitivamente sin reemplazo institucional",
+        "Se convirtieron en unidades de educación militarizada"
+      ],
+      "answer": 1,
+      "fuente": "Disposiciones Transitorias, Ley N° 070",
+      "explicacion": "Las antiguas normales pasaron a constituir el sistema de las ESFM."
+    },
+    {
+      "question": "Según las Disposiciones Transitorias de la Ley N° 070, ¿qué pasó con el personal docente sin título en provisión nacional (interinos)?",
+      "options": [
+        "Fueron exonerados o sometidos a programas de profesionalización y homologación (PPMI / PROFOCOM)",
+        "Fueron contratados automáticamente como directores departamentales",
+        "Recibieron jubilación obligatoria sin años de servicio",
+        "Se les prohibió dar clases en todo el territorio nacional de forma inmediata"
+      ],
+      "answer": 0,
+      "fuente": "Disposiciones Transitorias, Ley N° 070",
+      "explicacion": "El Estado implementó programas extraordinarios de titulación para maestros interinos."
+    },
+    {
+      "question": "Conforme a la Disposición Abrogatoria de la Ley N° 070, ¿qué ley educativa fue expresamente abrogada?",
+      "options": [
+        "La Ley N° 1565 de Reforma Educativa de 7 de julio de 1994",
+        "El Código de la Educación Boliviana de 1955",
+        "La Ley General del Trabajo de 1939",
+        "La Ley de Descentralización Administrativa de 1995"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Abrogatoria, Ley N° 070",
+      "explicacion": "La Ley 070 abroga expresamente la Ley 1565 de Reforma Educativa."
+    },
+    {
+      "question": "En el marco del Currículo Base de la Ley N° 070, ¿cuáles son las cuatro dimensiones de la formación integral del ser humano?",
+      "options": [
+        "Ser, Saber, Hacer y Decidir",
+        "Escuchar, Hablar, Leer y Escribir",
+        "Teoría, Práctica, Valoración y Producción",
+        "Ciencia, Técnica, Deporte y Arte"
+      ],
+      "answer": 0,
+      "fuente": "Estructura Curricular, Ley N° 070",
+      "explicacion": "Las cuatro dimensiones integrales del desarrollo humano son: Ser (valores), Saber (conocimientos), Hacer (práctica) y Decidir (impacto social)."
+    },
+    {
+      "question": "En la metodología pedagógica del modelo socio-comunitario productivo (Ley 070), ¿cuáles son los cuatro momentos metodológicos?",
+      "options": [
+        "Práctica, Teoría, Valoración y Producción",
+        "Diagnóstico, Planificación, Ejecución y Evaluación",
+        "Exposición, Memorización, Examen y Calificación",
+        "Observación, Experimentación, Análisis y Conclusión"
+      ],
+      "answer": 0,
+      "fuente": "Modelo Socio-Comunitario Productivo, Ley N° 070",
+      "explicacion": "Los cuatro momentos metodológicos articulados son la Práctica, Teoría, Valoración y Producción."
+    },
+    {
+      "question": "Según el Artículo 3.2 de la Ley N° 070, ¿cómo se concibe la educación comunitaria?",
+      "options": [
+        "Como una educación colectiva, participativa, donde se aprende en comunidad de la vida y para la vida",
+        "Como la obligación de vivir en campos comunales durante el periodo escolar",
+        "Como una técnica de trabajo individualista en laboratorios cerrados",
+        "Como la eliminación de los exámenes de evaluación continua"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.2, Ley N° 070",
+      "explicacion": "Es comunitaria, democrática y participativa, sin discriminación ni exclusión."
+    },
+    {
+      "question": "Según el Artículo 3.4 de la Ley N° 070, ¿por qué la educación es 'única y diversa'?",
+      "options": [
+        "Porque tiene un único texto de estudio centralizado en la sede de gobierno",
+        "Porque es única en cuanto a su calidad, cobertura e intencionalidad plurinacional, y diversa al responder a las realidades culturales de cada región",
+        "Porque solo acepta una religión oficial en las escuelas del Estado",
+        "Porque unifica los sueldos de los profesores urbanos y rurales sin distinción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.4, Ley N° 070",
+      "explicacion": "Es única porque articula todo el sistema plurinacional y diversa porque respeta las singularidades territoriales y lingüísticas."
+    },
+    {
+      "question": "Según el Artículo 3.5 de la Ley N° 070, ¿cuál es el postulado sobre la laicidad de la educación?",
+      "options": [
+        "Es laica, plural y espiritual, respetando las creencias de todos los miembros sin imponer ninguna religión",
+        "Es atea obligatoria, estando prohibida cualquier mención a la espiritualidad",
+        "Es católica obligatoria en cumplimiento de los tratados con el Vaticano",
+        "Es evangélica en el área rural y laica en el área urbana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.5, Ley N° 070",
+      "explicacion": "El Art. 3.5 determina que la educación es laica, plural y respeta las espiritualidades y manifestaciones religiosas."
+    },
+    {
+      "question": "Según el Artículo 3.11 de la Ley N° 070, ¿qué significa que la educación sea 'productiva y territorial'?",
+      "options": [
+        "Que convierte a los colegios en fábricas industriales privadas sujetas a impuestos",
+        "Que vincula el aprendizaje al desarrollo de las capacidades productivas locales y al desarrollo sustentable del territorio",
+        "Que obliga a trabajar en el campo 8 horas diarias antes de ingresar a clases",
+        "Que limita el estudio técnico a las zonas petroleras"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.11, Ley N° 070",
+      "explicacion": "Desarrolla capacidades productivas ligadas a la vocación geográfica y necesidades de la comunidad."
+    },
+    {
+      "question": "Según el Artículo 5.3 de la Ley N° 070, ¿cuál es el objetivo de la educación respecto a la historia nacional?",
+      "options": [
+        "Consolidar el estudio de la historia desde la perspectiva crítica y descolonizadora, revalorizando las luchas de los pueblos indígenas y sociales",
+        "Eliminar la enseñanza de la historia patria anterior al año 2000",
+        "Memoriar únicamente fechas cívicas y héroes extranjeros",
+        "Enseñar exclusivamente la historia europea de la Edad Media"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.3, Ley N° 070",
+      "explicacion": "Promueve la formación histórica crítica y la revalorización de las luchas sociales por la liberación."
+    },
+    {
+      "question": "Según el Artículo 5.8 de la Ley N° 070, ¿qué se busca formar respecto a las ciencias e innovaciones?",
+      "options": [
+        "Desarrollar la investigación científica, tecnológica e innovación de conocimientos articulados a la producción y cosmovisiones",
+        "Comprar patentes extranjeras sin desarrollar ciencia nacional",
+        "Prohibir el uso de computadoras e internet en las unidades educativas",
+        "Limitar la ciencia a la investigación teórica pura sin aplicabilidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.8, Ley N° 070",
+      "explicacion": "Fomenta la ciencia, investigación y tecnología articuladas al desarrollo integral del país."
+    },
+    {
+      "question": "Según el Artículo 18 de la Ley N° 070, ¿cuál es el objetivo central de la Educación Alternativa?",
+      "options": [
+        "Garantizar el acceso, permanencia y formación integral de personas que por diversos motivos no ingresaron o continuaron en la Educación Regular",
+        "Otorgar diplomas acelerados en un mes a cambio de pagos administrativos",
+        "Sustituir a las universidades en la concesión de títulos profesionales de medicina",
+        "Impartir únicamente cursos de costura y repostería para amas de casa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 070",
+      "explicacion": "Democratiza el acceso a la educación formal y técnica para la población fuera del rango de la educación regular."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 070, ¿qué niveles de acreditación otorga la Educación Técnico-Productiva en la Educación Alternativa?",
+      "options": [
+        "Técnico Básico, Técnico Auxiliar y Técnico Medio",
+        "Licenciatura e Ingenierías especializadas",
+        "Certificados de Asistencia sin carácter técnico",
+        "Grado de Magíster en Ciencias del Trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 070",
+      "explicacion": "En el área alternativa técnica se otorgan certificados a nivel técnico básico, auxiliar y medio."
+    },
+    {
+      "question": "Según el Artículo 25.I de la Ley N° 070, ¿quiénes integran la población de 'Personas con Discapacidad'?",
+      "options": [
+        "Aquellas personas con deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que al interactuar con barreras ven impedida su participación plena",
+        "Estudiantes que reprueban más de dos materias en el año escolar",
+        "Personas que desconocen el idioma castellano",
+        "Estudiantes que no asisten a clases por motivos laborales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.I, Ley N° 070",
+      "explicacion": "Define la discapacidad alineada a los estándares internacionales e inclusión educativa."
+    },
+    {
+      "question": "Según el Artículo 25.III de la Ley N° 070, ¿quiénes son las 'Personas con Talento Extraordinario'?",
+      "options": [
+        "Estudiantes con excelente conducta en el aula de clases",
+        "Personas con capacidad connatural o adquirida para el aprendizaje, desarrollo de habilidades o creatividad muy superior al promedio de su grupo etario",
+        "Estudiantes matriculados en colegios privados costosos",
+        "Deportistas profesionales mayores de 30 años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 25.III, Ley N° 070",
+      "explicacion": "Son personas con capacidades intelectuales, creativas o artísticas excepcionales que requieren atención diferenciada."
+    },
+    {
+      "question": "Según el Artículo 32 de la Ley N° 070, ¿cuál es la titulación que reciben los egresados de las ESFM?",
+      "options": [
+        "Título en Provisión Nacional de Licenciatura emitido por el Ministerio de Educación",
+        "Diploma de Técnico Superior otorgado por la Gobernación",
+        "Certificado de Aptitud Pedagógica de la Alcaldía",
+        "Título de Magíster en Educación Rural"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32, Ley N° 070",
+      "explicacion": "El Ministerio de Educación otorga directamente el Título en Provisión Nacional a nivel Licenciatura."
+    },
+    {
+      "question": "Según el Artículo 35 de la Ley N° 070, ¿cómo se regula el Reglamento del Escalafón Nacional del Magisterio?",
+      "options": [
+        "Es el instrumento normativo que regula la carrera docente, ingresos, promociones, ascensos de categoría y permanencia en el sistema público",
+        "Es un contrato individual rescindible cada 3 meses sin indemnización",
+        "Es una lista de control de asistencia gestionada por la Policía Boliviana",
+        "Es una norma aplicada exclusivamente a los profesores de universidades privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 070",
+      "explicacion": "El Escalafón norma la carrera del magisterio fiscal para garantizar la estabilidad e incentivo profesional."
+    },
+    {
+      "question": "Según el Artículo 38 de la Ley N° 070, ¿cuál es el objetivo de la Formación Técnica y Tecnológica?",
+      "options": [
+        "Desarrollar capacidades profesionales operativas y de innovación productiva para el fortalecimiento de la matriz económica nacional",
+        "Formar administradores teóricos para el sector bancario financiero exclusivamente",
+        "Otorgar diplomas de especialidad sin prácticas en talleres o laboratorios",
+        "Enseñar trabajos manuales informales sin titulación reconocida"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38, Ley N° 070",
+      "explicacion": "Responde a la necesidad de cualificar mano de obra y profesionales técnicos orientados a la soberanía productiva."
+    },
+    {
+      "question": "Según el Artículo 41 de la Ley N° 070, ¿quién autoriza la apertura y creación de Institutos Técnicos e Institutos Tecnológicos?",
+      "options": [
+        "El Ministerio de Educación mediante Resolución Ministerial",
+        "El Ministerio de Economía mediante Boleta de Depósito",
+        "El Concejo Municipal mediante Ley Ley Local",
+        "La Autoridad de Fiscalización de Empresas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 070",
+      "explicacion": "El Ministerio de Educación autoriza el funcionamiento legal de los institutos técnicos y tecnológicos."
+    },
+    {
+      "question": "Según el Artículo 48 de la Ley N° 070, ¿qué caracteriza a las artes en el Sistema Educativo?",
+      "options": [
+        "Son un elemento central de la identidad plurinacional, orientadas a la expresión y desarrollo de la sensibilidad, estética e intraculturalidad",
+        "Son consideradas pasatiempos secundarios sin carga horaria académica",
+        "Se enfocan en copiar exclusivamente cuadros de pintura del renacimiento europeo",
+        "Están restringidas para estudiantes de escasos recursos económicos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48, Ley N° 070",
+      "explicacion": "Promueven la formación artística profesional revalorizando la estética plural de los pueblos originarios."
+    },
+    {
+      "question": "Según el Artículo 54 de la Ley N° 070, ¿cuál es el papel de las Universidades Públicas en el desarrollo socio-económico?",
+      "options": [
+        "Promover la investigación científica, la interacción social y la transferencia tecnológica vinculada a los planes de desarrollo del Estado",
+        "Funcionar como recintos comerciales exonerados de impuestos de venta de bebidas",
+        "Impartir títulos sin exigencia de tesis ni modalidades de graduación",
+        "Prestar servicios de asesoría jurídica privada a grandes corporaciones petroleras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54, Ley N° 070",
+      "explicacion": "Tienen la misión de generar ciencia, tecnología y desarrollo con impacto social comunitario."
+    },
+    {
+      "question": "Según el Artículo 57 de la Ley N° 070, ¿cuál es la prohibición expresa para las Universidades Privadas?",
+      "options": [
+        "Prohibición de cobrar matrículas en efectivo",
+        "Prohibición de subvención estatal con fondos públicos y prohibición de otorgar títulos si no cumplen con los planes aprobados por el Ministerio",
+        "Prohibición de contratar profesionales con grado de Maestría",
+        "Prohibición de construir infraestructura de más de tres pisos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 57, Ley N° 070",
+      "explicacion": "Las universidades privadas no reciben recursos del Estado y deben sujetarse a la reglamentación del Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 59 de la Ley N° 070, ¿quiénes componen los Tribunales de Graduación en las Universidades Privadas?",
+      "options": [
+        "Tribunales paritarios o de fiscalización donde participa el Ministerio de Educación y las Universidades Públicas, conforme a reglamento",
+        "Exclusivamente docentes contratados de la misma universidad privada",
+        "Notarios de Fe Pública y funcionarios municipales",
+        "Cajeros del Banco Central de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 59, Ley N° 070",
+      "explicacion": "Se conforman tribunales con representación estatal/universitaria pública para garantizar el rigor académico del grado."
+    },
+    {
+      "question": "Según el Artículo 61 de la Ley N° 070, ¿dónde se crearon las tres primeras Universidades Indígenas (UNIBOL) de Bolivia?",
+      "options": [
+        "En La Paz (Aymara), Cochabamba (Quechua) y Chuquisaca (Guaraní)",
+        "En Santa Cruz (Aymara), Tarija (Quechua) y Beni (Mojeño)",
+        "En Oruro (Uru), Potosí (Aymara) y Pando (Chiquitano)",
+        "En Cobija (Tacana), Trinidad (Itonama) y Sucre (Quechua)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61, Ley N° 070",
+      "explicacion": "Las UNIBOL se establecieron inicialmente: Aymara 'Tupak Katari' (La Paz), Quechua 'Casimiro Huanca' (Cochabamba) y Guaraní 'Apiaguaiki Tumpa' (Chuquisaca)."
+    },
+    {
+      "question": "Según el Artículo 64 de la Ley N° 070, ¿qué norma rige los títulos profesionales otorgados por las Fuerzas Armadas y Policía?",
+      "options": [
+        "Son homologados por el Ministerio de Educación conforme a planes y programas de la Universidad Militar/Policial aprobados reglamentariamente",
+        "No tienen validez fuera de los cuarteles de armas",
+        "Se equiparan automáticamente a certificados de educación primaria",
+        "Son expedidos por la Gobernación Departamental del lugar de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 64, Ley N° 070",
+      "explicacion": "Tienen el reconocimiento oficial del Estado a través del Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 71 de la Ley N° 070, ¿qué son los Currículos Diversificados?",
+      "options": [
+        "Aquellos que elabora cada Unidad Educativa para responder a las particularidades locales y necesidades específicas de la comunidad educativa",
+        "Aquellos impresos en el extranjero en lenguas asiáticas",
+        "Planes de estudio opcionales aplicados en días festivos",
+        "Planes de contingencia en caso de desastres naturales únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71, Ley N° 070",
+      "explicacion": "Atienden la realidad concreta de la Unidad Educativa y su entorno inmediato."
+    },
+    {
+      "question": "Según el Artículo 74 de la Ley N° 070, ¿cómo se estructuran los Viceministerios en el Ministerio de Educación?",
+      "options": [
+        "Viceministerio de Educación Regular, Viceministerio de Educación Alternativa y Especial, y Viceministerio de Educación Superior de Formación Profesional",
+        "Viceministerio de Infraestructura, Viceministerio de Salarios y Viceministerio de Becas",
+        "Viceministerio de Escuelas Urbanas y Viceministerio de Escuelas Rurales",
+        "Viceministerio de Deportes y Viceministerio de Cultura Únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 74, Ley N° 070",
+      "explicacion": "La estructura ministerial refleja directamente los tres subsistemas del Sistema Educativo Plurinacional."
+    },
+    {
+      "question": "Según el Artículo 77 de la Ley N° 070, ¿cuál es la función de los Directores Distritales de Educación?",
+      "options": [
+        "Gestionar la ejecución de las políticas educativas dentro del ámbito de su jurisdicción distrital municipal",
+        "Sancionar leyes educativas locales con rango de Decreto Supremo",
+        "Aprobar presupuestos departamentales para la construcción de autopistas",
+        "Dirigir las elecciones de alcaldes y concejales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 77, Ley N° 070",
+      "explicacion": "Representan la autoridad educativa en el nivel distrital para la administración de las Unidades Educativas."
+    },
+    {
+      "question": "Según el Artículo 78 de la Ley N° 070, ¿quién ejerce la dirección técnica y pedagógica en una Unidad Educativa?",
+      "options": [
+        "El Director o Directora de la Unidad Educativa, seleccionado por concurso de méritos",
+        "El Presidente de la Junta Vecinal del barrio",
+        "El Comandante de la Guarnición Militar más cercana",
+        "El Cura Párroco del municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 78, Ley N° 070",
+      "explicacion": "El Director/a de Unidad Educativa es la máxima autoridad técnica y pedagógica del establecimiento."
+    },
+    {
+      "question": "Según el Artículo 82 de la Ley N° 070, ¿cuál es la función de las Autonomías Indígena Originaria Campesinas en educación?",
+      "options": [
+        "Formular y ejecutar los currículos regionalizados y participar en la gestión comunitaria educativa conforme a sus normas y procedimientos propios",
+        "Clausurar las escuelas que enseñen en idioma castellano",
+        "Imprimir moneda propia para el pago de los profesores",
+        "Desvincularse del Ministerio de Educación y del Estado Boliviano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 82, Ley N° 070",
+      "explicacion": "Participan activamente en la gestión y formulación curricular regionalizada dentro de su territorio ancestral."
+    },
+    {
+      "question": "Según el Artículo 84 de la Ley N° 070, ¿cuál es la periodicidad de las evaluaciones del OPCE sobre el sistema educativo?",
+      "options": [
+        "Periódica y sistemática, evaluando el desempeño de estudiantes, docentes y gestión institucional",
+        "Una vez cada 20 años mediante censo de población",
+        "Solo a solicitud expresa de empresas privadas extranjeras",
+        "Está prohibido evaluar la calidad educativa según el Art. 84"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84, Ley N° 070",
+      "explicacion": "El OPCE genera información periódica y confiable para la mejora continua de la calidad educativa."
+    },
+    {
+      "question": "Según el Artículo 86 de la Ley N° 070, ¿dónde tiene su sede principal el Instituto Plurinacional de Estudio de Lenguas y Culturas (IPELC)?",
+      "options": [
+        "En su sede principal determinada por norma reglamentaria y descentralizada a través de los ILCs en todo el país",
+        "En la ciudad de Nueva York en la sede de la ONU",
+        "Exclusivamente en el Palacio Quemado de La Paz",
+        "En la Embajada de España"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 86, Ley N° 070",
+      "explicacion": "El IPELC actúa con alcance plurinacional descentralizado en los institutos lingüísticos territoriales."
+    },
+    {
+      "question": "Según el Artículo 89 de la Ley N° 070, ¿cuál es la relación entre el IPELC y los medios de comunicación?",
+      "options": [
+        "Promover la difusión y uso de los idiomas originarios en los medios de comunicación masiva",
+        "Censurar las emisiones de radio en idioma inglés",
+        "Cobrar impuestos por la emisión de programas educativos",
+        "Expropiar los canales de televisión privados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 89, Ley N° 070",
+      "explicacion": "Fomenta la difusión mediática de los valores, saberes e idiomas de las naciones plurinacionales."
+    },
+    {
+      "question": "Según el Artículo 91 de la Ley N° 070, ¿cuáles son los límites normativos de la Participación Social Comunitaria?",
+      "options": [
+        "No debe interferir en las atribuciones técnico-pedagógicas específicas del personal docente y directivo, conforme a reglamentación",
+        "Tienen la atribución de cambiar las notas de los exámenes de sus hijos de manera arbitraria",
+        "Pueden contratar y despedir profesores directamente sin proceso administrativo",
+        "Reemplazan a los tribunales de justicia ordinaria en la sanción de delitos penales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 91.II, Ley N° 070",
+      "explicacion": "La participación comunitaria apoya la gestión, pero respeta el rol técnico-pedagógico de los maestros y directores."
+    },
+    {
+      "question": "Según el Artículo 94 de la Ley N° 070, ¿cuál es la fuente de financiamiento principal para la educación pública?",
+      "options": [
+        "El Tesoro General de la Nación (TGN) y las transferencias por coparticipación e IDH a las ETAs",
+        "Donaciones voluntarias de las ONG exclusivamente",
+        "El cobro de matrículas mensuales a los estudiantes de primaria",
+        "Venta de bonos corporativos en la Bolsa de Valores de Wall Street"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 94, Ley N° 070",
+      "explicacion": "El financiamiento está garantizado por el Estado central (TGN) y los recursos autonómicos del IDH y Regalías."
+    },
+    {
+      "question": "Conforme al Artículo 95 de la Ley N° 070, ¿qué régimen de becas aplica a las Unidades Educativas Privadas?",
+      "options": [
+        "Otorgar obligatoriamente un porcentaje de becas (mínimo 10%) a estudiantes destacados de escasos recursos conforme a reglamentación",
+        "Están exentas de otorgar becas de cualquier naturaleza",
+        "Las becas son pagadas por el sindicato de profesores",
+        "Solo se otorgan becas a familiares directos de los dueños del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 95, Ley N° 070",
+      "explicacion": "Las instituciones educativas privadas deben ofrecer becas sociales como parte de su función comunitaria."
+    },
+    {
+      "question": "Según la Disposición Transitoria Segunda de la Ley N° 070, ¿qué ocurrió con los diplomas de Bachiller en el país?",
+      "options": [
+        "Se emiten de manera gratuita de forma inmediata a la conclusión de los estudios secundarios",
+        "Tienen un costo de dos salarios mínimos nacionales obligatorios",
+        "Se entregan 5 años después de haber ingresado a la universidad",
+        "Son otorgados exclusivamente por el Concejo Municipal de la capital departamental"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda, Ley N° 070",
+      "explicacion": "Se reafirma la gratuidad en la emisión del Diploma de Bachiller."
+    },
+    {
+      "question": "Según la Disposición Transitoria Cuarta de la Ley N° 070, ¿cómo se procedió con la infraestructura educativa transferida?",
+      "options": [
+        "Todos los bienes inmuebles de los antiguos municipios escolares o SEDUCA pasaron a propiedad del Estado y los Gobiernos Locales según corresponda",
+        "Se remataron en subasta pública a particulares",
+        "Quedaron a nombre personal de los Directores salientes",
+        "Fueron cedidos en alquiler a bancos comerciales"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Cuarta, Ley N° 070",
+      "explicacion": "Garantizó el ordenamiento patrimonial de los activos fijos del sector educativo."
+    },
+    {
+      "question": "Según el Artículo 3.12 de la Ley N° 070, ¿qué se promueve en la educación con relación a la equidad de género?",
+      "options": [
+        "La eliminación del patriarcado, la no violencia contra la mujer y la equidad de oportunidades entre hombres y mujeres sin discriminación",
+        "La separación física obligatoria de varones y mujeres en aulas distintas",
+        "La preferencia laboral exclusiva para varones en cargos directivos",
+        "La eliminación de asignaturas de ciencias naturales para mujeres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.12, Ley N° 070",
+      "explicacion": "Promueve la educación despatriarcalizadora, equitativa y libre de violencia hacia las mujeres."
+    },
+    {
+      "question": "Según el Artículo 5.12 de la Ley N° 070, ¿cuál es el objetivo frente al analfabetismo?",
+      "options": [
+        "Erradicar el analfabetismo absoluto y funcional mediante programas de post-alfabetización sostenidos",
+        "Aceptar el analfabetismo como una condición natural inmodificable del área rural",
+        "Sancionar con multas económicas a las personas que no sepan leer ni escribir",
+        "Delegar la alfabetización exclusivamente a iglesias extranjeras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.12, Ley N° 070",
+      "explicacion": "Garantiza programas continuos de alfabetización y post-alfabetización para la población adulta."
+    },
+    {
+      "question": "Según el Artículo 19 de la Ley N° 070, ¿cuál es la relación de la Educación Alternativa con el trabajo?",
+      "options": [
+        "Está vinculada directamente a las actividades productivas, laborales y comunitarias de las personas",
+        "Prohíbe que las personas trabajadoras asistan a clases de noche",
+        "Sustituye el trabajo por pasantías no pagadas obligatorias",
+        "Exige la renuncia previa al empleo para la inscripción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 070",
+      "explicacion": "Valora la experiencia laboral y responde a la formación técnica para el trabajo digno."
+    },
+    {
+      "question": "Conforme al Artículo 42 de la Ley N° 070, ¿qué tipo de financiamiento reciben los Institutos Técnicos e Tecnológicos Fiscales?",
+      "options": [
+        "Financiamiento fiscal para salarios docentes y apoyo en infraestructura por parte de los Gobiernos Autónomos Departamentales",
+        "Aranceles mensuales cobrados obligatoriamente a los estudiantes",
+        "Inversiones exclusivas de la empresa privada petrolera",
+        "Venta de productos agrícolas cosechados en el patio escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42, Ley N° 070",
+      "explicacion": "El Estado central paga los salarios docentes y la Gobernación concurre con la infraestructura y equipamiento."
+    },
+    {
+      "question": "De acuerdo con el Artículo 92.II de la Ley N° 070, ¿quién preside las deliberaciones del Congreso Plurinacional de Educación?",
+      "options": [
+        "La Presidencia del Congreso elegida entre sus miembros con presencia de las organizaciones sociales y autoridades educativas",
+        "El Presidente de la Cámara de Senadores exclusivamente",
+        "Un delegado especial nombrado por la OEA",
+        "El Rector de la Universidad Privada de más antigüedad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 92.II, Ley N° 070",
+      "explicacion": "Su presidium es electo democráticamente por la plenaria de los actores educativos reunidos en Congreso."
+    }
+  ]
+}

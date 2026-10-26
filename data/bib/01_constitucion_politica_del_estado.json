@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "01_constitucion_politica_del_estado",
+    "nombre": "Constitución Política del Estado",
+    "detalle": "",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es la caracterización exacta del Estado boliviano según el Artículo 1 de la Constitución Política del Estado?",
+      "options": [
+        "Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías",
+        "República Democrática Representativa, unitaria, soberana, plurinacional, pluricultural y descentralizada",
+        "Estado Plurinacional Comunitario, libre, soberano, federal, democrático, laico y con autonomías regionales",
+        "Estado Social de Derecho Plurinacional, independiente, descentralizado, participativo, representativo y comunitario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE",
+      "explicacion": "El Art. 1 establece la definición completa: Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías."
+    },
+    {
+      "question": "Según el Artículo 2 de la CPE, ¿en qué se funda la libre determinación de las naciones y pueblos indígena originario campesinos?",
+      "options": [
+        "En la promulgación de la Ley Marco de Autonomías y Descentralización de 2010",
+        "En la existencia precolonial de las naciones y pueblos indígena originario campesinos y su dominio ancestral sobre sus territorios",
+        "En los convenios internacionales sobre derechos humanos suscritos a partir del año 2000",
+        "En las resoluciones emitidas por la Asamblea Legislativa Plurinacional y el Órgano Ejecutivo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2, CPE",
+      "explicacion": "El Art. 2 fundamenta la libre determinación en su existencia precolonial y su dominio ancestral sobre sus territorios."
+    },
+    {
+      "question": "Conforme al Artículo 5 de la CPE, ¿cuántos idiomas oficiales reconoce la Constitución Política del Estado de Bolivia además del castellano?",
+      "options": [
+        "30 idiomas de las naciones y pueblos indígena originario campesinos",
+        "33 idiomas oficialmente registrados en el Padrón Electoral",
+        "36 idiomas de las naciones y pueblos indígena originario campesinos",
+        "38 idiomas reconocidos por el Ministerio de Educación"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5, Parágrafo I, CPE",
+      "explicacion": "El Art. 5.I establece como idiomas oficiales el castellano y 36 idiomas de las naciones y pueblos indígena originario campesinos."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones contiene ÚNICAMENTE símbolos del Estado reconocidos expresamente en el Artículo 6, Parágrafo II de la CPE?",
+      "options": [
+        "La bandera tricolor, el himno boliviano, el escudo de armas, la wiphala, la escarapela, la flor de la kantuta y la flor del patujú",
+        "La bandera tricolor, la wiphala, el escudo de armas, la flor de la kantuta y el árbol del mara",
+        "La tricolor rojo, amarillo y verde, el himno boliviano, el sello del Estado, la escarapela y la wiphala",
+        "El escudo de armas, la wiphala, el himno a la patria, la flor de la kantuta, el cóndor de los Andes y la bandera tricolor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Parágrafo II, CPE",
+      "explicacion": "El Art. 6.II detalla exactamente los 7 símbolos del Estado: bandera tricolor, himno boliviano, escudo de armas, wiphala, escarapela, flor de la kantuta y flor del patujú."
+    },
+    {
+      "question": "En relación con los principios ético-morales de la sociedad plural consagrados en el Artículo 8, Parágrafo I de la CPE, ¿cuál es la traducción adecuada del principio 'qhapaj ñan'?",
+      "options": [
+        "Tierra sin mal",
+        "Vida buena",
+        "Camino o vida noble",
+        "Vida armoniosa"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 8, Parágrafo I, CPE",
+      "explicacion": "El Art. 8.I establece que qhapaj ñan corresponde a 'camino o vida noble', mientras que ivi maraei es 'tierra sin mal', teko kavi es 'vida buena' y ñandereko es 'vida armoniosa'."
+    },
+    {
+      "question": "De acuerdo con el Artículo 10 de la CPE, respecto a la posición geopolítica e internacional del Estado boliviano, ¿qué establece expresamente el Parágrafo III?",
+      "options": [
+        "Se prohíbe la firma de tratados militares bilaterales con países limítrofes",
+        "Se prohíbe la instalación de bases militares extranjeras en territorio boliviano",
+        "Se prohíbe el tránsito de tropas extranjeras aun con autorización del Órgano Legislativo",
+        "Se prohíbe la compra de armamento de tecnología nuclear o biológica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 10, Parágrafo III, CPE",
+      "explicacion": "El Art. 10.III establece taxativamente: 'Se prohíbe la instalación de bases militares extranjeras en territorio boliviano'."
+    },
+    {
+      "question": "Según el Artículo 11 de la CPE, la democracia se ejerce de tres formas. ¿A través de qué mecanismos específicos se ejerce la forma de democracia directa y participativa?",
+      "options": [
+        "Elección de representantes por voto universal, directo y secreto únicamente",
+        "Referendo, iniciativa legislativa ciudadana, revocatoria de mandato, asamblea, cabildo y consulta previa",
+        "Normas y procedimientos propios de las naciones y pueblos indígena originario campesinos supervisados por el TSE",
+        "Elección por usos y costumbres en asambleas departamentales y concejos municipales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 11, Parágrafo II, Numeral 1, CPE",
+      "explicacion": "El Art. 11.II.1 especifica que la democracia directa y participativa se ejerce por medio del referendo, la iniciativa legislativa ciudadana, la revocatoria de mandato, la asamblea, el cabildo y la consulta previa."
+    },
+    {
+      "question": "Conforme al Artículo 12 de la CPE, además de los cuatro órganos del poder público, ¿cuáles son las funciones estatales señaladas en el Parágrafo II?",
+      "options": [
+        "Las funciones de Control, de Defensa de la Sociedad y de Defensa del Estado",
+        "Las funciones de Fiscalización, de Regulación Económica y de Planificación",
+        "Las funciones de Transparencia, de Lucha contra la Corrupción y de Auditoría Social",
+        "Las funciones Electoral, Judicial, Legislativa y Ejecutiva"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Parágrafo II, CPE",
+      "explicacion": "El Art. 12.II establece explícitamente: 'Son funciones estatales la de Control, la de Defensa de la Sociedad y de Defensa del Estado'."
+    },
+    {
+      "question": "Respecto a la jerarquía de los Tratados Internacionales sobre Derechos Humanos, ¿qué dispone el Artículo 13, Parágrafo IV de la CPE en casos de Estados de Excepción?",
+      "options": [
+        "Quedan en suspenso temporal mientras dure el estado de excepción decretado por el Ejecutivo",
+        "Prevalecen en el orden interno aquellos que reconocen derechos humanos y prohíben su limitación en los Estados de Excepción",
+        "Requieren de una ley de ratificación expresa por dos tercios de la Asamblea Legislativa para su aplicación",
+        "Tienen rango secundario frente a los decretos supremos dictados en situación de conmoción interna"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 13, Parágrafo IV, CPE",
+      "explicacion": "El Art. 13.IV determina que los tratados internacionales ratificados que reconocen DDHH y prohíben su limitación en Estados de Excepción prevalecen en el orden interno."
+    },
+    {
+      "question": "¿En qué artículo de la Constitución Política del Estado se establece taxativamente el derecho de toda persona a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural?",
+      "options": [
+        "Artículo 17",
+        "Artículo 77",
+        "Artículo 81",
+        "Artículo 91"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17, CPE",
+      "explicacion": "El Art. 17 declara el derecho fundamental a la educación universal, productiva, gratuita, integral e intercultural, mientras que el Art. 77 regula la tuición del Estado sobre el sistema educativo."
+    },
+    {
+      "question": "Conforme al Artículo 20, Parágrafo III de la CPE, ¿cuál es la condición jurídica del acceso al agua y alcantarillado en el Estado Plurinacional de Bolivia?",
+      "options": [
+        "Son servicios públicos sujetos a concesión administrativa a empresas privadas bajo regulación estatal",
+        "Constituyen derechos humanos, no son objeto de concesión ni privatización y están sujetos a régimen de licencias y registros",
+        "Son bienes de dominio privado del municipio sujeto a tarifas comerciales reguladas por la AAM",
+        "Son derechos patrimoniales gestionados de forma exclusiva por las cooperativas privadas urbanas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 20, Parágrafo III, CPE",
+      "explicacion": "El Art. 20.III indica que el acceso al agua y alcantarillado constituyen derechos humanos y prohíbe expresamente su concesión o privatización."
+    },
+    {
+      "question": "En el marco del Artículo 23 de la CPE, ¿cuándo y bajo qué condiciones únicas puede una persona ser privada de su libertad sin orden judicial previa?",
+      "options": [
+        "Cuando exista presunción vehemente de peligro de fuga respaldada por el Ministerio Público",
+        "En caso de delito flagrante, debiendo ser conducida inmediatamente ante autoridad judicial en el plazo máximo de 24 horas",
+        "Por orden motivada de la Policía Boliviana durante la investigación preliminar de un delito grave",
+        "Durante la vigencia de cualquier decreto de estado de emergencia sanitaria o de seguridad pública"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 23, Parágrafo IV y V, CPE",
+      "explicacion": "El Art. 23.IV y V determina que la aprehensión por particulares o policía procede en flagrancia, aprehendiendo a la persona para conducirla ante el juez en un plazo máximo de 24 horas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28 de la CPE, ¿cuál de las siguientes causales produce la suspensión del ejercicio de los derechos políticos previa sentencia ejecutoriada?",
+      "options": [
+        "Infracción administrativa recurrente en el ejercicio de la función pública",
+        "Tomar armas y prestar servicio en fuerzas armadas enemigas en tiempos de guerra",
+        "Incurrir en mora tributaria no declarada ante la Contraloría General del Estado",
+        "Ausentarse del país por más de dos años sin registro consular correspondiente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 28, Numeral 1, CPE",
+      "explicacion": "El Art. 28 señala tres causales de suspensión de derechos políticos: 1. Tomar armas en fuerzas enemigas en guerra; 2. Defraudación de recursos públicos; 3. Traición a la patria."
+    },
+    {
+      "question": "En el marco del Artículo 30, Parágrafo II de la CPE, ¿cuál de los siguientes NO es un derecho reconocido expresamente a las naciones y pueblos indígena originario campesinos?",
+      "options": [
+        "A la libre determinación y territorialidad",
+        "A la titulación colectiva de tierras y territorios",
+        "A la exención absoluta e indefinida del pago de tributos e impuestos nacionales",
+        "A la gestión territorial indígena autónoma y al uso exclusivo de sus recursos naturales renovables"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 30, Parágrafo II, CPE",
+      "explicacion": "El Art. 30.II consagra 18 derechos específicos para los pueblos indígenas; la exención tributaria absoluta e indefinida no forma parte de dicho catálogo."
+    },
+    {
+      "question": "Conforme al Artículo 45, Parágrafo III de la CPE, ¿cuál de los siguientes contingentes o riesgos laborales y sociales NO está enunciado expresamente en la cobertura de la seguridad social?",
+      "options": [
+        "Enfermedad, maternidad, paternidad, riesgos profesionales e invalidez",
+        "Desempleo, pérdida de empleo, orfandad, viudez, vejez y muerte",
+        "Pérdida de capitales por inversiones en fondos del mercado Bursátil",
+        "Discapacidad, necesidades especiales, vivienda y asignaciones familiares"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 45, Parágrafo III, CPE",
+      "explicacion": "El Art. 45.III lista las contingencias cubiertas por la seguridad social; la pérdida de capitales de inversión bursátil no es una contingencia social de la seguridad social."
+    },
+    {
+      "question": "De acuerdo con el Artículo 53 de la CPE, ¿qué se garantiza expresamente como el ejercicio de la facultad legal de las trabajadoras y los trabajadores para la defensa de sus derechos?",
+      "options": [
+        "La toma inmediata de instalaciones productivas con carácter indefinido",
+        "El derecho a la huelga, de acuerdo con la ley",
+        "La negociación unilateral de salarios sin intermediación del Ministerio de Trabajo",
+        "El cierre patronal preventivo en situaciones de iliquidez empresarial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 53, CPE",
+      "explicacion": "El Art. 53 establece textualmente: 'Se garantiza el derecho a la huelga como el ejercicio de la facultad legal de las trabajadoras y los trabajadores de suspender labores para la defensa de sus derechos, de acuerdo con la ley'."
+    },
+    {
+      "question": "En relación con el Sistema Educativo Plurinacional regulado en el Artículo 77, Parágrafo II de la CPE, ¿cuáles son las tres estructuras o subsistemas que lo comprenden?",
+      "options": [
+        "Educación primaria, educación secundaria y educación universitaria autonómica",
+        "Educación regular, educación alternativa y especial, y educación superior de formación profesional",
+        "Educación escolarizada, educación no escolarizada y educación técnica superior",
+        "Educación comunitaria, educación fiscal urbana y educación privada de convenio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 77, Parágrafo II, CPE",
+      "explicacion": "El Art. 77.II establece que el sistema educativo comprende: 1. Educación regular; 2. Educación alternativa y especial; 3. Educación superior de formación profesional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 92, Parágrafo III de la CPE, ¿qué potestad exclusiva en materia académica y profesional tienen las universidades públicas en ejercicio de su autonomía?",
+      "options": [
+        "Revalidar títulos expedidos por universidades extranjeras sin requerir regulación legal",
+        "Estar autorizadas para extender diplomas académicos y títulos profesionales con validez en todo el Estado",
+        "Fijar aranceles obligatorios para los trámites de titulación técnica y posgrado sin rendición de cuentas",
+        "Crear facultades descentralizadas sin necesidad de aprobación en su plan de desarrollo universitario"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 92, Parágrafo III, CPE",
+      "explicacion": "El Art. 92.III otorga a las universidades públicas la autorización para extender diplomas académicos y títulos profesionales con validez en todo el Estado."
+    },
+    {
+      "question": "El Artículo 108 de la CPE enumera los deberes de las bolivianas y los bolivianos. ¿Cuál de los siguientes enunciados corresponde exactamente al numeral 1 de dicho artículo?",
+      "options": [
+        "Prestar el servicio militar obligatorio en los términos establecidos por la ley",
+        "Conocer, cumplir y hacer cumplir la Constitución y las leyes",
+        "Tributar en proporción a su capacidad económica conforme a la ley",
+        "Resguardar y defender los recursos naturales y el patrimonio del Estado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 108, Numeral 1, CPE",
+      "explicacion": "El Art. 108.1 establece como primer deber de todo boliviano: 'Conocer, cumplir y hacer cumplir la Constitución y las leyes'."
+    },
+    {
+      "question": "En relación con las Acciones de Defensa, ¿cuál es el plazo para elevar de oficio ante el Tribunal Constitucional Plurinacional la decisión dictada en una Acción de Libertad según el Artículo 126, Parágrafo IV de la CPE?",
+      "options": [
+        "Dentro de las doce horas siguientes a la notificación de las partes",
+        "En el plazo de las veinticuatro horas siguientes a su emisión",
+        "Dentro de los tres días hábiles posteriores a la audiencia pública",
+        "En el término de cuarenta y ocho horas computables desde la recepción del expediente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 126, Parágrafo IV, CPE",
+      "explicacion": "El Art. 126.IV establece que el fallo se elevará en revisión de oficio ante el TCP en el plazo de las 24 horas siguientes a su emisión."
+    },
+    {
+      "question": "De acuerdo con el Artículo 124, Parágrafo I de la CPE, comete delito de Traición a la Patria la boliviana o el boliviano que incurra en uno de los siguientes supuestos. Indique cuál:",
+      "options": [
+        "Omitir la declaración jurada de bienes ante la Contraloría General del Estado",
+        "Tomar armas contra su país, ponerse al servicio de estados extranjeros participantes o entrar en complicidad con el enemigo en guerra internacional contra Bolivia",
+        "Incumplir los deberes de función pública asignados en la carrera administrativa",
+        "Comercializar divisas extranjeras sin autorización del Banco Central de Bolivia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 124, Parágrafo I, Numeral 1, CPE",
+      "explicacion": "El Art. 124.I.1 tipifica como traición a la patria el tomar armas contra Bolivia, servir a estados enemigos o entrar en complicidad con ellos en guerra internacional."
+    },
+    {
+      "question": "Según el Artículo 138, Parágrafo II de la CPE, ¿cuánto tiempo debe transcurrir como mínimo para declarar un nuevo estado de excepción sin necesidad de autorización legislativa previa?",
+      "options": [
+        "Seis meses computables desde el cese del anterior estado de excepción",
+        "Un año posterior a la finalización del anterior estado de excepción",
+        "Noventa días calendario contados desde la rendición de cuentas del Ejecutivo",
+        "Dos años contados a partir de la publicación de la resolución legislativa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 138, Parágrafo II, CPE",
+      "explicacion": "El Art. 138.II ordena que finalizado un estado de excepción no podrá declararse otro dentro del siguiente año, salvo autorización legislativa previa."
+    },
+    {
+      "question": "Conforme al Artículo 140, Parágrafo III de la CPE, ¿qué prohibición constitucional rige sobre la reforma de la Constitución durante un estado de excepción?",
+      "options": [
+        "Solo puede ser iniciada mediante referendo por iniciativa ciudadana del 20% del electorado",
+        "La reforma de la Constitución no podrá iniciarse mientras esté vigente un estado de excepción",
+        "Requiere la aprobación de tres cuartas partes de los miembros presentes de la ALP",
+        "Debe ser fiscalizada por el Tribunal Constitucional Plurinacional antes de su tratamiento"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 140, Parágrafo III, CPE",
+      "explicacion": "El Art. 140.III dispone enfáticamente: 'La reforma de la Constitución no podrá iniciarse mientras esté vigente un estado de excepción'."
+    },
+    {
+      "question": "De acuerdo con el Artículo 141, Parágrafo I de la CPE, son bolivianas y bolivianos por nacimiento las personas nacidas en el territorio boliviano, con una excepción explícita. ¿Cuál es?",
+      "options": [
+        "Las hijas y los hijos de diplomáticos extranjeros que renuncien a su inmunidad jurisdiccional",
+        "Las hijas y los hijos de personal extranjero que preste servicios en misiones diplomáticas o en organismos internacionales",
+        "Las personas cuyos progenitores hayan sido sancionados con pérdida de ciudadanía",
+        "Los hijos de ciudadanos extranjeros que no fijen residencia fija por más de 5 años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 141, Parágrafo I, CPE",
+      "explicacion": "El Art. 141.I exceptúa de la nacionalidad por nacimiento en territorio boliviano a las hijas e hijos de personal extranjero que presta servicios en misiones diplomáticas o en organismos internacionales."
+    },
+    {
+      "question": "Según el Artículo 144, Parágrafo I de la CPE, ¿a partir de qué edad ejercen la ciudadanía las bolivianas y los bolivianos?",
+      "options": [
+        "16 años cumplidos para participar en referendos municipales",
+        "18 años de edad, cualesquiera sean sus niveles de instrucción, ocupación o renta",
+        "21 años cumplidos únicamente para ser elegibles a cargos de la ALP",
+        "25 años de edad para el ejercicio de la función pública administrativa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 144, Parágrafo I, CPE",
+      "explicacion": "El Art. 144.I establece que los ciudadanos ejercen la ciudadanía a partir de los 18 años de edad sin distinción de instrucción, ocupación o renta."
+    },
+    {
+      "question": "Conforme al Artículo 146, Parágrafo I de la CPE, ¿por cuántos miembros está conformada la Cámara de Diputados de la Asamblea Legislativa Plurinacional?",
+      "options": [
+        "120 miembros distribuidos equitativamente entre los 9 departamentos",
+        "130 miembros",
+        "136 miembros incluyendo representantes supraestatales",
+        "150 miembros elegidos mediante circunscripciones uninominales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 146, Parágrafo I, CPE",
+      "explicacion": "El Art. 146.I determina que la Cámara de Diputados estará conformada por 130 miembros."
+    },
+    {
+      "question": "En la Cámara de Senadores, según el Artículo 148 de la CPE, ¿cuántos Senadores se eligen por cada Departamento y cuál es el total de miembros de la Cámara?",
+      "options": [
+        "3 Senadores por departamento, haciendo un total de 27 Senadores",
+        "4 Senadores en circunscripción departamental, conformando un total de 36 miembros",
+        "5 Senadores por departamento, sumando un total de 45 Senadores",
+        "4 Senadores titulares y 4 suplentes, totalizando 72 miembros con derecho a voto"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 148, Parágrafos I y II, CPE",
+      "explicacion": "El Art. 148 establece 4 Senadores por departamento, sumando un total de 36 miembros."
+    },
+    {
+      "question": "Respecto al régimen de inviolabilidad e inmunidad parlamentaria, ¿qué establece expresamente el Artículo 152 de la CPE respecto a las y los asambleístas?",
+      "options": [
+        "Gozan de inmunidad absoluta en materia civil y penal durante y después de su mandato",
+        "Las asambleístas y los asambleístas no gozarán de inmunidad. Durante su mandato no se les aplicará la detención preventiva, salvo delito flagrante",
+        "Podrán ser aprehendidos sin orden judicial previa únicamente por investigación de faltas administrativas",
+        "La inmunidad parlamentaria solo puede ser levantada por voto de dos tercios de la Cámara respectiva"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 152, CPE",
+      "explicacion": "El Art. 152 señala expresamente que los asambleístas NO gozan de inmunidad, pero durante su mandato no se les aplicará detención preventiva, salvo delito flagrante."
+    },
+    {
+      "question": "Según el Artículo 156 de la CPE, ¿cuál es el tiempo de mandato de las y los asambleístas y cuántas veces pueden ser reelectos?",
+      "options": [
+        "Mandato de 4 años, pudiendo ser reelectos indefinidamente",
+        "Mandato de 5 años, pudiendo ser reelectas y reelectos por una sola vez de manera continua",
+        "Mandato de 6 años, sin posibilidad de reelección continua",
+        "Mandato de 5 años, pudiendo ser reelectos hasta por dos períodos discontinuos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 156, CPE",
+      "explicacion": "El Art. 156 fija el mandato de asambleísta en 5 años con opción a reelección por una sola vez de manera continua."
+    },
+    {
+      "question": "Conforme al Artículo 157 de la CPE, ¿cuándo se pierde el mandato de asambleísta por abandono injustificado de sus funciones?",
+      "options": [
+        "Por más de tres días continuos o cinco discontinuos en un trimestre",
+        "Por más de seis días de trabajo continuos y once discontinuos en el año",
+        "Por más de diez días continuos u ocho discontinuos durante la legislatura",
+        "Por más de quince días discontinuos no justificados ante la Directiva de la Cámara"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 157, CPE",
+      "explicacion": "El Art. 157 indica que el abandono injustificado por más de 6 días de trabajo continuos y 11 discontinuos en el año causa la pérdida de mandato."
+    },
+    {
+      "question": "En el marco de las atribuciones de la Asamblea Legislativa Plurinacional (Artículo 158, Parágrafo I, Numeral 18), ¿cuál es el efecto jurídico de la censura a un Ministro de Estado?",
+      "options": [
+        "Implica la suspensión temporal de funciones por 30 días",
+        "La censura implicará la destitución de la Ministra o del Ministro",
+        "Requiere la convalidación del fallo por el Tribunal Supremo de Justicia",
+        "Abre un proceso administrativo ante la Contraloría General del Estado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 158, Parágrafo I, Numeral 18, CPE",
+      "explicacion": "El Art. 158.I.18 dispone que acordada la censura por 2/3 de los miembros presentes de la ALP, esta implicará la destitución de la Ministra o del Ministro."
+    },
+    {
+      "question": "De acuerdo con el Artículo 158, Parágrafo I, Numeral 11 de la CPE, ¿qué ocurre con el Presupuesto General del Estado si la ALP no lo aprueba en el término de sesenta días desde su recepción?",
+      "options": [
+        "Se reconduce automáticamente el presupuesto ejecutado en la gestión fiscal anterior",
+        "El proyecto se dará por aprobado",
+        "El Ejecutivo debe presentar una nueva propuesta ajustada en el plazo de 15 días",
+        "Se convoca a sesión extraordinaria presidida por el Tribunal Supremo de Justicia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 158, Parágrafo I, Numeral 11, CPE",
+      "explicacion": "El Art. 158.I.11 prevé que si el proyecto de PGE no es considerado y aprobado en 60 días en la ALP, se dará por aprobado."
+    },
+    {
+      "question": "Conforme al Artículo 159, Numeral 11 de la CPE, ¿cuál de las siguientes atribuciones corresponde de manera EXCLUSIVA a la Cámara de Diputados?",
+      "options": [
+        "Ratificar los ascensos a General de Ejército y Almirante a propuesta del Ejecutivo",
+        "Acusar ante la Cámara de Senadores a los miembros del TCP, TSJ, TA y Consejo de la Magistratura por delitos en el ejercicio de sus funciones",
+        "Juzgar en única instancia a las altas autoridades del Órgano Judicial",
+        "Designar al Fiscal General del Estado y al Defensor del Pueblo por dos tercios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 159, Numeral 11, CPE",
+      "explicacion": "Corresponde a la Cámara de Diputados acusar ante la Cámara de Senadores a los miembros de las altas cortes por delitos en el ejercicio de funciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 160, Numeral 6 de la CPE, ¿qué votación mínima se requiere en la Cámara de Senadores para aprobar una sentencia juzgando a los miembros del TCP, TSJ, TA o Consejo de la Magistratura?",
+      "options": [
+        "Mayoría absoluta de los miembros presentes",
+        "Al menos dos tercios de los miembros presentes",
+        "Tres cuartas partes del total de los senadores electos",
+        "Unanimidad de los senadores asistentes a la sesión de juzgamiento"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 160, Numeral 6, CPE",
+      "explicacion": "El Art. 160.6 exige al menos dos tercios de los miembros presentes del Senado para aprobar la sentencia en juicio de responsabilidades a magistrados."
+    },
+    {
+      "question": "En el procedimiento legislativo (Artículo 163, Numeral 1 de la CPE), cuando un proyecto de ley es presentado por un asambleísta, ¿en cuál de las Cámaras se iniciará obligatoriamente su tratamiento?",
+      "options": [
+        "En la Cámara de Diputados indistintamente del tema",
+        "En la Cámara donde sea presentado por su autor o autora",
+        "En la Cámara de Senadores para el control preliminar de constitucionalidad",
+        "En la Comisión Mixta de Constitución de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 163, Numeral 1, CPE",
+      "explicacion": "El Art. 163.1 establece que cuando el proyecto sea presentado por un asambleísta, se iniciará en la Cámara donde sea presentado."
+    },
+    {
+      "question": "Según el Artículo 165, Parágrafo I de la CPE, ¿cómo está compuesto orgánicamente el Órgano Ejecutivo?",
+      "options": [
+        "Por la Presidenta o Presidente del Estado y el Gabinete Ministerial",
+        "Por la Presidenta o el Presidente del Estado, la Vicepresidenta o el Vicepresidente del Estado, y las Ministras y los Ministros de Estado",
+        "Por el Presidente del Estado, los Ministros de Estado y los Gobernadores Departamentales",
+        "Por la Jefatura de Estado, la Secretaría General de la Presidencia y los Viceministerios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 165, Parágrafo I, CPE",
+      "explicacion": "El Art. 165.I establece la composición exacta del Órgano Ejecutivo: Presidente/a, Vicepresidente/a y Ministras/os de Estado."
+    },
+    {
+      "question": "Conforme al Artículo 173 de la CPE, ¿por cuánto tiempo máximo puede la Presidenta o el Presidente del Estado ausentarse del territorio boliviano por misión oficial sin requerir autorización de la ALP?",
+      "options": [
+        "Hasta un máximo de cinco días",
+        "Hasta un máximo de diez días",
+        "Hasta un máximo de quince días calendario",
+        "Hasta un máximo de treinta días hábiles"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 173, CPE",
+      "explicacion": "El Art. 173 faculta al Presidente a ausentarse del país sin autorización de la Asamblea Legislativa por misión oficial hasta un máximo de 10 días."
+    },
+    {
+      "question": "Para ser designada o designado Ministra o Ministro de Estado, según el Artículo 176 de la CPE, ¿cuál de los siguientes requisitos de edad es el correcto?",
+      "options": [
+        "Tener cumplidos 18 años al día del nombramiento",
+        "Tener cumplidos veinticinco años al día del nombramiento",
+        "Tener cumplidos 30 años al momento de la posesión",
+        "Tener cumplidos 35 años y contar con título profesional en provisión nacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 176, CPE",
+      "explicacion": "El Art. 176 requiere tener cumplidos 25 años al día del nombramiento para ser designado Ministro de Estado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 179, Parágrafo II de la CPE, ¿qué relación jerárquica existe entre la jurisdicción ordinaria y la jurisdicción indígena originaria campesina?",
+      "options": [
+        "La jurisdicción ordinaria prevalece jerárquicamente sobre la indígena en materia penal",
+        "Gozarán de igual jerarquía",
+        "La jurisdicción indígena está subordinada a las resoluciones del Tribunal Supremo de Justicia",
+        "La jurisdicción indígena solo actúa como instancia arbitral de menor cuantía"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 179, Parágrafo II, CPE",
+      "explicacion": "El Art. 179.II determina expresamente: 'La jurisdicción ordinaria y la jurisdicción indígena originario campesina gozarán de igual jerarquía'."
+    },
+    {
+      "question": "En la jurisdicción ordinaria, ¿cuál es el máximo tribunal encargado de actuar como tribunal de casación según los Artículos 181 y 184 de la CPE?",
+      "options": [
+        "El Tribunal Constitucional Plurinacional",
+        "El Tribunal Supremo de Justicia",
+        "El Consejo de la Magistratura",
+        "El Tribunal Agroambiental"
+      ],
+      "answer": 1,
+      "fuente": "Artículos 181 y 184, Numeral 1, CPE",
+      "explicacion": "El Art. 181 señala que el Tribunal Supremo de Justicia es el máximo tribunal de la jurisdicción ordinaria y actúa como tribunal de casación."
+    },
+    {
+      "question": "Conforme al Artículo 184, Numeral 4 de la CPE, ¿ante qué instancia juzga el Tribunal Supremo de Justicia a la Presidenta o al Presidente del Estado por delitos cometidos en el ejercicio de su mandato?",
+      "options": [
+        "En primera instancia ante la Sala Penal y en apelación ante el Pleno",
+        "Como tribunal colegiado en pleno y en única instancia, previa autorización de la ALP por al menos dos tercios",
+        "Ante un jurado ciudadano convocado por el Consejo de la Magistratura",
+        "En juicio sumario ante el Tribunal Constitucional Plurinacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 184, Numeral 4, CPE",
+      "explicacion": "El Art. 184.4 atribuye al TSJ juzgar como tribunal colegiado en pleno y en única instancia al Presidente/a previa autorización de 2/3 de la ALP."
+    },
+    {
+      "question": "Según el Artículo 193, Parágrafo I de la CPE, ¿cuál es la instancia responsable del régimen disciplinario de la jurisdicción ordinaria, agroambiental y especializadas?",
+      "options": [
+        "El Tribunal Supremo de Justicia",
+        "El Consejo de la Magistratura",
+        "El Ministerio de Justicia y Transparencia Institucional",
+        "La Fiscalía General del Estado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 193, Parágrafo I, CPE",
+      "explicacion": "El Art. 193.I establece que el Consejo de la Magistratura es la instancia responsable del régimen disciplinario del Órgano Judicial."
+    },
+    {
+      "question": "En la interpretación constitucional, ¿cuál es el criterio preferente que aplicará el Tribunal Constitucional Plurinacional según el Artículo 196, Parágrafo II de la CPE?",
+      "options": [
+        "Las doctrinas jurídicas emanadas de organismos internacionales de integración regional",
+        "La voluntad del constituyente, de acuerdo con sus documentos, actas y resoluciones, así como el tenor literal del texto",
+        "Los principios generales del derecho jurisprudencial anglosajón",
+        "El principio del 'marge d'appréciation' otorgado al Órgano Ejecutivo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 196, Parágrafo II, CPE",
+      "explicacion": "El Art. 196.II manda aplicar preferentemente la voluntad del constituyente (documentos, actas y resoluciones) y el tenor literal del texto."
+    },
+    {
+      "question": "De acuerdo con el Artículo 203 de la CPE, ¿cuál es la eficacia jurídica de las decisiones y sentencias del Tribunal Constitucional Plurinacional?",
+      "options": [
+        "Son de carácter recomendatorio y admiten recurso de casación ante el TSJ",
+        "Son de carácter vinculante y de cumplimiento obligatorio, y contra ellas no cabe recurso ordinario ulterior alguno",
+        "Pueden ser objeto de revisión por la Asamblea Legislativa Plurinacional por dos tercios de votos",
+        "Surtirán efecto únicamente previa homologación del Ministerio de Justicia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 203, CPE",
+      "explicacion": "El Art. 203 dispone que las decisiones y sentencias del TCP son vinculantes y obligatorias, sin recurso ordinario ulterior alguno."
+    },
+    {
+      "question": "Según el Artículo 206, Parágrafo II de la CPE, ¿cuántos miembros componen el Tribunal Supremo Electoral, cuánto dura su mandato y cuál es la restricción de reelección?",
+      "options": [
+        "5 miembros, mandato de 5 años con opción a reelección por una vez",
+        "7 miembros, quienes durarán en sus funciones seis años sin posibilidad de reelección",
+        "9 miembros, mandato de 6 años con posibilidad de reelección discontinua",
+        "6 miembros electos por la ALP y 1 por el Poder Judicial, mandato de 4 años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 206, Parágrafo II, CPE",
+      "explicacion": "El Art. 206.II establece 7 miembros para el TSE, con un periodo de 6 años sin posibilidad de reelección."
+    },
+    {
+      "question": "En la designación de los miembros del Tribunal Supremo Electoral (Artículo 206, Parágrafo III de la CPE), ¿cuántos vocales elige la ALP y cuántos designa la Presidenta o Presidente del Estado?",
+      "options": [
+        "La ALP elige a los 7 miembros mediante convocatoria pública",
+        "La ALP elige por dos tercios a seis miembros y la Presidenta o el Presidente del Estado designa a uno",
+        "La ALP elige a 4 miembros y la Presidenta del Estado designa a 3 miembros",
+        "El Consejo de la Magistratura preselecciona a los 7 vocales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 206, Parágrafo III, CPE",
+      "explicacion": "El Art. 206.III establece que la ALP elige a 6 miembros por 2/3 de votos y el Presidente designa a 1 de los miembros."
+    },
+    {
+      "question": "De acuerdo con el Artículo 214 de la CPE, la Contralora o Contralor General del Estado se designará por qué votación en la Asamblea Legislativa Plurinacional?",
+      "options": [
+        "Por mayoría absoluta de los asambleístas presentes",
+        "Por dos tercios de votos de los presentes de la Asamblea Legislativa Plurinacional",
+        "Por tres cuartas partes del total de asambleístas electos",
+        "A propuesta en terna enviada por el Órgano Ejecutivo por mayoría simple"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 214, CPE",
+      "explicacion": "El Art. 214 dispone que la/el Contralor/a General del Estado se designa por dos tercios de votos de los presentes en la ALP."
+    },
+    {
+      "question": "Conforme al Artículo 228 de la CPE, ¿cuántos años ejercerá sus funciones la Fiscal o el Fiscal General del Estado y cuál es su régimen de reelección o nueva designación?",
+      "options": [
+        "Ejercerá sus funciones por 5 años, pudiendo ser reelecto por una vez",
+        "Ejercerá sus funciones por seis años, sin posibilidad de nueva designación",
+        "Ejercerá sus funciones por 10 años en período discontinuo",
+        "Ejercerá sus funciones indefinidamente mientras mantenga la idoneidad profesional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 228, CPE",
+      "explicacion": "El Art. 228 dispone que la/el Fiscal General del Estado ejercerá funciones por 6 años, sin posibilidad de nueva designación."
+    },
+    {
+      "question": "Respecto a la Procuraduría General del Estado (Artículo 230, Parágrafo III de la CPE), ¿qué facultad tiene la Asamblea Legislativa Plurinacional respecto a la persona designada por el Presidente?",
+      "options": [
+        "Debe ratificar expresamente la designación en el plazo de 15 días",
+        "La designación podrá ser objetada por decisión de al menos dos tercios de los miembros presentes de la ALP en un plazo no mayor a sesenta días calendario",
+        "Puede someter la designación a referendo de revocatoria en caso de conflicto de intereses",
+        "No tiene facultad alguna, pues es atribución privativa del Presidente sin objeción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 230, Parágrafo III, CPE",
+      "explicacion": "El Art. 230.III faculta a la ALP a objetar la designación por al menos 2/3 de los miembros presentes en el plazo de 60 días calendario."
+    },
+    {
+      "question": "Entre los requisitos generales para acceder al desempeño de funciones públicas contemplados en el Artículo 234, Numeral 7 de la CPE, se exige expresamente:",
+      "options": [
+        "Tener título profesional universitario en grado de licenciatura",
+        "Hablar al menos dos idiomas oficiales del país",
+        "Haber cumplido con el servicio de voluntariado en la Defensoría del Pueblo",
+        "Pertenecer a una organización social con personería jurídica reconocida"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 234, Numeral 7, CPE",
+      "explicacion": "El Art. 234.7 exige taxativamente 'Hablar al menos dos idiomas oficiales del país' para acceder a la función pública."
+    },
+    {
+      "question": "De acuerdo con el Artículo 238, Numeral 3 de la CPE, ¿con qué anticipación deben renunciar a sus cargos quienes ocupen cargos electivos, de designación o libre nombramiento para postular a cargos públicos electivos (excepto Presidente y Vicepresidente)?",
+      "options": [
+        "Al menos treinta días antes al día de la elección",
+        "Al menos tres meses antes al día de la elección",
+        "Al menos seis meses antes al día de la elección",
+        "Al menos un año antes al día de la elección"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 238, Numeral 3, CPE",
+      "explicacion": "El Art. 238.3 fija la exigencia de renuncia al menos 3 meses antes al día de la elección."
+    },
+    {
+      "question": "Conforme al Artículo 246, Parágrafo I de la CPE, ¿de quién dependen las Fuerzas Armadas y a través de quiénes reciben sus órdenes en lo administrativo y en lo técnico?",
+      "options": [
+        "Dependen de la ALP; reciben órdenes de la Comisión de Defensa y del Estado Mayor",
+        "Dependen de la Presidenta o del Presidente del Estado y reciben sus órdenes, en lo administrativo, por intermedio del Ministro de Defensa y en lo técnico, del Comandante en Jefe",
+        "Dependen del Ministerio de Gobierno en lo administrativo y del Comandante General en lo técnico",
+        "Dependen del Consejo Supremo de Defensa Nacional de forma exclusiva"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 246, Parágrafo I, CPE",
+      "explicacion": "El Art. 246.I establece la dependencia del Presidente, recibiendo órdenes administrativas vía el Ministro de Defensa y técnicas del Comandante en Jefe."
+    },
+    {
+      "question": "En relación con la Policía Boliviana (Artículo 252 de la CPE), ¿de qué autoridad depende la institución policial y por cuál intermedio?",
+      "options": [
+        "Depende del Comandante General de la Policía por intermedio del Subcomandante",
+        "Depende de la Presidenta o del Presidente del Estado por intermedio de la Ministra o Ministro de Gobierno",
+        "Depende de los Gobiernos Autónomos Departamentales en su respectiva jurisdicción",
+        "Depende del Ministerio de Justicia en coordinación con la Fiscalía General"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 252, CPE",
+      "explicacion": "El Art. 252 establece que la Policía Boliviana depende del Presidente del Estado por intermedio del Ministro de Gobierno."
+    },
+    {
+      "question": "Según el Artículo 259, Parágrafo I de la CPE, ¿qué porcentaje de ciudadanos registrados en el padrón electoral puede solicitar la aprobación de un tratado internacional mediante referendo popular?",
+      "options": [
+        "El dos por ciento del padrón electoral",
+        "El cinco por ciento de los ciudadanos registrados en el padrón electoral",
+        "El diez por ciento de los votantes de la última elección general",
+        "El quince por ciento fijado mediante ley aprobada por la ALP"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 259, Parágrafo I, CPE",
+      "explicacion": "El Art. 259.I contempla que cualquier tratado internacional requerirá aprobación por referendo cuando lo solicite el 5% de los ciudadanos del padrón electoral (o el 35% de la ALP)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 262, Parágrafo I de la CPE, ¿cuál es la extensión de la Zona de Seguridad Fronteriza y qué restricción rige para personas extranjeras?",
+      "options": [
+        "100 kilómetros; no pueden instalar industrias comerciales sin autorización del Ministerio de Economía",
+        "Los cincuenta kilómetros a partir de la línea de frontera; ninguna persona extranjera podrá adquirir propiedad en este espacio ni poseer aguas, suelo ni subsuelo",
+        "20 kilómetros; se requiere permiso de residencia expedido por las Fuerzas Armadas",
+        "Los 50 kilómetros; solo pueden adquirir tierras si demuestran inversión productiva agrícola"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 262, Parágrafo I, CPE",
+      "explicacion": "El Art. 262.I fija la zona de seguridad fronteriza en 50 km a partir de la frontera y prohíbe taxativamente la propiedad o posesión a extranjeros salvo necesidad estatal declarada por ley por 2/3 de la ALP."
+    },
+    {
+      "question": "Según el Artículo 269, Parágrafo I de la CPE, ¿cuáles son las cuatro unidades territoriales en las que se organiza territorialmente Bolivia?",
+      "options": [
+        "Regiones, departamentos, cantones y distritos municipales",
+        "Departamentos, provincias, municipios y territorios indígena originario campesinos",
+        "Macroregiones, departamentos, secciones de provincia y comunidades rurales",
+        "Entidades territoriales autónomas, circunscripciones electorales, áreas protegidas y municipios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 269, Parágrafo I, CPE",
+      "explicacion": "El Art. 269.I indica que Bolivia se organiza en: departamentos, provincias, municipios y territorios indígena originario campesinos."
+    },
+    {
+      "question": "Conforme al Artículo 271, Parágrafo II de la CPE, la Ley Marco de Autonomías y Descentralización requiere para su aprobación en la ALP qué votación calificada?",
+      "options": [
+        "Mayoría absoluta de los miembros presentes de ambas Cámaras",
+        "Dos tercios de votos de los miembros presentes de la Asamblea Legislativa Plurinacional",
+        "Tres cuartas partes del total de los miembros de la ALP",
+        "Unanimidad de las bancadas departamentales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 271, Parágrafo II, CPE",
+      "explicacion": "El Art. 271.II exige la aprobación de la Ley Marco de Autonomías por dos tercios de votos de los miembros presentes de la ALP."
+    },
+    {
+      "question": "De acuerdo con el Artículo 275 de la CPE, ¿cuál es el procedimiento formal previo para que un Estatuto Autonómico o Carta Orgánica entre en vigencia?",
+      "options": [
+        "Aprobación por mayoría simple del órgano deliberativo y promulgación por el Gobernador o Alcalde",
+        "Aprobación por dos tercios del total de sus miembros, previo control de constitucionalidad y referendo aprobatorio en su jurisdicción",
+        "Sanción por la Asamblea Legislativa Plurinacional e inscripción en la Gaceta Oficial del Estado",
+        "Aprobación por el Consejo de Ministros y homologación del Tribunal Electoral"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 275, CPE",
+      "explicacion": "El Art. 275 dispone la aprobación por 2/3 del total de miembros del órgano deliberativo, control de constitucionalidad del TCP y referendo aprobatorio."
+    },
+    {
+      "question": "Según el Artículo 276 de la CPE, ¿cuál es la relación de jerarquía entre las entidades territoriales autónomas?",
+      "options": [
+        "Los Gobiernos Departamentales supervisan jerárquicamente a los Municipios de su territorio",
+        "Las entidades territoriales autónomas no estarán subordinadas entre ellas y tendrán igual rango constitucional",
+        "La Autonomía Regional tiene prelación normativa sobre la Autonomía Municipal",
+        "Las autonomías indígenas se subordinan administrativamente a las Autonomías Departamentales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 276, CPE",
+      "explicacion": "El Art. 276 señala tajantemente: 'Las entidades territoriales autónomas no estarán subordinadas entre ellas y tendrán igual rango constitucional'."
+    },
+    {
+      "question": "Conforme al Artículo 280, Parágrafo I de la CPE, ¿en qué caso poblacional específico se prevé la conformación de una 'región metropolitana'?",
+      "options": [
+        "En agrupaciones de municipios que superen los 100.000 habitantes",
+        "En las conurbaciones mayores a 500.000 habitantes",
+        "En áreas de desarrollo agroindustrial con más de 250.000 pobladores",
+        "En las capitales de departamento sin importar la densidad demográfica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 280, Parágrafo I, CPE",
+      "explicacion": "El Art. 280.I prevé excepcionalmente la conformación de regiones metropolitanas en conurbaciones mayores a 500.000 habitantes."
+    },
+    {
+      "question": "En el Gobierno Autónomo Municipal regulado en el Artículo 283 de la CPE, ¿cómo se distribuyen las facultades entre sus órganos?",
+      "options": [
+        "El Alcalde ejerce las facultades legislativa y reglamentaria, y el Concejo la ejecutiva",
+        "El Concejo Municipal tiene facultad deliberativa, fiscalizadora y legislativa municipal; y el órgano ejecutivo es presidido por la Alcaldesa o el Alcalde",
+        "El Concejo ejerce únicamente tareas consultivas y el Alcalde concentra todo el poder normativo",
+        "Las facultades legislativas corresponden a la Asamblea Departamental y la ejecución al Alcalde"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 283, CPE",
+      "explicacion": "El Art. 283 atribuye al Concejo Municipal las facultades deliberativa, fiscalizadora y legislativa municipal, y la dirección ejecutiva a la Alcaldesa/Alcalde."
+    },
+    {
+      "question": "De acuerdo con el Artículo 285, Parágrafo I, Numeral 1 de la CPE, ¿cuál es el requisito de residencia permanente exigido para ser candidato a un cargo electivo ejecutivo subnacional?",
+      "options": [
+        "Haber residido de forma permanente al menos los cinco años inmediatamente anteriores a la elección",
+        "Haber residido de forma permanente al menos los dos años inmediatamente anteriores a la elección en el departamento, región o municipio correspondiente",
+        "Tener domicilio fiscal registrado durante el último año de la gestión fiscal",
+        "Demostrar nacimiento en la jurisdicción o residencia no menor a 10 años discontinuos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 285, Parágrafo I, Numeral 1, CPE",
+      "explicacion": "El Art. 285.I.1 exige haber residido de forma permanente al menos los 2 años inmediatamente anteriores a la elección."
+    },
+    {
+      "question": "Según el Artículo 288 de la CPE, ¿cuánto dura el período de mandato de los integrantes de los Concejos y Asambleas subnacionales y cuál es la regla de reelección?",
+      "options": [
+        "Mandato de 4 años, reelección indefinida previa consulta popular",
+        "Período de mandato de cinco años, y podrán ser reelectas o reelectos de manera continua por una sola vez",
+        "Mandato de 6 años sin posibilidad de reelección alguna",
+        "Mandato de 5 años con reelección únicamente discontinua"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 288, CPE",
+      "explicacion": "El Art. 288 fija el mandato de los legisladores subnacionales en 5 años con posibilidad de reelección continua por una sola vez."
+    },
+    {
+      "question": "Conforme al Artículo 297, Parágrafo I, Numeral 1 de la CPE, ¿cómo se definen las competencias 'privativas'?",
+      "options": [
+        "Aquellas que corresponden a los municipios y no pueden ser reguladas por el nivel central",
+        "Aquellas cuya legislación, reglamentación y ejecución no se transfiere ni delega, y están reservadas para el nivel central del Estado",
+        "Aquellas en que el nivel central legisla y las autonomías reglamentan y ejecutan libremente",
+        "Aquellas ejercidas exclusivamente por las naciones y pueblos indígena originario campesinos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 297, Parágrafo I, Numeral 1, CPE",
+      "explicacion": "El Art. 297.I.1 define las competencias privativas como aquellas cuya legislación, reglamentación y ejecución no se transfiere ni delega y corresponden al nivel central."
+    },
+    {
+      "question": "En la clasificación de competencias (Artículo 297, Parágrafo I, Numeral 3 de la CPE), ¿en qué consisten las competencias 'concurrentes'?",
+      "options": [
+        "Aquellas sujetas a una legislación básica de la ALP y legislación de desarrollo de las entidades territoriales",
+        "Aquellas en las que la legislación corresponde al nivel central del Estado y los otros niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva",
+        "Aquellas donde cada nivel legislante aprueba sus propias normas sin coordinación previa",
+        "Aquellas que por omisión son asumidas directamente por los gobiernos municipales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 297, Parágrafo I, Numeral 3, CPE",
+      "explicacion": "El Art. 297.I.3 define que en las competencias concurrentes la legislación es del nivel central y la reglamentación y ejecución es ejercida simultáneamente por los otros niveles."
+    },
+    {
+      "question": "De acuerdo con la cláusula residual del Artículo 297, Parágrafo II de la CPE, ¿a qué nivel gubernamental se atribuirá toda competencia no incluida expresamente en la Constitución?",
+      "options": [
+        "A los Gobiernos Autónomos Departamentales en primera instancia",
+        "Al nivel central del Estado, que podrá transferirla o delegarla por Ley",
+        "A las Autonomías Municipales según el principio de subsidiariedad",
+        "Al Tribunal Constitucional Plurinacional para su asignación mediante consulta"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 297, Parágrafo II, CPE",
+      "explicacion": "El Art. 297.II consagra la cláusula residual asignando al nivel central del Estado toda competencia no incluida explícitamente en la Constitución."
+    },
+    {
+      "question": "Según el Artículo 298, Parágrafo I de la CPE, ¿cuál de las siguientes materias es una competencia PRIVATIVA del nivel central del Estado?",
+      "options": [
+        "Elaboración y ejecución de Planes de Ordenamiento Territorial municipal",
+        "Política monetaria, Banco Central, sistema monetario y política cambiaria",
+        "Promoción del turismo local e infraestructura rural",
+        "Servicio de alumbrado público y aseo urbano"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 298, Parágrafo I, Numeral 2, CPE",
+      "explicacion": "El Art. 298.I.2 señala que la política monetaria, el Banco Central, el sistema monetario y la política cambiaria son competencias privativas del nivel central."
+    },
+    {
+      "question": "Conforme al Artículo 298, Parágrafo I, Numeral 21 de la CPE, la codificación sustantiva y adjetiva en materia civil, familiar, penal, tributaria, laboral, comercial, minería y electoral es:",
+      "options": [
+        "Competencia exclusiva de los departamentos con estatuto aprobado",
+        "Competencia privativa del nivel central del Estado",
+        "Competencia compartida regulada por ley de deslinde",
+        "Competencia concurrente con las autonomías indígenas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 298, Parágrafo I, Numeral 21, CPE",
+      "explicacion": "El Art. 298.I.21 establece que la codificación sustantiva y adjetiva es una competencia privativa del nivel central."
+    },
+    {
+      "question": "En el marco del Artículo 299, Parágrafo II de la CPE, ¿cuál de las siguientes áreas se ejercerá de forma CONCURRENTE entre el nivel central y las entidades territoriales autónomas?",
+      "options": [
+        "Sistema financiero y regulación de entidades bancarias",
+        "Gestión del sistema de salud y educación",
+        "Comercio exterior y régimen aduanero nacional",
+        "Control del espacio y tránsito aéreo en aeropuertos internacionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 299, Parágrafo II, Numeral 2, CPE",
+      "explicacion": "El Art. 299.II.2 contempla la gestión del sistema de salud y educación como competencia concurrente."
+    },
+    {
+      "question": "De acuerdo con el Artículo 300, Parágrafo I, Numeral 36 de la CPE, ¿qué tratamiento tienen las regalías en el Gobierno Autónomo Departamental?",
+      "options": [
+        "Son retenidas totalmente por el Tesoro General de la Nación para inversión social",
+        "La administración de sus recursos por regalías en el marco del PGE, los que serán transferidos automáticamente al Tesoro Departamental",
+        "Se distribuyen en partes iguales entre los 339 municipios del país",
+        "Requieren de un trámite mensual de autorización de desembolso ante la ALP"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 300, Parágrafo I, Numeral 36, CPE",
+      "explicacion": "El Art. 300.I.36 establece como competencia exclusiva departamental la administración de recursos por regalías, transferidos automáticamente al Tesoro Departamental."
+    },
+    {
+      "question": "Según el Artículo 302, Parágrafo I de la CPE, las competencias exclusivas de los gobiernos municipales autónomos comprenden de manera específica:",
+      "options": [
+        "Creación y administración de impuestos nacionales y aduaneros",
+        "Estadísticas oficiales de comercio exterior y balanza de pagos",
+        "Promoción y conservación del patrimonio cultural, histórico, tangible e intangible de interés municipal, y servicios básicos locales",
+        "Administración del Régimen Penitenciario y Policía de Fronteras"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 302, Parágrafo I, CPE",
+      "explicacion": "El Art. 302.I detalla 43 competencias exclusivas municipales, incluyendo la preservación del patrimonio local, aseo urbano, plazas, caminos vecinales y servicios locales."
+    },
+    {
+      "question": "Conforme al Artículo 304, Parágrafo I de la CPE, las autonomías indígena originario campesinas pueden ejercer competencias exclusivas sobre:",
+      "options": [
+        "Fuerzas Armadas y adquisición de armamento militar",
+        "Definición y gestión de formas propias de desarrollo económico, social, político, organizativo y cultural de acuerdo a su identidad",
+        "Emisión de billetes y monedas de curso legal",
+        "Suscripción de contratos de deuda pública internacional sin autorización central"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 304, Parágrafo I, Numeral 2, CPE",
+      "explicacion": "El Art. 304.I.2 atribuye a las AIOC la competencia exclusiva de definir y gestionar sus formas propias de desarrollo económico, social, político y cultural."
+    },
+    {
+      "question": "De acuerdo con el Artículo 305 de la CPE, ¿qué condición financiera indispensable debe acompañar a toda asignación o transferencia de competencias?",
+      "options": [
+        "La aprobación previa mediante consulta ciudadana local",
+        "La definición de la fuente de los recursos económicos y financieros necesarios para su ejercicio",
+        "Un informe favorable emitido por la Contraloría General del Estado",
+        "La creación obligatoria de un nuevo impuesto municipal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 305, CPE",
+      "explicacion": "El Art. 305 exige imperativamente que toda asignación o transferencia de competencias debe estar acompañada de la fuente de recursos para su ejercicio."
+    },
+    {
+      "question": "Según el Artículo 285, Parágrafo II de la CPE, en caso de renuncia o muerte de la máxima autoridad ejecutiva subnacional, ¿cuándo se procede a una nueva elección obligatoria?",
+      "options": [
+        "En todos los casos dentro de los 60 días de producida la vacancia",
+        "Siempre y cuando no hubiere transcurrido la mitad de su mandato",
+        "Solo si el órgano deliberativo lo solicita por tres cuartas partes",
+        "Únicamente cuando falten menos de seis meses para concluir el periodo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 285, Parágrafo II, CPE",
+      "explicacion": "El Art. 285.II dispone nueva elección siempre y cuando no hubiere transcurrido la mitad de su mandato; en caso contrario asume un reemplazante electo."
+    },
+    {
+      "question": "Conforme al Artículo 289 de la CPE, la Autonomía Indígena Originaria Campesina consiste en:",
+      "options": [
+        "Una descentralización administrativa delegada por la Gobernación",
+        "El autogobierno como ejercicio de la libre determinación de las naciones y pueblos indígena originario campesinos",
+        "La creación de estados independientes federados al gobierno nacional",
+        "El régimen especial de administración fiscal sin sujeción a la Constitución"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 289, CPE",
+      "explicacion": "El Art. 289 define la AIOC como el autogobierno en ejercicio de la libre determinación de las naciones y pueblos indígena originario campesinos."
+    },
+    {
+      "question": "Según el Artículo 306, Parágrafo II de la CPE, ¿cuáles son las cuatro formas de organización económica que constituyen el modelo de economía plural boliviano?",
+      "options": [
+        "Estatal, privada, mixta y transnacional",
+        "Comunitaria, estatal, privada y social cooperativa",
+        "Agrícola, industrial, bancaria y comercial",
+        "Centralizada, autonómica, comunitaria y gremial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 306, Parágrafo II, CPE",
+      "explicacion": "El Art. 306.II señala taxativamente que la economía plural está constituida por las formas comunitaria, estatal, privada y social cooperativa."
+    },
+    {
+      "question": "Conforme al Artículo 314 de la CPE, ¿qué formas de concentración económica están expresamente prohibidas en el territorio nacional?",
+      "options": [
+        "Las empresas públicas de carácter estratégico estatal",
+        "El monopolio y el oligopolio privado, así como cualquier otra forma de asociación que pretenda el control y exclusividad en la producción de bienes y servicios",
+        "Las cooperativas de producción agrícola con más de 1.000 socios",
+        "Las inversiones conjuntas entre el Estado y empresas comunitarias"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 314, CPE",
+      "explicacion": "El Art. 314 prohíbe el monopolio y oligopolio privado y cualquier acuerdo que busque el control exclusivo de la producción y comercialización."
+    },
+    {
+      "question": "De acuerdo con el Artículo 320, Parágrafo I y II de la CPE, respecto a las inversiones en el país, ¿qué principios rigen la inversión boliviana y la extranjera?",
+      "options": [
+        "La inversión extranjera goza de exención tributaria prioritaria sobre la nacional",
+        "La inversión boliviana se priorizará frente a la inversión extranjera, y toda inversión extranjera estará sometida a la jurisdicción, leyes y autoridades bolivianas",
+        "Las controversias comerciales extranjeras se resolverán necesariamente en arbitrajes internacionales CIADI",
+        "Ambas inversiones reciben el mismo trato sin que el Estado pueda priorizar la inversión nacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 320, Parágrafos I y II, CPE",
+      "explicacion": "El Art. 320.I y II prioriza la inversión boliviana sobre la extranjera y somete a esta última incondicionalmente a las leyes y autoridades bolivianas."
+    },
+    {
+      "question": "Según el Artículo 321, Parágrafo III de la CPE, ¿con qué anticipación debe presentar el Ejecutivo a la ALP el proyecto de Ley del Presupuesto General para la siguiente gestión?",
+      "options": [
+        "Al menos un mes antes de la finalización del año fiscal",
+        "Al menos dos meses antes de la finalización de cada año fiscal",
+        "Al menos noventa días hábiles antes del inicio de la nueva legislatura",
+        "Hasta el 15 de diciembre del año fiscal en curso"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 321, Parágrafo III, CPE",
+      "explicacion": "El Art. 321.III exige la presentación del proyecto de Ley del PGE al menos 2 meses antes de la finalización del año fiscal."
+    },
+    {
+      "question": "En materia fiscal, ¿qué dispone el Artículo 324 de la CPE respecto a la prescripción de deudas con el Estado?",
+      "options": [
+        "Prescriben a los cinco años contados desde la comisión del hecho",
+        "No prescribirán las deudas por daños económicos causados al Estado",
+        "Prescriben en el término de diez años previa declaración judicial",
+        "Quedan extinguidas por cambio de gestión de gobierno"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 324, CPE",
+      "explicacion": "El Art. 324 establece categóricamente: 'No prescribirán las deudas por daños económicos causados al Estado'."
+    },
+    {
+      "question": "Conforme al Artículo 327 de la CPE, ¿cuál es la función esencial del Banco Central de Bolivia?",
+      "options": [
+        "Fijar de manera autónoma las tasas de interés comercial de la banca privada",
+        "Mantener la estabilidad del poder adquisitivo interno de la moneda, para contribuir al desarrollo económico y social",
+        "Financiar el déficit presupuestario de las entidades territoriales autónomas",
+        "Administrar los aportes de las Administradoras de Fondos de Pensiones"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 327, CPE",
+      "explicacion": "El Art. 327 define la función esencial del BCB: mantener la estabilidad del poder adquisitivo interno de la moneda."
+    },
+    {
+      "question": "De acuerdo con el Artículo 333 de la CPE, ¿cuándo NO se requiere autorización judicial para investigar operaciones financieras amparadas por la confidencialidad?",
+      "options": [
+        "En cualquier investigación administrativa de la Administración Tributaria",
+        "En los procesos judiciales, en los casos en que se presuma comisión de delitos financieros, en los que se investiguen fortunas y los demás definidos por la ley",
+        "A simple requerimiento escrito de cualquier entidad bancaria privada",
+        "Durante las auditorías internas de las empresas públicas descentralizadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 333, CPE",
+      "explicacion": "El Art. 333 faculta a las instancias llamadas por ley a conocer operaciones confidenciales sin autorización judicial en investigaciones de delitos financieros, fortunas o procesos judiciales."
+    },
+    {
+      "question": "Según el Artículo 339, Parágrafo I de la CPE, ¿hasta qué porcentaje del total de egresos autorizados por el PGE puede el Presidente decretar pagos no autorizados ante calamidades públicas?",
+      "options": [
+        "Hasta el cinco por ciento de los ingresos corrientes",
+        "Los gastos destinados a estos fines no excederán del uno por ciento del total de egresos autorizados por el Presupuesto General",
+        "Hasta el tres por ciento del presupuesto de inversión pública nacional",
+        "Sin límite, con la sola firma del Gabinete Ministerial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 339, Parágrafo I, CPE",
+      "explicacion": "El Art. 339.I limita expresamente los gastos decretados por excepción para calamidades públicas al 1% del total de egresos autorizados por el PGE."
+    },
+    {
+      "question": "Conforme al Artículo 344, Parágrafo I de la CPE, ¿qué prohibiciones medioambientales absolutas se establecen respecto al territorio boliviano?",
+      "options": [
+        "Se prohíbe la tala de árboles en zonas selváticas sin reforestación previa",
+        "Se prohíbe la fabricación y uso de armas químicas, biológicas y nucleares, así como la internación, tránsito y depósito de residuos nucleares y desechos tóxicos",
+        "Se prohíbe el uso de combustibles fósiles en el transporte urbano a partir de 2030",
+        "Se prohíbe la exploración de recursos evaporíticos en cuencas hidrográficas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 344, Parágrafo I, CPE",
+      "explicacion": "El Art. 344.I prohíbe la fabricación y uso de armas químicas, biológicas y nucleares, e internación o tránsito de residuos nucleares y desechos tóxicos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 349, Parágrafo I de la CPE, ¿de quiénes son propiedad y dominio directo, indivisible e imprescriptible los recursos naturales?",
+      "options": [
+        "Del Estado Plurinacional administrado por el Ministerio de Hidrocarburos",
+        "Del pueblo boliviano, correspondiendo al Estado su administración en función del interés colectivo",
+        "De las empresas públicas estratégicas en su respectivo ramo productivo",
+        "De las entidades territoriales autónomas donde se encuentren depositados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 349, Parágrafo I, CPE",
+      "explicacion": "El Art. 349.I proclama que los recursos naturales son de propiedad y dominio directo del pueblo boliviano, asignando al Estado su administración."
+    },
+    {
+      "question": "En la consulta para la explotación de recursos naturales (Artículo 352 de la CPE), ¿cuáles son las características que debe cumplir dicho proceso de consulta convocada por el Estado?",
+      "options": [
+        "Ser posterior, vinculante y arancelada",
+        "Ser libre, previa e informada",
+        "Ser realizada mediante voto facultativo no obligatorio",
+        "Ser supervisada en exclusiva por consultoras privadas internacionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 352, CPE",
+      "explicacion": "El Art. 352 establece expresamente que la consulta a la población afectada para la explotación de recursos naturales debe ser libre, previa e informada."
+    },
+    {
+      "question": "Según el Artículo 359, Parágrafo I de la CPE, respecto al régimen de hidrocarburos, ¿quién ejerce la propiedad de toda la producción e ingresos por su comercialización?",
+      "options": [
+        "Las empresas petroleras operadoras en proporción a sus costos de operación",
+        "El Estado, en nombre y representación del pueblo boliviano",
+        "YPFB en calidad de empresa privada mixta",
+        "Los departamentos productores a través de sus Tesoros Departamentales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 359, Parágrafo I, CPE",
+      "explicacion": "El Art. 359.I determina que el Estado ejerce la propiedad de toda la producción de hidrocarburos y es el único facultado para su comercialización."
+    },
+    {
+      "question": "Conforme al Artículo 363, Parágrafo II de la CPE, si YPFB conforma sociedades de economía mixta para la cadena productiva de hidrocarburos, ¿cuál es su participación accionaria mínima obligatoria?",
+      "options": [
+        "Participación del 33% del capital accionario",
+        "Una participación accionaria no menor al cincuenta y uno por ciento del total del capital social",
+        "Mayoría calificada del 75% de las acciones ordinarias",
+        "Participación simbólica del 10% con derecho a veto administrativo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 363, Parágrafo II, CPE",
+      "explicacion": "El Art. 363.II exige que en las asociaciones o sociedades de economía mixta, YPFB contará obligatoriamente con una participación no menor al 51% del capital social."
+    },
+    {
+      "question": "De acuerdo con el Artículo 368 de la CPE, ¿qué porcentaje de regalía percibirán los departamentos productores de hidrocarburos sobre su producción departamental fiscalizada?",
+      "options": [
+        "El cinco por ciento de la producción bruta",
+        "Una regalía del once por ciento de su producción departamental fiscalizada de hidrocarburos",
+        "El dieciocho por ciento de la renta petrolera neta",
+        "El doce por ciento fijado mediante decreto supremo anual"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 368, CPE",
+      "explicacion": "El Art. 368 establece una regalía del 11% para los departamentos productores de hidrocarburos sobre su producción fiscalizada."
+    },
+    {
+      "question": "En relación con las empresas autárquicas creadas por el Estado para el sector minero (Artículo 372, Parágrafo IV de la CPE), ¿dónde deben establecer obligatoriamente su domicilio legal?",
+      "options": [
+        "En la Sede de Gobierno (La Paz)",
+        "En los departamentos de mayor producción minera, Potosí y Oruro",
+        "En la Capital de la República (Sucre)",
+        "En cualquier municipio con autonomía regional declarada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 372, Parágrafo IV, CPE",
+      "explicacion": "El Art. 372.IV dispone explícitamente que las nuevas empresas mineras autárquicas deben fijar su domicilio en los departamentos de mayor producción minera: Potosí y Oruro."
+    },
+    {
+      "question": "Según el Artículo 373, Parágrafo I de la CPE, ¿cómo define la Constitución el derecho al agua?",
+      "options": [
+        "Como un bien económico sujeto a las reglas de la oferta y la demanda",
+        "El agua constituye un derecho fundamentalísimo para la vida, en el marco de la soberanía del pueblo",
+        "Como una propiedad concesionable para el desarrollo industrial",
+        "Como un recurso natural renovable bajo administración privada regulada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 373, Parágrafo I, CPE",
+      "explicacion": "El Art. 373.I califica al agua de manera categórica como 'un derecho fundamentalísimo para la vida'."
+    },
+    {
+      "question": "Conforme al Artículo 384 de la CPE, ¿cuál es el estatus constitucional otorgado a la coca originaria y ancestral?",
+      "options": [
+        "Se la considera sustancia controlada sujeta a erradicación total",
+        "El Estado protege a la coca originaria y ancestral como patrimonio cultural, recurso natural renovable de la biodiversidad y factor de cohesión social; en su estado natural no es estupefaciente",
+        "Se la define como producto agrícola exclusivo de exportación libre de impuestos",
+        "Se la declara bien de consumo farmacológico bajo monopolio fiscal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 384, CPE",
+      "explicacion": "El Art. 384 protege la coca originaria y ancestral como patrimonio cultural y aclara que en su estado natural no es estupefaciente."
+    },
+    {
+      "question": "De acuerdo con el Artículo 390, Parágrafo II de la CPE, ¿cuáles son los territorios departamentales y provinciales que comprenden de forma exacta la Amazonia boliviana?",
+      "options": [
+        "La totalidad de los departamentos de Pando, Beni y Santa Cruz",
+        "La totalidad del departamento de Pando, la provincia Iturralde del departamento de La Paz y las provincias Vaca Díez y Ballivián del departamento del Beni",
+        "Los departamentos de Pando y Beni únicamente",
+        "Las provincias del norte de La Paz, Cochabamba y Santa Cruz"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 390, Parágrafo II, CPE",
+      "explicacion": "El Art. 390.II delimita exactamente la Amazonia boliviana: todo el dpto. de Pando, prov. Iturralde de La Paz, y provs. Vaca Díez y Ballivián del Beni."
+    },
+    {
+      "question": "En el régimen agrario (Artículo 398 de la CPE), ¿qué superficie máxima absoluta de propiedad agraria se prohíbe sobrepasar en ningún caso?",
+      "options": [
+        "2.000 hectáreas",
+        "En ningún caso podrá exceder de cinco mil hectáreas",
+        "10.000 hectáreas para empresas agroindustriales",
+        "15.000 hectáreas previa verificación de la FES"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 398, CPE",
+      "explicacion": "El Art. 398 define la prohibición del latifundio e indica que la superficie máxima en ningún caso podrá exceder de 5.000 hectáreas."
+    },
+    {
+      "question": "Según el Artículo 396, Parágrafo II de la CPE, ¿qué prohibición rige sobre la adquisición de tierras del Estado por parte de personas extranjeras?",
+      "options": [
+        "Pueden adquirir tierras si forman sociedades con ciudadanos bolivianos",
+        "Las extranjeras y los extranjeros bajo ningún título podrán adquirir tierras del Estado",
+        "Pueden adquirir hasta 500 hectáreas previa autorización del INRA",
+        "Solo pueden adquirir propiedades en zonas alejadas a más de 100 km de la frontera"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 396, Parágrafo II, CPE",
+      "explicacion": "El Art. 396.II prohíbe taxativamente: 'Las extranjeras y los extranjeros bajo ningún título podrán adquirir tierras del Estado'."
+    },
+    {
+      "question": "Según el Artículo 410, Parágrafo II de la CPE, ¿cuál es el orden correcto de prelación de la jerarquía normativa boliviana a partir de la norma suprema?",
+      "options": [
+        "1. Tratados Internacionales, 2. Constitución Política, 3. Leyes Nacionales, 4. Decretos",
+        "1. Constitución Política del Estado, 2. Los tratados internacionales, 3. Las leyes nacionales, estatutos autonómicos, cartas orgánicas y resto de legislación subnacional, 4. Los decretos, reglamentos y demás resoluciones",
+        "1. Constitución Política, 2. Leyes de la ALP, 3. Tratados Internacionales, 4. Estatutos Autonómicos",
+        "1. Bloque de Constitucionalidad, 2. Decretos Supremor, 3. Leyes Departamentales, 4. Cartas Orgánicas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 410, Parágrafo II, CPE",
+      "explicacion": "El Art. 410.II establece la prelación: 1. Constitución; 2. Tratados internacionales; 3. Leyes nacionales, estatutos autonómicos, cartas orgánicas y legislación subnacional; 4. Decretos y reglamentos."
+    },
+    {
+      "question": "Conforme al Artículo 410, Parágrafo II de la CPE, ¿qué elementos integran el 'Bloque de Constitucionalidad'?",
+      "options": [
+        "Las sentencias dictadas por la Corte Interamericana de Derechos Humanos de forma exclusiva",
+        "Los Tratados y Convenios internacionales en materia de Derechos Humanos y las normas de Derecho Comunitario, ratificados por el país",
+        "Todas las leyes sancionadas por dos tercios en la Asamblea Legislativa Plurinacional",
+        "Los Decretos Supremos emitidos durante estados de excepción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 410, Parágrafo II, CPE",
+      "explicacion": "El Art. 410.II señala que el Bloque de Constitucionalidad está integrado por Tratados y Convenios internacionales en materia de DDHH y normas de Derecho Comunitario ratificados."
+    },
+    {
+      "question": "De acuerdo con el Artículo 411, Parágrafo I de la CPE, la Reforma TOTAL de la Constitución exige la activación de una Asamblea Constituyente originaria. ¿Qué porcentaje de firma del electorado se requiere para convocar el referendo por iniciativa ciudadana?",
+      "options": [
+        "Cinco por ciento del electorado",
+        "Al menos el veinte por ciento del electorado",
+        "Diez por ciento de los ciudadanos inscritos en el padrón electoral",
+        "Cincuenta por ciento más uno de los votantes de la última elección"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 411, Parágrafo I, CPE",
+      "explicacion": "El Art. 411.I requiere la firma de al menos el 20% del electorado para activar por iniciativa ciudadana la convocatoria a referendo de reforma total."
+    },
+    {
+      "question": "Según el Artículo 411, Parágrafo II de la CPE, ¿cómo puede iniciarse la Reforma PARCIAL de la Constitución mediante la Asamblea Legislativa Plurinacional?",
+      "options": [
+        "Mediante Ley de reforma constitucional aprobada por mayoría simple de los miembros presentes",
+        "Mediante ley de reforma constitucional aprobada por dos tercios del total de los miembros presentes de la Asamblea Legislativa Plurinacional",
+        "Por resolución administrativa dictada por las Directivas de ambas Cámaras",
+        "Por solicitud expresa enviada por el Tribunal Supremo de Justicia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 411, Parágrafo II, CPE",
+      "explicacion": "El Art. 411.II establece que la reforma parcial por la ALP requiere ley aprobada por 2/3 del total de miembros presentes, seguida de referendo constitucional aprobatorio."
+    },
+    {
+      "question": "Según el Artículo 4 de la CPE, ¿cuál es la relación formal establecida entre el Estado boliviano y la religión?",
+      "options": [
+        "El Estado adopta la religión Católica Apostólica Romana como oficial y garantiza la libertad de cultos",
+        "El Estado es independiente de la religión, respeta y garantiza la libertad de religión y de creencias espirituales",
+        "El Estado es laico, prohibiendo expresamente cualquier manifestación religiosa en espacios e instituciones públicas",
+        "El Estado reconoce el catolicismo como religión mayoritaria y patrimonio cultural de la Nación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4, CPE",
+      "explicacion": "El Art. 4 establece la independencia del Estado respecto a la religión, garantizando la libertad de religión y creencias espirituales, de acuerdo con sus cosmovisiones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6, numeral II de la CPE, ¿cuál es la composición exacta de los símbolos del Estado Plurinacional de Bolivia?",
+      "options": [
+        "La bandera tricolor (rojo, amarillo y verde), el himno boliviano, el escudo de armas, la wiphala, la escarapela, la flor de la kantuta y la flor del patujú",
+        "La bandera nacional, la wiphala, la flor del patujú y el himno nacional exclusivamente",
+        "La tricolor, la wiphala, el escudo nacional, el himno de Bolivia y el árbol de la castaña",
+        "Los símbolos establecidos mediante Decreto Supremo por el Órgano Ejecutivo Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II, CPE",
+      "explicacion": "El Art. 6.II detalla expresamente la lista oficial de los símbolos del Estado, incluyendo la tricolor, la wiphala, el escudo, el himno, la escarapela y las flores de la kantuta y el patujú."
+    },
+    {
+      "question": "Conforme al Artículo 10 de la CPE, Bolivia se declara un Estado pacifista. ¿Qué prohibición expresa establece dicho artículo en el ámbito militar internacional?",
+      "options": [
+        "La participación en misiones de paz de la Organización de las Naciones Unidas (ONU)",
+        "La adquisición de armamento pesado de largo alcance y tecnología nuclear",
+        "La instalación de bases militares extranjeras en territorio boliviano y el ingreso de tropas extranjeras sin autorización del Senado",
+        "El desarrollo de ejercicios militares conjuntos con fuerzas armadas de países limítrofes"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 10.III, CPE",
+      "explicacion": "El Art. 10.III prohíbe la instalación de bases militares extranjeras en territorio boliviano."
+    },
+    {
+      "question": "Respecto a la nacionalidad boliviana por nacimiento (Artículo 141), ¿quiénes adquieren esta condición según el texto constitucional?",
+      "options": [
+        "Únicamente las personas nacidas dentro del territorio boliviano, independientemente de la nacionalidad de sus padres",
+        "Las personas nacidas en el territorio boliviano o en el extranjero de madre o padre boliviano",
+        "Las personas nacidas en Bolivia de padres bolivianos exclusivamente",
+        "Cualquier ciudadano extranjero que resida legalmente en el país por más de 3 años continuos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 141, CPE",
+      "explicacion": "El Art. 141 establece que la nacionalidad por nacimiento se adquiere por haber nacido en territorio boliviano o en el extranjero de madre o padre boliviano."
+    },
+    {
+      "question": "¿En qué condición legal específica quedan los títulos nobiliarios y las distinciones hereditarias en el Estado Plurinacional de Bolivia según el Artículo 14.X de la CPE?",
+      "options": [
+        "Son reconocidos únicamente si fueron otorgados antes de la fundación de la República",
+        "Requieren homologación previa del Senado Nacional para su validez formal",
+        "No se reconocen ni otorgan títulos nobiliarios ni distinciones hereditarias",
+        "Son aceptados solo para uso protocolar y diplomático no vinculante"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 14.X, CPE",
+      "explicacion": "El Art. 14.X prohibe de manera tácita y explícita la concesión y reconocimiento de títulos nobiliarios o distinciones hereditarias."
+    },
+    {
+      "question": "El Artículo 15.VIII de la CPE establece una prohibición categórica respecto al cuerpo humano y sus componentes. ¿Qué disposición contempla?",
+      "options": [
+        "Prohíbe la donación voluntaria de órganos entre personas no emparentadas",
+        "Ninguna persona podrá ser sometida a experimentos científicos o médicos sin su consentimiento, y se prohíbe la comercialización de órganos humanos",
+        "Permite la venta de tejidos corporales bajo estricta regulación y supervisión estatal",
+        "Restringe la investigación médica privada sobre el código genético humano"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 15.VIII, CPE",
+      "explicacion": "El Art. 15.VIII señala expresamente que se prohíbe la comercialización de órganos humanos y los experimentos sin consentimiento."
+    },
+    {
+      "question": "¿Cuál es la restricción máxima a la privación de libertad cautelar o sancionatoria dispuesta para la aprehensión sin orden judicial en flagrancia (Artículo 23.IV)?",
+      "options": [
+        "La persona aprehendida debe ser puesta a disposición del juez competente en el plazo máximo de 24 horas",
+        "La policía puede retener al aprehendido hasta por 48 horas para investigación preliminar",
+        "El Ministerio Público dispone de 72 horas para formular la imputación formal",
+        "La detención judicial se prolonga automáticamente hasta la audiencia de medidas cautelares en un plazo de 8 días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.IV, CPE",
+      "explicacion": "El Art. 23.IV manda que la persona aprehendida sea conducida ante la autoridad judicial competente en el plazo máximo de 24 horas."
+    },
+    {
+      "question": "En el marco del derecho a la salud (Artículo 36.II), ¿cuál es el carácter del sistema de salud pública en Bolivia respecto a la población?",
+      "options": [
+        "Es copagado según el nivel de ingresos de cada contribuyente",
+        "Es de carácter privado obligatorio con subvención estatal cruzada",
+        "Es único, universal, gratuito, equitativo, intracultural, intercultural y sin discriminación",
+        "Está reservado prioritariamente para trabajadores del sector formal asegurados"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 36.II, CPE",
+      "explicacion": "El Art. 36.II define el sistema público de salud como único, universal, gratuito, equitativo, intracultural e intercultural."
+    },
+    {
+      "question": "Según el Artículo 48.II de la CPE, ¿qué principio constitucional rige las normas laborales en favor de los trabajadores?",
+      "options": [
+        "El principio de libre contratación y pacto de partes",
+        "Las normas laborales se interpretarán y aplicarán bajo los principios de protección de las trabajadoras y de los trabajadores (in dubio pro operario)",
+        "El principio de flexibilidad laboral condicionada al crecimiento económico",
+        "La prevalencia de la productividad patronal sobre el contrato individual"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 48.II, CPE",
+      "explicacion": "El Art. 48.II instituye la aplicación protectora de la norma laboral a favor del trabajador conforme al principio de in dubio pro operario."
+    },
+    {
+      "question": "¿Qué sanción constitucional o cualidad jurídica prescribe el Artículo 48.IV sobre los salarios o sueldos devengados y derechos laborales?",
+      "options": [
+        "Prescriben a los dos años computables desde la extinción de la relación laboral",
+        "Prescriben a los cinco años conforme al Código Civil y Mercantil",
+        "Los salarios devengados, derechos laborales, beneficios sociales y aportes a la seguridad social son inembargables e imprescriptibles",
+        "Caducan en el plazo fijado en los contratos colectivos de trabajo"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 48.IV, CPE",
+      "explicacion": "El Art. 48.IV establece que los salarios devengados, beneficios sociales y aportes de seguridad social no prescriben y gozan de inembargabilidad e iliquidez prioritaria."
+    },
+    {
+      "question": "De acuerdo con el Artículo 57 de la CPE, la expropiación de la propiedad privada procede únicamente bajo qué condiciones estrictas?",
+      "options": [
+        "Por simple Decreto Supremo del Presidente sin indemnización previa",
+        "Por causa de necesidad y utilidad pública o cuando la propiedad no cumpla una función social, previa indemnización justa",
+        "Por resolución administrativa municipal aprobada por mayoría simple de concejales",
+        "Cuando el propietario no resida en el país por más de dos años continuos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 57, CPE",
+      "explicacion": "El Art. 57 determina la expropiación por causa de utilidad pública o incumplimiento de función social, calificada conforme a ley y previa indemnización justa."
+    },
+    {
+      "question": "Según el Artículo 62 de la CPE, ¿cómo reconoce el Estado a la familia como núcleo fundamental de la sociedad?",
+      "options": [
+        "Se reconoce a la familia tradicional mediante matrimonio religioso únicamente",
+        "El Estado reconoce y protege a las familias en su pluralidad y garantiza las condiciones sociales y económicas para su desarrollo integral",
+        "Se protege únicamente a las familias legalmente constituidas por el registro civil",
+        "Las familias solo se reconocen si están registradas en el padrón biométrico nacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 62, CPE",
+      "explicacion": "El Art. 62 consagra la protección del Estado a las familias 'en su pluralidad', garantizando sus condiciones socioeconómicas integrales."
+    },
+    {
+      "question": "Conforme al Artículo 63.II de la CPE, ¿qué efectos jurídicos produce la unión libre o de hecho que reúna las condiciones de estabilidad y singularidad?",
+      "options": [
+        "Produce efectos jurídicos limitados a la herencia de bienes muebles",
+        "Produce efectos similares al matrimonio civil, tanto en las relaciones personales como patrimoniales de los cónyuges",
+        "Requiere ratificación por sentencia judicial firme para surtir efectos patrimoniales",
+        "No genera ningún vínculo ni derecho de asistencia familiar obligatoria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 63.II, CPE",
+      "explicacion": "El Art. 63.II señala que las uniones libres de hecho con estabilidad y singularidad producen efectos similares al matrimonio civil."
+    },
+    {
+      "question": "El Artículo 108 de la CPE enumera los deberes de las bolivianas y los bolivianos. ¿Cuál de los siguientes es un deber expresamente contemplado?",
+      "options": [
+        "Afiliarse a un partido político o agrupación ciudadana obligatoriamente",
+        "Conocer, cumplir y hacer cumplir la Constitución y las leyes",
+        "Prestar servicios comunitarios no remunerados en el municipio de residencia",
+        "Aportar el 10% de los ingresos al fondo de desarrollo indígena"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 108.1, CPE",
+      "explicacion": "El numeral 1 del Art. 108 fija el deber primordial de conocer, cumplir y hacer cumplir la Constitución y las leyes del Estado."
+    },
+    {
+      "question": "Según el Artículo 109.I de la CPE, ¿cuál es la jerarquía y vigencia de todos los derechos reconocidos en la Constitución?",
+      "options": [
+        "Requieren de reglamentación por ley formal del Congreso para ser aplicables",
+        "Todos los derechos reconocidos en la Constitución son directamente aplicables y gozan de iguales garantías",
+        "Los derechos sociales prevalecen sobre los derechos individuales en caso de conflicto",
+        "Los derechos fundamentales son aplicables únicamente previa resolución judicial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 109.I, CPE",
+      "explicacion": "El Art. 109.I determina la aplicación directa e inmediata de todos los derechos constitucionales e igualdad de garantías."
+    },
+    {
+      "question": "La Acción de Libertad (Artículo 125) puede ser interpuesta por cualquier persona que considere que su vida está en peligro, que es ilegalmente perseguida, indebidamente procesada o privada de libertad. ¿Ante qué autoridad judicial se presenta?",
+      "options": [
+        "Exclusivamente ante el Presidente del Tribunal Supremo de Justicia en Sucre",
+        "Ante cualquier juez o tribunal competente en materia penal, y la sentencia se elevará de oficio en revisión ante el Tribunal Constitucional Plurinacional",
+        "Únicamente ante la Defensoría del Pueblo para su mediación previa",
+        "Ante el Ministerio de Justicia y Transparencia Institucional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 125 y 126, CPE",
+      "explicacion": "La Acción de Libertad se interpone ante cualquier juez o tribunal en materia penal, cuya resolución pasa de oficio a revisión ante el TCP."
+    },
+    {
+      "question": "¿En qué plazo debe celebrarse la audiencia pública de la Acción de Libertad tras la interposición de la demanda (Artículo 126.I)?",
+      "options": [
+        "Dentro de las 24 horas siguientes a la interposición de la acción",
+        "En el término de 48 horas hábiles",
+        "En un plazo improrrogable de 5 días de notificada la autoridad demandada",
+        "A los 3 días de sorteado el vocal relator"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 126.I, CPE",
+      "explicacion": "El Art. 126.I fija la obligación de señalar día y hora de audiencia dentro de las 24 horas siguientes a la interposición de la acción."
+    },
+    {
+      "question": "La Acción de Amparo Constitucional (Artículo 128) procede contra actos u omisiones ilegales o indebidos de servidores públicos o de personas individuales o colectivas. ¿Cuál es su requisito procesal de procedencia del precepto de subsidiaridad (Artículo 129.I)?",
+      "options": [
+        "Procede directamente sin necesidad de agotar vías administrativas previos",
+        "Siempre que no exista otro medio o recurso legal para la protección inmediata de los derechos y garantías",
+        "Se interpone en forma paralela a las apelaciones ordinarias penales o civiles",
+        "Requiere autorización expresa del Fiscal General del Estado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 129.I, CPE",
+      "explicacion": "El Amparo Constitucional es de naturaleza subsidiaria y procede siempre que no exista otro medio o recurso legal ordinario eficaz."
+    },
+    {
+      "question": "¿Cuál es el plazo máximo de caducidad para interponer la Acción de Amparo Constitucional conforme al Artículo 129.II de la CPE?",
+      "options": [
+        "En el plazo de 1 año computado a partir de la vulneración reclamada",
+        "En el plazo máximo de 6 meses computables a partir de la comisión de la vulneración o de notificada la última resolución administrativa o judicial",
+        "Es imprescriptible tratándose de derechos patrimoniales",
+        "En el término de 30 días calendario de ocurrido el acto ilegal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 129.II, CPE",
+      "explicacion": "El plazo máximo de interposición del Amparo Constitucional es de seis meses a partir de la vulneración o de notificada la resolución que agota la vía."
+    },
+    {
+      "question": "La Acción de Protección de Privacidad (Artículo 130) tiene por objeto garantizar el derecho de toda persona a conocer, objetar o rectificar sus datos. ¿Qué tipo de información NO podrá ser afectada ni revelada mediante esta acción según el marco constitucional?",
+      "options": [
+        "Información contenida en registros públicos del Notariado Plurinacional",
+        "Información sobre secreto de prensa y secreto profesional protegido por ley",
+        "Datos bancarios y movimientos financieros personales",
+        "Antecedentes penales y policiales cancelados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 130.II, CPE",
+      "explicacion": "El Art. 130.II estipula que la Acción de Protección de Privacidad no podrá invocar para violar el secreto de la fuente de información periodística."
+    },
+    {
+      "question": "¿Quiénes están legitimados para interponer la Acción Popular contemplada en el Artículo 135 de la CPE?",
+      "options": [
+        "Únicamente los Alcaldes Municipales y Gobernadores Departamentales",
+        "Cualquier persona, a título individual o en representación de una colectividad, y con carácter obligatorio el Ministerio Público y la Defensoría del Pueblo",
+        "Exclusivamente el Procurador General del Estado en defensa del patrimonio público",
+        "Únicamente las organizaciones sindicales legalmente constituidas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 136.II, CPE",
+      "explicacion": "La Acción Popular por derechos colectivos/difusos la puede interponer cualquier persona o colectividad, y obligatoriamente el Ministerio Público y la Defensoría."
+    },
+    {
+      "question": "Conforme al Artículo 137 de la CPE, ¿cuál es el presupuesto jurídico esencial para la declaración del Estado de Excepción por el Presidente del Estado?",
+      "options": [
+        "La aprobación de un Decreto Supremo motivado sin fiscalización legislativa previa",
+        "En caso de peligro grave, amenaza externa, conmoción interna o desastre natural que comprometa la seguridad del Estado o de la ciudadanía",
+        "La falta de quórum en la Asamblea Legislativa Plurinacional por más de 30 días",
+        "La solicitud expresa formulada por la mitad más uno de los Gobernadores"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 137, CPE",
+      "explicacion": "El Art. 137 faculta la declaración de Estado de Excepción ante peligro grave, amenaza externa, conmoción interna o desastre natural."
+    },
+    {
+      "question": "En el marco del Estado de Excepción (Artículo 138.I), ¿qué plazo tiene el Órgano Ejecutivo para remitir el Decreto a la Asamblea Legislativa Plurinacional para su aprobación?",
+      "options": [
+        "Dentro de las 24 horas siguientes a su dictación",
+        "Dentro de los 5 días posteriores a la publicación en la Gaceta Oficial",
+        "En el término de 10 días calendario de promulgado el Decreto",
+        "A la finalización del periodo de 60 días de duración"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 138.I, CPE",
+      "explicacion": "El Decreto de Estado de Excepción debe remitirse a la Asamblea Legislativa Plurinacional en el plazo de 24 horas para su autorización por dos tercios."
+    },
+    {
+      "question": "Durante la vigencia de un Estado de Excepción, ¿cuál de las siguientes garantías o derechos NO puede ser suspendido bajo ninguna circunstancia (Artículo 139.I)?",
+      "options": [
+        "El derecho a la inviolabilidad del domicilio",
+        "Las garantías del debido proceso, el derecho a la información y los derechos de las personas privadas de libertad",
+        "El derecho a la libre circulación por el territorio nacional",
+        "El derecho a la reunión pública y manifestación pacífica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 139.I, CPE",
+      "explicacion": "El Art. 139.I prohíbe expresamente la suspensión de las garantías del debido proceso, los derechos a la vida, la integridad y la información."
+    },
+    {
+      "question": "Según el Artículo 140.II de la CPE, ¿cuál es el efecto legal de los actos de las autoridades gubernamentales que vulneren derechos garantizados tras la finalización del Estado de Excepción?",
+      "options": [
+        "Quedan amnistiados de pleno derecho por razones de seguridad de Estado",
+        "Generan responsabilidad penal y civil imputable a las autoridades que los ordenaron o ejecutaron, la cual no prescribe",
+        "Se resuelven mediante indemnización fija administrada por la Contraloría",
+        "Requieren juicio político constitucional aprobatorio en el Congreso"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 140.II, CPE",
+      "explicacion": "Las violaciones a los derechos durante el Estado de Excepción generan responsabilidad penal y civil imprescriptible en los ejecutores y ordenantes."
+    },
+    {
+      "question": "Según el Artículo 145 de la CPE, ¿cómo está integrada la Asamblea Legislativa Plurinacional?",
+      "options": [
+        "Por una Cámara Unicameral de Representantes del Pueblo con 160 miembros",
+        "Por dos Cámaras: la Cámara de Diputados y la Cámara de Senadores",
+        "Por tres Cámaras: Diputados, Senadores y Consejo Indígena",
+        "Por la Cámara Plurinacional y el Consejo de Regiones Autónomas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 145, CPE",
+      "explicacion": "La Asamblea Legislativa Plurinacional es bicameral, compuesta por la Cámara de Diputados y la Cámara de Senadores."
+    },
+    {
+      "question": "De acuerdo con el Artículo 146.I de la CPE, ¿cuántos miembros integran la Cámara de Diputados y cuál es su sistema de elección?",
+      "options": [
+        "130 miembros; elegidos en circunscripciones uninominales, plurinominales y circunscripciones especiales indígena originario campesinas",
+        "150 miembros; elegidos proporcionalmente por listas cerradas departamentales",
+        "100 miembros; elegidos directamente por voto preferencial nacional",
+        "120 miembros; elegidos mediante sistema de representantes territoriales fijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 146.I y II, CPE",
+      "explicacion": "La Cámara de Diputados está formada por 130 miembros elegidos mediante circunscripciones uninominales, plurinominales y especiales."
+    },
+    {
+      "question": "¿Cuántos Senadores integran la Cámara de Senadores en total y cuántos corresponden a cada departamento conforme al Artículo 148.I de la CPE?",
+      "options": [
+        "27 Senadores en total; 3 por cada departamento",
+        "36 Senadores en total; 4 por cada departamento",
+        "45 Senadores en total; 5 por cada departamento",
+        "30 Senadores en total; asignados de acuerdo con la población departamental"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 148.I, CPE",
+      "explicacion": "La Cámara de Senadores está compuesta por 36 miembros en total, correspondiendo 4 Senadores a cada uno de los 9 departamentos."
+    },
+    {
+      "question": "Conforme al Artículo 156 de la CPE, ¿cuál es el periodo de mandato de las Asambleístas y los Asambleístas Legislativos Plurinacionales y cuál es su régimen de reelección?",
+      "options": [
+        "Mandato de 6 años; sin derecho a reelección en ningún caso",
+        "Mandato de 5 años; pudiendo ser reelectas o reelectos de manera continua por una sola vez",
+        "Mandato de 4 años; con reelección indefinida previa consulta popular",
+        "Mandato de 5 años; sin limitación en la reelección continua"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 156, CPE",
+      "explicacion": "El mandato es de 5 años y pueden ser reelectos de manera continua por una sola vez."
+    },
+    {
+      "question": "Según el Artículo 151.I de la CPE, las Asambleístas y los Asambleístas gozan de inviolabilidad personal. ¿Qué alcance exacto tiene esta prerrogativa?",
+      "options": [
+        "Inmunidad absoluta frente a cualquier delito común imputado durante su mandato",
+        "Inviolabilidad por las opiniones, comunicaciones, representaciones, requerimientos, opiniones o votos emitidos en el ejercicio de sus funciones",
+        "Protección contra juicios civiles y ejecutivos de cobro de deudas personales",
+        "Inmunidad diplomática internacional extensible a sus familiares directos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 151.I, CPE",
+      "explicacion": "Gozan de inviolabilidad permanente por las opiniones, votos e intervenciones vertidas en el ejercicio de sus funciones legislativas."
+    },
+    {
+      "question": "En el procedimiento legislativo (Artículo 163.4), si un proyecto de ley es presentado por un Senador, ¿cuál es la Cámara de Origen y cuál la Cámara Revisora?",
+      "options": [
+        "La Cámara de Diputados siempre actúa como Origen y Senadores como Revisora",
+        "La Cámara de Senadores será la Cámara de Origen y la Cámara de Diputados será la Cámara Revisora",
+        "El Congreso en Sesión Plenaria tramita el proyecto de origen directamente",
+        "Ambas cámaras deben debatirlo simultáneamente en comisiones mixtas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 163.4, CPE",
+      "explicacion": "La cámara donde se presenta la iniciativa es la Cámara de Origen, y la otra actúa como Cámara Revisora."
+    },
+    {
+      "question": "Si la Cámara Revisora modifica el proyecto de ley aprobado por la Cámara de Origen, ¿cuál es el procedimiento según el Artículo 163.7 de la CPE?",
+      "options": [
+        "El proyecto se desecha definitivamente y no puede presentarse hasta la siguiente legislatura",
+        "Pasa a la Cámara de Origen; si esta acepta las modificaciones, se remite al Ejecutivo; si no las acepta, la Asamblea Plurinacional en pleno decide por mayoría absoluta",
+        "El Presidente del Estado decide cuál de los dos textos promulgar",
+        "Se remite al Tribunal Constitucional Plurinacional para arbitraje de texto"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 163.7, CPE",
+      "explicacion": "Si no se aceptan los cambios, las discrepancias se dirimen en la Asamblea Legislativa Plurinacional por mayoría absoluta de los presentes."
+    },
+    {
+      "question": "¿En qué plazo debe el Presidente del Estado promulgar la ley aprobada por la Asamblea Legislativa o hacer observaciones a la misma (Artículo 163.10)?",
+      "options": [
+        "En el plazo de 10 días calendario de su recepción",
+        "En el plazo de 15 días desde su recepción",
+        "En el término de 30 días hábiles",
+        "Dentro de las 48 horas de notificado por el Senado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 163.10, CPE",
+      "explicacion": "El Presidente promulgará la ley en el plazo de 15 días desde su recepción o la devolverá con observaciones."
+    },
+    {
+      "question": "Si la Asamblea Legislativa considera fundadas las observaciones del Presidente del Estado a un proyecto de ley, ¿qué acción debe realizar (Artículo 163.11)?",
+      "options": [
+        "Modificará la ley conforme a las observaciones y la remitirá nuevamente para su promulgación",
+        "Desechará la ley debiendo archivar el obrado por dos años",
+        "Convocará a un referéndum ratificatorio de la norma",
+        "Solicitará control preventivo de constitucionalidad al TCP"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 163.11, CPE",
+      "explicacion": "Si las observaciones son consideradas fundadas, la ALP modificará el proyecto conforme a ellas y lo remitirá al Ejecutivo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 166.I de la CPE, ¿cómo está compuesta la fórmula para la elección del Presidente y Vicepresidente del Estado?",
+      "options": [
+        "En listas separadas por votación en circunscripción nacional y departamental",
+        "En una sola candidatura por votación directa, secreta y universal",
+        "Por votación indirecta en el seno de la Asamblea Legislativa Plurinacional",
+        "A propuesta del Consejo Supremo de Autonomías"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 166.I, CPE",
+      "explicacion": "La elección del Presidente y Vicepresidente se realiza en fórmula única por sufragio universal, directo y secreto."
+    },
+    {
+      "question": "Para proclamarse ganadora en primera vuelta electoral una candidatura presidencial, ¿qué porcentaje de votos válidos exige el Artículo 166.I de la CPE?",
+      "options": [
+        "Más del 50% de los votos válidos; o un mínimo del 40% con una diferencia de al menos 10% sobre la segunda candidatura más votada",
+        "El 50% más uno de todos los votos emitidos en las urnas",
+        "El 45% de votos válidos independientemente de la diferencia con el segundo",
+        "Dos tercios del total de votantes del padrón electoral biométrico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 166.I, CPE",
+      "explicacion": "Se requiere más del 50% de votos válidos, o más del 40% con una diferencia mínima del 10% sobre la segunda candidatura."
+    },
+    {
+      "question": "En caso de impedimento o ausencia definitiva de la Presidenta o Presidente del Estado, ¿cuál es el orden exacto de sucesión constitucional previsto en el Artículo 169.I?",
+      "options": [
+        "Vicepresidente, Presidente del Senado, Presidente de la Cámara de Diputados",
+        "Vicepresidente, Presidente del Tribunal Supremo de Justicia, Fiscal General",
+        "Presidente del Senado, Presidente de Diputados, Ministro de Presidencia",
+        "Vicepresidente, Canciller de la República, Presidente de la Asamblea"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 169.I, CPE",
+      "explicacion": "El orden de sucesión constitucional lo asume el Vicepresidente, a falta de este el Presidente del Senado, y a falta de este el Presidente de Diputados."
+    },
+    {
+      "question": "Si la sucesión constitucional recae en el Presidente de la Cámara de Diputados (Artículo 169.I, final), ¿qué obligación urgente le impone la Constitución?",
+      "options": [
+        "Gobernar hasta la conclusión del periodo de 5 años constitucional",
+        "Convocar inmediatamente a elecciones de la Presidenta o Presidente y Vicepresidenta o Vicepresidente en el plazo de 90 días",
+        "Formar un gabinete de unidad nacional con la oposición",
+        "Convocar a una Asamblea Constituyente en 180 días"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 169.I, CPE",
+      "explicacion": "En este caso se convoca a elecciones presidenciales en el plazo de 90 días a partir de la asunción del cargo."
+    },
+    {
+      "question": "Según el Artículo 172.8 de la CPE, ¿cuál es una atribución exclusiva de la Presidenta o del Presidente del Estado en materia legislativa dictada por necesidad?",
+      "options": [
+        "Dictar Leyes Marco con carácter de urgencia previa autorización judicial",
+        "Dictar Decretos Supremos y resoluciones reglamentarias sin poder crear impuestos por Decreto",
+        "Sancionar Códigos Morales de aplicación obligatoria inmediata",
+        "Aprobar el Presupuesto General sin participación parlamentaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 172.8, CPE",
+      "explicacion": "Le corresponde reglamentar las leyes mediante Decretos Supremos, sin alterar su contenido ni rebasar sus facultades constitutivas."
+    },
+    {
+      "question": "Conforme al Artículo 178.I de la CPE, la potestad de impartir justicia emana del pueblo boliviano. ¿Cuáles son los principios fundamentales que la sustentan?",
+      "options": [
+        "La sumisión al Poder Ejecutivo y la conveniencia de Estado",
+        "Independencia, imparcialidad, seguridad jurídica, publicidad, probidad, celeridad, gratuidad, pluralismo jurídico e interculturalidad",
+        "La discrecionalidad judicial y el Secreto de Estado procesal",
+        "La vigencia preferente del Derecho Romano sobre el Consuetudinario"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 178.I, CPE",
+      "explicacion": "El Art. 178.I lista los principios rectores de la administración de justicia: independencia, celeridad, gratuidad, pluralismo jurídico, etc."
+    },
+    {
+      "question": "¿Cómo está articulada la jurisdicción ordinaria con la jurisdicción indígena originaria campesina según el Artículo 179.II de la CPE?",
+      "options": [
+        "La jurisdicción ordinaria es jerárquicamente superior y revisa las decisiones de la justicia indígena",
+        "La jurisdicción ordinaria y la jurisdicción indígena originaria campesina gozan de igual jerarquía",
+        "La jurisdicción indígena solo aplica para faltas menores y temas vecinales",
+        "La jurisdicción ordinaria se subordina al Consejo de Capitanes Guaraníes"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 179.II, CPE",
+      "explicacion": "El Art. 179.II determina que la jurisdicción ordinaria y la indígena originaria campesina tienen la misma jerarquía constitucional."
+    },
+    {
+      "question": "Según el Artículo 182.I de la CPE, ¿cómo son elegidas las Magistradas y los Magistrados del Tribunal Supremo de Justicia?",
+      "options": [
+        "Designados por el Presidente del Estado con el acuerdo de dos tercios de Senadores",
+        "Por sufragio universal, previa preselección de postulantes por la Asamblea Legislativa Plurinacional por dos tercios de sus miembros presentes",
+        "Mediante concurso de méritos administrado por la Universidad Boliviana",
+        "Por cooptación interna de la Sala Plena del Tribunal Supremo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 182.I y II, CPE",
+      "explicacion": "Los Magistrados del TSJ se eligen mediante voto universal entre candidatos preseleccionados por dos tercios de votación de la ALP."
+    },
+    {
+      "question": "Conforme al Artículo 191 de la CPE, ¿cuál es el ámbito de vigencia personal y territorial de la Jurisdicción Indígena Originaria Campesina?",
+      "options": [
+        "Aplica a todos los ciudadanos del departamento sin distinción",
+        "Se aplica a los miembros de la nación o pueblo indígena originario campesino en su ámbito territorial tradicional",
+        "Solamente a los residentes rurales registrados en asociaciones de pequeños campesinos",
+        "Exclusivamente dentro del área demarcada como reserva forestal fiscal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 191, CPE",
+      "explicacion": "El ámbito de aplicación abarca el elemento personal (miembros del pueblo indígena) y territorial donde habita la comunidad."
+    },
+    {
+      "question": "El Consejo de la Magistratura (Artículo 193.I) es el órgano responsable de la instancia disciplinaria del Órgano Judicial. ¿Qué función tiene estrictamente PROHIBIDA respecto a los juicios?",
+      "options": [
+        "Sancionar faltas administrativas graves cometidas por los jueces",
+        "Ejercer funciones jurisdiccionales o interferir en la tramitación de causas concretas",
+        "Elaborar el presupuesto anual consolidado del Órgano Judicial",
+        "Administrar el escalafón del personal de apoyo judicial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 193.I, CPE",
+      "explicacion": "El Consejo de la Magistratura no puede bajo ninguna circunstancia ejercer funciones jurisdiccionales o de juzgamiento de causas."
+    },
+    {
+      "question": "¿Cuál es la función primordial del Tribunal Constitucional Plurinacional según el Artículo 196.I de la CPE?",
+      "options": [
+        "Juzgar en última instancia los delitos penales cometidos por ministros",
+        "Velar por la supremacía de la Constitución, ejercer el control de constitucionalidad y precautelar el respeto y la vigencia de los derechos y garantías constitucionales",
+        "Resolver los pleitos mercantiles entre el Estado y empresas transnacionales",
+        "Administrar la carrera judicial de los juzgados de instrucción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 196.I, CPE",
+      "explicacion": "El TCP ejerce el control concentrado de constitucionalidad y resguarda la supremacía de la Norma Suprema."
+    },
+    {
+      "question": "De acuerdo con el Artículo 206.I de la CPE, ¿cómo está compuesto el Órgano Electoral Plurinacional en su nivel superior (Tribunal Supremo Electoral)?",
+      "options": [
+        "Por 9 vocales elegidos en votación popular directa nacional",
+        "Por 7 miembros, de los cuales al menos 2 serán de origen indígena originario campesino; 6 son elegidos por la Asamblea Legislativa y 1 es designado por la Presidenta o Presidente del Estado",
+        "Por 5 vocales propuestos por los partidos políticos con representación legislativa",
+        "Por 12 delegados elegidos por las Asambleas Departamentales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 206.I y II, CPE",
+      "explicacion": "El TSE está compuesto por 7 vocales: 6 elegidos por la ALP (2 con identificación indígena) y 1 designado por la Presidencia del Estado."
+    },
+    {
+      "question": "Según el Artículo 213.I de la CPE, ¿cuál es la naturaleza y función de la Contraloría General del Estado?",
+      "options": [
+        "Es una dependencia del Ministerio de Economía para cobro de impuestos de mora",
+        "Es la institución técnica que ejerce la función de control de la administración de las entidades públicas y de aquéllas en las que el Estado tenga participación o interés económico",
+        "Un órgano judicial de juzgamiento penal por delitos tributarios",
+        "Una oficina de investigación del Banco Central de Bolivia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 213.I, CPE",
+      "explicacion": "La Contraloría ejerce el control técnico y fiscalización sobre la administración y recursos económicos públicos."
+    },
+    {
+      "question": "Conforme al Artículo 220 de la CPE, ¿quién nombra a la Defensora o al Defensor del Pueblo y con qué quórum de votación?",
+      "options": [
+        "Designado directamente por el Presidente del Estado mediante Decreto",
+        "Nombrado por la Asamblea Legislativa Plurinacional por dos tercios de los votos de sus miembros presentes",
+        "Elegido por votación directa popular en elecciones de medio término",
+        "Designado por el pleno del Tribunal Supremo de Justicia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 220, CPE",
+      "explicacion": "El Defensor del Pueblo es designado por dos tercios de votos de los miembros presentes de la Asamblea Legislativa Plurinacional."
+    },
+    {
+      "question": "La Fiscalía General del Estado (Artículo 225.I) ejerce la acción penal pública. ¿Cuál es la duración del mandato de la Fiscal o del Fiscal General del Estado (Artículo 227.II)?",
+      "options": [
+        "Mandato de 5 años; con posibilidad de reelección por un periodo igual",
+        "Mandato de 6 años; sin posibilidad de reelección posterior",
+        "Mandato de 10 años de carácter vitalicio previa evaluación de méritos",
+        "Mandato de 4 años sujeto a ratificación anual por el Senado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 227.II, CPE",
+      "explicacion": "El Fiscal General del Estado ejerce sus funciones por seis años, sin posibilidad de reelección."
+    },
+    {
+      "question": "Según el Artículo 229 de la CPE, la Procuraduría General del Estado es la institución de representación jurídica pública. ¿Cuál es su objetivo esencial?",
+      "options": [
+        "Defender las causas particulares de personas indigentes en la vía civil",
+        "Promover, defender y precautelar los intereses patrimoniales y públicos del Estado",
+        "Elaborar las leyes presupuestarias y de endeudamiento externo",
+        "Fiscalizar el cobro de regalías a las gobernaciones autonómicas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 229, CPE",
+      "explicacion": "La Procuraduría General del Estado tiene como función defender y precautelar los intereses patrimoniales del Estado boliviano."
+    },
+    {
+      "question": "De acuerdo con el Artículo 269.I de la CPE, ¿cuál es la organización territorial completa del Estado Plurinacional de Bolivia?",
+      "options": [
+        "Departamentos, provincias, cantones y distritos urbanos exclusivamente",
+        "Departamentos, provincias, municipios y territorios indígena originario campesinos",
+        "Regiones autonómicas, zonas francas y cantones de frontera",
+        "Gobernaciones autonómicas y prefecturas de departamento"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 269.I, CPE",
+      "explicacion": "La organización territorial comprende departamentos, provincias, municipios y territorios indígena originario campesinos."
+    },
+    {
+      "question": "Según el Artículo 271.I de la CPE, ¿qué norma jurídica regula la elaboración y aprobación de los Estatutos Autonómicos y Cartas Orgánicas?",
+      "options": [
+        "La Ley Marco de Autonomías y Descentralización",
+        "El Código Penal y Procesal Constitucional",
+        "Un Decreto Supremo promulgado por el Ministerio de Autonomías",
+        "Una Resolución Ministerial sancionada por el Senado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 271.I, CPE",
+      "explicacion": "La Ley Marco de Autonomías y Descentralización regula el régimen autonómico y la tramitación de estatutos y cartas orgánicas."
+    },
+    {
+      "question": "Conforme al Artículo 272 de la CPE, ¿en qué consiste la cualidad gubernativa fundamental que implica la autonomía?",
+      "options": [
+        "La independencia soberana respecto del Gobierno Central con moneda propia",
+        "La elección directa de sus autoridades, la administración de sus recursos económicos y el ejercicio de las facultades legislativa, reglamentaria, ejecutiva y fiscalizadora",
+        "La potestad de firmar tratados de límites con estados extranjeros de forma bilateral",
+        "La exención total del pago de impuestos nacionales en su jurisdicción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 272, CPE",
+      "explicacion": "La autonomía implica autogobierno: elección de autoridades, recursos propios y ejercicio de facultades legislativa, ejecutiva y reglamentaria."
+    },
+    {
+      "question": "¿Cuáles son los cuatro tipos de autonomías reconocidas en el Título I de la Tercera Parte de la CPE (Artículos 277 al 296)?",
+      "options": [
+        "Autonomía Departamental, Autonomía Municipal, Autonomía Regional y Autonomía Indígena Originaria Campesina",
+        "Autonomía Provincial, Cantonal, Urbana y Rural",
+        "Autonomía Fiscal, Judicial, Universitaria y Sindical",
+        "Autonomía Fronteriza, Marítima, Insular y Continental"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 277-296, CPE",
+      "explicacion": "La Constitución reconoce cuatro niveles de autonomía: Departamental, Regional, Municipal e Indígena Originaria Campesina."
+    },
+    {
+      "question": "Según el Artículo 279 de la CPE, ¿cómo está compuesto el órgano ejecutivo de los gobiernos autónomos departamentales?",
+      "options": [
+        "Por un Gobernador o Gobernadora, elegido por sufragio universal directo",
+        "Por un Subprefecto nombrado por el Presidente de la Asamblea Departamental",
+        "Por el Ministro de Gobierno como representante directo en la región",
+        "Por una Junta Comandante de la Policía y del Ejército"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 279, CPE",
+      "explicacion": "El órgano ejecutivo departamental está dirigido por la Gobernadora o el Gobernador, en calidad de máxima autoridad ejecutiva."
+    },
+    {
+      "question": "Conforme al Artículo 280.I de la CPE, ¿cómo se constituye una Región Autonómica dentro de un departamento?",
+      "options": [
+        "Por imposición de un Decreto Presidencial ratificado por el Congreso",
+        "Por la voluntad de varios municipios o provincias con continuidad geográfica y afinidad cultural, previo referéndum en su jurisdicción",
+        "Por decisión unánime de los parlamentarios brigadistas de la zona",
+        "Por ordenanza dictada por la Contraloría Departamental"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 280.I, CPE",
+      "explicacion": "La región se conforma por la agregación de municipios/provincias continuas por afinidad socioeconómica y aprobada en referéndum."
+    },
+    {
+      "question": "Respecto a las facultades normativas, ¿qué facultad expresamente NO tiene la Autonomía Regional según el Artículo 281 de la CPE?",
+      "options": [
+        "No tiene facultad reglamentaria",
+        "No posee facultad legislativa en su estructura de gobierno",
+        "No puede ejercer la facultad ejecutiva sobre sus obras",
+        "No puede administrar recursos de transferencias estatales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 281, CPE",
+      "explicacion": "A diferencia de las autonomías departamental y municipal, la autonomía regional no goza de potestad legislativa."
+    },
+    {
+      "question": "Según el Artículo 283 de la CPE, ¿cuál es el órgano deliberativo, fiscalizador y legislativo del Gobierno Autónomo Municipal?",
+      "options": [
+        "La Alcaldía Constitucional",
+        "El Concejo Municipal",
+        "El Cabildo Comunal Abierto",
+        "La Junta Escolar de Distrito"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 283, CPE",
+      "explicacion": "El Concejo Municipal ejerce las facultades deliberativa, fiscalizadora y legislativa municipal en el ámbito de sus competencias."
+    },
+    {
+      "question": "De acuerdo con el Artículo 291 de la CPE, ¿quiénes pueden conformar la Autonomía Indígena Originaria Campesina?",
+      "options": [
+        "Únicamente los municipios con más de 100.000 habitantes urbanos",
+        "Los territorios indígena originario campesinos, los municipios y regiones que se conviertan a esta condición conforme a la Constitución y la Ley",
+        "Las cooperativas mineras registradas en el Ministerio de Minería",
+        "Cualquier comunidad rural sin requerimiento de ancestralidad previa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 291, CPE",
+      "explicacion": "La autonomía indígena se constituye en los territorios ancestrales, o mediante la conversión de municipios y regiones."
+    },
+    {
+      "question": "El Artículo 297.I de la CPE clasifica las competencias de los niveles territoriales del Estado en cuatro categorías. ¿Cuáles son?",
+      "options": [
+        "Competencias Privativas, Exclusivas, Concurrentes y Compartidas",
+        "Competencias Locales, Nacionales, Internacionales y Especiales",
+        "Competencias Judiciales, Tributarias, Militares y Civiles",
+        "Competencias Ordinarias, Extraordinarias, Emergentes y Provisionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 297.I, CPE",
+      "explicacion": "El Art. 297.I establece las 4 competencias: Privativas (solo nivel central), Exclusivas, Concurrentes y Compartidas."
+    },
+    {
+      "question": "¿En qué consisten las Competencias Privativas reservadas al nivel central del Estado (Artículo 297.I.1)?",
+      "options": [
+        "Aquellas cuya legislación se delega a los municipios de frontera",
+        "Aquellas cuya legislación, reglamentación y ejecución no se transfiere ni delega a ningún otro nivel territorial",
+        "Aquellas aprobadas en los Estatutos Autonómicos por referéndum",
+        "Aquellas ejecutadas de manera compartida con las Fuerzas Armadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 297.I.1, CPE",
+      "explicacion": "Las competencias privativas son indelegables e intransferibles, siendo reservadas únicamente al nivel central del Estado."
+    },
+    {
+      "question": "Según el Artículo 298.I de la CPE, ¿cuál de los siguientes sectores es una competencia PRIVATIVA del nivel central del Estado?",
+      "options": [
+        "El servicio de alumbrado público municipal",
+        "La política monetaria, el sistema financiero y la defensa del Estado",
+        "La administración de mercados y centros de abasto",
+        "El aseo urbano y recojo de residuos sólidos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 298.I, CPE",
+      "explicacion": "La política monetaria, las relaciones internacionales y la defensa nacional son competencias privativas del Estado central."
+    },
+    {
+      "question": "En el marco de las Competencias Concurrentes (Artículo 297.I.3), ¿cómo se distribuyen las facultades entre el nivel central y los niveles autonómicos?",
+      "options": [
+        "El nivel central legisla y la reglamentación y ejecución la realizan los otros niveles territoriales",
+        "Cada nivel aprueba su propia ley sobre el mismo asunto independientemente",
+        "Los municipios legislan y el Estado ejecuta mediante decretos",
+        "Las gobernaciones reglamentan mientras los alcaldes cobran impuestos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 297.I.3, CPE",
+      "explicacion": "En las competencias concurrentes, la legislación corresponde al nivel central y la reglamentación/ejecución se ejerce de manera simultánea."
+    },
+    {
+      "question": "Según el Artículo 299.II de la CPE, ¿cuál de los siguientes campos es una competencia CONCURRENTE entre el nivel central y las entidades autonómicas?",
+      "options": [
+        "La acuñación de moneda legal",
+        "La gestión de la salud y educación en sus aspectos operativos y de infraestructura",
+        "El control del espacio aéreo nacional",
+        "El registro público de comercio y marcas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 299.II, CPE",
+      "explicacion": "La salud y la educación son competencias concurrentes respecto a la gestión operativa, infraestructura y equipamiento."
+    },
+    {
+      "question": "Conforme al Artículo 300.I de la CPE, ¿cuál es una competencia EXCLUSIVA de los gobiernos autónomos departamentales en su jurisdicción?",
+      "options": [
+        "Elaborar su Estatuto Autonómico y administrar sus recursos económicos de inversión departamental",
+        "Emitir billetes de curso legal y fijar el tipo de cambio oficial",
+        "Crear aduanas interiores para el cobro de aranceles de paso",
+        "Aprobar leyes de amnistía penal general"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 300.I, CPE",
+      "explicacion": "Elaborar su estatuto y gestionar las políticas de desarrollo departamental son competencias exclusivas de la gobernación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 302.I de la CPE, ¿cuál es una competencia EXCLUSIVA del Gobierno Autónomo Municipal?",
+      "options": [
+        "La defensa de las fronteras territoriales",
+        "El catastro urbano en su jurisdicción conforme a las políticas nacionales",
+        "El registro consular de bolivianos en el exterior",
+        "La exploración hidrocarburífera en su radio urbano"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 302.I.10, CPE",
+      "explicacion": "La administración y elaboración del catastro urbano es una competencia exclusiva del municipio."
+    },
+    {
+      "question": "Si surge un conflicto de competencias no resuelto entre el nivel central y una entidad territorial autónoma, ¿qué órgano debe resolverlo (Artículo 202.2)?",
+      "options": [
+        "El Tribunal Supremo de Justicia",
+        "El Tribunal Constitucional Plurinacional",
+        "El Ministerio de Economía y Finanzas",
+        "El Consejo Nacional de Autonomías por mayoría simple"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 202.2, CPE",
+      "explicacion": "El TCP tiene la atribución de conocer y resolver los conflictos de competencias entre el nivel central y las entidades territoriales."
+    },
+    {
+      "question": "Según el Artículo 284.I de la CPE, ¿cómo deben ser aprobados definitivamente los Estatutos Autonómicos o Cartas Orgánicas?",
+      "options": [
+        "Mediante Decreto del Gobernador ratificado por el Senado",
+        "Aprobados por dos tercios del total de miembros de su órgano deliberativo y validados por control Constitucional y consulta popular en referéndum",
+        "Por resolución de la Contraloría Departamental",
+        "Por promulgación directa de la Asamblea Plurinacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 284.I, CPE",
+      "explicacion": "Requieren aprobación por 2/3 del órgano deliberativo local, declaración de constitucionalidad por el TCP y referéndum aprobatorio."
+    },
+    {
+      "question": "Conforme al Artículo 304.I de la CPE, las autonomías indígena originario campesinas ejercen competencias exclusivas. ¿Cuál de las siguientes es una de ellas?",
+      "options": [
+        "Dictar leyes de comercio exterior internacional",
+        "Elaborar su Estatuto para la definición de sus autoridades según sus propias normas y procedimientos propios",
+        "Crear monedas locales de circulación obligatoria nacional",
+        "Administrar la aviación civil de transporte de carga"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 304.I, CPE",
+      "explicacion": "Tienen la competencia exclusiva de definir sus autoridades y gobierno propio según usanzas y procedimientos ancestrales."
+    },
+    {
+      "question": "En el marco del régimen económico territorial (Artículo 305), ¿qué requisito exige la asignación o transferencia de nuevas competencias a las autonomías?",
+      "options": [
+        "La reducción del salario de las autoridades locales",
+        "La transferencia simultánea de los recursos económicos suficientes para su financiamiento",
+        "La previa aprobación del Banco Mundial",
+        "El incremento obligatorio de impuestos municipales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 305, CPE",
+      "explicacion": "Toda transferencia o asignación de nuevas competencias debe ir acompañada de la correspondiente asignación de recursos económicos."
+    },
+    {
+      "question": "Según el Artículo 306.I de la CPE, ¿cuál es la estructura del Modelo Económico Social Comunitario y Productivo de Bolivia?",
+      "options": [
+        "Modelo de libre mercado de competencia neoliberal pura",
+        "La organización económica estatal orientada al libre comercio exterior",
+        "La economía plural, articulada por las formas de organización económica estatal, privada, comunitaria y social cooperativa",
+        "Economía estatizada centralizada basada en la planificación colectiva obligatoria"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 306.I y II, CPE",
+      "explicacion": "El modelo económico es plural, constituido por cuatro formas de organización: estatal, privada, comunitaria y social cooperativa."
+    },
+    {
+      "question": "Conforme al Artículo 309 de la CPE, ¿cuál es el rol fundamental de la forma de organización económica estatal?",
+      "options": [
+        "Subordinarse al sector privado para evitar distorsiones de precios",
+        "Ejercer el liderazgo de la economía plural, administrar los recursos naturales y dirigir los sectores estratégicos",
+        "Prohibir la participación de capitales extranjeros en el sector servicios",
+        "Importar la totalidad de los bienes insumos de la canasta básica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 309, CPE",
+      "explicacion": "La economía estatal conduce el desarrollo económico, administra los recursos naturales y dirige áreas estratégicas."
+    },
+    {
+      "question": "El Artículo 311.II.1 de la CPE establece que la economía plural se sustenta en diversos principios. ¿Cuál es la función asignada al Estado respecto a la industrialización?",
+      "options": [
+        "Exportar materias primas sin procesamiento local para reducir costos",
+        "El Estado ejercerá el monopolio de la producción agrícola a gran escala",
+        "El Estado promoverá la industrialización de los recursos naturales renovables y no renovables para superar la dependencia primario-exportadora",
+        "Subcontratar la refinación de minerales con países vecinos exclusivamente"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 311.II.1, CPE",
+      "explicacion": "El Estado asume la tarea estratégica de promover la industrialización con valor agregado de las materias primas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 312.I de la CPE, ¿cuál es la actitud del Estado frente al monopolio y oligopolio privado?",
+      "options": [
+        "Se incentivan los monopolios si son filiales de empresas nacionales",
+        "Se prohíbe el monopolio y el oligopolio privado, así como cualquier otra forma de asociación que tienda al control exclusivo de mercados",
+        "Se autorizan mediante ley expresa aprobada por un periodo de 20 años",
+        "Se permiten en el ámbito de las telecomunicaciones y la prensa escrita"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 312.I, CPE",
+      "explicacion": "La CPE prohíbe taxativamente el monopolio y el oligopolio privados en la economía nacional."
+    },
+    {
+      "question": "Según el Artículo 320.I de la CPE, ¿cuál es el principio ordenador sobre las inversiones extranjeras en territorio boliviano?",
+      "options": [
+        "Gozarán de exenciones tributarias superiores a la industria nacional",
+        "Estarán sometidas a la jurisdicción, a las leyes y a las autoridades bolivianas, sin que puedan invocar inmunidad diplomática",
+        "No pagan tributos durante los primeros diez años de funcionamiento",
+        "Podrán recurrir directamente a tribunales de arbitraje sin agotar la vía interna"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 320.I, CPE",
+      "explicacion": "Toda inversión extranjera se somete estrictamente a las leyes, tribunales y soberanía del Estado boliviano."
+    },
+    {
+      "question": "En materia fiscal (Artículo 321.I), ¿quién administra la gestión del presupuesto público e ingresos estatales?",
+      "options": [
+        "El Banco Central de Bolivia de manera autónoma",
+        "La Ley de Presupuesto General del Estado, presentada anualmente por el Órgano Ejecutivo a la Asamblea Legislativa Plurinacional",
+        "Las gobernaciones en conferencia de coordinadores",
+        "El Fondo Monetario Internacional mediante cartas de intenciones"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 321.I, CPE",
+      "explicacion": "La determinación del presupuesto se rige por la Ley del Presupuesto General del Estado presentada por el Ejecutivo a la ALP."
+    },
+    {
+      "question": "Conforme al Artículo 323.I de la CPE, los tributos se clasifican en impuestos, tasas, contribuciones especiales y patentes. ¿Cuáles son los principios del régimen tributario?",
+      "options": [
+        "Confiscatoriedad, retroactividad y reserva de soberanía",
+        "Capacidad económica, igualdad, progresividad, proporcionalidad, transparencia, universalidad y no confiscatoriedad",
+        "Oportunidad patronal y deducción ilimitada",
+        "Imposición fija de tarifa plana para todos los contribuyentes"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 323.I, CPE",
+      "explicacion": "El régimen tributario se sustenta en principios de capacidad económica, progresividad, proporcionalidad y no confiscatoriedad."
+    },
+    {
+      "question": "Según el Artículo 328.I de la CPE, ¿cuál es la naturaleza y objetivo del Banco Central de Bolivia (BCB)?",
+      "options": [
+        "Una entidad privada de accionistas banqueros que otorga crédito de consumo",
+        "Una institución de derecho público, con personalidad jurídica y patrimonio propio, que busca mantener la estabilidad del poder adquisitivo interno de la moneda",
+        "Una división fiscal dependiente del Ministerio de Minería",
+        "Un organismo descentralizado con sede en la ciudad de Cochabamba"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 328.I, CPE",
+      "explicacion": "El BCB es una entidad pública autónoma que tiene por misión mantener la estabilidad del poder adquisitivo de la moneda."
+    },
+    {
+      "question": "De acuerdo con el Artículo 339.II de la CPE, la creación, modificación o supresión de tributos nacionales se realiza mediante qué instrumento normativo?",
+      "options": [
+        "Decreto Supremo de Gabinete de Ministros",
+        "Ley sancionada por la Asamblea Legislativa Plurinacional",
+        "Resolución Administrativa de Impuestos Nacionales",
+        "Dictamen del Directorio del Banco Central"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 339.II, CPE",
+      "explicacion": "En virtud del principio de legalidad tributaria, los tributos nacionales solo pueden crearse, modificarse o suprimirse por Ley."
+    },
+    {
+      "question": "El Artículo 348.I de la CPE define el carácter de los recursos naturales (minerales, hidrocarburos, agua, bosques). ¿A quién pertenecen?",
+      "options": [
+        "A los propietarios inscritos en el Registro de Derechos Reales del suelo",
+        "Son de propiedad y dominio directo, indivisible e imprescriptible del pueblo boliviano, y corresponderá al Estado su administración en función del interés colectivo",
+        "A las empresas mineras trasnacionales concesionarias",
+        "A los gobiernos municipales donde se encuentren ubicados los yacimientos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 348.I, CPE",
+      "explicacion": "Los recursos naturales son de dominio indivisible e imprescriptible del pueblo boliviano, administrados por el Estado."
+    },
+    {
+      "question": "Según el Artículo 349.II de la CPE, ¿cuál es la prohibición sobre la titularidad privada de los recursos naturales?",
+      "options": [
+        "Ningún título de propiedad sobre la tierra otorga la propiedad sobre los recursos naturales del subsuelo",
+        "Se permite la venta libre de pozos petroleros a personas individuales",
+        "Se autoriza la titularización de reservas gasíferas en bolsas de valores extranjeras",
+        "Los recursos del subsuelo pertenecen al dueño del terreno si paga una regalía adicional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 349.II, CPE",
+      "explicacion": "El derecho sobre la superficie o suelo no concede derecho alguno sobre los recursos naturales del subsuelo."
+    },
+    {
+      "question": "Conforme al Artículo 351.I de la CPE, ¿quién asume la dirección del desarrollo de la cadena productiva de los hidrocarburos?",
+      "options": [
+        "Las multinacionales extranjeras mediante contratos de concesión abierta",
+        "El Estado, a través de Yacimientos Petrolíferos Fiscales Bolivianos (YPFB), como entidad autárquica de derecho público",
+        "La Asociación Nacional de Surtidores Privados (ASOSUR)",
+        "Los Comités Civiles de los departamentos productores"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 351.I y 361, CPE",
+      "explicacion": "YPFB es la única entidad autorizada para realizar las actividades de la cadena productiva de hidrocarburos en representación del Estado."
+    },
+    {
+      "question": "El Artículo 359.I de la CPE establece la titularidad de los hidrocarburos en boca de pozo. ¿A quién pertenecen de manera inalienable?",
+      "options": [
+        "A las empresas operadoras que firmaron el contrato de servicios",
+        "El Estado recupera la propiedad de todos los hidrocarburos en boca de pozo y comercializa su totalidad",
+        "Se dividen al 50% entre el propietario del fundo y la petrolera",
+        "A la gobernación del departamento donde se extrae la producción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 359.I, CPE",
+      "explicacion": "Todos los hidrocarburos en boca de pozo son de propiedad inalienable e imprescriptible del Estado boliviano."
+    },
+    {
+      "question": "Según el Artículo 369.I de la CPE, el Estado será responsable de las riquezas mineralógicas. ¿Qué entidad autárquica dirige la minería estatal?",
+      "options": [
+        "La Corporación Minera de Bolivia (COMIBOL)",
+        "El Banco Minero de Crédito",
+        "El Sindicato Unificado de Mineros de Bolivia",
+        "La Autoridad de Impugnación Tributaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 369.I y 370, CPE",
+      "explicacion": "COMIBOL dirige la industria minera estatal con facultades en la cadena productiva metalúrgica del país."
+    },
+    {
+      "question": "Respecto a los recursos hídricos (Artículo 373.I), ¿cuál es el estatus constitucional del agua?",
+      "options": [
+        "El agua es un bien de consumo sujeto a las leyes de la oferta y la demanda de mercado",
+        "El agua constituye un derecho fundamentalísimo para la vida, en el marco de la soberanía del pueblo. El Estado promoverá su uso y acceso sobre la base de principios de solidaridad",
+        "Puede ser privatizada mediante concesiones a 40 años plazo",
+        "Es un recurso susceptible de apropiación privada lucrativa en nacientes de ríos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 373.I, CPE",
+      "explicacion": "El agua es considerada un derecho humano y fundamentalísimo para la vida, prohibiéndose su privatización."
+    },
+    {
+      "question": "Conforme al Artículo 374.I de la CPE, ¿qué régimen de explotación queda estrictamente PROHIBIDO sobre el agua?",
+      "options": [
+        "El servicio público comunal de agua potable",
+        "El agua no será objeto de concesiones privadas ni de privatización",
+        "La perforación de pozos tubulares profundos",
+        "El almacenamiento de agua de lluvia en represas agrícolas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 374.I, CPE",
+      "explicacion": "El agua y sus servicios no serán objeto de concesiones privadas ni de privatización mercantil."
+    },
+    {
+      "question": "El Artículo 384 de la CPE otorga un marco de protección especial a la hoja de coca. ¿Qué declaración establece?",
+      "options": [
+        "Se declara estupefaciente prohibido sin excepciones dentro del territorio nacional",
+        "El Estado protege a la coca originaria y ancestral como patrimonio cultural, recurso natural renovable de la biodiversidad de Bolivia, y como factor de cohesión social",
+        "Se permite el libre cultivo ilimitado sin registro fitosanitario",
+        "Se autoriza su industrialización únicamente para exportación de derivados químicos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 384, CPE",
+      "explicacion": "La CPE protege a la coca originaria y ancestral como patrimonio cultural y factor de cohesión social de Bolivia."
+    },
+    {
+      "question": "En el régimen agrario (Artículo 394.II), la pequeña propiedad es inembargable. ¿Qué otra cualidad jurídica tiene?",
+      "options": [
+        "Está sujeta al pago del impuesto a la propiedad de bienes inmuebles rurales",
+        "No está sujeta al pago de impuestos a la propiedad agraria y constituye patrimonio familiar inembargable e indivisible",
+        "Se puede dividir libremente entre los herederos en parcelas menores a 1 hectárea",
+        "Se puede vender mediante documento privado simple sin registro formal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 394.II, CPE",
+      "explicacion": "La pequeña propiedad es inembargable, indivisible y está exenta del pago de impuestos agrarios."
+    },
+    {
+      "question": "De acuerdo con el Artículo 398 de la CPE, ¿qué forma de tenencia de la tierra queda expresamente prohibida por ser contraria al interés colectivo?",
+      "options": [
+        "La propiedad comunitaria indígena",
+        "El latifundio y la doble titulación, por ser contrarios al interés colectivo y al desarrollo del país",
+        "La mediana propiedad productiva con trabajadores contratados",
+        "El usufructo de bosques bajo planes de manejo sostenible"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 398, CPE",
+      "explicacion": "Se prohíbe expresamente el latifundio y la doble titulación de tierras por ser contrarios a la función económico-social."
+    },
+    {
+      "question": "Según el Artículo 399.I de la CPE, ¿qué ocurre con las propiedades agrarias constituidas antes de la vigencia de la Constitución de 2009?",
+      "options": [
+        "Se anulan automáticamente debiendo revertir al Estado sin trámite",
+        "Se respetan los derechos de propiedad que cumplan la Función Económico Social y no sean latifundios",
+        "Deben pagar una multa compensatoria a los municipios rurales",
+        "Se convierten obligatoriamente en reservas forestales exclusivas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 399.I, CPE",
+      "explicacion": "Se salvan y respetan los derechos adquiridos sobre tierras si cumplen la Función Económico Social (FES)."
+    },
+    {
+      "question": "Según el Artículo 410.I de la CPE, ¿cuál es la norma suprema del ordenamiento jurídico boliviano que goza de primacía frente a cualquier otra?",
+      "options": [
+        "La Ley Marco de Autonomías y Descentralización",
+        "La Constitución Política del Estado",
+        "Los Tratados Internacionales sobre Comercio Exclusivo",
+        "Los Decretos Supremos aprobados en Gabinete"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 410.I, CPE",
+      "explicacion": "La CPE es la norma suprema del ordenamiento jurídico boliviano y goza de primacía frente a cualquier otra disposición."
+    },
+    {
+      "question": "En la pirámide de jerarquía normativa del Artículo 410.II de la CPE, ¿cuál es el orden correcto de aplicación de las normas a continuación de la Constitución?",
+      "options": [
+        "1. Tratados internacionales, 2. Leyes nacionales, estatutos autonómicos y cartas orgánicas, 3. Decretos, 4. Resoluciones no normativas",
+        "1. Leyes Departamentales, 2. Leyes Nacionales, 3. Tratados, 4. Ordenanzas",
+        "1. Decretos Supremos, 2. Código Civil, 3. Estatutos, 4. Reglamento del Congreso",
+        "1. Sentencias Constitucionales, 2. Circulares del Banco Central, 3. Leyes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 410.II, CPE",
+      "explicacion": "El orden jerárquico es: CPE, Tratados Internacionales, Leyes/Estatutos/Cartas Orgánicas, Decretos y Resoluciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 410.II (párrafo segundo), ¿cuándo prevalecen los Tratados e Instrumentos Internacionales en materia de Derechos Humanos sobre la Constitución?",
+      "options": [
+        "En ningún caso, la Constitución siempre prevalece sin excepción",
+        "Cuando declaren derechos más favorables a los contenidos en la Constitución",
+        "Solo si son aprobados por la OEA por unanimidad de votos",
+        "Cuando se trate de acuerdos bilaterales sobre límites territoriales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 410.II, CPE",
+      "explicacion": "Los tratados en DDHH suscritos y ratificados que declaren derechos más favorables prevalecen sobre la CPE."
+    },
+    {
+      "question": "¿En qué consiste la Reforma Total de la Constitución conforme al Artículo 411.I de la CPE y cuál es el procedimiento para llevarla a cabo?",
+      "options": [
+        "Se aprueba por Ley ordinaria aprobada por mayoría absoluta del Congreso",
+        "Tendrá lugar a través de una Asamblea Constituyente originaria plenipotenciaria, activada por iniciativa popular (20% del padrón), por dos tercios de la ALP o por el Presidente",
+        "Se realiza mediante consulta promovida por la Sala Plena del Tribunal Supremo",
+        "Se efectúa por resolución del Consejo Nacional de Autonomías"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 411.I, CPE",
+      "explicacion": "La Reforma Total exige la convocatoria a una Asamblea Constituyente activada por iniciativa popular (20%), por 2/3 de la ALP o por el Presidente."
+    },
+    {
+      "question": "Para que una Reforma Parcial de la Constitución (Artículo 411.II) entre en vigencia formal, ¿qué requisito indispensable posterior se requiere?",
+      "options": [
+        "Un simple informe favorable dictado por el Ministerio de Justicia",
+        "Su aprobación mediante referéndum constitucional ratificatorio por la mayoría de los votantes",
+        "La homologación por el Parlamento Andino de Naciones",
+        "Su publicación en tres periódicos de circulación nacional sin más trámite"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 411.II, CPE",
+      "explicacion": "La reforma parcial aprobada por Ley de la ALP (2/3) requiere obligatoriamente referéndum ratificatorio para su entrada en vigencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 12.I y II de la CPE, ¿cómo se organiza la estructura del Estado Plurinacional en cuanto a sus Órganos y la delegación de funciones?",
+      "options": [
+        "Se organiza en los órganos Legislativo, Ejecutivo, Judicial y Electoral; las funciones de los órganos públicos no pueden ser reunidas en un solo órgano ni son delegables entre sí",
+        "Se organiza en tres poderes clásicos; las funciones ejecutivas pueden ser asumidas por la Asamblea Legislativa mediante Ley de Emergencia",
+        "Se compone de dos poderes soberanos, pudiendo el Ejecutivo delegar funciones normativas plenipotenciarias al Ministerio de Defensa",
+        "Los cuatro órganos se unifican bajo la tuición suprema del Consejo de Capitanes e Indígenas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.I y II, CPE",
+      "explicacion": "El Art. 12 establece la independencia, separación y coordinación de los cuatro Órganos públicos, prohibiendo la reunión o delegación de sus funciones."
+    },
+    {
+      "question": "Según el Artículo 26.II de la CPE, ¿cuáles son las tres formas en que se ejerce la democracia en el Estado Plurinacional de Bolivia?",
+      "options": [
+        "Democracia Directa y participativa, Democracia Representativa y Democracia Comunitaria",
+        "Democracia Parlamentaria, Democracia Presidencialista y Democracia Sindical",
+        "Democracia Orgánica, Democracia Corporativa y Democracia Comunal",
+        "Democracia de Partidos, Democracia Vecinal y Democracia Electoral"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26.II, CPE",
+      "explicacion": "El Art. 26.II determina que la democracia se ejerce en forma Directa y participativa, Representativa y Comunitaria."
+    },
+    {
+      "question": "Conforme al Artículo 113.I de la CPE, en caso de que una persona sea condenada indebidamente o sufra error judicial, ¿qué obligación asume el Estado?",
+      "options": [
+        "El Estado reparará o indemnizará a la víctima por los daños y perjuicios sufridos, y el juzgador responderá según la ley",
+        "Se otorgará únicamente una disculpa pública sin resarcimiento económico",
+        "El afectado debe querellarse exclusivamente contra el patrimonio personal del juez sancionado",
+        "La reparación prescribe a los 6 meses del fallo de la Acción de Libertad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 113.I, CPE",
+      "explicacion": "El Art. 113.I consagra la responsabilidad del Estado para indemnizar el error judicial o la condena indebida."
+    },
+    {
+      "question": "El Artículo 115.II de la CPE garantiza el derecho al debido proceso. ¿Cuáles son los atributos constitucionales exigidos a la administración de justicia?",
+      "options": [
+        "Proceso secreto, sumario, reservado y condicionado a la solvencia de las partes",
+        "Justicia pronta, oportuna, gratuita, transparente y sin dilaciones",
+        "Justicia diferida, arbitral privada, costosa e inimpugnable",
+        "Proceso supeditado a la decisión de la Asamblea Legislativa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 115.II, CPE",
+      "explicacion": "El Art. 115.II garantiza una justicia pronta, oportuna, gratuita, transparente y sin dilaciones."
+    },
+    {
+      "question": "Según el Artículo 118.I y II de la CPE, ¿cuál es la pena máxima máxima privativa de libertad permitida en Bolivia y cuál es el estatus de las penas de infamia o muerte?",
+      "options": [
+        "Pena máxima de 30 años sin derecho a indulto; la pena de muerte y la infamia están estrictamente prohibidas",
+        "Cadena perpetua revisable a los 25 años; la pena de muerte procede en caso de traición a la patria",
+        "Pena máxima de 50 años; se permite la pena de muerte para delitos de feminicidio",
+        "Pena de 20 años renovable; se admite la infamia civil para delitos tributarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 118.I y II, CPE",
+      "explicacion": "Está prohibida la pena de muerte y las de infamia; la máxima sanción penal es de 30 años sin derecho a indulto."
+    },
+    {
+      "question": "Conforme a la Disposición Abrogatoria de la Constitución Política del Estado de 2009, ¿qué texto constitucional quedó expresamente abrogado?",
+      "options": [
+        "La Constitución Política del Estado de 1994 y sus Decretos Reglamentarios",
+        "Queda abrogada la Constitución Política del Estado de 1967 y sus reformas posteriores",
+        "La Carta Magna de 1947 y las Leyes Constitucionales de 1982",
+        "El Ordenamiento Constitucional del Congreso de 1938"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Abrogatoria, CPE",
+      "explicacion": "La Disposición Abrogatoria establece: 'Queda abrogada la Constitución Política del Estado de 1967 y sus reformas posteriores'."
+    }
+  ]
+}

@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "05_ley_548_codigo_nina_nino_adolescente",
+    "nombre": "Ley 548 Código Niña, Niño y Adolescente",
+    "detalle": "",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objeto principal del Código Niña, Niño y Adolescente (Ley N° 548) según su Artículo 1?",
+      "options": [
+        "Reconocer, desarrollar y regular el ejercicio de los derechos de la niña, niño y adolescente, implementando un Sistema Plurinacional Integral",
+        "Reglamentar exclusivamente las sanciones penales aplicables a los padres en caso de abandono familiar",
+        "Crear un cuerpo policial especializado para la custodia de albergues y centros infantiles",
+        "Sustituir las funciones de la jurisdicción ordinaria en materia de administración de bienes de menores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 548",
+      "explicacion": "El Artículo 1 establece que el objeto es reconocer, desarrollar y regular el ejercicio de los derechos de la niña, niño y adolescente mediante el Sistema Plurinacional Integral."
+    },
+    {
+      "question": "Según el Artículo 5 de la Ley N° 548, ¿cuáles son las etapas de desarrollo que definen a los sujetos de derechos de este Código?",
+      "options": [
+        "Primera infancia de 0 a 6 años y adolescencia de 12 a 18 años",
+        "Niñez desde la concepción hasta los doce (12) años cumplidos; y Adolescencia desde los doce (12) años hasta los dieciocho (18) años cumplidos",
+        "Infancia desde el nacimiento hasta los 10 años y adolescencia desde los 10 hasta los 21 años",
+        "Niñez desde los 2 años hasta los 14 años y juventud desde los 14 hasta los 18 años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5, Ley N° 548",
+      "explicacion": "El Artículo 5 clasifica la niñez desde la concepción hasta los 12 años cumplidos, y la adolescencia desde los 12 hasta los 18 años cumplidos."
+    },
+    {
+      "question": "Conforme al Artículo 6 de la Ley N° 548, ¿cómo se subclasifica la niñez para fines de atención diferenciada?",
+      "options": [
+        "Primera infancia de 0 a 3 años e infancia intermedia de 4 a 12 años",
+        "Primera infancia desde el nacimiento hasta los cinco (5) años, e infancia escolar entre los seis (6) y doce (12) años",
+        "Lactancia de 0 a 2 años y etapa preescolar de 3 a 5 años",
+        "Infancia temprana de 0 a 4 años e infancia tardía de 5 a 11 años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6, Ley N° 548",
+      "explicacion": "El Artículo 6 establece que la primera infancia abarca desde el nacimiento hasta los 5 años, y la infancia escolar comprende entre los 6 y 12 años."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7 de la Ley N° 548, ¿qué establece la regla de presunción en materia de edad?",
+      "options": [
+        "Se presumirá que es mayor de edad salvo prueba fehaciente presentadas por la Defensoría",
+        "Se presumirá que es menor de dieciocho (18) años en tanto no se pruebe lo contrario mediante documento u otros medios reconocidos",
+        "La edad solo puede demostrarse mediante certificado de nacimiento legalizado original",
+        "En caso de duda sobre la edad, el menor será sometido obligatoriamente a juicio de emancipación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7, Ley N° 548",
+      "explicacion": "El Artículo 7 dispone la presunción de minoría de edad (menor de 18 años) a los fines de protección mientras no se demuestre lo contrario."
+    },
+    {
+      "question": "¿Qué implica el principio de 'Prioridad Absoluta' consagrado en el Artículo 12.b de la Ley N° 548?",
+      "options": [
+        "Que las niñas, niños y adolescentes serán objeto de preferente atención y protección en políticas públicas, asignación de recursos, servicios públicos y auxilio",
+        "Que las decisiones de los niños prevalecen automáticamente sobre las leyes penales vigentes",
+        "Que los presupuestos municipales deben destinarse en un 80% exclusivo a parques infantiles",
+        "Que la atención de salud pública es preferente solo en hospitales de tercer nivel"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.b, Ley N° 548",
+      "explicacion": "El principio de Prioridad Absoluta obliga a la atención y protección preferente en recursos, servicios públicos y auxilio en cualquier circunstancia."
+    },
+    {
+      "question": "Según el Artículo 12.a de la Ley N° 548, ¿cómo se define el principio del 'Interés Superior de la Niña, Niño y Adolescente'?",
+      "options": [
+        "Como el derecho absoluto a no cumplir deberes en el hogar o la escuela",
+        "Toda situación que favorezca su desarrollo integral en el goce de sus derechos y garantías, apreciando su opinión y el equilibrio con sus deberes",
+        "La obligación legal de conceder la guarda siempre a los parientes maternos",
+        "La eximición de cualquier tipo de responsabilidad procesal a los progenitores"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 12.a, Ley N° 548",
+      "explicacion": "El Interés Superior busca favorecer el desarrollo integral evaluando su opinión, sus necesidades de desarrollo y el equilibrio entre derechos, garantías y deberes."
+    },
+    {
+      "question": "¿Qué establece el principio de 'Ejercitación Progresiva de Derechos' según el Artículo 12.j de la Ley N° 548?",
+      "options": [
+        "Que el ejercicio personal de los derechos se otorga de forma progresiva conforme a su capacidad evolutiva, exigiéndoles proporcionalmente sus deberes",
+        "Que los derechos solo se adquieren al cumplir la mayoría de edad constitucional",
+        "Que los padres deciden discrecionalmente cuándo un hijo puede opinar",
+        "Que las garantías procesales solo aplican a adolescentes mayores de 16 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.j, Ley N° 548",
+      "explicacion": "El principio de ejercicio progresivo reconoce que el ejercicio personal de los derechos evoluciona según el desarrollo físico y psicológico de la persona."
+    },
+    {
+      "question": "Según el Artículo 14 de la Ley N° 548, ¿qué entidad se constituye en el Ente Rector del Sistema Plurinacional Integral de la Niña, Niño y Adolescente?",
+      "options": [
+        "El Ministerio de Educación",
+        "El Ministerio de Justicia",
+        "El Ministerio de Gobierno",
+        "La Defensoría del Pueblo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 14, Ley N° 548",
+      "explicacion": "El Artículo 14 designa explícitamente al Ministerio de Justicia como la entidad pública cabeza de sector y Ente Rector del Sistema."
+    },
+    {
+      "question": "De acuerdo con el Artículo 10 de la Ley N° 548, ¿cuál es el régimen económico de los procesos judiciales o administrativos que involucran a niñas, niños o adolescentes?",
+      "options": [
+        "Están sujetos al pago de aranceles y timbres judiciales ordinarios",
+        "Serán de carácter totalmente gratuito para la niña, niño o adolescente",
+        "Solo son gratuitos si se demuestra pobreza extrema mediante informe social",
+        "Tienen un descuento del 50% en timbres y valores judiciales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 10, Ley N° 548",
+      "explicacion": "El Artículo 10 establece el principio de gratuidad absoluta en procesos judiciales y administrativos para las niñas, niños y adolescentes."
+    },
+    {
+      "question": "Según el Artículo 15.II de la Ley N° 548, ¿a quiénes corresponde la ejecución del Programa Municipal de la Niña, Niño y Adolescente y el funcionamiento de las Defensorías?",
+      "options": [
+        "Al nivel central del Estado exclusivamente",
+        "A los Gobiernos Autónomos Municipales en el marco de sus competencias y asignando recursos obligatorios",
+        "A las Organizaciones No Gubernamentales de la sociedad civil",
+        "A las Jefaturas Departamentales de Trabajo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 15.II, Ley N° 548",
+      "explicacion": "El Artículo 15.II asigna a las Entidades Territoriales Autónomas Municipales la ejecución del programa y el sostenimiento obligatorio de la Defensoría de la Niñez y Adolescencia."
+    },
+    {
+      "question": "En el marco del Artículo 21 de la Ley N° 548, ¿cuál es la obligación de los centros de salud públicos y privados ante una emergencia médica de un niño o adolescente?",
+      "options": [
+        "Prestar atención médica inmediata de forma obligatoria, quedando prohibido negarla por falta de documentos, dinero o ausencia de padres",
+        "Exigir el pago por adelantado o un depósito de garantía en el caso de clínicas privadas",
+        "Derivar inmediatamente al paciente a un centro público sin prestar primeros auxilios",
+        "Solicitar autorización escrita ante el Juez de la Niñez antes de intervenir"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "El Art. 21 prohíbe negar o condicionar la atención médica de emergencia alegando falta de recursos, documentos o ausencia de representantes."
+    },
+    {
+      "question": "Según el Artículo 25.a de la Ley N° 548, ¿por cuánto tiempo deben conservar los establecimientos de salud el registro e identificación pelmatoscópica/dactilar del recién nacido y la madre?",
+      "options": [
+        "Por un plazo mínimo de cinco (5) años",
+        "Por un plazo de dieciocho (18) años",
+        "Por un periodo improrrogable de un (1) año",
+        "Solo hasta la emisión del Certificado de Nacido Vivo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 25.a, Ley N° 548",
+      "explicacion": "Los centros de salud están obligados a mantener las fichas médicas e identificación pelmatoscópica/dactilar por 18 años."
+    },
+    {
+      "question": "De acuerdo con el Artículo 23.II de la Ley N° 548, ¿cada cuánto tiempo fijará el Ministerio de Salud el índice de embarazo adolescente para el monitoreo nacional?",
+      "options": [
+        "Anualmente de forma obligatoria",
+        "Cada cinco (5) años",
+        "Cada diez (10) años junto con el Censo",
+        "A requerimiento exclusivo de las Gobernaciones"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 23.II, Ley N° 548",
+      "explicacion": "El Art. 23.II establece que el Ministerio de Salud fijará el índice nacional de embarazo adolescente cada 5 años."
+    },
+    {
+      "question": "Conforme al Artículo 118 de la Ley N° 548, ¿qué prohibición expresa se impone a las autoridades del Sistema Educativo Plurinacional?",
+      "options": [
+        "Prohibición de reprobar a estudiantes por bajo rendimiento académico",
+        "Prohibición de rechazar o expulsar a estudiantes embarazadas, por su orientación sexual, discapacidad o VIH/SIDA",
+        "Prohibición de impartir tareas escolares los fines de semana",
+        "Prohibición de organizar juntas escolares de padres de familia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 118, Ley N° 548",
+      "explicacion": "El Art. 118 prohíbe la expulsión o rechazo escolar por estado de gestación, orientación sexual, discapacidad o condición de VIH/SIDA."
+    },
+    {
+      "question": "Según el Artículo 117.d de la Ley N° 548, ¿qué tipo de sanciones quedan estrictamente prohibidas en el ámbito de la disciplina escolar?",
+      "options": [
+        "Las amonestaciones escritas en el libro de vida",
+        "Las sanciones corporales",
+        "La citación a los padres de familia",
+        "El retiro temporal de actividades deportivas extraescolares"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 117.d, Ley N° 548",
+      "explicacion": "El Art. 117.d prohíbe taxativamente la aplicación de sanciones o castigos corporales en las unidades educativas."
+    },
+    {
+      "question": "Según el Artículo 109.I de la Ley N° 548, ¿cómo se conforma el derecho a la identidad en cuanto a los apellidos?",
+      "options": [
+        "Llevar obligatoriamente el apellido paterno en primer lugar y luego el materno",
+        "Llevar dos apellidos (paterno y materno), o un solo apellido con uno convencional, o dos apellidos convencionales",
+        "Llevar únicamente los apellidos registrados en la partida de bautismo",
+        "Llevar obligatoriamente tres apellidos en comunidades indígenas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 109.I, Ley N° 548",
+      "explicacion": "El Art. 109.I permite asignar dos apellidos (materno/paterno), un apellido formal con uno convencional, o dos convencionales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 110.II de la Ley N° 548, ¿cuál es el plazo para registrar la filiación del recién nacido ante el Registro Cívico?",
+      "options": [
+        "Al momento del nacimiento y hasta treinta (30) días después",
+        "Dentro de los noventa (90) días calendario",
+        "Hasta antes de que el niño cumpla un (1) año de edad",
+        "En un plazo máximo e improrrogable de tres (3) días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 110.II, Ley N° 548",
+      "explicacion": "El Art. 110.II fija la obligación de registrar la filiación al nacer y hasta los 30 días posteriores de forma gratuita."
+    },
+    {
+      "question": "Según el Artículo 112 de la Ley N° 548, ¿qué prohibición existe respecto a la filiación de niños nacidos producto de delitos sexuales?",
+      "options": [
+        "Se prohíbe que el niño lleve el apellido de la madre biológica",
+        "Se prohíbe la filiación del recién nacido con el autor de los delitos de violación o estupro",
+        "Se exige la adopción obligatoria e inmediata al momento del parto",
+        "Se prohíbe la entrega del certificado de nacimiento hasta la condena firme"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 112, Ley N° 548",
+      "explicacion": "El Art. 112 prohíbe expresamente la filiación del niño o niña con el autor de los delitos de violación o estupro."
+    },
+    {
+      "question": "Conforme al Artículo 114.I de la Ley N° 548, ¿qué documento gratuito debe recibir la persona al ser inscrita en el Registro Civil?",
+      "options": [
+        "La cédula de identidad con chip biométrico",
+        "El primer Certificado de Nacimiento en forma gratuita",
+        "El pasaporte oficial de menor de edad",
+        "El certificado de cobertura de salud pública"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 114.I, Ley N° 548",
+      "explicacion": "El Art. 114.I otorga el derecho a recibir de manera gratuita el primer Certificado de Nacimiento."
+    },
+    {
+      "question": "Según el Artículo 124 de la Ley N° 548, ¿cómo pueden ejercer las niñas, niños y adolescentes su derecho de petición?",
+      "options": [
+        "Únicamente a través de un apoderado legal con poder notariado",
+        "Directamente de manera oral o escrita ante cualquier entidad pública o privada sin necesidad de representación",
+        "Solo mediante la mediación obligatoria de la Defensoría del Pueblo",
+        "Únicamente en presencia de un Abogado de Oficio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 124, Ley N° 548",
+      "explicacion": "El Art. 124 otorga la facultad de peticionar directamente (individual o colectivamente) ante entes públicos o privados sin requerir apoderado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 37.II de la Ley N° 548, ¿puede la falta de recursos económicos ser causa para extinguir la autoridad materna o paterna?",
+      "options": [
+        "Sí, en caso de que la pobreza persista por más de un año",
+        "La falta o carencia de recursos materiales no constituye violencia ni motivo por sí sola para extinguir o suspender la autoridad de los padres",
+        "Sí, facultando la entrega inmediata del menor en adopción internacional",
+        "Solo si es respaldado por informe del Ministerio de Economía"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 37.II, Ley N° 548",
+      "explicacion": "El Art. 37.II prohíbe interpretar la carencia de recursos económicos como causal para suspender o extinguir la autoridad de los progenitores."
+    },
+    {
+      "question": "Según el Artículo 43.a de la Ley N° 548, ¿en qué caso procede la suspensión PARCIAL de la autoridad materna o paterna?",
+      "options": [
+        "Por muerte comprobada de ambos progenitores",
+        "Por falta, negligencia o incumplimiento injustificado de deberes teniendo los medios para hacerlo",
+        "Por sentencia firme de 30 años por feminicidio",
+        "Por abandono probado por más de tres años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 43.a, Ley N° 548",
+      "explicacion": "La suspensión parcial procede por negligencia o incumplimiento injustificado de deberes o poner en riesgo al hijo como medida disciplinaria."
+    },
+    {
+      "question": "Conforme al Artículo 47.e de la Ley N° 548, ¿cuál es la causal penal que genera la EXTINCIÓN definitiva de la autoridad materna o paterna?",
+      "options": [
+        "Cualquier condena penal por delitos culposos de tránsito",
+        "Sentencia condenatoria ejecutoriada con pena privativa de libertad entre 7 a 30 años por delitos contra niñas, niños, adolescentes, infanticidio o feminicidio",
+        "Una sanción de arresto policial de 24 horas por faltas morales",
+        "Tener procesos contenciosos pendientes sobre bienes inmuebles"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 47.e, Ley N° 548",
+      "explicacion": "El Art. 47.e establece la extinción de la autoridad ante sentencia de 7 a 30 años por delitos contra menores, infanticidio o feminicidio."
+    },
+    {
+      "question": "Según el Artículo 48.I.c de la Ley N° 548, ¿cuál es la condición de validez para la renuncia de autoridad por consentimiento para adopción?",
+      "options": [
+        "El consentimiento otorgado válidamente antes del nacimiento",
+        "El consentimiento debe ser otorgado necesariamente después del nacimiento; es nulo el consentimiento dado antes de nacer",
+        "La renuncia mediante documento privado con reconocimiento de firmas sin intervención judicial",
+        "El consentimiento verbal expresado ante la autoridad policial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 48.I.c, Ley N° 548",
+      "explicacion": "El Art. 48.I.c sanciona con nulidad absoluta cualquier consentimiento o renuncia de adopción otorgado antes del nacimiento del niño."
+    },
+    {
+      "question": "De acuerdo con el Artículo 54.I de la Ley N° 548, ¿en qué plazo debe comunicarse a la Defensoría un 'Acogimiento Circunstancial' de urgencia?",
+      "options": [
+        "Dentro de las veinticuatro (24) horas siguientes al momento del acogimiento",
+        "En el plazo de tres (3) días hábiles",
+        "Hasta en una semana en zonas rurales",
+        "En un plazo máximo de 12 horas mediante notificación notariada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54.I, Ley N° 548",
+      "explicacion": "Toda persona o entidad que reciba a un menor en acogimiento circunstancial debe avisar a la Defensoría dentro de las 24 horas."
+    },
+    {
+      "question": "Según el Artículo 57.I de la Ley N° 548, ¿cuál es la naturaleza jurídica de la 'Guarda'?",
+      "options": [
+        "Una institución permanente que extingue definitivamente la filiación de origen",
+        "Una institución jurídica que tiene por objeto el cuidado, atención y asistencia integral con carácter PROVISIONAL otorgada por resolución judicial",
+        "Un contrato civil mercantil suscrito entre particulares",
+        "Una medida sancionatoria impuesta exclusivamente a los tutores"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 57.I, Ley N° 548",
+      "explicacion": "La guarda otorga el cuidado integral con carácter provisional mediante resolución judicial sin extinguir la autoridad materna/paterna."
+    },
+    {
+      "question": "Según el Artículo 66 de la Ley N° 548, ¿cuál es el objetivo de la 'Tutela'?",
+      "options": [
+        "Reemplazar las funciones de los juzgados públicos en materia de adopciones",
+        "Garantizar derechos, prestar atención integral, representar en actos civiles y administrar bienes del menor",
+        "Otorgar custodia únicamente durante las vacaciones escolares",
+        "Sustituir las obligaciones de la Defensoría de la Niñez"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 66, Ley N° 548",
+      "explicacion": "La tutela es otorgada por el Juez para garantizar derechos, atención integral, representación civil y administración de bienes."
+    },
+    {
+      "question": "Conforme al Artículo 70 de la Ley N° 548, ¿quiénes están exentos de ofrecer fianza para asumir la Tutela Ordinaria?",
+      "options": [
+        "Las personas extranjeras con residencia de un año",
+        "Las abuelas, abuelos, hermanas y hermanos",
+        "Los directores de centros de acogida privados",
+        "Cualquier persona nombrada por la junta vecinal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 70, Ley N° 548",
+      "explicacion": "El Art. 70 exime de fianza a los abuelos, hermanos y a quienes hayan sido nombrados por el último progenitor que ejercía la autoridad."
+    },
+    {
+      "question": "Según el Artículo 73 de la Ley N° 548, ¿cuál es el porcentaje fijado para la remuneración de la tutora o tutor sobre las rentas de los bienes administrados?",
+      "options": [
+        "Entre el 1% y el 3% de las rentas",
+        "No será inferior al cinco por ciento (5%) ni excederá del diez por ciento (10%) de las rentas producidas",
+        "El 25% del valor total comercial de los inmuebles",
+        "Es una función estrictamente gratuita sin excepción de parentesco"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 73, Ley N° 548",
+      "explicacion": "El Art. 73 establece la retribución entre el 5% y el 10% de las rentas generadas por los bienes (salvo tutores ascendientes o hermanos)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 80.I de la Ley N° 548, ¿cuál es la característica esencial de la 'Adopción'?",
+      "options": [
+        "Es una medida provisional revocable en cualquier momento por el Juez",
+        "Institución jurídica mediante la cual el adoptado adquiere la calidad de hijo en forma estable, permanente y definitiva",
+        "Un contrato sujeto a condición resolutoria de rendimiento escolar",
+        "Un trámite administrativo gestionado por notarios de fe pública"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 80.I, Ley N° 548",
+      "explicacion": "La adopción concede la calidad de hijo en forma estable, permanente y definitiva con igual condición que las hijas e hijos nacidos de la pareja."
+    },
+    {
+      "question": "Según el Artículo 84.I.a de la Ley N° 548, ¿cuáles son los requisitos de edad mínima y diferencia de edad para el solicitante de adopción?",
+      "options": [
+        "Tener 18 años de edad y ser 10 años mayor que el adoptado",
+        "Tener un mínimo de veinticinco (25) años de edad y ser por lo menos dieciocho (18) años mayor que el adoptado",
+        "Tener 30 años de edad y ser 20 años mayor que el adoptado",
+        "Tener 21 años de edad sin requerimiento de diferencia de edad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 84.I.a, Ley N° 548",
+      "explicacion": "El solicitante debe tener al menos 25 años cumplidos y ser por lo menos 18 años mayor que la niña, niño o adolescente a adoptar."
+    },
+    {
+      "question": "Conforme al Artículo 86.II.a y b de la Ley N° 548, ¿qué beneficios laborales otorga la sentencia ejecutoriada de adopción a los padres adoptantes?",
+      "options": [
+        "Inamovilidad laboral por un año y licencia por maternidad/paternidad adoptiva por dos (2) meses de manera alterna",
+        "Inamovilidad laboral por tres años y subsidio de lactancia duplicado",
+        "Licencia laboral con goce de haberes por seis meses continuos",
+        "Jubilación anticipada automática con el 100% de aportes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 86.II, Ley N° 548",
+      "explicacion": "Concede inamovilidad laboral por 1 año y licencia por maternidad/paternidad adoptiva por 2 meses alternos para adaptación."
+    },
+    {
+      "question": "Según el Artículo 87.II de la Ley N° 548, ¿cuál es la duración máxima permitida para la etapa de 'Convivencia Temporal Pre-adoptiva' en el territorio nacional?",
+      "options": [
+        "Un tiempo no mayor a seis (6) meses",
+        "Un tiempo no mayor a dos (2) meses",
+        "Mínimo un (1) año obligatorio sin excepción",
+        "Un plazo fijo improrrogable de quince (15) días"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 87.II, Ley N° 548",
+      "explicacion": "El periodo de convivencia pre-adoptiva en territorio nacional no debe ser mayor a 2 meses."
+    },
+    {
+      "question": "De acuerdo con el Artículo 88 de la Ley N° 548, ¿qué prohibiciones expresas existen en materia de adopción?",
+      "options": [
+        "Se prohíbe la adopción de seres humanos por nacer y de solicitantes predeterminados",
+        "Se prohíbe la adopción por parte de personas solteras",
+        "Se prohíbe la adopción de niños mayores de 10 años",
+        "Se prohíbe la adopción en departamentos con déficit habitacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 88, Ley N° 548",
+      "explicacion": "El Art. 88 prohíbe expresamente la adopción de seres humanos por nacer (nasciturus) y la selección de solicitantes predeterminados."
+    },
+    {
+      "question": "Según el Artículo 95.II de la Ley N° 548, ¿cuándo tiene derecho la persona adoptada a conocer los antecedentes de su adopción y origen?",
+      "options": [
+        "Al cumplir los 10 años previa autorización judicial",
+        "Al obtener su mayoría de edad o desde su emancipación",
+        "Únicamente tras la muerte de ambos padres adoptivos",
+        "En cualquier momento mediante solicitud verbal policial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 95.II, Ley N° 548",
+      "explicacion": "Al alcanzar la mayoría de edad o emancipación, la persona adoptada tiene derecho a conocer sus antecedentes y familia de origen."
+    },
+    {
+      "question": "De acuerdo con el Artículo 129.I y II de la Ley N° 548, ¿cuál es la edad mínima general para trabajar y cuáles son sus excepciones registradas?",
+      "options": [
+        "Edad mínima 16 años, excepcionalmente 14 años",
+        "Edad mínima catorce (14) años; excepcionalmente de 10 a 14 años por cuenta propia y de 12 a 14 años por cuenta ajena autorizados por la Defensoría",
+        "Edad mínima 18 años sin excepciones bajo ningún concepto",
+        "Edad mínima 12 años para cualquier rubro comercial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 129, Ley N° 548",
+      "explicacion": "La regla general fija 14 años. La Defensoría puede autorizar excepcionalmente trabajo por cuenta propia de 10 a 14 años y por cuenta ajena de 12 a 14 años."
+    },
+    {
+      "question": "Según el Artículo 132.IV de la Ley N° 548, ¿qué obligación tiene el empleador respecto a la educación del adolescente trabajador mayor de 14 años?",
+      "options": [
+        "Pagar la matrícula universitaria privada",
+        "No limitar su derecho a la educación, otorgando dos (2) horas diarias destinadas a estudio, que deberán ser remuneradas",
+        "Conceder permiso de estudio únicamente los días de examen final",
+        "Eximirlo de asistir al colegio si trabaja jornada completa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 132.IV, Ley N° 548",
+      "explicacion": "El empleador está obligado a conceder 2 horas diarias remuneradas dentro de la jornada laboral para asegurar el estudio del adolescente."
+    },
+    {
+      "question": "Conforme al Artículo 132.VI y VII de la Ley N° 548, ¿cuáles son los límites de la jornada laboral diaria y semanal para adolescentes?",
+      "options": [
+        "8 horas diarias para todos sin restricción nocturna",
+        "Mayores de 14 años: máx 8 hrs/día y 40 hrs/semana (hasta las 22:00); Menores de 14 años autorizados: máx 6 hrs/día y 30 hrs/semana",
+        "10 horas diarias diurnas para el sector agrícola",
+        "4 horas diarias exclusivamente para cualquier grupo de edad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 132.VI-VII, Ley N° 548",
+      "explicacion": "Mayores de 14: máximo 8h diarias / 40h semanales diurnas. Menores de 14 autorizados: máximo 6h diarias / 30h semanales."
+    },
+    {
+      "question": "Según el Artículo 135.e de la Ley N° 548, ¿a partir de qué hora queda prohibido el trabajo nocturno para niños y adolescentes?",
+      "options": [
+        "Pasadas las ocho (08:00) de la noche",
+        "Pasadas las diez (10:00) de la noche",
+        "A partir de la medianoche (24:00)",
+        "Pasadas las siete (19:00) de la tarde"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 135.e, Ley N° 548",
+      "explicacion": "Se prohíbe taxativamente la realización de actividades laborales nocturnas pasadas las 22:00 horas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 136.II de la Ley N° 548, ¿cuáles de los siguientes trabajos están clasificados como prohibidos por su naturaleza peligrosa e insalubre?",
+      "options": [
+        "Venta de libros y papelería escolar en librerías",
+        "Zafra de caña de azúcar, zafra de castaña, minería, ladrillería, expendio de bebidas alcohólicas y recolección de desechos",
+        "Asistencia de secretario en oficinas contables públicas",
+        "Labores agrícolas familiares de siembra en huertos escolares"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 136.II, Ley N° 548",
+      "explicacion": "El Art. 136.II enumera trabajos prohibidos como minería, zafra de caña/castaña, ladrillería, expendio de alcohol, entre otros."
+    },
+    {
+      "question": "Según el Artículo 137.I de la Ley N° 548, ¿cuál es el derecho del adolescente trabajador en relación con la Seguridad Social?",
+      "options": [
+        "Estar inscrito obligatoriamente en el Sistema de Seguridad Social a cargo del empleador desde el primer día de ingreso",
+        "Aportar únicamente a fondos de pensión privados a partir de los 18 años",
+        "Recibir atención de salud solo si paga un seguro voluntario independiente",
+        "Exención total de afiliación por considerarse menor de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 137.I, Ley N° 548",
+      "explicacion": "El empleador debe inscribir obligatoriamente al adolescente trabajador en el Sistema de Seguridad Social inmediatamente al ingresar."
+    },
+    {
+      "question": "Según el Artículo 140 de la Ley N° 548, ¿cuál de las siguientes acciones constituye una infracción al derecho de protección laboral?",
+      "options": [
+        "Otorgar 2 horas de estudio remuneradas al adolescente",
+        "Contratar o lucrar con el trabajo de un niño o niña o contratar adolescentes sin inscripción en el registro o en la seguridad social",
+        "Inscribir al adolescente en la escuela nocturna",
+        "Proporcionar ropa de trabajo e implementos de seguridad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 140, Ley N° 548",
+      "explicacion": "Infracciones incluyen contratar niños, lucrar con su trabajo, omitir el registro en Defensoría o en Seguridad Social."
+    },
+    {
+      "question": "Conforme al Artículo 146.II de la Ley N° 548, ¿qué prohibición rige sobre la crianza y corrección por parte de padres y educadores?",
+      "options": [
+        "Se prohíbe dejar tareas para la casa",
+        "Se prohíbe cualquier tipo de castigo físico, violento o humillante, debiendo emplear métodos no violentos",
+        "Se prohíbe llamar la atención verbalmente",
+        "Se prohíbe limitar el uso de teléfonos celulares"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 146.II, Ley N° 548",
+      "explicacion": "El derecho al buen trato prohíbe el castigo físico, violento o humillante en la crianza, educación y corrección."
+    },
+    {
+      "question": "Según el Artículo 147.I de la Ley N° 548, ¿cómo se define la 'Violencia' hacia la niñez o adolescencia?",
+      "options": [
+        "Solo agresiones físicas con más de 10 días de impedimento legal",
+        "Toda acción u omisión que ocasione privaciones, lesiones, daños, sufrimientos, perjuicios en la salud física, mental, afectiva, sexual o desarrollo deficiente",
+        "Bajo rendimiento escolar o reprobación de asignaturas",
+        "Falta de asistencia a eventos deportivos comunitarios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 147.I, Ley N° 548",
+      "explicacion": "Violencia es toda acción u omisión que provoque lesiones, privaciones, sufrimientos o afectación al desarrollo integral."
+    },
+    {
+      "question": "Según el Artículo 148.II.c de la Ley N° 548, ¿qué es la 'Sexualización Precoz o Hipersexualización'?",
+      "options": [
+        "Clases curriculares formales sobre salud reproductiva",
+        "La sexualización de expresiones, posturas o vestimentas que instruyen adoptar comportamientos eróticos no acordes a su edad, incurriendo en violencia psicológica",
+        "El matrimonio adolescente celebrado bajo dispensa judicial",
+        "El uso de uniformes escolares estandarizados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 148.II.c, Ley N° 548",
+      "explicacion": "Hipersexualización es impulsar códigos o vestimentas eróticas precoces no acordes a la edad, considerado violencia psicológica."
+    },
+    {
+      "question": "De acuerdo con el Artículo 151.I.a de la Ley N° 548, ¿cómo se define la 'Violencia Entre Pares' en el sistema educativo?",
+      "options": [
+        "Gritos de profesores hacia alumnos en hora de clase",
+        "Maltrato bajo ejercicio de poder entre dos estudiantes o un grupo contra un estudiante hostigado, castigado o acosado (bullying)",
+        "Discusiones entre padres de familia en reuniones de junta",
+        "Sanciones impuestas por la Dirección por falta de uniforme"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 151.I.a, Ley N° 548",
+      "explicacion": "Violencia entre pares es el acoso u hostigamiento (bullying) ejercido de un estudiante o grupo de estudiantes contra otro par."
+    },
+    {
+      "question": "Conforme al Artículo 152.II de la Ley N° 548, ¿qué instrumento es de elaboración OBLIGATORIA para cada Unidad Educativa?",
+      "options": [
+        "Un manual de inventario de equipos de computación",
+        "Un Plan de Convivencia Pacífica y Armónica elaborado de forma participativa con la comunidad educativa",
+        "Un presupuesto de infraestructura avalado por el TGN",
+        "Un reglamento de sanciones corporales progresivas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 152.II, Ley N° 548",
+      "explicacion": "Toda Unidad Educativa debe contar obligatoriamente con un Plan de Convivencia Pacífica y Armónica evaluado anualmente."
+    },
+    {
+      "question": "Según el Artículo 155.I de la Ley N° 548, ¿cuál es el plazo para denunciar hechos de violencia cometidos contra niños o adolescentes?",
+      "options": [
+        "Plazo máximo de veinticuatro (24) horas de conocido el hecho ante la Defensoría u autoridad competente",
+        "Dentro de los 30 días posteriores al hecho",
+        "En el plazo de 5 días hábiles previa consulta familiar",
+        "No existe obligación formal de denunciar para particulares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 155.I, Ley N° 548",
+      "explicacion": "Toda persona o servidor público que conozca de hechos de violencia contra menores debe denunciar en máximo 24 horas."
+    },
+    {
+      "question": "Según el Artículo 157.IV de la Ley N° 548, ¿qué regla rige en materia de conciliación en casos de niños o adolescentes víctimas de violencia?",
+      "options": [
+        "Se permite la conciliación libre previa aprobación del Director del colegio",
+        "Se prohíbe toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia",
+        "La conciliación es obligatoria antes de iniciar la demanda penal",
+        "Se permite conciliar si el agresor paga los gastos médicos inmediatos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 157.IV, Ley N° 548",
+      "explicacion": "Se prohíbe categóricamente cualquier tipo de conciliación o transacción cuando las víctimas de violencia sean niños o adolescentes."
+    },
+    {
+      "question": "De acuerdo con la Disposición Adicional Segunda de la Ley N° 548 (Art. 258 del Código Penal), ¿cuál es la pena fijada para el delito de 'Infanticidio' en Bolivia?",
+      "options": [
+        "15 a 20 años de prisión",
+        "Presidio de treinta (30) años sin derecho a indulto a quien mate a un niño desde su nacimiento hasta sus doce (12) años",
+        "20 a 25 años de presidio con derecho a indulto presidencial",
+        "10 a 15 años de presidio en centros de rehabilitación"
+      ],
+      "answer": 1,
+      "fuente": "Disposición Adicional Segunda, Ley N° 548",
+      "explicacion": "El infanticidio (muerte de un niño desde su nacimiento hasta los 12 años) se sanciona con 30 años de presidio sin indulto."
+    },
+    {
+      "question": "Según el Artículo 159.I de la Ley N° 548, ¿qué es el SIPPROINA?",
+      "options": [
+        "El Sindicato Plurinacional de Profesores de Educación Inicial",
+        "El Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente",
+        "El Sistema Privado de Préstamos Educativos Universitarios",
+        "El Servicio de Inspección Policial de Recintos Infantiles"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 159.I, Ley N° 548",
+      "explicacion": "El SIPPROINA es el conjunto articulado de instituciones y servicios para garantizar el pleno goce de derechos de la niñez."
+    },
+    {
+      "question": "Según el Artículo 161 de la Ley N° 548, ¿cuáles son integrantes del SIPPROINA?",
+      "options": [
+        "El Ministerio de Justicia, Gobernaciones, Defensorías de la Niñez, Juzgados de Niñez, Comités de Niños, entre otros",
+        "Únicamente los juzgados penales de capitales de departamento",
+        "Solamente las Brigadas de Protección a la Familia de la Policía",
+        "Las agencias privadas de empleo internacional exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 161, Ley N° 548",
+      "explicacion": "Integra al Ministerio de Justicia, Defensorías, Juzgados de Niñez, Comités de Niños, AITPS, Ministerio de Trabajo, etc."
+    },
+    {
+      "question": "Conforme al Artículo 168.I de la Ley N° 548, ¿quién es la autoridad competente para dictar Medidas de Protección frente a vulneración de derechos?",
+      "options": [
+        "El Intendente Municipal",
+        "La Jueza o Juez Público en materia de Niñez y Adolescencia",
+        "El Fiscal de Materia Sustancias Controladas",
+        "El Comandante Departamental de la Policía"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 168.I, Ley N° 548",
+      "explicacion": "Las medidas de protección son órdenes obligatorias dictadas por la Jueza o Juez Público de Niñez y Adolescencia."
+    },
+    {
+      "question": "Según el Artículo 170.d de la Ley N° 548, ¿cada cuánto tiempo deben ser revisadas las medidas de protección impuestas judicialmente?",
+      "options": [
+        "Serán revisadas cada seis (6) meses a partir de su imposición (excepto la adopción)",
+        "Cada 30 días de manera obligatoria con detención preventiva",
+        "Únicamente al año de ser impuestas mediante apelación",
+        "Son de carácter inmodificable hasta la mayoría de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 170.d, Ley N° 548",
+      "explicacion": "Las medidas de protección se revisan periódicamente cada 6 meses para evaluar si deben modificarse, sustituirse o revocarse."
+    },
+    {
+      "question": "De acuerdo con el Artículo 176.I.b de la Ley N° 548, ¿cuál es el rango de multas pecuniarias que el Juez puede imponer por infracciones a la ley?",
+      "options": [
+        "De 10 a 50 bolivianos para cualquier persona",
+        "De 1 a 100 salarios mínimos para personas naturales, y de 100 a 200 salarios mínimos para personas jurídicas",
+        "De 1000 a 5000 dólares estadounidenses",
+        "El 50% de los ingresos anuales del infractor"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 176.I.b, Ley N° 548",
+      "explicacion": "Sanciona con multas de 1 a 100 salarios mínimos (personas naturales) y 100 a 200 salarios mínimos (personas jurídicas)."
+    },
+    {
+      "question": "Según el Artículo 181.II de la Ley N° 548, ¿cada cuántos años se reúne el Congreso Quinquenal de Derechos de la Niña, Niño y Adolescente?",
+      "options": [
+        "Cada tres (3) años",
+        "Una vez cada cinco (5) años para aprobar y evaluar el Plan Plurinacional",
+        "Anualmente en la sede del Parlamento",
+        "Cada diez (10) años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 181.II, Ley N° 548",
+      "explicacion": "Se reúne cada 5 años para aprobar el Plan Plurinacional y evaluar el cumplimiento del quinquenio anterior con carácter vinculante."
+    },
+    {
+      "question": "Según el Artículo 183 de la Ley N° 548, de quiénes dependen las Instancias Técnicas Departamentales de Política Social (AITPS)?",
+      "options": [
+        "De los Gobiernos Autónomos Municipales",
+        "De las Gobernaciones (Gobiernos Autónomos Departamentales)",
+        "Del Ministerio de Gobierno",
+        "Del Tribunal Supremo de Justicia"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 183, Ley N° 548",
+      "explicacion": "Las Instancias Técnicas Departamentales de Política Social dependen directamente de las Gobernaciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 185 de la Ley N° 548, ¿qué es la 'Defensoría de la Niñez y Adolescencia'?",
+      "options": [
+        "Un organismo internacional de cooperación de las Naciones Unidas",
+        "Instancia dependiente de los Gobiernos Municipales que presta servicios públicos de defensa psico-socio-jurídica gratuitos",
+        "Un tribunal penal privado para juzgar faltas de menores",
+        "Una comisión de padres de familia de colegios privados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 185, Ley N° 548",
+      "explicacion": "Es la instancia municipal encargada del servicio público y gratuito de protección y defensa psico-socio-jurídica de menores."
+    },
+    {
+      "question": "Conforme al Artículo 186 de la Ley N° 548, ¿cómo se componen los equipos de la Defensoría de la Niñez y Adolescencia?",
+      "options": [
+        "Únicamente por oficiales de la Policía Boliviana",
+        "Por equipos interdisciplinarios de abogadas/os, trabajadoras/es sociales y psicólogas/os",
+        "Por jurados populares elegidos en votación municipal",
+        "Por profesores de unidades educativas públicas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 186, Ley N° 548",
+      "explicacion": "Se conforman por profesionales interdisciplinarios en derecho, trabajo social y psicología."
+    },
+    {
+      "question": "Según el Artículo 188.a y b de la Ley N° 548, ¿requiere la Defensoría mandato expreso para apersonarse o interponer demandas en favor de menores?",
+      "options": [
+        "Sí, requiere poder notariado firmado por ambos padres",
+        "No necesita mandato expreso para intervenir de oficio o a denuncia ante autoridades administrativas o judiciales",
+        "Solo requiere autorización expresa del Alcalde Municipal",
+        "Requiere resolución motivada del Consejo Magistratura"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 188.a-b, Ley N° 548",
+      "explicacion": "La Defensoría actúa de oficio o a denuncia en defensa de los menores sin necesidad de mandato expreso o apoderamiento."
+    },
+    {
+      "question": "Según el Artículo 190 y 191 de la Ley N° 548, ¿quiénes conforman los 'Comités de Niñas, Niños y Adolescentes'?",
+      "options": [
+        "Representantes de partidos políticos juveniles",
+        "Representantes de organizaciones estudiantiles y comunitarias de 10 a 18 años, con al menos 50% de participación femenina",
+        "Exclusivamente alumnos con mejores promedios escolares",
+        "Hijos de servidores públicos municipales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 190-191, Ley N° 548",
+      "explicacion": "Se conforman por estudiantes de 10 a 18 años representando organizaciones, garantizando 50% de equidad de género de mujeres."
+    },
+    {
+      "question": "De acuerdo con el Artículo 193.c de la Ley N° 548, ¿qué establece el principio procesal de 'Presunción de Verdad'?",
+      "options": [
+        "Que la palabra del imputado adulto se presume verdadera en el juicio",
+        "Que las autoridades judiciales deberán considerar el testimonio de la niña, niño o adolescente como cierto en tanto no se desvirtúe objetivamente",
+        "Que todos los documentos privados se consideran escrituras públicas",
+        "Que los informes policiales prevalecen sobre peritajes médicos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 193.c, Ley N° 548",
+      "explicacion": "El principio de presunción de verdad obliga a dar credibilidad al testimonio del niño o adolescente mientras no sea desvirtuado con pruebas objetivas."
+    },
+    {
+      "question": "Según el Artículo 194.II de la Ley N° 548, ¿cuándo designará el Juez a un 'Tutor Extraordinario' para un menor en juicio?",
+      "options": [
+        "Cuando sus intereses se contrapongan a los de sus padres/tutores o carezca momentáneamente de representante, recayendo en la Defensoría",
+        "En todos los juicios contenciosos sobre herencias mayores a $10.000",
+        "Cuando el menor no hable el idioma castellano",
+        "Únicamente a solicitud de la Policía de Tránsito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 194.II, Ley N° 548",
+      "explicacion": "Se nombra tutor extraordinario (personero de la Defensoría) cuando existan intereses contrapuestos con los padres o carezca de representante."
+    },
+    {
+      "question": "Según el Artículo 197 de la Ley N° 548, ¿cómo se efectúa el cómputo de plazos procesales en materia de Niñez y Adolescencia?",
+      "options": [
+        "En días calendarios continuos incluyendo feriados",
+        "Salvo disposición contraria, los plazos procesales se computan en días hábiles",
+        "Por horas continuas sin interrupción de fin de semana",
+        "En semanas de trabajo de 5 días fijos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 197, Ley N° 548",
+      "explicacion": "Salvo norma expresa en contrario, todos los plazos procesales del Código se computan en días hábiles de oficina."
+    },
+    {
+      "question": "Conforme al Artículo 199.I de la Ley N° 548, ¿cuál es la primera regla para determinar la competencia territorial del Juez de la Niñez?",
+      "options": [
+        "El domicilio central de la Gobernación del Departamento",
+        "El lugar donde se produjo la vulneración de derechos o donde el adolescente mayor de 14 años cometió el delito",
+        "El lugar del asiento principal del Tribunal Supremo en Sucre",
+        "El domicilio del abogado defensor de oficio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 199.I, Ley N° 548",
+      "explicacion": "La primera regla radica la competencia en el lugar de ocurrencia de la vulneración o comisión del hecho delictivo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 209.IV de la Ley N° 548, ¿requiere la demanda judicial en materia de niñez la firma obligatoria de un Abogado?",
+      "options": [
+        "Sí, bajo sanción de nulidad de la demanda",
+        "La demanda no necesitará la firma de abogado y en este caso se tendrá como domicilio procesal la Secretaría del Juzgado",
+        "Solo requiere firma si se trata de demandas de adopción internacional",
+        "Requiere firma de dos abogados colegiados"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 209.IV, Ley N° 548",
+      "explicacion": "La desformalización permite presentar demandas sin firma de abogado, fijando domicilio procesal en la Secretaría del Juzgado."
+    },
+    {
+      "question": "Según el Artículo 214.I de la Ley N° 548, ¿cuál es el plazo que tiene la parte demandada para contestar la demanda?",
+      "options": [
+        "Plazo de quince (15) días hábiles",
+        "Dentro de los cinco (5) días siguientes a su citación (con ampliación de 1 día por cada 200 km)",
+        "Veinticuatro (24) horas improrrogables",
+        "Diez (10) días calendario continuos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 214.I, Ley N° 548",
+      "explicacion": "El plazo para contestar la demanda es de 5 días hábiles siguientes a la citación formal."
+    },
+    {
+      "question": "Según el Artículo 214.III de la Ley N° 548, ¿cuáles son las ÚNICAS excepciones admisibles en la contestación?",
+      "options": [
+        "Falta de pago, compensación y prescripción trienal",
+        "Incompetencia, litispendencia, cosa juzgada o impersonería",
+        "Cualquier excepción dilatoria del Código Procesal Civil",
+        "Nulidad de citación y compromiso arbitral"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 214.III, Ley N° 548",
+      "explicacion": "En el procedimiento común solo se admiten 4 excepciones: Incompetencia, Litispendencia, Cosa Juzgada e Impersonería."
+    },
+    {
+      "question": "Conforme al Artículo 220.II de la Ley N° 548, ¿cómo debe tomarse la declaración testifical de la niña, niño o adolescente víctima?",
+      "options": [
+        "En audiencia pública ante la prensa e imputados",
+        "En privado con auxilio de familiares y del equipo interdisciplinario, prohibiéndose la reiteración de sus testificaciones",
+        "Mediante interrogatorio cruzado directo por los abogados de la contraparte",
+        "Únicamente por escrito mediante cuestionario de 50 preguntas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 220.II, Ley N° 548",
+      "explicacion": "Se toma en privado con auxilio especializado para evitar la revictimización, prohibiendo reiterar la declaración en la audiencia."
+    },
+    {
+      "question": "Según el Artículo 226.I de la Ley N° 548, vencido el plazo de contestación, ¿en qué plazo debe señalarse la audiencia de juicio?",
+      "options": [
+        "Dentro de los 3 días siguientes, para celebrarse en un plazo no mayor a veinticinco (25) días posteriores",
+        "Al día siguiente para celebrarse en 48 horas",
+        "En un plazo no mayor a tres meses",
+        "A los 60 días de la admisión de la demanda"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 226.I, Ley N° 548",
+      "explicacion": "Se señala día y hora dentro de los 3 días siguientes, a celebrarse dentro de los 25 días posteriores."
+    },
+    {
+      "question": "De acuerdo con el Artículo 231.I de la Ley N° 548, ¿cuándo dicta la sentencia el Juez Público de la Niñez?",
+      "options": [
+        "En un plazo de 30 días posteriores al cierre de debate",
+        "Inmediatamente después de agotada la producción de prueba en la misma audiencia (o receso máximo de 3 días por complejidad)",
+        "A los 10 días por escrito en su despacho",
+        "Previo dictamen obligatorio de la Fiscalía General"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 231.I, Ley N° 548",
+      "explicacion": "El Juez dicta sentencia verbalmente inmediatamente agotada la prueba en la misma audiencia."
+    },
+    {
+      "question": "Según el Artículo 233.II de la Ley N° 548, ¿cuál es el plazo para fundamentar el Recurso de Apelación contra la sentencia dictada?",
+      "options": [
+        "Plazo de diez (10) días hábiles",
+        "Dentro de los tres (3) días de notificados con la sentencia, tras manifestar uso del recurso en audiencia",
+        "Veinticuatro (24) horas computables desde la notificación",
+        "En un plazo de 15 días continuos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 233.II, Ley N° 548",
+      "explicacion": "Tras anunciarlo en audiencia, se debe fundamentar el recurso dentro de los 3 días de notificada la sentencia."
+    },
+    {
+      "question": "Según el Artículo 250.III de la Ley N° 548, ¿cuál es el plazo MÁXIMO total que puede durar el trámite judicial de Adopción?",
+      "options": [
+        "No podrá exceder de un (1) año completo",
+        "No podrá exceder de cuatro (4) meses computables desde la admisión de la demanda hasta la sentencia",
+        "Máximo dos (2) meses improrrogables",
+        "No tiene límite de tiempo legal fijado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 250.III, Ley N° 548",
+      "explicacion": "El trámite completo de adopción tiene un límite legal estricto de 4 meses desde la admisión hasta la sentencia."
+    },
+    {
+      "question": "Conforme al Artículo 261.I de la Ley N° 548, ¿cómo responde el adolescente por la comisión de conductas punibles tipificadas en el Código Penal?",
+      "options": [
+        "Exactamente igual que un adulto en cárceles ordinarias",
+        "Responderá de forma diferenciada del adulto, mediante la Jurisdicción Especializada y la medida socio-educativa que se le imponga",
+        "Está totalmente exento de cualquier proceso o sanción",
+        "Responderá únicamente civilmente mediante indemnización económica"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 261.I, Ley N° 548",
+      "explicacion": "Su responsabilidad es penal diferenciada, juzgado por fuero especializado y sancionado con medidas socio-educativas."
+    },
+    {
+      "question": "Según el Artículo 265.II y 269.I de la Ley N° 548, ¿qué ocurre si el imputado por un delito era MENOR de catorce (14) años al momento del hecho?",
+      "options": [
+        "Se le aplica internamiento en carcelaje abierto de 5 años",
+        "Está exento de responsabilidad penal; el Juez cesa la acción penal y deriva el caso a la AITPS para programas de protección",
+        "Es juzgado por tribunales militares de disciplina",
+        "Se le imponen multas a ser pagadas en trabajo comunitario por 10 años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 265.II / 269.I, Ley N° 548",
+      "explicacion": "Menores de 14 años están exentos de responsabilidad penal; se cesa la acción penal y se derivan a programas de protección social."
+    },
+    {
+      "question": "De acuerdo con el Artículo 267.I y II de la Ley N° 548, ¿cuál es el rango de edad de aplicación del Sistema Penal para Adolescentes y la edad límite de sanción?",
+      "options": [
+        "De 10 a 16 años de edad; límite de cumplimiento 18 años",
+        "De catorce (14) a menores de dieciocho (18) años; y edad máxima de 24 años para cumplimiento de sanción en privación de libertad",
+        "De 12 a 18 años de edad; límite de cumplimiento 21 años",
+        "De 15 a 21 años de edad sin límite de edad posterior"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 267, Ley N° 548",
+      "explicacion": "Aplica a imputados de 14 a 17 años (menores de 18). Si se impone privación de libertad, la edad límite de permanencia es 24 años."
+    },
+    {
+      "question": "Según el Artículo 268.I de la Ley N° 548, ¿cómo se calcula la 'Responsabilidad Penal Atenuada' del adolescente?",
+      "options": [
+        "Se reduce la pena a la mitad de lo fijado para un adulto",
+        "Será atenuada en cuatro quintas (4/5) partes respecto del máximo penal correspondiente al delito en el Código Penal",
+        "Se aplica solo el 10% del mínimo legal previsto",
+        "Se sustituye siempre por arresto domiciliario de 30 días"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 268.I, Ley N° 548",
+      "explicacion": "La atenuación legal fija una reducción de 4/5 partes (80%) respecto al máximo penal del delito juzgado."
+    },
+    {
+      "question": "Conforme al Artículo 264 de la Ley N° 548, ¿cuál es la duración MÁXIMA total del proceso penal para adolescentes desde la denuncia hasta la sentencia?",
+      "options": [
+        "No deberá exceder de ocho (8) meses",
+        "Máximo tres (3) años como en el Código de Procedimiento Penal ordinario",
+        "Un periodo improrrogable de treinta (30) días",
+        "Máximo dos (2) años continuos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 264, Ley N° 548",
+      "explicacion": "El plazo máximo del proceso especializado para adolescentes desde la denuncia hasta la sentencia firme es de 8 meses."
+    },
+    {
+      "question": "Según el Artículo 284.I.a de la Ley N° 548, ¿cuándo prescribe la acción penal contra el adolescente en delitos con pena de 10 o más años?",
+      "options": [
+        "Prescribe en cinco (5) años",
+        "Prescribe en tres (3) años",
+        "Prescribe en diez (10) años",
+        "Es totalmente imprescriptible"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 284.I.a, Ley N° 548",
+      "explicacion": "La prescripción de la acción penal para adolescentes es de 3 años en delitos sancionados con pena igual o mayor a 10 años."
+    },
+    {
+      "question": "Según el Artículo 287.IV de la Ley N° 548, ¿dónde queda prohibido alojar o detener a un adolescente aprehendido?",
+      "options": [
+        "En recintos o centros de orientación juvenil",
+        "En dependencias policiales, penitenciarias o del Ministerio Público para personas adultas",
+        "En su propio domicilio familiar",
+        "En salas de audiencia de los juzgados de niñez"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 287.IV, Ley N° 548",
+      "explicacion": "Se prohíbe terminantemente incomunicar o ingresar a adolescentes en carcelajes o celdas para personas adultas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 291.I.c y d de la Ley N° 548, ¿cuál es el plazo MÁXIMO de detención preventiva sin acusación o sin sentencia?",
+      "options": [
+        "6 meses sin acusación y 12 meses sin sentencia",
+        "Sin acusación: máx 45 días; Sin sentencia en 1ra instancia: máx 3 meses (90 días)",
+        "10 días en todos los casos",
+        "Un año completo fijado por el Fiscal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 291.I, Ley N° 548",
+      "explicacion": "La detención preventiva cesa si dura más de 45 días sin acusación fiscal o más de 3 meses sin sentencia en primera instancia."
+    },
+    {
+      "question": "Según el Artículo 293.II de la Ley N° 548, ¿cuál es el plazo máximo de la etapa de INVESTIGACIÓN a cargo del Fiscal?",
+      "options": [
+        "No deberá ser mayor a los cuarenta y cinco (45) días contados desde la denuncia (o 90 días si hay pluralidad de adolescentes)",
+        "Seis meses prorrogables por seis meses más",
+        "Quince (15) días improrrogables",
+        "Un año calendario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 293.II, Ley N° 548",
+      "explicacion": "La etapa investigativa fiscal dura máximo 45 días (o hasta 90 días en caso de existir múltiples imputados)."
+    },
+    {
+      "question": "Según el Artículo 298.I y 299.I de la Ley N° 548, ¿qué es la 'Remisión' y para qué delitos aplica?",
+      "options": [
+        "Una sanción de prisión en cárcel pública para delitos de homicidio",
+        "Medida de desjudicialización para delitos con pena máxima privativa hasta 5 años, requiriendo consentimiento del adolescente y padres para someterse a justicia restaurativa",
+        "El traslado del proceso a la justicia militar ordinaria",
+        "La anulación retroactiva de certificados de nacimiento"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 298-299, Ley N° 548",
+      "explicacion": "La remisión excluye al adolescente del proceso judicial en delitos leves (hasta 5 años) sujetándolo voluntariamente a mecanismos restaurativos."
+    },
+    {
+      "question": "Conforme al Artículo 300.II y 301.III de la Ley N° 548, ¿cuál es la duración MÁXIMA de los mecanismos de justicia restaurativa en remisión o conciliación?",
+      "options": [
+        "Un tiempo máximo de tres (3) años",
+        "Tienen una duración máxima de seis (6) meses",
+        "Treinta (30) días calendario",
+        "Dos (2) años con evaluación trimestral"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 300.II / 301.III, Ley N° 548",
+      "explicacion": "Los acuerdos y acompañamiento de justicia restaurativa en salidas alternativas o remisión duran como máximo 6 meses."
+    },
+    {
+      "question": "Según el Artículo 308.I de la Ley N° 548, ¿qué se requiere para la procedencia de la 'Terminación Anticipada' del proceso?",
+      "options": [
+        "El pago directo de una fianza en efectivo a favor del Juez",
+        "Requerimiento conclusivo del Fiscal previo reconocimiento voluntario de participación y consentimiento a medida socio-educativa atenuada",
+        "La inasistencia de la víctima a tres audiencias consecutivas",
+        "La declaratoria formal de rebeldía del acusado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 308.I, Ley N° 548",
+      "explicacion": "Requiere la admisión voluntaria de los hechos y aceptación del trámite para imponer una medida socio-educativa atenuada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 310.I de la Ley N° 548, ¿cómo debe celebrarse el Juicio Oral para adolescentes?",
+      "options": [
+        "En transmisión abierta por televisión pública",
+        "A puerta cerrada con carácter reservado para evitar el registro de identidad e imagen del adolescente",
+        "Con presencia de público en general y prensa escrita sin restricciones",
+        "En instalaciones de la junta vecinal del barrio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 310.I, Ley N° 548",
+      "explicacion": "El juicio oral es estrictamente reservado (a puerta cerrada) para resguardar la identidad, imagen y dignidad del adolescente."
+    },
+    {
+      "question": "Según el Artículo 316.I de la Ley N° 548, ¿cuál es la finalidad de los 'Mecanismos de Justicia Restaurativa'?",
+      "options": [
+        "Castigar severamente al menor infractor con penas corporales",
+        "Promover que el adolescente asuma responsabilidad, se repare el daño a la víctima y se logre la reintegración social y comunitaria",
+        "Sustituir el pago de impuestos de los padres del menor",
+        "Exonerar de responsabilidad civil a los centros de acogimiento"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 316.I, Ley N° 548",
+      "explicacion": "La justicia restaurativa busca el reconocimiento de responsabilidad, la reparación a la víctima y la reintegración familiar/social."
+    },
+    {
+      "question": "Según el Artículo 319 de la Ley N° 548, ¿en qué consiste la 'Mediación' como mecanismo restaurativo?",
+      "options": [
+        "Una sentencia arbitral obligatoria dictada por un juez privado",
+        "Procedimiento mediante un técnico especializado neutral que acerca a las partes para un diálogo voluntario y solución restaurativa del conflicto",
+        "Una reunión de conciliación policial obligatoria bajo arresto",
+        "Un debate abierto entre abogados de las aseguradoras"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 319, Ley N° 548",
+      "explicacion": "La mediación es facilitada por un especialista imparcial para generar diálogo directo y acuerdos de reparación entre partes."
+    },
+    {
+      "question": "Conforme al Artículo 323.I de la Ley N° 548, ¿cuáles son las Medidas Socio-educativas que se cumplen en LIBERTAD?",
+      "options": [
+        "Régimen de internamiento cerrado y detención de fin de semana",
+        "Prestación de servicios a la comunidad y Libertad asistida",
+        "Arraigo departamental y embargo de bienes",
+        "Reclusión en centros militares de disciplina"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 323.I, Ley N° 548",
+      "explicacion": "Las medidas socio-educativas en libertad son la Prestación de servicios a la comunidad y la Libertad asistida."
+    },
+    {
+      "question": "Según el Artículo 324.I, II y III de la Ley N° 548, ¿cuándo se aplica la medida de 'Internamiento' (privación de libertad)?",
+      "options": [
+        "En cualquier delito menor o falta de respeto a autoridades",
+        "Cuando la pena atenuada impuesta al adolescente sea SUPERIOR a dos (2) años",
+        "Cuando el adolescente no tenga domicilio fijo",
+        "Únicamente a solicitud formal del Alcalde Municipal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 324.III, Ley N° 548",
+      "explicacion": "Las medidas privativas de libertad (internamiento) solo proceden cuando la pena atenuada es mayor a 2 años."
+    },
+    {
+      "question": "Según el Artículo 326.III de la Ley N° 548, ¿cuál es el límite de horas semanales para la 'Prestación de Servicios a la Comunidad'?",
+      "options": [
+        "Máximo 8 horas diarias de lunes a viernes",
+        "Exclusivamente en horario diurno, no pudiendo exceder de tres (3) horas semanales ni ser inferior a una (1) hora",
+        "20 horas semanales continuas los fines de semana",
+        "40 horas semanales durante las vacaciones escolares"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 326.III, Ley N° 548",
+      "explicacion": "Los servicios comunitarios se realizan diurnamente, entre 1 y 3 horas semanales para no interferir con estudios o trabajo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 332.b de la Ley N° 548, ¿qué se cumple en los 'Centros de Reintegración Social'?",
+      "options": [
+        "Clases de regularización de primaria exclusivamente",
+        "La detención preventiva, medidas de régimen en tiempo libre, semi-abierto y de internación",
+        "Trámites de filiación judicial de menores abandonados",
+        "Reuniones del Consejo de Coordinación Sectorial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 332.b, Ley N° 548",
+      "explicacion": "En los Centros de Reintegración Social se cumplen las medidas restrictivas, privativas de libertad e internación."
+    },
+    {
+      "question": "Según el Artículo 336 de la Ley N° 548, ¿quién está a cargo de la administración y seguridad INTERNA de los centros para adolescentes?",
+      "options": [
+        "Exclusivamente personal militar de las Fuerzas Armadas",
+        "Exclusivamente personal civil especializado (la Policía Boliviana está a cargo únicamente de la seguridad externa)",
+        "Guardias de seguridad privada contratados por las familias",
+        "Los propios internos elegidos por votación democrática"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 336, Ley N° 548",
+      "explicacion": "La administración y seguridad interna corresponde a personal civil especializado. La Policía Boliviana solo resguarda el perímetro externo."
+    },
+    {
+      "question": "Conforme al Artículo 344 de la Ley N° 548, ¿qué documento debe elaborar la AITPS para la ejecución de una medida socio-educativa?",
+      "options": [
+        "Un contrato de fianza bancaria notariado",
+        "Un Plan Individual de Ejecución de Medidas basado en el estudio de factores y metas concretas (listo en máx 30 días)",
+        "Un dictamen fiscal de acusación penal sustitutiva",
+        "Una fianza juratoria firmada por el Alcalde"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 344, Ley N° 548",
+      "explicacion": "Cada adolescente sancionado cuenta con un Plan Individual de Ejecución elaborado por el equipo multidisciplinario."
+    },
+    {
+      "question": "Según el Artículo 348.II de la Ley N° 548, ¿cuál es el plazo que tiene la víctima para ejercer la acción civil de reparación de daños tras la sentencia firme?",
+      "options": [
+        "Plazo de un (1) año calendario",
+        "Dentro de los tres (3) meses de notificada con la sentencia ejecutoriada; caso contrario quedará extinguida",
+        "En el plazo de cinco (5) años civiles",
+        "No existe plazo de caducidad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 348.II, Ley N° 548",
+      "explicacion": "La acción civil para la calificación y reparación de daños caduca y se extingue si no se demanda dentro de los 3 meses posteriores a la sentencia firme."
+    },
+    {
+      "question": "De acuerdo con el Artículo 158.e y h de la Ley N° 548, ¿cuáles son deberes explícitos de la niña, niño y adolescente en Bolivia?",
+      "options": [
+        "Contribuir con aportes tributarios municipales a partir de los 12 años",
+        "Respetar a su madre, padre, guardadores, tutores y profesores, y cumplir y obedecer las disposiciones legales del poder público",
+        "Prestar servicio militar obligatorio a partir de los 15 años",
+        "Financiar los costos de su educación secundaria mediante trabajo informal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 158, Ley N° 548",
+      "explicacion": "El Artículo 158 establece la lista de deberes de la niñez y adolescencia, incluyendo el respeto a padres/educadores y el cumplimiento de las leyes."
+    },
+    {
+      "question": "Según el Artículo 166.IV.a y b de la Ley N° 548, ¿qué poblaciones o temáticas deben privilegiar prioritariamente los programas de protección integral del Estado?",
+      "options": [
+        "Programas de crédito bancario para jóvenes emprendedores universitarios",
+        "Atención de niños en situación de calle, prevención de pandillas juveniles y cuidado integral de la primera infancia",
+        "Fomento de agencias privadas de empleo en el exterior",
+        "Subsidios a la importación de juguetes de plástico"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 166.IV, Ley N° 548",
+      "explicacion": "El Art. 166.IV prioriza programas para niños en situación de calle, prevención de pandillas y cuidado integral de la primera infancia."
+    },
+    {
+      "question": "Según el Artículo 200.b de la Ley N° 548, ¿qué requisito de experiencia especializada se exige para ser Jueza o Juez Público de la Niñez y Adolescencia?",
+      "options": [
+        "Haber ejercido diez (10) años como fiscal corporativo en lo penal",
+        "Tener experiencia y formación especializada en derecho de familia, género, generacional y/o niñez por lo menos de dos (2) años",
+        "Contar con maestría en derecho internacional bancario",
+        "Ser egresado de la Escuela de Altos Estudios Militares"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 200.b, Ley N° 548",
+      "explicacion": "El Art. 200 exige contar con experiencia o formación especializada en materia de familia, género, generacional o niñez por al menos 2 años."
+    },
+    {
+      "question": "Conforme al Artículo 320 de la Ley N° 548, ¿en qué consisten los 'Círculos Restaurativos' en el sistema penal de adolescentes?",
+      "options": [
+        "En reuniones de aislamiento punitivo en celdas de seguridad",
+        "Mecanismos que procuran la participación y acercamiento de las partes, la familia y la comunidad para restablecer los vínculos afectados por el delito",
+        "Talleres obligatorios de instrucción militar diurna",
+        "Sanciones de multa pecuniaria compartida entre los vecinos del barrio"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 320, Ley N° 548",
+      "explicacion": "Los círculos restaurativos buscan la participación activa del adolescente, la víctima, la familia y la comunidad para sanar los lazos sociales quebrantados."
+    },
+    {
+      "question": "Según el Artículo 2 de la Ley N° 548, ¿a quiénes se considera 'niñas o niños' y a quiénes 'adolescentes' según el rango de edad?",
+      "options": [
+        "Niña o niño desde la concepción hasta los 10 años, y adolescente desde los 11 hasta los 18 años cumplidos",
+        "Niña o niño desde su nacimiento hasta los doce (12) años cumplidos, y adolescente desde los doce (12) años hasta los dieciocho (18) años cumplidos",
+        "Niña o niño desde el nacimiento hasta los 14 años, y adolescente desde los 15 hasta los 21 años",
+        "Niña o niño desde los 2 años hasta los 10 años, y adolescente desde los 10 hasta los 16 años"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2, Ley N° 548",
+      "explicacion": "El Artículo 2 de la Ley 548 establece que es niña o niño el ser humano desde su concepción/nacimiento hasta los 12 años cumplidos, y adolescente desde los 12 hasta los 18 años cumplidos."
+    },
+    {
+      "question": "Conforme al Artículo 5 de la Ley N° 548, en caso de duda sobre la edad de una persona cuando no sea posible determinarla fehacientemente, ¿cuál es la presunción legal que rige?",
+      "options": [
+        "Se presumirá que es mayor de edad hasta que se demuestre judicialmente lo contrario",
+        "Se presumirá su minoría de edad en tanto no se pruebe lo contrario mediante peritaje médico definitivo",
+        "Se suspenderá cualquier actuación legal hasta que la Policía Boliviana emita un certificado de nacimiento de oficio",
+        "Se aplicará el régimen penal ordinario de manera provisional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5, Ley N° 548",
+      "explicacion": "El Artículo 5 establece el principio de presunción de minoría de edad: ante la duda sobre la edad, se presume la minoría de edad hasta que se pruebe lo contrario."
+    },
+    {
+      "question": "Según el Artículo 12 de la Ley N° 548, ¿en qué consiste el principio de 'Prioridad Absoluta'?",
+      "options": [
+        "En la preferencia de los padres para tomar decisiones sobre la educación privada de sus hijos",
+        "En la primacía de la niñez y adolescencia en la recepción de protección y socorro en cualquier circunstancia, la atención en servicios públicos y la asignación de recursos",
+        "En la obligación de los colegios de aprobar a todos los estudiantes menores de 12 años sin evaluación",
+        "En la inmunidad procesal penal de los adolescentes ante cualquier delito grave o gravísimo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 12.a, Ley N° 548",
+      "explicacion": "La Prioridad Absoluta implica la primacía de las niñas, niños y adolescentes en la protección, socorro, servicios públicos y asignación presupuestaria."
+    },
+    {
+      "question": "De acuerdo con el Artículo 13 de la Ley N° 548, ¿quiénes son los sujetos corresponsables de garantizar los derechos de las niñas, niños y adolescentes?",
+      "options": [
+        "Exclusivamente el Ministerio de Justicia y la Policía Boliviana",
+        "El Estado en todos sus niveles, la familia y la sociedad",
+        "Únicamente los padres de familia y los tutores legales",
+        "Las Organizaciones No Gubernamentales y las Unidades Educativas privadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 13, Ley N° 548",
+      "explicacion": "El Artículo 13 consagra la triada de corresponsabilidad integrada por el Estado en todos sus niveles autonómicos, la familia y la sociedad."
+    },
+    {
+      "question": "Según el Artículo 18 de la Ley N° 548, ¿cuál es el plazo máximo que tienen las instituciones de salud públicas o privadas para otorgar el Certificado de Nacido Vivo?",
+      "options": [
+        "De manera inmediata y gratuita al momento del nacimiento",
+        "En un plazo improrrogable de 30 días calendario",
+        "Dentro de las 72 horas posteriores al pago de las facturas médicas",
+        "Plazo de 10 días hábiles previa solicitud escrita del padre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 548",
+      "explicacion": "El establecimiento de salud debe emitir y entregar obligatoria e inmediatamente de forma gratuita el Certificado de Nacido Vivo tras el alumbramiento."
+    },
+    {
+      "question": "Conforme al Artículo 33 de la Ley N° 548, ¿qué autoridad es la encargada de tramitar e inscribir la filiación convencional o judicial cuando se desconoce a los progenitores?",
+      "options": [
+        "La Defensoría de la Niñez y Adolescencia (DNA) ante el Servicio de Registro Cívico (SERECI) o Juez Público en materia de Niñez",
+        "El Director General de la Policía Boliviana mediante resolución administrativa",
+        "El Ministerio de Educación mediante la emisión del código RUDE",
+        "La Junta de Vecinos del barrio donde fue encontrado el menor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 548",
+      "explicacion": "La DNA demanda la filiación judicial o tramita la filiación convencional ante el SERECI para garantizar el derecho a la identidad y nombre."
+    },
+    {
+      "question": "Según el Artículo 36 de la Ley N° 548, ¿cuál es la naturaleza jurídica de la 'Maternidad y Paternidad Responsable'?",
+      "options": [
+        "Es un contrato de carácter estrictamente civil y patrimonial rescindible por mutuo acuerdo",
+        "Es un deber fundamental de la madre y del padre garantizar el desarrollo integral de sus hijas e hijos en igualdad de condiciones",
+        "Es una facultad optativa que se extingue automáticamente si los padres se divorcian",
+        "Es un derecho exclusivo del padre biológico reconocido por la prueba de ADN"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 36, Ley N° 548",
+      "explicacion": "El Artículo 36 establece que la maternidad y paternidad son deberes fundamentales de ambos progenitores de brindar afecto, cuidado, educación y mantención."
+    },
+    {
+      "question": "De acuerdo con el Artículo 42 de la Ley N° 548, ¿cuál de las siguientes NO es una causal para la suspensión temporal de la autoridad de la madre o del padre?",
+      "options": [
+        "Padecimiento de enfermedad mental grave o adicción comprobada que ponga en peligro a la niña, niño o adolescente",
+        "Ausencia o desconocimiento del paradero por más de un año sin causa justificada",
+        "Falta de recursos económicos suficientes debido a desempleo o pobreza involuntaria",
+        "Incumplimiento injustificado de sus deberes de asistencia familiar e imposición de malos tratos"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 42, Ley N° 548",
+      "explicacion": "La falta de recursos económicos o pobreza NUNCA es causa para la suspensión o pérdida de la autoridad parental o la separación de la familia."
+    },
+    {
+      "question": "Según el Artículo 47 de la Ley N° 548, ¿qué ocurre en caso de extinción definitiva de la autoridad materna o paterna determinada por sentencia judicial ejecutoriada?",
+      "options": [
+        "La niña, niño o adolescente queda en situación de adoptabilidad de manera inmediata",
+        "El menor debe ser expulsado inmediatamente del sistema educativo formal",
+        "Se eliminan los deberes de asistencia familiar que pesaban sobre el agresor sancionado",
+        "El Estado asume la propiedad de todos los bienes de la familia biológica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47, Ley N° 548",
+      "explicacion": "La extinción de la autoridad parental dictada por juez habilita la inserción de la niña, niño o adolescente en el procedimiento de adopción legal."
+    },
+    {
+      "question": "Conforme al Artículo 57 de la Ley N° 548, ¿cuál es la duración máxima del 'Acogimiento Circunstancial' como medida excepcional y transitoria de protección?",
+      "options": [
+        "No podrá exceder el plazo máximo e improrrogable de treinta (30) días hábiles",
+        "Duración máxima de tres (3) años renovables por decisión del centro de acogida",
+        "Plazo indefinido hasta que el menor cumpla los 18 años de edad",
+        "Período de seis (6) meses prorrogables por dos años adicionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 57, Ley N° 548",
+      "explicacion": "El acogimiento circumstantial es una medida de extrema urgencia que no debe exceder de 30 días, tiempo en el cual se debe resolver la situación jurídica."
+    },
+    {
+      "question": "Según el Artículo 80 de la Ley N° 548, ¿cuál es la edad mínima de los solicitantes adoptantes en el procedimiento de Adopción Nacional e Internacional?",
+      "options": [
+        "Tener un mínimo de 25 años de edad y ser por lo menos 18 años mayor que la persona adoptada",
+        "Tener al menos 18 años cumplidos y ser 5 años mayor que el menor",
+        "Tener un mínimo de 35 años de edad y contar con título universitario de postgrado",
+        "Tener mínimo 30 años sin límite de diferencia de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 80, Ley N° 548",
+      "explicacion": "Los solicitantes de adopción deben tener mínimo 25 años de edad y ser por lo menos 18 años mayores que la niña, niño o adolescente a ser adoptado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 81 de la Ley N° 548, ¿cuál es la edad máxima fijada para los solicitantes que deseen adoptar a una niña, niño o adolescente?",
+      "options": [
+        "Tener como edad máxima cincuenta y cinco (55) años cumplidos al momento de iniciar la solicitud",
+        "Tener máximo 40 años si son solteros y 45 años si son cónyuges",
+        "Tener máximo 65 años de edad si cuentan con seguro de vida privado",
+        "No existe ningún límite superior de edad en la legislación boliviana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81, Ley N° 548",
+      "explicacion": "La Ley 548 fija un rango de edad para adoptantes: mínimo 25 años y máximo 55 años de edad cumplidos."
+    },
+    {
+      "question": "Según el Artículo 115 de la Ley N° 548, ¿qué está rotundamente prohibido en el sistema educativo respecto al uso de castigos contra niñas, niños y adolescentes?",
+      "options": [
+        "Las pruebas escritas sorpresivas y las evaluaciones cualitativas semanales",
+        "Cualquier forma de castigo físico, humillante, degradante o violencia psicológica dentro y fuera del aula",
+        "La asignación de tareas escolares para desarrollar durante el fin de semana",
+        "La exigencia del uso de uniforme escolar homologado por el Ministerio de Educación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 115, Ley N° 548",
+      "explicacion": "Se prohíbe explícitamente el castigo físico o humillante en la familia, escuela o comunidad, promoviendo una disciplina basada en el respeto y el diálogo."
+    },
+    {
+      "question": "Conforme al Artículo 126 de la Ley N° 548, ¿cuál es la edad mínima de admisión al trabajo en relación de dependencia o por cuenta ajena?",
+      "options": [
+        "Catorce (14) años de edad",
+        "Diez (10) años de edad",
+        "Doce (12) años de edad",
+        "Dieciséis (16) años de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 126, Ley N° 548",
+      "explicacion": "La edad mínima general para el trabajo es de 14 años de edad, resguardando su salud, educación y desarrollo integral."
+    },
+    {
+      "question": "Según el Artículo 129 de la Ley N° 548, ¿cuál es la jornada máxima de trabajo fijada para las y los adolescentes de catorce (14) a dieciocho (18) años?",
+      "options": [
+        "Ocho (8) horas diarias y cuarenta (40) horas semanales",
+        "Seis (6) horas diarias y treinta (30) horas semanales en horario diurno",
+        "Cuatro (4) horas diarias exclusivamente los fines de semana",
+        "Diez (10) horas diarias acumulables con pago de horas extraordinarias"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 129, Ley N° 548",
+      "explicacion": "La jornada laboral para adolescentes no podrá exceder de 6 horas diarias ni de 30 horas semanales, debiendo ser exclusivamente en horario diurno."
+    },
+    {
+      "question": "De acuerdo con el Artículo 134 de la Ley N° 548, ¿cuál de las siguientes actividades se considera trabajo peligroso e insalubre prohibido de manera absoluta para menores de 18 años?",
+      "options": [
+        "Ayudar en labores comerciales de papelería en horarios no escolares",
+        "Trabajos en minas, canteras, recolección de zafra, manejo de maquinaria pesada o sustancias tóxicas y expendio de bebidas alcohólicas",
+        "Prácticas deportivas de alto rendimiento con supervisión técnica",
+        "Participación en elencos teatrales comunitarios y musicales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 134, Ley N° 548",
+      "explicacion": "La ley establece un listado prohibido de trabajos peligrosos e insalubres como zafra, minería, ladrillerías y expendio de alcohol."
+    },
+    {
+      "question": "Según el Artículo 147 de la Ley N° 548, ¿cuál es la obligación que tienen las Unidades Educativas públicas, privadas y de convenio respecto a la convivencia pacífica?",
+      "options": [
+        "Elaborar e implementar de manera obligatoria un Plan de Convivencia Pacífica y Armónica con participación comunitaria",
+        "Contratar guardias de seguridad armados en la puerta de ingreso de cada aula",
+        "Suspender definitivamente de clases a los estudiantes que reprueben dos asignaturas",
+        "Derivar de inmediato a la justicia penal a todos los niños menores de 10 años que incurran en faltas disciplinarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 147, Ley N° 548",
+      "explicacion": "Las unidades educativas deben contar obligatoriamente con su Plan de Convivencia Pacífica y Armónica para prevenir la violencia y el acoso escolar."
+    },
+    {
+      "question": "Conforme al Artículo 152 de la Ley N° 548, ¿cuál es la función de las Defensorías de la Niñez y Adolescencia (DNA)?",
+      "options": [
+        "Es un servicio público gratuito de atención permanente para la defensa, protección y restitución de los derechos de niñas, niños y adolescentes dependiente de los Gobiernos Autónomos Municipales",
+        "Es una dependencia policial reservada únicamente para la detención de adolescentes infractores",
+        "Es un juzgado ordinario privado que cobra aranceles fijados por el Colegio de Abogados",
+        "Es una comisión de padres de familia sin atribuciones legales ni representación judicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 152, Ley N° 548",
+      "explicacion": "Las DNA son dependencias municipales gratuitas de defensa y restitución de derechos de la niñez y adolescencia."
+    },
+    {
+      "question": "Según el Artículo 267 de la Ley N° 548, ¿a partir de qué edad se aplica el Sistema Penal para Adolescentes por la comisión de conductas tipificadas como delitos?",
+      "options": [
+        "A personas de catorce (14) a dieciocho (18) años de edad al momento de la comisión del hecho",
+        "A menores desde los diez (10) hasta los catorce (14) años únicamente",
+        "A cualquier persona menor de veintiún (21) años sin excepción",
+        "A niños desde los seis (6) años de edad mediante privación de libertad preventiva"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 267, Ley N° 548",
+      "explicacion": "La responsabilidad penal especial diferenciada se aplica a adolescentes de 14 a 18 años al momento de cometer la infracción penal."
+    },
+    {
+      "question": "De acuerdo con el Artículo 268 de la Ley N° 548, ¿qué ocurre si un niño menor de catorce (14) años comete una acción tipificada como delito en la ley penal?",
+      "options": [
+        "Es exento de responsabilidad penal y sujeto únicamente a medidas de protección de la DNA y el Juzgado de Niñez",
+        "Se le aplica la mitad de la pena fijada en el Código Penal Ordinario en prisión para adultos",
+        "Es sancionado con trabajo forzado en centros de internamiento militarizados",
+        "Se traslada la pena privativa de libertad directamente a sus padres o tutores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 268, Ley N° 548",
+      "explicacion": "Los menores de 14 años son inimputables y exentos de responsabilidad penal, procediendo solo medidas de protección e integración familiar."
+    },
+    {
+      "question": "Según el Artículo 269 de la Ley N° 548, ¿cuál es la atenuación especial de la pena privativa de libertad para adolescentes con responsabilidad penal?",
+      "options": [
+        "Se aplica la reducción de cuatro quintas (4/5) partes del máximo de la pena fijada para el delito ordinario, y la privación de libertad es de última ratio",
+        "Se reduce la pena a la mitad en todos los casos de delitos flagrantes",
+        "Se duplica la pena si el delito se comete en horario nocturno o escolar",
+        "Se sustituye la pena por una multa pecuniaria pagada por el municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 269, Ley N° 548",
+      "explicacion": "Para adolescentes, las penas privativas de libertad se reducen en 4/5 partes respecto a los límites máximos del Código Penal, siendo la detención excepcional."
+    },
+    {
+      "question": "Conforme al Artículo 270 de la Ley N° 548, ¿cuál es la duración máxima de la sanción de internamiento en un centro especializado para adolescentes infractores?",
+      "options": [
+        "No podrá exceder de ocho (8) años para delitos gravísimos como feminicidio, asesinato, violación o secuestro, y de cinco (5) años para los demás casos",
+        "Duración máxima de treinta (30) años de presidio sin indulto",
+        "Duración máxima de tres (3) meses en cualquier circunstancia",
+        "Hasta que el adolescente cumpla veinticinco (25) años de edad sin revisión judicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 270, Ley N° 548",
+      "explicacion": "La medida de internamiento para adolescentes tiene un techo máximo de 8 años para delitos de extrema gravedad y 5 años para el resto."
+    },
+    {
+      "question": "Según el Artículo 297 de la Ley N° 548, ¿en qué consiste la 'Remisión' como mecanismo de solución alternativa al proceso penal para adolescentes?",
+      "options": [
+        "Es la separación del adolescente del proceso penal antes de la acusación formal, condicionada a la reparación del daño o cumplimiento de compromisos restaurativos",
+        "Es la extradición inmediata del menor infractor a otro país",
+        "Es la remisión de los obrados al Tribunal Supremo de Justicia para juzgamiento en sala plena",
+        "Es la pérdida del derecho a la educación formal del menor procesado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 297, Ley N° 548",
+      "explicacion": "La remisión es una medida de desjudicialización que evita el proceso penal, promoviendo la responsabilidad y reparación restaurativa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 315 de la Ley N° 548, ¿cuál es el plazo máximo de la Detención Preventiva para adolescentes procesados penalmente?",
+      "options": [
+        "No podrá exceder de cuarenta y cinco (45) días calendario",
+        "Duración máxima de seis (6) meses renovables por tres años",
+        "Plazo de un (1) año fijado por el fiscal de materia",
+        "No existe límite de tiempo si la víctima es mayor de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 315, Ley N° 548",
+      "explicacion": "La detención preventiva de adolescentes es de carácter excepcionalísimo y su duración máxima no puede superar los 45 días."
+    },
+    {
+      "question": "Según el Artículo 334 de la Ley N° 548, ¿cuál de las siguientes es una 'Medida Socio-Educativa en Libertad' aplicable a un adolescente infractor?",
+      "options": [
+        "Amonestación, imposición de reglas de conducta, prestación de servicios a la comunidad y libertad asistida",
+        "Internamiento cerrado en centro penitenciario para adultos de máxima seguridad",
+        "Sentencia de destierro del municipio o departamento por diez años",
+        "Cancelación de la cédula de identidad y del registro RUDE escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 334, Ley N° 548",
+      "explicacion": "Las medidas en libertad buscan la reeducación e integración social a través de orientación, reglas de conducta, servicio comunitario y libertad asistida."
+    },
+    {
+      "question": "[26] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[27] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[28] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[29] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[30] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "[31] Conforme al Artículo 3 de la Ley N° 548, ¿cuál es el alcance de la aplicación de las disposiciones de este Código?",
+      "options": [
+        "Se aplica a todas las niñas, niños y adolescentes que se encuentren en el territorio boliviano, sin distinción de nacionalidad, origen o condición",
+        "Se aplica únicamente a menores nacidos en territorio nacional de padres bolivianos",
+        "Se aplica exclusivamente en las ciudades capitales de departamento",
+        "Aplica únicamente a estudiantes inscritos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 548",
+      "explicacion": "El Código Niña, Niño y Adolescente rige de manera universal para todos los menores en territorio boliviano."
+    },
+    {
+      "question": "[32] Según el Artículo 8 de la Ley N° 548, ¿qué se entiende por el principio de 'Interés Superior del Niño'?",
+      "options": [
+        "La obligación de considerar de manera primordial sus derechos en todas las medidas que les afecten, garantizando su desarrollo integral",
+        "La preferencia económica de los hijos sobre los cónyuges en trámites de quiebra comercial",
+        "La primacía de la opinión del profesor sobre la decisión de los padres",
+        "La exención automática de impuestos para familias con más de tres hijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 548",
+      "explicacion": "El interés superior obliga a todas las autoridades e instituciones a priorizar la protección integral y los derechos del menor."
+    },
+    {
+      "question": "[33] De acuerdo con el Artículo 16 de la Ley N° 548, ¿cuál es el estatus del derecho a la vida de las niñas, niños y adolescentes?",
+      "options": [
+        "Tienen derecho a la vida desde la concepción, debiendo el Estado garantizar su supervivencia y desarrollo integral",
+        "El derecho a la vida se adquiere únicamente tras cumplir un año de nacimiento e inscripción en el Registro Civil",
+        "Es un derecho secundario supeditado al presupuesto del Sistema de Salud",
+        "Es un derecho que aplica solamente a partir del ingreso a la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 548",
+      "explicacion": "El Artículo 16 garantiza de manera inalienable el derecho a la vida desde la concepción."
+    },
+    {
+      "question": "[34] Según el Artículo 21 de la Ley N° 548, ¿qué derecho se establece en cuanto a la salud sexual y reproductiva de los adolescentes?",
+      "options": [
+        "Derecho a recibir información, educación preventiva e integral acorde a su desarrollo y estado madurativo",
+        "Prohibición absoluta de impartir contenidos de educación sexual en colegios",
+        "Obligación de someterse a tratamientos médicos anticonceptivos forzosos desde los 12 años",
+        "Acceso libre a cirugías estéticas sin autorización de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "Garantiza información y educación oportuna y científica sobre salud sexual y reproductiva."
+    },
+    {
+      "question": "[35] Conforme al Artículo 29 de la Ley N° 548, ¿qué derecho se reconoce a las niñas, niños y adolescentes con discapacidad?",
+      "options": [
+        "Derecho a recibir atención médica integral, educación inclusiva y ajustes razonables que garanticen su autonomía e integración social",
+        "Obligación de asistir exclusivamente a centros de internamiento cerrados y aislados",
+        "Prohibición de participar en actividades deportivas o recreativas públicas",
+        "Exclusión del sistema de becas o apoyos estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 548",
+      "explicacion": "Garantiza protección especial, inclusión educativa y social, con eliminación de barreras."
+    },
+    {
+      "question": "[36] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[37] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[38] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[39] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[40] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "[41] Conforme al Artículo 3 de la Ley N° 548, ¿cuál es el alcance de la aplicación de las disposiciones de este Código?",
+      "options": [
+        "Se aplica a todas las niñas, niños y adolescentes que se encuentren en el territorio boliviano, sin distinción de nacionalidad, origen o condición",
+        "Se aplica únicamente a menores nacidos en territorio nacional de padres bolivianos",
+        "Se aplica exclusivamente en las ciudades capitales de departamento",
+        "Aplica únicamente a estudiantes inscritos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 548",
+      "explicacion": "El Código Niña, Niño y Adolescente rige de manera universal para todos los menores en territorio boliviano."
+    },
+    {
+      "question": "[42] Según el Artículo 8 de la Ley N° 548, ¿qué se entiende por el principio de 'Interés Superior del Niño'?",
+      "options": [
+        "La obligación de considerar de manera primordial sus derechos en todas las medidas que les afecten, garantizando su desarrollo integral",
+        "La preferencia económica de los hijos sobre los cónyuges en trámites de quiebra comercial",
+        "La primacía de la opinión del profesor sobre la decisión de los padres",
+        "La exención automática de impuestos para familias con más de tres hijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 548",
+      "explicacion": "El interés superior obliga a todas las autoridades e instituciones a priorizar la protección integral y los derechos del menor."
+    },
+    {
+      "question": "[43] De acuerdo con el Artículo 16 de la Ley N° 548, ¿cuál es el estatus del derecho a la vida de las niñas, niños y adolescentes?",
+      "options": [
+        "Tienen derecho a la vida desde la concepción, debiendo el Estado garantizar su supervivencia y desarrollo integral",
+        "El derecho a la vida se adquiere únicamente tras cumplir un año de nacimiento e inscripción en el Registro Civil",
+        "Es un derecho secundario supeditado al presupuesto del Sistema de Salud",
+        "Es un derecho que aplica solamente a partir del ingreso a la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 548",
+      "explicacion": "El Artículo 16 garantiza de manera inalienable el derecho a la vida desde la concepción."
+    },
+    {
+      "question": "[44] Según el Artículo 21 de la Ley N° 548, ¿qué derecho se establece en cuanto a la salud sexual y reproductiva de los adolescentes?",
+      "options": [
+        "Derecho a recibir información, educación preventiva e integral acorde a su desarrollo y estado madurativo",
+        "Prohibición absoluta de impartir contenidos de educación sexual en colegios",
+        "Obligación de someterse a tratamientos médicos anticonceptivos forzosos desde los 12 años",
+        "Acceso libre a cirugías estéticas sin autorización de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "Garantiza información y educación oportuna y científica sobre salud sexual y reproductiva."
+    },
+    {
+      "question": "[45] Conforme al Artículo 29 de la Ley N° 548, ¿qué derecho se reconoce a las niñas, niños y adolescentes con discapacidad?",
+      "options": [
+        "Derecho a recibir atención médica integral, educación inclusiva y ajustes razonables que garanticen su autonomía e integración social",
+        "Obligación de asistir exclusivamente a centros de internamiento cerrados y aislados",
+        "Prohibición de participar en actividades deportivas o recreativas públicas",
+        "Exclusión del sistema de becas o apoyos estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 548",
+      "explicacion": "Garantiza protección especial, inclusión educativa y social, con eliminación de barreras."
+    },
+    {
+      "question": "[46] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[47] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[48] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[49] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[50] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "[51] Conforme al Artículo 3 de la Ley N° 548, ¿cuál es el alcance de la aplicación de las disposiciones de este Código?",
+      "options": [
+        "Se aplica a todas las niñas, niños y adolescentes que se encuentren en el territorio boliviano, sin distinción de nacionalidad, origen o condición",
+        "Se aplica únicamente a menores nacidos en territorio nacional de padres bolivianos",
+        "Se aplica exclusivamente en las ciudades capitales de departamento",
+        "Aplica únicamente a estudiantes inscritos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 548",
+      "explicacion": "El Código Niña, Niño y Adolescente rige de manera universal para todos los menores en territorio boliviano."
+    },
+    {
+      "question": "[52] Según el Artículo 8 de la Ley N° 548, ¿qué se entiende por el principio de 'Interés Superior del Niño'?",
+      "options": [
+        "La obligación de considerar de manera primordial sus derechos en todas las medidas que les afecten, garantizando su desarrollo integral",
+        "La preferencia económica de los hijos sobre los cónyuges en trámites de quiebra comercial",
+        "La primacía de la opinión del profesor sobre la decisión de los padres",
+        "La exención automática de impuestos para familias con más de tres hijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 548",
+      "explicacion": "El interés superior obliga a todas las autoridades e instituciones a priorizar la protección integral y los derechos del menor."
+    },
+    {
+      "question": "[53] De acuerdo con el Artículo 16 de la Ley N° 548, ¿cuál es el estatus del derecho a la vida de las niñas, niños y adolescentes?",
+      "options": [
+        "Tienen derecho a la vida desde la concepción, debiendo el Estado garantizar su supervivencia y desarrollo integral",
+        "El derecho a la vida se adquiere únicamente tras cumplir un año de nacimiento e inscripción en el Registro Civil",
+        "Es un derecho secundario supeditado al presupuesto del Sistema de Salud",
+        "Es un derecho que aplica solamente a partir del ingreso a la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 548",
+      "explicacion": "El Artículo 16 garantiza de manera inalienable el derecho a la vida desde la concepción."
+    },
+    {
+      "question": "[54] Según el Artículo 21 de la Ley N° 548, ¿qué derecho se establece en cuanto a la salud sexual y reproductiva de los adolescentes?",
+      "options": [
+        "Derecho a recibir información, educación preventiva e integral acorde a su desarrollo y estado madurativo",
+        "Prohibición absoluta de impartir contenidos de educación sexual en colegios",
+        "Obligación de someterse a tratamientos médicos anticonceptivos forzosos desde los 12 años",
+        "Acceso libre a cirugías estéticas sin autorización de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "Garantiza información y educación oportuna y científica sobre salud sexual y reproductiva."
+    },
+    {
+      "question": "[55] Conforme al Artículo 29 de la Ley N° 548, ¿qué derecho se reconoce a las niñas, niños y adolescentes con discapacidad?",
+      "options": [
+        "Derecho a recibir atención médica integral, educación inclusiva y ajustes razonables que garanticen su autonomía e integración social",
+        "Obligación de asistir exclusivamente a centros de internamiento cerrados y aislados",
+        "Prohibición de participar en actividades deportivas o recreativas públicas",
+        "Exclusión del sistema de becas o apoyos estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 548",
+      "explicacion": "Garantiza protección especial, inclusión educativa y social, con eliminación de barreras."
+    },
+    {
+      "question": "[56] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[57] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[58] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[59] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[60] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "[61] Conforme al Artículo 3 de la Ley N° 548, ¿cuál es el alcance de la aplicación de las disposiciones de este Código?",
+      "options": [
+        "Se aplica a todas las niñas, niños y adolescentes que se encuentren en el territorio boliviano, sin distinción de nacionalidad, origen o condición",
+        "Se aplica únicamente a menores nacidos en territorio nacional de padres bolivianos",
+        "Se aplica exclusivamente en las ciudades capitales de departamento",
+        "Aplica únicamente a estudiantes inscritos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 548",
+      "explicacion": "El Código Niña, Niño y Adolescente rige de manera universal para todos los menores en territorio boliviano."
+    },
+    {
+      "question": "[62] Según el Artículo 8 de la Ley N° 548, ¿qué se entiende por el principio de 'Interés Superior del Niño'?",
+      "options": [
+        "La obligación de considerar de manera primordial sus derechos en todas las medidas que les afecten, garantizando su desarrollo integral",
+        "La preferencia económica de los hijos sobre los cónyuges en trámites de quiebra comercial",
+        "La primacía de la opinión del profesor sobre la decisión de los padres",
+        "La exención automática de impuestos para familias con más de tres hijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 548",
+      "explicacion": "El interés superior obliga a todas las autoridades e instituciones a priorizar la protección integral y los derechos del menor."
+    },
+    {
+      "question": "[63] De acuerdo con el Artículo 16 de la Ley N° 548, ¿cuál es el estatus del derecho a la vida de las niñas, niños y adolescentes?",
+      "options": [
+        "Tienen derecho a la vida desde la concepción, debiendo el Estado garantizar su supervivencia y desarrollo integral",
+        "El derecho a la vida se adquiere únicamente tras cumplir un año de nacimiento e inscripción en el Registro Civil",
+        "Es un derecho secundario supeditado al presupuesto del Sistema de Salud",
+        "Es un derecho que aplica solamente a partir del ingreso a la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 548",
+      "explicacion": "El Artículo 16 garantiza de manera inalienable el derecho a la vida desde la concepción."
+    },
+    {
+      "question": "[64] Según el Artículo 21 de la Ley N° 548, ¿qué derecho se establece en cuanto a la salud sexual y reproductiva de los adolescentes?",
+      "options": [
+        "Derecho a recibir información, educación preventiva e integral acorde a su desarrollo y estado madurativo",
+        "Prohibición absoluta de impartir contenidos de educación sexual en colegios",
+        "Obligación de someterse a tratamientos médicos anticonceptivos forzosos desde los 12 años",
+        "Acceso libre a cirugías estéticas sin autorización de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "Garantiza información y educación oportuna y científica sobre salud sexual y reproductiva."
+    },
+    {
+      "question": "[65] Conforme al Artículo 29 de la Ley N° 548, ¿qué derecho se reconoce a las niñas, niños y adolescentes con discapacidad?",
+      "options": [
+        "Derecho a recibir atención médica integral, educación inclusiva y ajustes razonables que garanticen su autonomía e integración social",
+        "Obligación de asistir exclusivamente a centros de internamiento cerrados y aislados",
+        "Prohibición de participar en actividades deportivas o recreativas públicas",
+        "Exclusión del sistema de becas o apoyos estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 548",
+      "explicacion": "Garantiza protección especial, inclusión educativa y social, con eliminación de barreras."
+    },
+    {
+      "question": "[66] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[67] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[68] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[69] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[70] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "[71] Conforme al Artículo 3 de la Ley N° 548, ¿cuál es el alcance de la aplicación de las disposiciones de este Código?",
+      "options": [
+        "Se aplica a todas las niñas, niños y adolescentes que se encuentren en el territorio boliviano, sin distinción de nacionalidad, origen o condición",
+        "Se aplica únicamente a menores nacidos en territorio nacional de padres bolivianos",
+        "Se aplica exclusivamente en las ciudades capitales de departamento",
+        "Aplica únicamente a estudiantes inscritos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 548",
+      "explicacion": "El Código Niña, Niño y Adolescente rige de manera universal para todos los menores en territorio boliviano."
+    },
+    {
+      "question": "[72] Según el Artículo 8 de la Ley N° 548, ¿qué se entiende por el principio de 'Interés Superior del Niño'?",
+      "options": [
+        "La obligación de considerar de manera primordial sus derechos en todas las medidas que les afecten, garantizando su desarrollo integral",
+        "La preferencia económica de los hijos sobre los cónyuges en trámites de quiebra comercial",
+        "La primacía de la opinión del profesor sobre la decisión de los padres",
+        "La exención automática de impuestos para familias con más de tres hijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 548",
+      "explicacion": "El interés superior obliga a todas las autoridades e instituciones a priorizar la protección integral y los derechos del menor."
+    },
+    {
+      "question": "[73] De acuerdo con el Artículo 16 de la Ley N° 548, ¿cuál es el estatus del derecho a la vida de las niñas, niños y adolescentes?",
+      "options": [
+        "Tienen derecho a la vida desde la concepción, debiendo el Estado garantizar su supervivencia y desarrollo integral",
+        "El derecho a la vida se adquiere únicamente tras cumplir un año de nacimiento e inscripción en el Registro Civil",
+        "Es un derecho secundario supeditado al presupuesto del Sistema de Salud",
+        "Es un derecho que aplica solamente a partir del ingreso a la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 548",
+      "explicacion": "El Artículo 16 garantiza de manera inalienable el derecho a la vida desde la concepción."
+    },
+    {
+      "question": "[74] Según el Artículo 21 de la Ley N° 548, ¿qué derecho se establece en cuanto a la salud sexual y reproductiva de los adolescentes?",
+      "options": [
+        "Derecho a recibir información, educación preventiva e integral acorde a su desarrollo y estado madurativo",
+        "Prohibición absoluta de impartir contenidos de educación sexual en colegios",
+        "Obligación de someterse a tratamientos médicos anticonceptivos forzosos desde los 12 años",
+        "Acceso libre a cirugías estéticas sin autorización de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "Garantiza información y educación oportuna y científica sobre salud sexual y reproductiva."
+    },
+    {
+      "question": "[75] Conforme al Artículo 29 de la Ley N° 548, ¿qué derecho se reconoce a las niñas, niños y adolescentes con discapacidad?",
+      "options": [
+        "Derecho a recibir atención médica integral, educación inclusiva y ajustes razonables que garanticen su autonomía e integración social",
+        "Obligación de asistir exclusivamente a centros de internamiento cerrados y aislados",
+        "Prohibición de participar en actividades deportivas o recreativas públicas",
+        "Exclusión del sistema de becas o apoyos estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 548",
+      "explicacion": "Garantiza protección especial, inclusión educativa y social, con eliminación de barreras."
+    },
+    {
+      "question": "[76] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[77] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[78] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[79] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[80] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "[81] Conforme al Artículo 3 de la Ley N° 548, ¿cuál es el alcance de la aplicación de las disposiciones de este Código?",
+      "options": [
+        "Se aplica a todas las niñas, niños y adolescentes que se encuentren en el territorio boliviano, sin distinción de nacionalidad, origen o condición",
+        "Se aplica únicamente a menores nacidos en territorio nacional de padres bolivianos",
+        "Se aplica exclusivamente en las ciudades capitales de departamento",
+        "Aplica únicamente a estudiantes inscritos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 548",
+      "explicacion": "El Código Niña, Niño y Adolescente rige de manera universal para todos los menores en territorio boliviano."
+    },
+    {
+      "question": "[82] Según el Artículo 8 de la Ley N° 548, ¿qué se entiende por el principio de 'Interés Superior del Niño'?",
+      "options": [
+        "La obligación de considerar de manera primordial sus derechos en todas las medidas que les afecten, garantizando su desarrollo integral",
+        "La preferencia económica de los hijos sobre los cónyuges en trámites de quiebra comercial",
+        "La primacía de la opinión del profesor sobre la decisión de los padres",
+        "La exención automática de impuestos para familias con más de tres hijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 548",
+      "explicacion": "El interés superior obliga a todas las autoridades e instituciones a priorizar la protección integral y los derechos del menor."
+    },
+    {
+      "question": "[83] De acuerdo con el Artículo 16 de la Ley N° 548, ¿cuál es el estatus del derecho a la vida de las niñas, niños y adolescentes?",
+      "options": [
+        "Tienen derecho a la vida desde la concepción, debiendo el Estado garantizar su supervivencia y desarrollo integral",
+        "El derecho a la vida se adquiere únicamente tras cumplir un año de nacimiento e inscripción en el Registro Civil",
+        "Es un derecho secundario supeditado al presupuesto del Sistema de Salud",
+        "Es un derecho que aplica solamente a partir del ingreso a la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 548",
+      "explicacion": "El Artículo 16 garantiza de manera inalienable el derecho a la vida desde la concepción."
+    },
+    {
+      "question": "[84] Según el Artículo 21 de la Ley N° 548, ¿qué derecho se establece en cuanto a la salud sexual y reproductiva de los adolescentes?",
+      "options": [
+        "Derecho a recibir información, educación preventiva e integral acorde a su desarrollo y estado madurativo",
+        "Prohibición absoluta de impartir contenidos de educación sexual en colegios",
+        "Obligación de someterse a tratamientos médicos anticonceptivos forzosos desde los 12 años",
+        "Acceso libre a cirugías estéticas sin autorización de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "Garantiza información y educación oportuna y científica sobre salud sexual y reproductiva."
+    },
+    {
+      "question": "[85] Conforme al Artículo 29 de la Ley N° 548, ¿qué derecho se reconoce a las niñas, niños y adolescentes con discapacidad?",
+      "options": [
+        "Derecho a recibir atención médica integral, educación inclusiva y ajustes razonables que garanticen su autonomía e integración social",
+        "Obligación de asistir exclusivamente a centros de internamiento cerrados y aislados",
+        "Prohibición de participar en actividades deportivas o recreativas públicas",
+        "Exclusión del sistema de becas o apoyos estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 548",
+      "explicacion": "Garantiza protección especial, inclusión educativa y social, con eliminación de barreras."
+    },
+    {
+      "question": "[86] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[87] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[88] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[89] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[90] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "[91] Conforme al Artículo 3 de la Ley N° 548, ¿cuál es el alcance de la aplicación de las disposiciones de este Código?",
+      "options": [
+        "Se aplica a todas las niñas, niños y adolescentes que se encuentren en el territorio boliviano, sin distinción de nacionalidad, origen o condición",
+        "Se aplica únicamente a menores nacidos en territorio nacional de padres bolivianos",
+        "Se aplica exclusivamente en las ciudades capitales de departamento",
+        "Aplica únicamente a estudiantes inscritos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 548",
+      "explicacion": "El Código Niña, Niño y Adolescente rige de manera universal para todos los menores en territorio boliviano."
+    },
+    {
+      "question": "[92] Según el Artículo 8 de la Ley N° 548, ¿qué se entiende por el principio de 'Interés Superior del Niño'?",
+      "options": [
+        "La obligación de considerar de manera primordial sus derechos en todas las medidas que les afecten, garantizando su desarrollo integral",
+        "La preferencia económica de los hijos sobre los cónyuges en trámites de quiebra comercial",
+        "La primacía de la opinión del profesor sobre la decisión de los padres",
+        "La exención automática de impuestos para familias con más de tres hijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 548",
+      "explicacion": "El interés superior obliga a todas las autoridades e instituciones a priorizar la protección integral y los derechos del menor."
+    },
+    {
+      "question": "[93] De acuerdo con el Artículo 16 de la Ley N° 548, ¿cuál es el estatus del derecho a la vida de las niñas, niños y adolescentes?",
+      "options": [
+        "Tienen derecho a la vida desde la concepción, debiendo el Estado garantizar su supervivencia y desarrollo integral",
+        "El derecho a la vida se adquiere únicamente tras cumplir un año de nacimiento e inscripción en el Registro Civil",
+        "Es un derecho secundario supeditado al presupuesto del Sistema de Salud",
+        "Es un derecho que aplica solamente a partir del ingreso a la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 548",
+      "explicacion": "El Artículo 16 garantiza de manera inalienable el derecho a la vida desde la concepción."
+    },
+    {
+      "question": "[94] Según el Artículo 21 de la Ley N° 548, ¿qué derecho se establece en cuanto a la salud sexual y reproductiva de los adolescentes?",
+      "options": [
+        "Derecho a recibir información, educación preventiva e integral acorde a su desarrollo y estado madurativo",
+        "Prohibición absoluta de impartir contenidos de educación sexual en colegios",
+        "Obligación de someterse a tratamientos médicos anticonceptivos forzosos desde los 12 años",
+        "Acceso libre a cirugías estéticas sin autorización de los padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 548",
+      "explicacion": "Garantiza información y educación oportuna y científica sobre salud sexual y reproductiva."
+    },
+    {
+      "question": "[95] Conforme al Artículo 29 de la Ley N° 548, ¿qué derecho se reconoce a las niñas, niños y adolescentes con discapacidad?",
+      "options": [
+        "Derecho a recibir atención médica integral, educación inclusiva y ajustes razonables que garanticen su autonomía e integración social",
+        "Obligación de asistir exclusivamente a centros de internamiento cerrados y aislados",
+        "Prohibición de participar en actividades deportivas o recreativas públicas",
+        "Exclusión del sistema de becas o apoyos estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 548",
+      "explicacion": "Garantiza protección especial, inclusión educativa y social, con eliminación de barreras."
+    },
+    {
+      "question": "[96] Según el Artículo 35 de la Ley N° 548, ¿en qué consiste el derecho a la familia de toda niña, niño o adolescente?",
+      "options": [
+        "Derecho a crecer y desarrollarse en el seno de su familia de origen o, en su defecto, en una familia sustituta que le brinde afecto y protección",
+        "Obligación de vivir en centros de acogida hasta cumplir los 18 años de edad",
+        "Facultad de elegir libremente la familia donde desea vivir mediante trámite ante un notario de fe pública",
+        "Derecho de emancipación automática al cumplir 12 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 548",
+      "explicacion": "Se garantiza el derecho prioritario a vivir y desarrollarse en su familia de origen o sustituta."
+    },
+    {
+      "question": "[97] De acuerdo con el Artículo 41 de la Ley N° 548, ¿cuál de los siguientes es un deber fundamental de la madre y del padre?",
+      "options": [
+        "Proveer alimentación, vivienda, educación, vestimenta, afecto y protección integral a sus hijas e hijos",
+        "Exigir el trabajo infantil para cubrir el presupuesto del hogar",
+        "Transferir la custodia del menor a terceros si este desaprueba una materia escolar",
+        "Renunciar a la paternidad mediante documento privado notariado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 548",
+      "explicacion": "Establece los deberes inalienables de mantención, afecto y cuidado integral a cargo de los padres."
+    },
+    {
+      "question": "[98] Según el Artículo 52 de la Ley N° 548, ¿qué es la 'Guarda' y a favor de quién se otorga de forma prioritaria?",
+      "options": [
+        "Es una institución de protección que otorga la custodia física y cuidado de la niña, niño o adolescente a parientes consanguíneos o terceros idóneos",
+        "Es una medida penal de arresto domiciliario que se impone a los padres infractores",
+        "Es el registro mercantil de los bienes heredados por menores",
+        "Es la tutela administrativa que ejerce el Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52, Ley N° 548",
+      "explicacion": "La Guarda otorga la tenencia, cuidado y auxilio directo a favor de familiares o personas idóneas."
+    },
+    {
+      "question": "[99] Conforme al Artículo 60 de la Ley N° 548, ¿quiénes ejercen la 'Tutela Ordinaria' cuando faltan ambos progenitores?",
+      "options": [
+        "Los abuelos, tíos o hermanos mayores de edad designados por el Juez Público en materia de Niñez y Adolescencia",
+        "El Alcalde Municipal o el Gobernador del departamento de forma directa",
+        "El Director de la unidad educativa donde estudia el menor",
+        "Cualquier ciudadano extranjero sin trámite judicial previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 548",
+      "explicacion": "La tutela es conferida por autoridad judicial a familiares directos o personas idóneas ante la falta o fallecimiento de los padres."
+    },
+    {
+      "question": "[100] Según el Artículo 116 de la Ley N° 548, ¿qué garantía se establece para evitar la exclusión o expulsión de estudiantes embarazadas en las Unidades Educativas?",
+      "options": [
+        "Prohibición absoluta de expulsión, sanción o discriminación a estudiantes en estado de gestación o maternidad, debiendo flexibilizarse su asistencia",
+        "Obligación de trasladar inmediatamente a la estudiante a un centro nocturno de educación alternativa",
+        "Cobro de una multa a los padres de la estudiante por concepto de faltas al reglamento escolar",
+        "Suspensión del derecho a rendir exámenes finales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 116, Ley N° 548",
+      "explicacion": "Prohíbe expresamente la exclusión o sanción por embarazo o maternidad, garantizando la permanencia escolar."
+    },
+    {
+      "question": "Según el Artículo 346.e de la Ley N° 548, ¿con qué frecuencia la Jueza o Juez debe evaluar la ejecución de las medidas socio-educativas de adolescentes?",
+      "options": [
+        "Revisar y evaluar cada seis (6) meses las medidas para modificarlas o sustituirlas si no cumplen sus objetivos",
+        "Únicamente al finalizar la totalidad del tiempo fijado en la sentencia",
+        "Cada treinta (30) días con informe policial de buena conducta",
+        "Solamente en caso de fuga o motín dentro del centro"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 346.e, Ley N° 548",
+      "explicacion": "El Juez de ejecución evalúa y revisa las medidas socio-educativas cada 6 meses para modificarlas, sustituirlas o extinguirlas según el avance."
+    }
+  ]
+}

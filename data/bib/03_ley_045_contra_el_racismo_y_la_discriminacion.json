@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "nombre": "Ley 045 Contra el Racismo y toda Forma de Discriminación",
+    "detalle": "Ley de 8 de octubre de 2010",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objeto principal de la Ley N° 045 Ley Contra el Racismo y toda Forma de Discriminación según el Artículo 1.I?",
+      "options": [
+        "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación",
+        "Crear un cuerpo policial especializado en la persecución de delitos raciales y discriminatorios",
+        "Sustituir el Código Penal en lo relativo a las contravenciones y faltas comunitarias",
+        "Reglamentar de manera exclusiva la actividad periodística y el funcionamiento de medios masivos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1.I, Ley N° 045",
+      "explicacion": "El Artículo 1.I establece expresamente que el objeto de la ley es establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación."
+    },
+    {
+      "question": "Según el Artículo 1.II de la Ley N° 045, ¿cuáles son los dos objetivos específicos de la ley?",
+      "options": [
+        "Crear tribunales especiales de justicia indígena y sancionar a medios de comunicación privados",
+        "Eliminar conductas de racismo y toda forma de discriminación, y consolidar políticas públicas de protección y prevención",
+        "Suprimir el derecho de admisión en locales privados y fiscalizar las redes sociales",
+        "Derogar las faltas administrativas en ministerios y unificar la tipificación de delitos civiles"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 1.II, Ley N° 045",
+      "explicacion": "El Art. 1.II dispone que los objetivos son eliminar conductas de racismo/discriminación y consolidar políticas públicas de protección y prevención."
+    },
+    {
+      "question": "¿Cómo define la Ley N° 045 el principio de Interculturalidad en su Artículo 2.a?",
+      "options": [
+        "Como el aislamiento de cada comunidad indígena para preservar su pureza étnica",
+        "Como la subordinación de la cultura occidental a las prácticas originarias ancestrales",
+        "Entendida como la interacción entre las culturas, que se constituye en instrumento para la cohesión y convivencia armónica y equilibrada",
+        "Como la homogenización cultural forzosa bajo un idioma único oficial"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 2.a, Ley N° 045",
+      "explicacion": "El Art. 2.a define la Interculturalidad como la interacción entre las culturas para la cohesión y convivencia armónica de manera respetuosa."
+    },
+    {
+      "question": "De acuerdo con el principio de Igualdad (Artículo 2.b de la Ley N° 045), ¿qué tipo de medidas adoptará el Estado para lograr una igualdad real y efectiva?",
+      "options": [
+        "Asignaciones presupuestarias exclusivas para zonas urbanas centrales",
+        "Sanciones punitivas automáticas a todas las empresas privadas",
+        "Restricciones temporales a los derechos políticos de servidores públicos",
+        "Medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 2.b, Ley N° 045",
+      "explicacion": "El Estado promoverá condiciones adoptando medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad para lograr equidad y justicia social."
+    },
+    {
+      "question": "¿Cómo define la Ley N° 045 el principio de Equidad en su Artículo 2.c?",
+      "options": [
+        "Reconocimiento a la diferencia y el valor social equitativo de las personas para alcanzar la justicia social y el ejercicio pleno de los derechos",
+        "Reparto aritmético exacto de ingresos económicos entre todos los ciudadanos independientemente de su labor",
+        "Prevalencia de los derechos colectivos sobre cualquier garantía individual en materia de propiedad",
+        "Igualación coercitiva de creencias religiosas y filiaciones políticas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.c, Ley N° 045",
+      "explicacion": "Se define como el reconocimiento a la diferencia y el valor social equitativo para alcanzar la justicia social y el goce pleno de derechos."
+    },
+    {
+      "question": "Según el principio de Protección (Artículo 2.d de la Ley N° 045), ¿a qué tienen derecho todos los seres humanos contra el racismo y la discriminación?",
+      "options": [
+        "A recibir una indemnización económica del TGN en un plazo máximo de 24 horas sin proceso previo",
+        "A igual protección efectiva y oportuna en sede administrativa y/o jurisdiccional que implique una reparación o satisfacción justa",
+        "A la deportación inmediata de cualquier extranjero involucrado en una falta verbal",
+        "A la exención de impuestos nacionales por el periodo en que duró la agresión"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2.d, Ley N° 045",
+      "explicacion": "El Art. 2.d garantiza protección efectiva y oportuna en sede administrativa y/o jurisdiccional con reparación o satisfacción justa."
+    },
+    {
+      "question": "Respecto a las inmunidades y fueros, ¿qué dispone el Artículo 3 de la Ley N° 045 en cuanto a su ámbito de aplicación?",
+      "options": [
+        "Exime de responsabilidad a las autoridades militares en ejercicio de misiones de seguridad nacional",
+        "Reconoce fuero sindical e inmunidad parlamentaria previa autorización de la ALP",
+        "La Ley no reconoce inmunidad, fuero o privilegio alguno y se aplica en todo el territorio nacional",
+        "Se aplica de manera optativa previa ratificación por las entidades territoriales autónomas"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 3, Ley N° 045",
+      "explicacion": "El Artículo 3 establece categóricamente que la Ley se aplicará en todo el territorio y 'no reconoce inmunidad, fuero o privilegio alguno'."
+    },
+    {
+      "question": "De acuerdo con el Artículo 3 de la Ley N° 045, ¿a quiénes de los siguientes sujetos NO alcanza la aplicación de la ley?",
+      "options": [
+        "A todos los habitantes excepto los representantes diplomáticos extranjeros acreditados",
+        "Únicamente a servidores públicos del nivel central del Estado",
+        "Exclusivamente a personas naturales mayores de edad con ciudadanía plena",
+        "Alcanza a todos: bolivianos, extranjeros, autoridades públicas, privadas, FFAA, Policía y misiones diplomáticas"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 3, Ley N° 045",
+      "explicacion": "El Art. 3 abarca en sus incisos a) al f) a bolivianos, extranjeros, autoridades de todos los niveles, Fuerzas Armadas, Policía, empresas privadas, ONG y misiones diplomáticas."
+    },
+    {
+      "question": "¿Cuál es la definición legal exacta de Discriminación dada en el Artículo 5.a de la Ley N° 045?",
+      "options": [
+        "Toda forma de distinción, exclusión, restricción o preferencia fundada en razón de sexo, color, edad, orientación sexual, etc., que anule o menoscabe derechos",
+        "Cualquier crítica oral o escrita emitida en medios de comunicación contra autoridades públicas",
+        "El trato diferenciado otorgado por la ley en favor de niños y adultos mayores",
+        "La separación obligatoria de juzgados ordinarios e indígenas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.a, Ley N° 045",
+      "explicacion": "Definición amplia del Art. 5.a que abarca múltiples causales (sexo, color, edad, idioma, religión, etc.) que menoscaben el goce de derechos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.a de la Ley N° 045, ¿qué tipo de medidas NO se considerarán discriminación?",
+      "options": [
+        "Las sanciones disciplinarias de suspensión de sueldo",
+        "Las medidas de acción afirmativa",
+        "Las exigencias de títulos universitarios para cargos técnicos",
+        "Las restricciones de acceso a discotecas por razones de edad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.a, Ley N° 045",
+      "explicacion": "El Art. 5.a aclara expresamente al final del inciso: 'No se considerará discriminación a las medidas de acción afirmativa'."
+    },
+    {
+      "question": "¿Cómo se define 'Discriminación Racial' según el Artículo 5.b de la Ley N° 045?",
+      "options": [
+        "La preferencia laboral otorgada a profesionales extranjeros sobre nacionales",
+        "Cualquier agresión física ocurrida entre comunidades indígenas rivales",
+        "Toda distinción, exclusión, restricción o preferencia basada en motivos de raza, color, ascendencia u origen nacional o étnico",
+        "El rechazo ideológico contra organizaciones políticas internacionales"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5.b, Ley N° 045",
+      "explicacion": "El Art. 5.b especifica que la discriminación racial se basa en motivos de raza, color, ascendencia u origen nacional o étnico."
+    },
+    {
+      "question": "Según el Artículo 5.c de la Ley N° 045, ¿qué se considera 'Racismo'?",
+      "options": [
+        "La enseñanza de historia prehispánica en unidades educativas",
+        "El estudio antropométrico de poblaciones antiguas con fines académicos",
+        "El uso de vestimenta tradicional en actos oficiales del Estado",
+        "Toda teoría tendente a la valoración de diferencias biológicas y/o culturales para justificar agresión y dominación presumiendo superioridad"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 5.c, Ley N° 045",
+      "explicacion": "El Art. 5.c define racismo como teoría de valoración de diferencias reales o imaginarias en provecho de un grupo y perjuicio de otro para justificar dominación."
+    },
+    {
+      "question": "Conforme al Artículo 5.d de la Ley N° 045, ¿cuál es la concepción legal de 'Raza'?",
+      "options": [
+        "Una noción construida socialmente desarrollada como un conjunto de prejuicios que distorsiona ideas sobre diferencias humanas",
+        "Un concepto genético y biológico riguroso que clasifica objetivamente a la humanidad",
+        "Una categoría legal heredada del derecho colonial para determinar la ciudadanía",
+        "Un criterio científico válido para otorgar privilegios económicos diferenciados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.d, Ley N° 045",
+      "explicacion": "El Art. 5.d señala que la raza es una noción construida socialmente y que toda doctrina de superioridad racial es científicamente falsa y moralmente condenable."
+    },
+    {
+      "question": "¿Cómo define el Artículo 5.e de la Ley N° 045 la 'Equidad de Género'?",
+      "options": [
+        "Inclusión de un porcentaje del 50% de mujeres en empresas privadas obligatoriamente",
+        "Reconocimiento y valoración de las diferencias físicas y biológicas de mujeres y hombres para alcanzar justicia social e igualdad de oportunidades",
+        "Prohibición de contratar hombres en cargos directivos de la administración pública",
+        "Equiparación salarial única sin considerar la carga horaria ni el nivel técnico"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.e, Ley N° 045",
+      "explicacion": "Se define como el reconocimiento y valoración de las diferencias físicas/biológicas de mujeres y hombres para alcanzar justicia social e igualdad de oportunidades."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.f de la Ley N° 045, ¿qué es la 'Equidad Generacional'?",
+      "options": [
+        "La prioridad absoluta de otorgación de vivienda a personas menores de 25 años",
+        "La jubilación obligatoria automática al cumplir los 55 años de edad",
+        "Reconocimiento y valoración de las diferencias generacionales de mujeres y hombres para garantizar el beneficio pleno de sus derechos sin perjuicio de su edad",
+        "La exención de impuestos a empresas contratantes de personal adulto mayor"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5.f, Ley N° 045",
+      "explicacion": "Es el reconocimiento y valoración de las diferencias generacionales para garantizar derechos sin perjuicio de la edad."
+    },
+    {
+      "question": "Según el Artículo 5.g de la Ley N° 045, ¿a qué se refiere la 'Homofobia'?",
+      "options": [
+        "La prohibición de matrimonio entre personas consanguíneas",
+        "La negación de asistencia médica por razones de creencias religiosas",
+        "El rechazo infundado a personas en situación de movilidad humana o refugio",
+        "Aversión, odio, prejuicio o discriminación contra hombres o mujeres homosexuales, e integrantes de la diversidad sexual"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 5.g, Ley N° 045",
+      "explicacion": "El Art. 5.g la define como aversión, odio, prejuicio o discriminación contra homosexuales y diversidad sexual."
+    },
+    {
+      "question": "Conforme al Artículo 5.h de la Ley N° 045, ¿cómo se entiende la 'Transfobia'?",
+      "options": [
+        "Discriminación hacia la transexualidad y las personas transexuales o transgénero, basada en su identidad de género",
+        "El rechazo sistemático a las transfusiones de sangre por motivos éticos",
+        "La fobia patológica a someterse a tratamientos quirúrgicos complejos",
+        "El impedimento de cambio de nombre en el Registro Civil para personas extranjeras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.h, Ley N° 045",
+      "explicacion": "El Art. 5.h define la transfobia como la discriminación hacia la transexualidad y personas transexuales/transgénero basada en su identidad de género."
+    },
+    {
+      "question": "¿Cuál es la definición legal de 'Xenofobia' en el Artículo 5.i de la Ley N° 045?",
+      "options": [
+        "El temor irrazonable a los lugares públicos masivos o aglomeraciones",
+        "Odio y rechazo al extranjero o extranjera, con manifestaciones que van desde el rechazo hasta la violencia",
+        "El desprecio dirigido exclusivamente contra miembros de minorías lingüísticas originarias",
+        "La negación de pasaportes a ciudadanos bolivianos en el exterior"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.i, Ley N° 045",
+      "explicacion": "El Art. 5.i define la xenofobia como el odio y rechazo al extranjero o extranjera."
+    },
+    {
+      "question": "Según el Artículo 5.j de la Ley N° 045, ¿qué se entiende por 'Misoginia'?",
+      "options": [
+        "El incumplimiento de la asistencia familiar en los juzgados de familia",
+        "La preferencia por la contratación de personal masculino en faenas mineras",
+        "Cualquier conducta o comportamiento de odio manifiesto hacia las mujeres o género femenino que pretenda vulnerar sus derechos",
+        "El rechazo a la maternidad por parte de jóvenes profesionales"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5.j, Ley N° 045",
+      "explicacion": "Es cualquier conducta o comportamiento de odio manifiesto hacia las mujeres o género femenino independientemente de edad u origen."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.k de la Ley N° 045, ¿qué son las 'Acciones Afirmativas'?",
+      "options": [
+        "Los incentivos fiscales permanentes concedidos a empresas privadas exportadoras",
+        "Declaraciones juradas de bienes que deben realizar los servidores públicos al asumir un cargo",
+        "Las resoluciones judiciales ejecutoriadas que imponen penas de prisión privativa de libertad",
+        "Medidas y políticas de carácter temporal adoptadas en favor de sectores en desventaja para superar obstáculos hacia una igualdad real"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 5.k, Ley N° 045",
+      "explicacion": "Se definen como medidas y políticas de carácter temporal en favor de sectores en desventaja y que sufren discriminación."
+    },
+    {
+      "question": "¿Cómo distingue la Ley N° 045 en sus incisos l) y m) del Artículo 5 entre 'Acción Preventiva' y 'Acción Correctiva'?",
+      "options": [
+        "Preventiva son campañas de concientización y educación; Correctiva es la efectiva imposición de sanciones disciplinarias",
+        "Preventiva es la detención preventiva judicial; Correctiva es la libertad condicional por buena conducta",
+        "Preventiva es la modificación del Código Penal; Correctiva es la amnistía concedida por el Presidente",
+        "Preventiva es la fiscalización de medios; Correctiva es la clausura definitiva de instituciones públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.l y 5.m, Ley N° 045",
+      "explicacion": "Acción Preventiva son campañas de educación/concientización; Acción Correctiva es la efectiva imposición de medidas sancionatorias."
+    },
+    {
+      "question": "En el ámbito educativo, según el Artículo 6.I.a de la Ley N° 045, ¿dónde se debe promover el diseño e implementación de políticas de prevención?",
+      "options": [
+        "Exclusivamente en las escuelas rurales de los municipios con menor población",
+        "En Universidades, Institutos Normales Superiores públicos y privados, y el Sistema Educativo en niveles preescolar, primario y secundario",
+        "Únicamente en los colegios privados de las ciudades capitales",
+        "En las facultades de derecho de las universidades autónomas únicamente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.I.a, Ley N° 045",
+      "explicacion": "Abarca Universidades, Institutos Normales Superiores públicos y privados, y todo el Sistema Educativo (preescolar, primario y secundario)."
+    },
+    {
+      "question": "Según el Artículo 6.I.b de la Ley N° 045, ¿qué contenidos deben incluirse obligatoriamente en las políticas educativas, culturales y comunicacionales?",
+      "options": [
+        "Cursos obligatorios de doctrina jurídica militar e instrucción de armas",
+        "La enseñanza de tres idiomas extranjeros occidentales desde el nivel preescolar",
+        "La historia y los derechos de las naciones y pueblos indígena originario campesinos y el pueblo afroboliviano",
+        "La historia económica comparada de los países del hemisferio norte"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 6.I.b, Ley N° 045",
+      "explicacion": "Deben incluir la historia y los derechos de las naciones y pueblos indígena originario campesinos y el pueblo afroboliviano."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.II.b de la Ley N° 045, ¿en qué instituciones el Estado debe gestionar la inclusión curricular de la prevención contra el racismo y la discriminación?",
+      "options": [
+        "En las escuelas de formación de choferes profesionales",
+        "En las academias diplomáticas de países extranjeros",
+        "Exclusivamente en los institutos técnicos agropecuarios",
+        "En los Institutos Militares y Policiales"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 6.II.b, Ley N° 045",
+      "explicacion": "El Art. 6.II.b indica: 'Gestionar y apoyar la inclusión curricular de la prevención contra el racismo y la discriminación en los Institutos Militares y Policiales'."
+    },
+    {
+      "question": "Según el Artículo 6.II.g de la Ley N° 045, ¿qué aspecto debe promoverse dentro de la administración pública respecto a la memoria histórica?",
+      "options": [
+        "El reconocimiento de héroes y heroínas pertenecientes a las naciones pueblos indígena originario campesinos, afrobolivianos y comunidades interculturales",
+        "La edificación de monumentos únicos para autoridades republicanas del siglo XIX",
+        "La eliminación de nombres originarios de plazas y calles públicas",
+        "El registro reservado de líderes sindicales en archivos policiales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II.g, Ley N° 045",
+      "explicacion": "El Art. 6.II.g promueve el reconocimiento de los héroes y heroínas de naciones originarias, afrobolivianos e interculturales."
+    },
+    {
+      "question": "En el ámbito de la comunicación, información y difusión (Artículo 6.III.a y b), ¿qué estudios y datos debe generar el Estado?",
+      "options": [
+        "Censo bianual obligatorio de ingresos económicos de periodistas de medios privados",
+        "Producción de datos estadísticos e investigaciones cuantitativas y cualitativas sobre el racismo y sus efectos sobre las víctimas",
+        "Registro de oyentes y televidentes de programas informativos de opinión",
+        "Auditorías financieras a empresas publicitarias internacionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.III.a y b, Ley N° 045",
+      "explicacion": "El Estado debe promover datos estadísticos e investigaciones cuantitativas/cualitativas sobre el racismo y discriminación y sus efectos sobre víctimas."
+    },
+    {
+      "question": "Conforme al Artículo 6.III.d de la Ley N° 045, ¿qué medida se dispone para las nuevas tecnologías de información e internet?",
+      "options": [
+        "Bloquear sitios web de entidades privadas que no sean estatales",
+        "Prohibir el acceso a redes sociales internacionales a menores de 18 años",
+        "Eliminar de sus programaciones, lenguajes, expresiones y manifestaciones racistas, xenófobas y discriminatorias",
+        "Aplicar un impuesto especial por el uso de conexiones de fibra óptica"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 6.III.d, Ley N° 045",
+      "explicacion": "Se dispone que medios televisivos, radiales, escritos e internet eliminen expresiones racistas, xenófobas o de contenido discriminatorio."
+    },
+    {
+      "question": "En el ámbito económico (Artículo 6.IV.a de la Ley N° 045), ¿cómo promoverá el Estado la inclusión social?",
+      "options": [
+        "Otorgando subsidios en efectivo directamente a partidos políticos en elecciones",
+        "Mediante la expropiación sin indemnización de predios comerciales urbanos",
+        "Fijando tasas de interés nulas exclusivamente para empresas multinacionales",
+        "A través de inversiones públicas y privadas para generar oportunidades y erradicación de la pobreza, orientada a sectores vulnerables"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 6.IV.a, Ley N° 045",
+      "explicacion": "Promoverá inclusión social mediante inversiones públicas y privadas para erradicar la pobreza, especialmente en sectores vulnerables."
+    },
+    {
+      "question": "Según el Artículo 7 de la Ley N° 045, ¿qué organismo se crea y bajo qué tuición institucional funcionará?",
+      "options": [
+        "El Comité Nacional contra el Racismo y toda Forma de Discriminación, bajo tuición del Ministerio de Culturas (Viceministerio de Descolonización)",
+        "La Fiscalía Especializada contra la Discriminación, bajo tuición del Ministerio de Gobierno",
+        "El Consejo de Magistrados Plurinacionales, bajo tuición del Órgano Judicial",
+        "El Defensor de la Diversidad, bajo tuición de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, Ley N° 045",
+      "explicacion": "El Art. 7 crea el Comité Nacional contra el Racismo y toda Forma de Discriminación bajo la tuición del Ministerio de Culturas a través del Viceministerio de Descolonización."
+    },
+    {
+      "question": "¿Cuáles son las dos Comisiones que conforman el Comité Nacional contra el Racismo según el Artículo 7 de la Ley N° 045?",
+      "options": [
+        "a) Comisión Penal Punitiva y b) Comisión Administrativa Financiera",
+        "a) Comisión de Lucha contra el Racismo y b) Comisión de Lucha contra toda forma de Discriminación",
+        "a) Comisión de Medios de Comunicación y b) Comisión de Asuntos Indígenas",
+        "a) Comisión de Fiscalización Pública y b) Comisión de Garantías Constitucionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7, Ley N° 045",
+      "explicacion": "El Art. 7 establece que el Comité estará conformado por dos comisiones: de Lucha contra el Racismo, y de Lucha contra toda forma de Discriminación."
+    },
+    {
+      "question": "¿Qué unidad técnica administrativa tiene a su cargo el funcionamiento de ambas comisiones del Comité según el Artículo 7?",
+      "options": [
+        "La Dirección de Servicios Jurídicos del Ministerio de Justicia",
+        "La Oficialía Mayor del Congreso de la ALP",
+        "La Dirección General de Lucha Contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización",
+        "La Secretaría de Derechos Humanos del Tribunal Supremo de Justicia"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 7, Ley N° 045",
+      "explicacion": "A cargo de la Dirección General de Lucha Contra el Racismo y toda forma de Discriminación, del Viceministerio de Descolonización."
+    },
+    {
+      "question": "Según el Artículo 8.I de la Ley N° 045, ¿cuáles Ministerios del Órgano Ejecutivo integran el Comité Nacional?",
+      "options": [
+        "Solamente el Ministerio de Relaciones Exteriores y de Gobierno",
+        "Únicamente los Ministerios de Culturas y de Educación",
+        "Todos los Ministerios del Estado Plurinacional sin excepción",
+        "Ministerios de Culturas, Presidencia, Justicia, Gobierno, Educación, Economía, Planificación y Defensa"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 8.I.a.1, Ley N° 045",
+      "explicacion": "Integran el Órgano Ejecutivo: Culturas, Presidencia, Justicia, Gobierno, Educación, Economía y Finanzas Públicas, Planificación del Desarrollo y Defensa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 8.I.a.4 de la Ley N° 045, ¿qué instancia del Órgano Legislativo forma parte del Comité?",
+      "options": [
+        "La Comisión de Derechos Humanos de la Cámara de Diputados",
+        "La Presidencia de la Cámara de Senadores exclusivamente",
+        "La Comisión de Ética de la Asamblea Legislativa Plurinacional",
+        "Todos los jefes de bancada parlamentaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I.a.4, Ley N° 045",
+      "explicacion": "En el Órgano Legislativo forma parte la Comisión de Derechos Humanos de la Cámara de Diputados."
+    },
+    {
+      "question": "Según el Artículo 8.II de la Ley N° 045, ¿qué entidades participan como 'órganos observadores y de acompañamiento técnico' en el Comité?",
+      "options": [
+        "El Tribunal Constitucional Plurinacional y la Contraloría General del Estado",
+        "La Oficina del Alto Comisionado para los Derechos Humanos de Bolivia y la Defensoría del Pueblo",
+        "Las misiones diplomáticas de la Unión Europea y la OEA",
+        "La Policía Boliviana y las Fuerzas Armadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 8.II, Ley N° 045",
+      "explicacion": "El Art. 8.II otorga el rol de observadores y acompañamiento técnico a la Oficina del Alto Comisionado para los DDHH de Bolivia y a la Defensoría del Pueblo."
+    },
+    {
+      "question": "Respecto a la remuneración de los miembros del Comité, ¿qué establece expresamente el Artículo 8.III de la Ley N° 045?",
+      "options": [
+        "Recibirán un bono anual financiado con multas impuestas a medios de comunicación",
+        "Cobrarán dietas equivalentes al salario de un Viceministro por cada sesión",
+        "No percibirán salario alguno que provenga del Tesoro General de la Nación por estas funciones",
+        "Tendrán asignada una partida presupuestaria de pasajes y viáticos internacionales"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 8.III, Ley N° 045",
+      "explicacion": "El Art. 8.III prescribe: 'Los miembros del Comité, por estas funciones, no percibirán salario alguno que provenga del Tesoro General de la Nación'."
+    },
+    {
+      "question": "¿Cuál es la primera tarea principal asignada al Comité según el Artículo 9.a de la Ley N° 045?",
+      "options": [
+        "Designar a los directores de RRHH de los Ministerios de Estado",
+        "Redactar las sentencias penales procesales de la jurisdicción ordinaria",
+        "Aprobar las licencias de funcionamiento de medios televisivos y radiales",
+        "Dirigir la elaboración de un Diagnóstico y un Plan Nacional de Acción contra el Racismo y toda Forma de Discriminación"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 9.a, Ley N° 045",
+      "explicacion": "La primera tarea es dirigir la elaboración de un Diagnóstico y un Plan Nacional de Acción sobre la base de los lineamientos del Art. 6."
+    },
+    {
+      "question": "Según el Artículo 9.e de la Ley N° 045, ¿qué debe velar el Comité respecto a las instituciones estatales, Policía y Fuerzas Armadas?",
+      "options": [
+        "Que sus Reglamentos Internos o Disciplinarios incluyan faltas relativas al racismo y discriminación como causal de proceso interno",
+        "Que su personal realice juramento de fidelidad política al gobierno de turno",
+        "Que se elimine la jerarquía de grados militares e insignias policiales",
+        "Que sus presupuestos sean administrados por las organizaciones sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.e, Ley N° 045",
+      "explicacion": "Velar porque Reglamentos Internos de Personal o Disciplinarios de Adm. Pública, Policía y FFAA incluyan como causal de proceso interno faltas por racismo/discriminación."
+    },
+    {
+      "question": "Conforme al Artículo 10 de la Ley N° 045, ¿quién sistematizará y producirá información sobre los procesos administrativos y judiciales iniciados por racismo?",
+      "options": [
+        "El Consejo de la Magistratura a través del sistema iANUS",
+        "El Comité Nacional contra el Racismo y el Ministerio de Culturas a través del Viceministerio de Descolonización",
+        "El Ministerio Público en coordinación con la Policía Boliviana",
+        "La Comisión de Justicia de la Cámara de Senadores"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 10, Ley N° 045",
+      "explicacion": "Con fines de registro y seguimiento, sistematizará y producirá información el Comité Nacional y el Ministerio de Culturas vía Viceministerio de Descolonización."
+    },
+    {
+      "question": "De acuerdo con el Artículo 11 de la Ley N° 045, ¿de dónde provienen los recursos económicos necesarios para el cumplimiento de las funciones del Comité?",
+      "options": [
+        "De las multas e indemnizaciones cobradas en juicios penales ejecutoriados",
+        "De un impuesto del 5% aplicado a la publicidad en medios privados",
+        "El Tesoro General de la Nación otorgará anualmente los recursos al Ministerio de Culturas",
+        "De aportes obligatorios de las organizaciones sociales e indígenas"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 11, Ley N° 045",
+      "explicacion": "El Tesoro General de la Nación otorgará los recursos económicos necesarios anualmente al Ministerio de Culturas."
+    },
+    {
+      "question": "Según el Artículo 12 de la Ley N° 045, ¿por qué vías pueden optar las personas que hubiesen sufrido actos de racismo o discriminación?",
+      "options": [
+        "Por un arbitraje privado reservado ante la Cámara de Comercio",
+        "Únicamente por la vía penal ordinaria con querella formal",
+        "Exclusivamente por la justicia indígena originaria campesina",
+        "Vía constitucional, administrativa o disciplinaria y/o penal, según corresponda"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 12, Ley N° 045",
+      "explicacion": "El Art. 12 establece que las víctimas podrán optar por la vía constitucional, administrativa/disciplinaria y/o penal, según corresponda."
+    },
+    {
+      "question": "¿Cuáles son las tres conductas tipificadas como faltas en el ejercicio de la función pública según el Artículo 13.I de la Ley N° 045?",
+      "options": [
+        "a) Agresiones verbales, b) Denegación de acceso al servicio, c) Maltrato físico, psicológico y sexual no constitutivo de delito",
+        "a) Abandono de funciones, b) Atrasos continuados, c) Extravío de documentación",
+        "a) Nepotismo, b) Cohecho pasivo, c) Malversación de fondos públicos",
+        "a) Insubordinación militar, b) Inasistencia a actos oficiales, c) Divulgación de secretos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I, Ley N° 045",
+      "explicacion": "Constituyen faltas en función pública: agresiones verbales, denegación de acceso al servicio, y maltrato físico, psicológico y sexual que no constituya delito."
+    },
+    {
+      "question": "De acuerdo con el Artículo 13.III de la Ley N° 045, si un servidor público comete una falta de discriminación, ¿qué medida puede disponer la institución y a cargo de quién corren los gastos?",
+      "options": [
+        "Descuento del 50% de su sueldo destinado a la víctima",
+        "Someter al infractor a tratamiento psicológico, cuyos gastos corren a cargo de la misma institución",
+        "Someterlo a tratamiento psiquiátrico financiado privadamente por el servidor sancionado",
+        "Traslado forzoso a zonas fronterizas sin viáticos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 13.III, Ley N° 045",
+      "explicacion": "La institución pública podrá disponer tratamiento psicológico cuyos gastos correrán a cargo de la misma institución."
+    },
+    {
+      "question": "Según el Artículo 13.V de la Ley N° 045, ¿qué debe hacer la institución pública si en el proceso administrativo o interno se determina la existencia de responsabilidad penal?",
+      "options": [
+        "Deberá aplicar una multa económica de 10 salarios mínimos",
+        "Deberá archivar el trámite hasta que la víctima presente querella",
+        "Deberá remitir el caso al Ministerio Público",
+        "Deberá absolver al servidor previa disculpa privada"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 13.V, Ley N° 045",
+      "explicacion": "En caso de determinarse responsabilidad penal en el proceso interno, la institución debe remitir el caso al Ministerio Público."
+    },
+    {
+      "question": "Conforme al Artículo 13.VII de la Ley N° 045, ¿a dónde deben remitir copia de las denuncias las instituciones públicas que conozcan casos de racismo?",
+      "options": [
+        "A la Comisión de Ética de la Gobernación respectiva",
+        "A la Contraloría General del Estado para auditoría administrativa",
+        "Al Comando General de la Policía Boliviana",
+        "A la Dirección General de Lucha contra el Racismo del Viceministerio de Descolonización (Ministerio de Culturas)"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 13.VII, Ley N° 045",
+      "explicacion": "Deberán remitir copia de la denuncia a la Dirección General de Lucha contra el Racismo y toda forma de Discriminación para registro y seguimiento."
+    },
+    {
+      "question": "¿Qué faltas deben incluir obligatoriamente las instituciones privadas en sus Reglamentos Internos según el Artículo 14.I de la Ley N° 045?",
+      "options": [
+        "Agresiones verbales, denegación de acceso al servicio, maltrato físico/psicológico/sexual no delito, y acciones denigrantes",
+        "Inasistencias injustificadas, atrasos y pérdidas de herramientas de trabajo",
+        "Divulgación de secretos comerciales y competencia desleal",
+        "Uso de teléfonos móviles en horario laboral y vestimenta no ejecutiva"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I, Ley N° 045",
+      "explicacion": "Incluyen agresiones verbales, denegación de acceso al servicio, maltrato físico/psicológico/sexual que no constituya delito, y acciones denigrantes."
+    },
+    {
+      "question": "Según el Artículo 15.I de la Ley N° 045, ¿cuáles son las sanciones graduales de clausura a locales públicos que restrinjan el ingreso o coloquen carteles discriminatorios?",
+      "options": [
+        "Multa de 1.000 Bs la primera vez, clausura de 10 días la segunda, y 60 días la tercera",
+        "Clausura por 3 días la primera vez, 30 días la segunda vez, y definitiva la tercera vez",
+        "Clausura de 15 días la primera vez y cierre definitivo a la segunda",
+        "Suspensión de licencia comercial por 1 año desde la primera infracción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 15.I, Ley N° 045",
+      "explicacion": "Sanción de clausura por 3 días la primera vez, 30 días la segunda, y definitiva la tercera vez."
+    },
+    {
+      "question": "De acuerdo con el Artículo 15.II de la Ley N° 045, ¿qué entidad es la encargada de aplicar las sanciones de clausura a locales públicos?",
+      "options": [
+        "El Ministerio de Culturas directamente",
+        "La Policía Boliviana mediante la Intendencia Municipal",
+        "Los Gobiernos Autónomos Municipales de acuerdo a reglamentación especial",
+        "Los Juzgados de Sentencia Penal"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 15.II, Ley N° 045",
+      "explicacion": "Esta medida será aplicada por los Gobiernos Autónomos Municipales de acuerdo a reglamentación especial."
+    },
+    {
+      "question": "¿Qué texto obligatorio debe exhibirse en el ingreso a establecimientos públicos y privados abiertos al público según el Artículo 15.III de la Ley N° 045?",
+      "options": [
+        "“Bolivia libre de racismo y discriminación”",
+        "“Prohibida toda forma de discriminación bajo pena de cárcel”",
+        "“El derecho de admisión está sujeto a fiscalización estatal”",
+        "“Todas las personas son iguales ante la Ley”"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 15.III, Ley N° 045",
+      "explicacion": "Se declara la obligatoriedad de exhibir en forma visible el texto exacto: 'Todas las personas son iguales ante la Ley'."
+    },
+    {
+      "question": "Según el Artículo 16 de la Ley N° 045, ¿a qué sanciones se expone el medio de comunicación que autorizare y publicare ideas racistas y discriminatorias?",
+      "options": [
+        "Sanciones económicas y suspensión de licencia de funcionamiento, sujeto a reglamentación",
+        "Expropiación inmediata de sus equipos de transmisión y frecuencia",
+        "Prisión de 10 años para todos sus miembros del directorio",
+        "Intervención estatal permanente del comité editorial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 045",
+      "explicacion": "Pasible de sanciones económicas y de suspensión de licencia de funcionamiento, sujeto a reglamentación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 17 de la Ley N° 045, si un servidor público conoce hechos de racismo en el ejercicio de sus funciones y NO denuncia, ¿bajo qué artículo del Código Penal será sancionado?",
+      "options": [
+        "Artículo 154 del Código Penal (Incumplimiento de deberes)",
+        "Artículo 178 del Código Penal (Omisión de denuncia)",
+        "Artículo 166 del Código Penal (Denuncia falsa)",
+        "Artículo 281 bis del Código Penal (Racismo)"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 17, Ley N° 045",
+      "explicacion": "El Art. 17 señala que la persona en función pública que no denuncie será pasible a la sanción dispuesta en el Artículo 178 del Código Penal."
+    },
+    {
+      "question": "Según el Artículo 18 de la Ley N° 045, ¿qué aspecto debe garantizar el Estado a las víctimas, testigos y denunciantes de delitos de racismo?",
+      "options": [
+        "Concederá inmunidad diplomática e identidades falsas definitivas",
+        "Otorgará una pensión vitalicia de reparación",
+        "Garantizará su seguridad física y psicológica",
+        "Eximirá de impuestos de inmuebles por 5 años"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 18, Ley N° 045",
+      "explicacion": "El Estado garantizará la seguridad física y psicológica de las víctimas, testigos y denunciantes."
+    },
+    {
+      "question": "Conforme al Artículo 19 de la Ley N° 045, ¿qué buscará el Ministerio Público conforme al Artículo 26 del Código de Procedimiento Penal?",
+      "options": [
+        "La remisión del expediente a la justicia militar",
+        "La imposición estricta de la pena máxima sin posibilidad de conciliación",
+        "El remate inmediato de bienes del imputado para pagar costas judiciales",
+        "La solución del conflicto penal mediante la aplicación de las salidas alternativas previstas por ley"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 19, Ley N° 045",
+      "explicacion": "Buscará en el marco de la legalidad la solución del conflicto penal mediante la aplicación de salidas alternativas."
+    },
+    {
+      "question": "Según el Artículo 20 de la Ley N° 045, la persona que a sabiendas denuncie o acuse falsamente como autor de delito de racismo a quien no lo cometió, ¿bajo qué artículo será sancionado?",
+      "options": [
+        "Artículo 166 del Código Penal (Acusación y denuncia falsa)",
+        "Artículo 281 octies del Código Penal (Insulto verbal)",
+        "Artículo 178 del Código Penal (Omisión de denuncia)",
+        "Artículo 132 del Código Penal (Asociación delictuosa)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 045",
+      "explicacion": "Será sancionado conforme a lo previsto en el Artículo 166 del Código Penal."
+    },
+    {
+      "question": "Según el Artículo 21 de la Ley N° 045, ¿en cuánto se elevan las penas cuando un delito se comete por motivos racistas o discriminatorios (Art. 40 Bis - Agravante General del Código Penal)?",
+      "options": [
+        "Se duplicarán el mínimo y el máximo de la pena",
+        "Se elevarán en un tercio el mínimo y en una mitad el máximo",
+        "Se incrementarán en 5 años fijos a la condena resultante",
+        "Se elevarán a la pena de 30 años de prisión sin derecho a indulto"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 21 (Art. 40 Bis CP), Ley N° 045",
+      "explicacion": "Se elevarán en un tercio el mínimo y en una mitad el máximo, sin que pueda exceder el máximo establecido por la CPE."
+    },
+    {
+      "question": "De acuerdo con el Artículo 22 de la Ley N° 045, ¿cómo quedó redactado el título del Título VIII del Libro Segundo del Código Penal?",
+      "options": [
+        "“Delitos contra los Derechos Fundamentales y Garantías Constitucionales”",
+        "“Delitos de Discriminación y Odio Racial”",
+        "“Delitos Contra la Vida, la Integridad y la Dignidad del Ser Humano”",
+        "“Delitos Civiles de Orden Público e Intolerancia”"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 22, Ley N° 045",
+      "explicacion": "Modifica el Título VIII del Libro Segundo del Código Penal a: 'Delitos Contra la Vida, la Integridad y la Dignidad del Ser Humano'."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 bis del Código Penal), ¿cuál es la pena privativa de libertad para el delito de Racismo?",
+      "options": [
+        "Prestación de trabajo de 40 a 180 días",
+        "Pena privativa de libertad de uno a cinco años",
+        "Pena privativa de libertad de dos a cuatro años",
+        "Pena privativa de libertad de tres a siete años"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 23 (Art. 281 bis CP), Ley N° 045",
+      "explicacion": "El tipo penal de Racismo sanciona a la persona con pena privativa de libertad de 3 a 7 años."
+    },
+    {
+      "question": "Conforme al Artículo 281 bis.II del Código Penal (incorporado por Ley 045), ¿cuándo se agrava la sanción de Racismo en un tercio el mínimo y una mitad el máximo?",
+      "options": [
+        "Si es cometido por servidor público/autoridad, por particular en servicio público, o con violencia",
+        "Únicamente cuando se cometa en días feriados o festivos nacionales",
+        "Cuando la víctima sea una persona jurídica privada",
+        "Si el hecho ocurre en el extranjero contra ciudadanos diplomáticos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 bis.II CP), Ley N° 045",
+      "explicacion": "Se agrava cuando es cometido por servidora/or público o autoridad, por particular en servicio público, o con violencia."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 ter del Código Penal), ¿cuál es la pena privativa de libertad básica para el delito de Discriminación?",
+      "options": [
+        "Pena privativa de libertad de tres a siete años",
+        "Pena privativa de libertad de uno a cinco años",
+        "Pena privativa de libertad de seis meses a dos años",
+        "Multa equivalente a 100 días de haber biológico"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 23 (Art. 281 ter CP), Ley N° 045",
+      "explicacion": "El delito de Discriminación tiene una sanción de pena privativa de libertad de 1 a 5 años."
+    },
+    {
+      "question": "¿Qué sanción establece el Artículo 281 quater del Código Penal (incorporado por Ley 045) para la 'Difusión e Incitación al Racismo o a la Discriminación'?",
+      "options": [
+        "Pena privativa de libertad de tres a diez años",
+        "Prestación de trabajo comunitario de 10 días",
+        "Pena privativa de libertad de uno a cinco años",
+        "Multa de 500 días de salario mínimo"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 23 (Art. 281 quater CP), Ley N° 045",
+      "explicacion": "Quien difunda ideas de superioridad/odio racial o incite a la violencia/persecución será sancionado con pena privativa de libertad de 1 a 5 años."
+    },
+    {
+      "question": "De acuerdo con el Artículo 281 quater.II del Código Penal, si el delito de difusión e incitación al racismo es cometido por un trabajador o propietario de un medio de comunicación social, ¿qué regla aplica?",
+      "options": [
+        "Corresponderá únicamente juzgamiento por Jurado de Imprenta Municipal",
+        "Quedará exento de juzgamiento penal previo informe de la Ley de Imprenta",
+        "La sanción se reducirá a la mitad por libertad de expresión",
+        "No podrá alegarse inmunidad ni fuero alguno"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 23 (Art. 281 quater.II CP), Ley N° 045",
+      "explicacion": "El Art. 281 quater.II establece expresamente: 'Cuando el hecho sea cometido por una trabajadora o un trabajador de un medio de comunicación social, o propietario del mismo, no podrá alegarse inmunidad ni fuero alguno'."
+    },
+    {
+      "question": "¿Cuál es la pena prevista en el Artículo 281 septies del Código Penal para la persona que participe en 'Organizaciones o Asociaciones Racistas o Discriminatorias'?",
+      "options": [
+        "Pena privativa de libertad de uno a cuatro años",
+        "Pena privativa de libertad de tres a siete años",
+        "Multa económica de 10 a 30 días de sueldo",
+        "Clausura de la personería jurídica únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 septies CP), Ley N° 045",
+      "explicacion": "Sancionado con pena privativa de libertad de 1 a 4 años (agravada si es cometido por servidora/or público)."
+    },
+    {
+      "question": "Según el Artículo 281 octies del Código Penal (incorporado por Ley 045), ¿cuál es la sanción para 'Insultos y otras agresiones verbales por motivos racistas o discriminatorios'?",
+      "options": [
+        "Pena privativa de libertad de dos a seis años indiscutibles",
+        "Prestación de trabajo de cuarenta días a dieciocho meses y multa de cuarenta a ciento cincuenta días",
+        "Clausura del establecimiento de trabajo por noventa días",
+        "Amonestación privada por escrito sin antecedentes penales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 23 (Art. 281 octies CP), Ley N° 045",
+      "explicacion": "Incurrirá en prestación de trabajo de 40 días a 18 meses y multa de 40 a 150 días."
+    },
+    {
+      "question": "En el delito de insultos y agresiones verbales (Art. 281 octies.I CP), si el hecho fue cometido mediante impreso, manuscrito o medios de comunicación, ¿cómo se modifica la pena?",
+      "options": [
+        "Incurrirá en suspensión de ciudadanía por 3 años",
+        "Se transformará en delito de racismo con pena de 7 años de cárcel",
+        "La pena será agravada en un tercio el mínimo y en un medio el máximo",
+        "Se duplicará la multa económica pero se anula el trabajo"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 23 (Art. 281 octies.I CP), Ley N° 045",
+      "explicacion": "Si fuera cometido mediante impreso, manuscrito o medios de comunicación, la pena se agrava en 1/3 el mínimo y 1/2 el máximo."
+    },
+    {
+      "question": "Conforme al Artículo 281 octies.II y III del Código Penal, ¿cuál es el efecto procesal de la retractación de la persona sindicada de insultos o agresiones verbales?",
+      "options": [
+        "La retractación exige el pago obligatorio de 10.000 USD a la víctima",
+        "La retractación reduce la pena en un 50% pero no extingue la acción penal",
+        "Se admite la retractación hasta en tres oportunidades durante el juicio oral",
+        "Si se retracta antes o al tiempo de la imputación formal por el mismo medio, la acción penal queda extinguida (no se admite 2da retractación)"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 23 (Art. 281 octies.II y III CP), Ley N° 045",
+      "explicacion": "Si se retracta antes o a tiempo de la imputación por el mismo medio asumiendo costos, la acción penal queda extinguida. No se admite 2da retractación."
+    },
+    {
+      "question": "Según la modificación al Artículo 20 del Código de Procedimiento Penal (por Art. 24 de la Ley 045), ¿qué delito por racismo ingresó al catálogo de 'Delitos de Acción Privada'?",
+      "options": [
+        "Insultos y otras agresiones verbales por motivos racistas o discriminatorios",
+        "Racismo agravado cometido por servidor público",
+        "Organizaciones o asociaciones racistas o discriminatorias",
+        "Difusión e incitación al racismo por medios de comunicación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24 (Art. 20 CPP), Ley N° 045",
+      "explicacion": "El Art. 20 del CPP incluye entre los delitos de acción privada a 'insultos y otras agresiones verbales por motivos racistas o discriminatorios'."
+    },
+    {
+      "question": "De acuerdo con el Artículo 26 numeral 3 del Código de Procedimiento Penal (modificado por Art. 24 de Ley 045), ¿quién debe autorizar la conversión de acción penal pública a privada en 'Delitos contra la Dignidad del Ser Humano'?",
+      "options": [
+        "El Fiscal de Distrito dentro de los 3 días de solicitada",
+        "El juez competente, siempre que no exista un interés público gravemente comprometido",
+        "El Ministro de Justicia previa solicitud formal",
+        "El Comandante General de la Policía Boliviana"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 24 (Art. 26 CPP), Ley N° 045",
+      "explicacion": "En el caso del numeral 3 (Delitos contra la Dignidad del Ser Humano), la conversión será autorizada por el juez competente."
+    },
+    {
+      "question": "Según la Disposición Final Única de la Ley N° 045, ¿qué plazo tenía el Órgano Ejecutivo para elaborar la reglamentación de la ley desde su promulgación?",
+      "options": [
+        "Plazo de 180 días hábiles",
+        "Plazo de 30 días calendario",
+        "Plazo de 90 días a partir de su promulgación",
+        "Plazo de 1 año con aprobación legislativa"
+      ],
+      "answer": 2,
+      "fuente": "Disposición Final Única, Ley N° 045",
+      "explicacion": "El Órgano Ejecutivo se encargará de la reglamentación en lo que corresponda en un plazo de 90 días a partir de su promulgación."
+    },
+    {
+      "question": "¿Qué encomienda la Disposición Transitoria Única de la Ley N° 045 al Ministerio de Justicia?",
+      "options": [
+        "La traducción de la Ley N° 045 a los 36 idiomas oficiales en 30 días",
+        "La creación de juzgados especiales anti-discriminación en cada capital de departamento",
+        "El empadronamiento de todas las organizaciones no gubernamentales privadas",
+        "La elaboración de un texto ordenado del Código Penal incluyendo las modificaciones incorporadas"
+      ],
+      "answer": 3,
+      "fuente": "Disposición Transitoria Única, Ley N° 045",
+      "explicacion": "Se encomienda al Ministerio de Justicia la elaboración de un texto ordenado del Código Penal con las modificaciones incorporadas."
+    },
+    {
+      "question": "En la Ley N° 045, ¿cuál es la fecha exacta de sanción y promulgación de la norma?",
+      "options": [
+        "8 de octubre de 2010",
+        "20 de diciembre de 2010",
+        "1 de mayo de 2009",
+        "6 de agosto de 2011"
+      ],
+      "answer": 0,
+      "fuente": "Encabezado y Promulgación, Ley N° 045",
+      "explicacion": "La Ley N° 045 fue promulgada el 8 de octubre de 2010 por el Presidente Evo Morales Ayma."
+    },
+    {
+      "question": "¿En qué marco internacional y constitucional fundamenta la Ley N° 045 su mecanismo de prevención y sanción (Artículo 1.I)?",
+      "options": [
+        "Exclusivamente en los Decretos Supremos emitidos por el Órgano Ejecutivo",
+        "En la Constitución Política del Estado y Tratados Internacionales de Derechos Humanos",
+        "En los reglamentos internos de las organizaciones sindicales y gremiales",
+        "En las resoluciones de la Comunidad Andina de Naciones (CAN)"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 1.I, Ley N° 045",
+      "explicacion": "Fundamenta sus mecanismos en el marco de la CPE y los Tratados Internacionales de Derechos Humanos."
+    },
+    {
+      "question": "Dentro del principio de Igualdad (Art. 2.b), ¿con qué objetivo se adoptan las políticas de acción afirmativa y/o diferenciada?",
+      "options": [
+        "Eximir de la aplicación del Código Penal a ciertos grupos sociales",
+        "Otorgar ventajas económicas perpetuas a empresas estatales sobre privadas",
+        "Lograr equidad y justicia social, garantizando condiciones equitativas específicas para el goce y ejercicio de derechos",
+        "Establecer la reserva del 100% de empleos públicos para profesionales de una sola región"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 2.b, Ley N° 045",
+      "explicacion": "Se adoptan con el objetivo de lograr equidad y justicia social garantizando condiciones para el goce y ejercicio de derechos."
+    },
+    {
+      "question": "Según el Artículo 3.b de la Ley N° 045, ¿qué órganos del Estado están comprendidos bajo el alcance de la norma?",
+      "options": [
+        "Exclusivamente el Órgano Electoral Plurinacional",
+        "Únicamente los órganos Ejecutivo y Judicial",
+        "Solamente las entidades territoriales autónomas municipales",
+        "Ejecutivo, Legislativo, Judicial y Electoral del Estado Plurinacional, entidades centrales y autonomías"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 3.b, Ley N° 045",
+      "explicacion": "Abarca a autoridades, servidores y ex servidores de los 4 Órganos (Ejecutivo, Legislativo, Judicial y Electoral), entidades centralizadas, descentralizadas y ETAs."
+    },
+    {
+      "question": "De acuerdo con el Artículo 3.c de la Ley N° 045, ¿cuáles de las siguientes entidades estatales están expresamente mencionadas bajo el ámbito de aplicación?",
+      "options": [
+        "Ministerio Público, Procuraduría General del Estado, Defensoría del Pueblo, Universidades, Policía Boliviana y Fuerzas Armadas",
+        "Solamente la Policía Boliviana y las Fuerzas Armadas",
+        "Únicamente el Ministerio Público y la Procuraduría",
+        "Exclusivamente las Universidades Públicas Autónomas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.c, Ley N° 045",
+      "explicacion": "Menciona expresamente al Ministerio Público, Procuraduría, Defensoría, Universidades, Policía, Fuerzas Armadas y toda entidad de la estructura estatal."
+    },
+    {
+      "question": "¿Qué establece el Artículo 4 de la Ley N° 045 sobre la 'Observación' de la norma por parte de las autoridades de todos los niveles?",
+      "options": [
+        "Tienen la facultad de suspender la vigencia de la Ley mediante Ley Autónoma Departamental",
+        "Observarán la Ley de conformidad a la CPE y normas e instrumentos internacionales sobre DDHH ratificados por Bolivia",
+        "Pueden reglamentar excepciones de fuero especial dentro de su jurisdicción territorial",
+        "Observarán la norma únicamente si cuentan con presupuesto asignado por su POA municipal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4, Ley N° 045",
+      "explicacion": "Las autoridades de cualquier jerarquía observarán la Ley conforme a la CPE e instrumentos internacionales sobre DDHH ratificados."
+    },
+    {
+      "question": "En la definición de Discriminación (Art. 5.a), ¿cuál de las siguientes causales NO está expresamente listada pero se deduce de la cláusula abierta 'u otras'?",
+      "options": [
+        "La condición de salud y la discapacidad están excluidas de la norma",
+        "La filiación política no está incluida en la definición de discriminación",
+        "Todas están listadas expresamente: sexo, color, edad, orientación sexual, estado civil, embarazo, procedencia, vestimenta, etc.",
+        "El grado de instrucción y la ocupación no constituyen causales legales"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5.a, Ley N° 045",
+      "explicacion": "El Art. 5.a incluye un catálogo sumamente amplio que abarca sexo, color, edad, orientación sexual, idioma, credo, filiación, salud, vestimenta, entre otros."
+    },
+    {
+      "question": "Según el Artículo 5.b, ¿en qué esferas de la vida puede manifestarse la discriminación racial menoscabando el ejercicio de derechos?",
+      "options": [
+        "Solamente en publicaciones impresas y medios de comunicación radial",
+        "Exclusivamente en eventos deportivos y espectáculos públicos masivos",
+        "Únicamente en contrataciones de la administración pública central",
+        "En las esferas política, económica, social, cultural o en cualquier otra esfera de la vida pública y/o privada"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 5.b, Ley N° 045",
+      "explicacion": "La discriminación racial menoscaba derechos en las esferas política, económica, social, cultural o cualquier otra de la vida pública y/o privada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.c, ¿cuál es la finalidad última que persigue toda teoría del 'Racismo' al valorar diferencias biológicas o culturales?",
+      "options": [
+        "Justificar una agresión y un sistema de dominación que presume la superioridad de un grupo sobre otro",
+        "Fomentar la competencia sana entre diferentes regiones del país",
+        "Promover la diversidad lingüística en la educación formal",
+        "Desarrollar estudios sociológicos para la preservación de costumbres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.c, Ley N° 045",
+      "explicacion": "Su fin es justificar una agresión y un sistema de dominación que presume la superioridad de un grupo sobre otro."
+    },
+    {
+      "question": "Conforme al Artículo 5.d de la Ley N° 045, ¿para qué fue utilizada históricamente la noción construida de 'Raza'?",
+      "options": [
+        "Para organizar la distribución de tierras colectivas de forma equitativa",
+        "Para asignar a algunos grupos un estatus inferior y a otros un estatus superior con acceso al privilegio, poder y riqueza",
+        "Para regular el comercio transfronterizo de mercancías agrícolas",
+        "Para unificar los sistemas educativos de América Latina"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.d, Ley N° 045",
+      "explicacion": "Fue utilizada para dar a algunos grupos estatus inferior y a otros superior para acceder a privilegios, poder y riqueza."
+    },
+    {
+      "question": "Según el Artículo 5.e, la Equidad de Género busca el beneficio pleno de los derechos de hombres y mujeres sin perjuicio de su sexo en los ámbitos:",
+      "options": [
+        "Únicamente laboral público",
+        "Exclusivamente político y electoral",
+        "Social, económico, político, cultural y familiar",
+        "Solamente universitario y académico"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5.e, Ley N° 045",
+      "explicacion": "Garantiza el beneficio pleno de derechos en los ámbitos de la vida social, económica, política, cultural y familiar."
+    },
+    {
+      "question": "En el Artículo 5.g, la definición de Homofobia incluye expresamente la aversión, odio o discriminación contra:",
+      "options": [
+        "Personas que profesan religiones no tradicionales",
+        "Únicamente personas homosexuales masculinas mayores de edad",
+        "Exclusivamente parejas que contraen matrimonio en el exterior",
+        "Hombres o mujeres homosexuales, e integrantes de la diversidad sexual"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 5.g, Ley N° 045",
+      "explicacion": "Abarca a hombres o mujeres homosexuales y demás personas que integran la diversidad sexual."
+    },
+    {
+      "question": "Según el Artículo 5.h, ¿en qué se basa la discriminación tipificada como 'Transfobia'?",
+      "options": [
+        "Basada en su identidad de género hacia la transexualidad y las personas transexuales o transgénero",
+        "Basada en la orientación política del ciudadano en el registro electoral",
+        "Basada en el nivel de ingresos económicos del grupo familiar",
+        "Basada en la procedencia geográfica regional o departamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.h, Ley N° 045",
+      "explicacion": "Se entiende como discriminación hacia personas transexuales o transgénero basada en su identidad de género."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.j de la Ley N° 045, ¿cuál es el sujeto pasivo sobre el que recae la 'Misoginia'?",
+      "options": [
+        "Únicamente mujeres adultas con relación de dependencia laboral pública",
+        "Las mujeres o género femenino, independientemente de la edad, origen y/o grado de instrucción",
+        "Exclusivamente niñas y adolescentes en el sistema escolar",
+        "Mujeres extranjeras en situación de trabajo no regulado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.j, Ley N° 045",
+      "explicacion": "Recae sobre las mujeres o género femenino independientemente de su edad, origen o grado de instrucción."
+    },
+    {
+      "question": "En el Artículo 5.k, la característica temporal de las 'Acciones Afirmativas' implica que:",
+      "options": [
+        "Se aplican únicamente durante periodos de estado de excepción o emergencia",
+        "Duran exactamente 12 meses renovables mediante ley formal",
+        "Son medidas y políticas de carácter temporal adoptadas en favor de sectores en situación de desventaja",
+        "Expiran automáticamente al finalizar el mandato constitucional del Presidente"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5.k, Ley N° 045",
+      "explicacion": "El Art. 5.k define acciones afirmativas como medidas y políticas de carácter temporal."
+    },
+    {
+      "question": "Según el Artículo 6.I.c, ¿qué busca modificar la formación y educación en derechos humanos en los programas formales y no formales?",
+      "options": [
+        "Eliminar la calificación cuantitativa en la educación universitaria",
+        "Modificar la estructura organizativa de los sindicatos docentes",
+        "Sustituir los exámenes finales por trabajos comunitarios obligatorios",
+        "Modificar actitudes y comportamientos fundados en el racismo, promover el respeto a la diversidad y contrarrestar el sexismo"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 6.I.c, Ley N° 045",
+      "explicacion": "Busca modificar actitudes/comportamientos racistas, promover respeto a la diversidad y contrarrestar el sexismo y prejuicios."
+    },
+    {
+      "question": "En el ámbito de la administración pública (Art. 6.II.a), ¿cuál es la obligación hacia las servidoras y servidores públicos?",
+      "options": [
+        "Capacitarles sobre las medidas de prevención, sanción y eliminación del racismo y toda forma de discriminación",
+        "Exigirles un examen psicológico obligatorio cada 6 meses",
+        "Someterlos a pruebas de polígrafo antes de cualquier ascenso",
+        "Obligarles a afiliarse a un comité social de descolonización"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II.a, Ley N° 045",
+      "explicacion": "Capacitar a las servidoras y servidores públicos sobre medidas de prevención, sanción y eliminación de racismo y discriminación."
+    },
+    {
+      "question": "Según el Artículo 6.II.e, ¿qué debe promoverse en la atención al usuario en instituciones públicas?",
+      "options": [
+        "La atención preferencial exclusiva para funcionarios del mismo ministerio",
+        "La ética funcionaria y el buen trato en la atención de la ciudadanía",
+        "El cobro de valores fiscales adicionales por trámites urgentes",
+        "La atención virtual obligatoria eliminando las ventanillas presenciales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.II.e, Ley N° 045",
+      "explicacion": "El Art. 6.II.e exige promover la ética funcionaria y el buen trato en la atención a la ciudadanía."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.III.c, ¿qué obligación tienen los medios de comunicación públicos y privados?",
+      "options": [
+        "Ceder el 50% de sus espacios publicitarios de manera gratuita al Estado",
+        "Someter sus guiones informativos a revisión previa del Ministerio de Culturas",
+        "Proveerse de mecanismos internos que garanticen la eliminación del racismo y toda forma de discriminación",
+        "Contratar exclusivamente personal egresado de universidades públicas"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 6.III.c, Ley N° 045",
+      "explicacion": "Los medios públicos y privados deberán proveerse de mecanismos internos que garanticen la eliminación del racismo y discriminación."
+    },
+    {
+      "question": "Según el Artículo 7 de la Ley N° 045, las dos comisiones del Comité (Lucha contra el Racismo y Lucha contra la Discriminación) están a cargo de:",
+      "options": [
+        "La Jefatura de Bancada de la ALP",
+        "La Fiscalía General del Estado",
+        "El Viceministerio de Seguridad Ciudadana",
+        "La Dirección General de Lucha Contra el Racismo y toda forma de Discriminación"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 7, Ley N° 045",
+      "explicacion": "Estarán a cargo de la Dirección General de Lucha Contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización."
+    },
+    {
+      "question": "Conforme al Artículo 8.I.a.5, 6 y 7, ¿qué niveles autonómicos forman parte del Comité Nacional?",
+      "options": [
+        "Gobiernos Autónomos Departamentales, Municipales y Autonomías Indígena Originaria Campesinas",
+        "Únicamente los Gobiernos Autónomos Departamentales",
+        "Solamente los Gobiernos Municipales de capitales de departamento",
+        "Exclusivamente las autonomías regionales del Chaco"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I.a.5-7, Ley N° 045",
+      "explicacion": "Abarca Gobiernos Autónomos Departamentales, Municipales y Autonomías Indígena Originaria Campesinas."
+    },
+    {
+      "question": "Según el Artículo 8.I incisos b, c y d, ¿qué sectores de la sociedad civil organizada integran el Comité Nacional?",
+      "options": [
+        "Únicamente los Colegios de Profesionales y Cámaras Empresariales",
+        "Organizaciones Sociales, Organizaciones Indígena Originaria Campesinas, Comunidades Interculturales y Afrobolivianas",
+        "Exclusivamente los Sindicatos de Transportistas y Comerciantes",
+        "Solamente las asociaciones de propietarios de medios de comunicación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 8.I.b-d, Ley N° 045",
+      "explicacion": "Integran el Comité: Organizaciones Sociales, Indígena Originaria Campesinas, Comunidades Interculturales y Comunidades Afrobolivianas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 8.IV, ¿qué facultad se otorga al Viceministerio de Descolonización para apoyar el funcionamiento del Comité?",
+      "options": [
+        "Aprobar leyes departamentales en materia de discriminación",
+        "Decretar la intervención de instituciones privadas infractoras",
+        "Contratar personal técnico, profesional o no profesional",
+        "Cobrar tasas administrativas por recepción de denuncias"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 8.IV, Ley N° 045",
+      "explicacion": "El Viceministerio de Descolonización podrá contratar personal técnico, profesional o no profesional para apoyar el funcionamiento del Comité."
+    },
+    {
+      "question": "Según el Artículo 9.c, ¿qué debe precautelar el Comité respecto a las propuestas de políticas públicas y proyectos de ley?",
+      "options": [
+        "Verificar que se adecuen al régimen tributario central",
+        "Garantizar que no generen gasto fiscal adicional",
+        "Exigir que sean aprobados por unanimidad en ambas cámaras",
+        "Precautelar el respeto a la igualdad y no discriminación"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 9.c, Ley N° 045",
+      "explicacion": "El Comité tiene como tarea precautelar el respeto a la igualdad y no discriminación en propuestas de políticas públicas y proyectos de ley."
+    },
+    {
+      "question": "En el Artículo 9.f, ¿qué se promueve respecto a las denuncias de racismo en entidades públicas?",
+      "options": [
+        "La creación de instancias de prevención, recepción de denuncias e impulso de procesos administrativos hasta su conclusión",
+        "La contratación de abogados privados pagados por la víctima",
+        "La mediación obligatoria a cargo de los sindicatos internos",
+        "La remisión automática de toda denuncia menor al Tribunal Supremo Electoral"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.f, Ley N° 045",
+      "explicacion": "Promover la creación de instancias de prevención, recepción de denuncias e impulso de procesos administrativos hasta su conclusión."
+    },
+    {
+      "question": "Según el Artículo 9.h, el Comité promoverá el reconocimiento público a personas naturales o jurídicas que:",
+      "options": [
+        "Hayan realizado aportes económicos extraordinarios al Tesoro General",
+        "Se hayan destacado por su labor en contra de la discriminación racial o toda forma de discriminación",
+        "Cuenten con más de 30 años de servicio en la administración pública",
+        "Hayan publicado más de tres libros sobre derecho constitucional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 9.h, Ley N° 045",
+      "explicacion": "Promover el reconocimiento público a personas naturales o jurídicas estatales o privadas destacadas en la lucha contra la discriminación."
+    },
+    {
+      "question": "Conforme al Artículo 13.I.a, ¿qué se entiende por 'agresiones verbales' como falta en la función pública?",
+      "options": [
+        "Reclamos presentados por escrito ante la máxima autoridad ejecutiva",
+        "Discusiones técnicas u opiniones encontradas sobre la gestión presupuestaria",
+        "Expresiones u ofensas verbales fundadas en motivos racistas y/o discriminatorios en el ejercicio de funciones",
+        "Llamadas de atención formal por atrasos injustificados"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 13.I.a, Ley N° 045",
+      "explicacion": "Constituyen faltas las agresiones verbales fundadas en motivos racistas y/o discriminatorios cometidas en el ejercicio de funciones."
+    },
+    {
+      "question": "Según el Artículo 13.I.b, la 'denegación de acceso al servicio por motivos racistas y/o discriminatorios' aplica cuando la conducta se da entre:",
+      "options": [
+        "Solamente en empresas privadas contratistas del Estado",
+        "Exclusivamente entre el Director General y los jefes de unidad",
+        "Únicamente con personas extranjeras en trámite de visado",
+        "Servidores públicos en el ejercicio de funciones, con compañeros de trabajo o con los usuarios del servicio"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 13.I, Ley N° 045",
+      "explicacion": "Aplica siempre que estas faltas se cometan en el ejercicio de funciones, en la relación entre compañeros de trabajo o con usuarios del servicio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 13.IV, ¿qué modificación obligatoria deben realizar todas las instituciones públicas?",
+      "options": [
+        "Modificar sus Reglamentos Internos de Personal y Disciplinarios para incluir las faltas por racismo como causal de proceso interno",
+        "Eliminar los contratos temporales y pasantías universitarias",
+        "Crear un tribunal de honor compuesto por vecinos del barrio",
+        "Reducir el horario de atención al público a cuatro horas diarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.IV, Ley N° 045",
+      "explicacion": "Todas las instituciones públicas deberán modificar sus Reglamentos Internos/Disciplinarios para incluir las faltas como causal de proceso interno."
+    },
+    {
+      "question": "Según el Artículo 13.VI de la Ley N° 045, las denuncias contra servidores públicos por faltas de racismo se presentan ante:",
+      "options": [
+        "La Policía Nacional obligatoriamente mediante arresto preventivo",
+        "La misma institución a la que pertenecen, a fin de aplicar sanciones administrativas o disciplinarias",
+        "El Ministerio de Economía y Finanzas Públicas",
+        "La Defensoría del Pueblo para sanción pecuniaria"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 13.VI, Ley N° 045",
+      "explicacion": "Serán denunciados ante la misma institución a la que pertenecen para aplicar sanciones administrativas o disciplinarias."
+    },
+    {
+      "question": "En el Artículo 13.VIII, la persona denunciante tiene la facultad opcional de remitir copia de su denuncia a:",
+      "options": [
+        "La Embajada del país de origen si es extranjero",
+        "El Juzgado de Partido de Turno en lo Civil",
+        "El Ministerio de Culturas para fines de registro y seguimiento",
+        "El medio de comunicación de su preferencia"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 13.VIII, Ley N° 045",
+      "explicacion": "La o el denunciante podrá remitir copia de la denuncia al Ministerio de Culturas para fines de registro y seguimiento."
+    },
+    {
+      "question": "De acuerdo con el Artículo 1.II de la Ley N° 045, ¿cuál es el fin supremo que persigue la eliminación del racismo y toda forma de discriminación en Bolivia?",
+      "options": [
+        "Consolidar un régimen de sanciones penales severas para los medios de comunicación privados",
+        "Establecer políticas públicas de inclusión y consolidar el Vivir Bien (Suma Qamaña) en el marco del Estado Plurinacional",
+        "Crear tribunales especiales para el juzgamiento de servidores públicos en ejercicio de funciones",
+        "Reemplazar las garantías constitucionales en materia de libertad de expresión e información"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 1.II, Ley N° 045",
+      "explicacion": "El Art. 1.II señala que el fin de la ley es consolidar políticas públicas de protección y prevención, promoviendo el Vivir Bien (Suma Qamaña)."
+    },
+    {
+      "question": "Según el Artículo 2 de la Ley N° 045, ¿cómo se define el principio de Interculturalidad en el marco de la lucha contra el racismo?",
+      "options": [
+        "La asimilación progresiva de las culturas indígenas a los patrones culturales de las ciudades capitales",
+        "El reconocimiento, interacción y convivencia armónica entre diversas culturas en condiciones de igualdad, respetando sus diferencias e identidades",
+        "La subordinación de las normas nacionales a los usos y costumbres de los pueblos campesinos exclusivamente",
+        "La separación territorial de las naciones indígena originaria campesinas para evitar conflictos raciales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2.a, Ley N° 045",
+      "explicacion": "El principio de Interculturalidad (Art. 2.a) se entiende como la interacción entre las culturas en condiciones de igualdad y respeto mutuo."
+    },
+    {
+      "question": "¿En qué consiste el principio de 'Protección' expresado en el Artículo 2.d de la Ley N° 045?",
+      "options": [
+        "En el deber del Estado de otorgar asilo político a extranjeros perseguidos por delitos raciales",
+        "En la obligación del Estado de proteger de manera prioritaria y efectiva a todas las personas que sean víctimas de racismo y discriminación",
+        "En la inmunidad procesal temporal que gozan las autoridades del Comité Nacional contra el Racismo",
+        "En el blindaje judicial de los medios de comunicación estatales frente a demandas privadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2.d, Ley N° 045",
+      "explicacion": "El Art. 2.d establece el principio de Protección, mediante el cual todas las personas tienen derecho a la protección oportuna y efectiva del Estado frente a actos de racismo o discriminación."
+    },
+    {
+      "question": "Conforme al Artículo 3.a de la Ley N° 045, ¿a qué sujetos alcanza la aplicación obligatoria de esta norma?",
+      "options": [
+        "Únicamente a los servidores públicos del Órgano Ejecutivo y de las Fuerzas Armadas",
+        "A todos los servidores públicos, personal de la administración pública, fuerzas de seguridad, instituciones privadas y personas naturales o jurídicas en el territorio nacional",
+        "Exclusivamente a los medios de comunicación masiva impresos y audiovisuales",
+        "Solo a los ciudadanos bolivianos mayores de edad que residan en zonas urbanas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.a, Ley N° 045",
+      "explicacion": "El alcance de la Ley N° 045 (Art. 3) es universal en el territorio boliviano, abarcando al sector público, privado, Fuerzas Armadas, Policía y a toda persona natural o jurídica."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4 de la Ley N° 045, ¿cómo se deben interpretar las disposiciones de esta ley frente al ordenamiento jurídico boliviano y los tratados internacionales?",
+      "options": [
+        "Deben interpretarse en consonancia con la Constitución y los Tratados Internacionales de Derechos Humanos ratificados por Bolivia",
+        "Prevalecen las normas administrativas de los gobiernos municipales sobre la Constitución",
+        "Se aplican de forma aislada sin tomar en cuenta la jurisprudencia de la Corte Interamericana de Derechos Humanos",
+        "Quedan sujetas a la interpretación discrecional de la máxima autoridad ejecutiva del Ministerio de Culturas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 045",
+      "explicacion": "El Art. 4 establece el marco de interpretación conforme a la Constitución Política del Estado y a los Tratados e Instrumentos Internacionales sobre Derechos Humanos."
+    },
+    {
+      "question": "Según el Artículo 5.a de la Ley N° 045, ¿qué elemento caracteriza jurídicamente a la 'Discriminación'?",
+      "options": [
+        "Toda distinción, exclusión, restricción o preferencia basada en motivos de raza, color, ascendencia u origen que tenga por objeto anular o menoscabar el reconocimiento de derechos",
+        "La sanción penal impuesta por un juez ordinario a quien cometa delitos contra la propiedad pública",
+        "El trato diferenciado justificado por criterios objetivos de mérito académico y laboral",
+        "La reserva de admisión a locales privados motivada por razones de vestimenta o imagen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.a, Ley N° 045",
+      "explicacion": "El Art. 5.a define Discriminación como cualquier distinción, exclusión o preferencia fundada en múltiples causales que menoscabe los derechos y libertades en igualdad de condiciones."
+    },
+    {
+      "question": "En el Artículo 5.b de la Ley N° 045, ¿cómo se define específicamente la 'Discriminación Racial'?",
+      "options": [
+        "Cualquier distinción, exclusión, restricción o preferencia basada en la raza, color, ascendencia u origen nacional o étnico que anule o menoscabe derechos en igualdad",
+        "La crítica o debate público sobre las costumbres de un grupo étnico en recintos universitarios",
+        "La preferencia legal otorgada a empresas nacionales en licitaciones de obras públicas",
+        "La restricción temporal de circulación dictada durante estados de excepción constitucional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.b, Ley N° 045",
+      "explicacion": "La Discriminación Racial (Art. 5.b) se fundamenta en motivos de raza, color, ascendencia u origen nacional o étnico con el fin de menoscabar derechos."
+    },
+    {
+      "question": "Según el Artículo 5.c de la Ley N° 045, ¿qué ideología o doctrina sustenta el concepto de 'Racismo'?",
+      "options": [
+        "Toda teoría o doctrina de superioridad basada en diferencias raciales, étnicas o de color, o que pretenda justificar el odio y la discriminación racial",
+        "El pensamiento filosófico que promueve la descentralización de los servicios de salud y educación",
+        "La doctrina económica que promueve el libre mercado en zonas fronterizas",
+        "El principio político de alternancia obligatoria en la dirección de organizaciones comunitarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.c, Ley N° 045",
+      "explicacion": "El Art. 5.c define Racismo como toda doctrina de superioridad basada en diferencias raciales o éticas que justifica el odio o la discriminación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.d de la Ley N° 045, ¿cuál es la postura científica adoptada respecto al concepto de 'Raza'?",
+      "options": [
+        "Se reconoce que existen cuatro razas biológicas puras con capacidades intelectuales diferenciadas",
+        "Se establece que la raza no es una categoría biológica válida sino una construcción socio-histórica utilizada para justificar la dominación",
+        "Se define como la clasificación genética oficial aprobada por el Ministerio de Salud para estudios médicos",
+        "Se considera un criterio legal válido para determinar la nacionalidad boliviana por origen"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.d, Ley N° 045",
+      "explicacion": "El Art. 5.d señala que la raza es una construcción social e ideológica desprovista de fundamento biológico científico."
+    },
+    {
+      "question": "Según el Artículo 5.e de la Ley N° 045, ¿qué busca garantizar el principio de 'Equidad de Género'?",
+      "options": [
+        "El acceso imparcial y justo de mujeres y hombres a las oportunidades, recursos y toma de decisiones, eliminando prejuicios y estereotipos",
+        "La jubilación obligatoria a los 50 años exclusivamente para varones de la administración pública",
+        "La preferencia absoluta e incondicional de las mujeres en todos los cargos judiciales sin concurso de méritos",
+        "La exención impositiva total para empresas lideradas por profesionales del sexo masculino"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.e, Ley N° 045",
+      "explicacion": "El Art. 5.e define la Equidad de Género como la valoración de las necesidades y oportunidades de hombres y mujeres en condiciones de justicia."
+    },
+    {
+      "question": "Conforme al Artículo 5.f de la Ley N° 045, ¿qué abarca la 'Equidad Generacional'?",
+      "options": [
+        "El reconocimiento del valor de las personas en las diferentes etapas de la vida (niñez, juventud, adultez y vejez) y la garantía de sus derechos en igualdad",
+        "El traspaso obligatorio de bienes inmuebles de padres a hijos al cumplir 18 años",
+        "La reserva del 50% de las concejalías municipales a personas mayores de 70 años",
+        "La prohibición de contratación laboral a jóvenes menores de 25 años en el sector público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.f, Ley N° 045",
+      "explicacion": "La Equidad Generacional (Art. 5.f) busca garantizar la equidad de trato y oportunidades entre las distintas etapas del ciclo vital."
+    },
+    {
+      "question": "Según el Artículo 5.g de la Ley N° 045, ¿cómo se define el término 'Homofobia'?",
+      "options": [
+        "Aversión, odio, prejuicio o discriminación contra las personas homosexuales o percibidas como tales",
+        "La prohibición legal de contraer matrimonio civil en el exterior",
+        "El desacuerdo académico respecto a teorías sociológicas sobre el género",
+        "La restricción legal de ingreso a locales de entretenimiento nocturno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.g, Ley N° 045",
+      "explicacion": "El Art. 5.g define Homofobia como la aversión, rechazo, odio o discriminación hacia las personas homosexuales."
+    },
+    {
+      "question": "En el Artículo 5.h de la Ley N° 045, ¿qué se entiende por 'Transfobia'?",
+      "options": [
+        "Aversión, odio o discriminación hacia las personas transgénero, transexuales o con identidades de género diversas",
+        "El rechazo ideológico a las transacciones comerciales electrónicas transfronterizas",
+        "La fobia clínica a los transportes masivos urbanos",
+        "La prohibición impositiva a la transferencia de inmuebles urbanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.h, Ley N° 045",
+      "explicacion": "El Art. 5.h define Transfobia como el rechazo, odio o discriminación hacia las personas trans o con identidad de género no normativa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.i de la Ley N° 045, ¿cuál es la definición de 'Xenofobia'?",
+      "options": [
+        "Odio, aversión o rechazo hacia las personas extranjeras o procedentes de otros países",
+        "El temor infundado a ingresar a recintos judiciales o policiales",
+        "La prohibición de exportar productos agrícolas no tradicionales",
+        "El rechazo a la adopción de tecnologías médicas extranjeras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.i, Ley N° 045",
+      "explicacion": "El Art. 5.i define Xenofobia como el prejuicio, aversión u odio hacia las personas extranjeras."
+    },
+    {
+      "question": "Según el Artículo 5.j de la Ley N° 045, ¿qué constituye la 'Misoginia'?",
+      "options": [
+        "Cualquier conducta, odio o aversión hacia las mujeres basada en su condición de género que pueda causar daño o muerte",
+        "El rechazo a la participación de varones en la educación inicial escolarizada",
+        "La incompatibilidad de cargos entre cónyuges en el sector privado",
+        "La exoneración impositiva para madres solteras trabajadoras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.j, Ley N° 045",
+      "explicacion": "La Misoginia (Art. 5.j) se refiere a todas aquellas conductas de odio, desprecio o aversión explícita hacia las mujeres."
+    },
+    {
+      "question": "En el Artículo 5.k de la Ley N° 045, ¿qué es una 'Acción Afirmativa'?",
+      "options": [
+        "Medidas temporales de carácter especial adoptadas para acelerar la igualdad de hecho de grupos en situación de vulnerabilidad o discriminación",
+        "La confirmación judicial de una sentencia penal dictada en primera instancia",
+        "La declaración jurada de bienes presentada por un servidor público antes de asumir funciones",
+        "La aprobación de leyes ordinarias mediante dos tercios de votos del Senado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.k, Ley N° 045",
+      "explicacion": "El Art. 5.k define Acción Afirmativa como medidas temporales tendientes a corregir desigualdades históricas de grupos vulnerables."
+    },
+    {
+      "question": "Según el Artículo 5.l de la Ley N° 045, ¿qué caracteriza a una 'Acción Preventiva'?",
+      "options": [
+        "Medidas o políticas orientadas a evitar que se produzcan actos de racismo y discriminación mediante sensibilización y educación",
+        "La privación de libertad cautelar impuesta antes de la imputación formal",
+        "El embargo preventivo de bienes inmuebles de empresas privadas",
+        "La suspensión temporal del estatuto autonómico de un departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.l, Ley N° 045",
+      "explicacion": "Las Acciones Preventivas (Art. 5.l) son aquellas dirigidas a concientizar, educar y prevenir la comisión de conductas discriminatorias."
+    },
+    {
+      "question": "Conforme al Artículo 5.m de la Ley N° 045, ¿cuál es el propósito de una 'Acción Correctiva'?",
+      "options": [
+        "Procesos y medidas destinadas a reparar, sancionar y corregir las situaciones de discriminación o racismo cometidas",
+        "La rectificación de errores ortográficos en partidas de nacimiento",
+        "El cambio voluntario de nombre y apellido en el Servicio de Registro Cívico",
+        "La anulación de trámites administrativos por vencimiento de plazos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.m, Ley N° 045",
+      "explicacion": "Las Acciones Correctivas (Art. 5.m) son medidas punitivas, reparadoras y restaurativas para corregir actos ya consumados."
+    },
+    {
+      "question": "En el ámbito educativo, ¿qué medida de prevención exige el Artículo 6.I.a de la Ley N° 045?",
+      "options": [
+        "Diseñar e incorporar contenidos curriculares sobre derechos humanos y lucha contra el racismo en todos los niveles del Sistema Educativo",
+        "Prohibir la enseñanza de idiomas extranjeros en Unidades Educativas Fiscales",
+        "Suspender la vigencia del escalafón docente para profesores de ciencias sociales",
+        "Obligar a la reprobación automática de estudiantes que no dominen tres lenguas originarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.I.a, Ley N° 045",
+      "explicacion": "El Art. 6.I.a dispone la inclusión curricular de temas de equidad, derechos humanos y lucha contra el racismo en el Sistema Educativo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.I.b de la Ley N° 045, ¿qué se exige a los reglamentos internos de Unidades Educativas e Institutos de formación?",
+      "options": [
+        "Adoptar el régimen disciplinario militar para la sanción de faltas menores",
+        "Incluir expresamente la prohibición, prevención y sanción de actos de racismo y discriminación",
+        "Eliminar los exámenes de admisión en universidades privadas",
+        "Exigir fianza económica obligatoria a los padres de familia al momento de inscribir a sus hijos"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.I.b, Ley N° 045",
+      "explicacion": "El Art. 6.I.b impone la obligación de incorporar en los reglamentos internos medidas de prevención y sanción contra la discriminación."
+    },
+    {
+      "question": "Según el Artículo 6.II.a de la Ley N° 045, ¿qué política debe aplicar la Administración Pública para capacitar a su personal?",
+      "options": [
+        "Cursos obligatorios de capacitación en derechos humanos, equidad y combate al racismo para todos los servidores públicos",
+        "Evaluaciones de polígrafo bimestrales para el personal de atención al cliente",
+        "Talleres optativos únicamente para directores y jefes de unidad",
+        "Exámenes psicotécnicos antes de cada ascenso salarial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II.a, Ley N° 045",
+      "explicacion": "El Art. 6.II.a exige la capacitación continua y obligatoria de las y los servidores públicos en materia de no discriminación."
+    },
+    {
+      "question": "Conforme al Artículo 6.II.b de la Ley N° 045, ¿qué exigencia se impone a las escuelas de formación militar y policial?",
+      "options": [
+        "Prohibir el ingreso de postulantes provenientes de institutos técnicos privados",
+        "Incorporar en sus planes de estudio la temática de lucha contra el racismo y discriminación de manera obligatoria",
+        "Acreditar a sus instructores directamente ante la Corte Penal Internacional",
+        "Eliminar los requisitos de aptitud física para mujeres y postulantes indígenas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.II.b, Ley N° 045",
+      "explicacion": "El Art. 6.II.b exige la inclusión de contenidos de derechos humanos y no discriminación en los institutos de formación de las FF.AA. y Policía."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.III.a de la Ley N° 045, ¿qué rol se asigna a los medios de comunicación en la estrategia preventiva?",
+      "options": [
+        "Difundir de manera obligatoria y gratuita campañas educativas de sensibilización contra el racismo y discriminación",
+        "Censurar de forma previa todas las notas periodísticas de cobertura política",
+        "Pagar un impuesto extraordinario del 10% sobre la pauta publicitaria privada",
+        "Transmitir exclusivamente programas producidos por el Ministerio de Culturas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.III.a, Ley N° 045",
+      "explicacion": "El Art. 6.III.a dispone que los medios de comunicación deben espacio para campañas de prevención y difusión contra el racismo."
+    },
+    {
+      "question": "Según el Artículo 6.III.b de la Ley N° 045, ¿qué debe observarse en el uso de datos estadísticos y tecnologías de información?",
+      "options": [
+        "Garantizar que no reproduzcan estereotipos, prejuicios ni lenguajes discriminatorios",
+        "Prohibir el uso de internet en colegios fiscales durante horas de clase",
+        "Someter los servidores informáticos estatales al control de la Policía Boliviana",
+        "Exigir registro biométrico obligatorio para crear cuentas en redes sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.III.b, Ley N° 045",
+      "explicacion": "El Art. 6.III.b exige evitar la propagación de contenidos racistas o discriminatorios en sistemas de información y medios digitales."
+    },
+    {
+      "question": "En el área económica, ¿qué medida dispone el Artículo 6.IV.a de la Ley N° 045?",
+      "options": [
+        "Promover el acceso equitativo a créditos, empleo y emprendimientos productivos para grupos vulnerables",
+        "Fijar precios máximos obligatorios para la venta de alimentos en mercados privados",
+        "Nacionalizar las entidades financieras que no tengan sucursales rurales",
+        "Expropiar bienes de empresas que registren denuncias de maltrato a trabajadores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.IV.a, Ley N° 045",
+      "explicacion": "El Art. 6.IV.a establece el fomento al acceso equitativo a oportunidades económicas y empleo sin discriminación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7.I de la Ley N° 045, ¿a qué entidad del Estado está adscrito el Comité Nacional contra el Racismo y toda Forma de Discriminación?",
+      "options": [
+        "Al Ministerio de Culturas, a través del Viceministerio de Descolonización",
+        "Al Ministerio de Gobierno, mediante el Comando General de la Policía",
+        "Al Ministerio de Justicia, bajo tuición de la Procuraduría General",
+        "A la Presidencia de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.I, Ley N° 045",
+      "explicacion": "El Comité está adscrito al Ministerio de Culturas, bajo la tuición operativa del Viceministerio de Descolonización (Art. 7.I)."
+    },
+    {
+      "question": "Según el Artículo 8 de la Ley N° 045, ¿cómo se halla estructurado el Comité Nacional contra el Racismo?",
+      "options": [
+        "Por dos Comisiones: la Comisión de Prevención y Lucha contra el Racismo y la Discriminación, y la Comisión de Sanción",
+        "Por una Sala Plena de 5 magistrados electos por voto popular",
+        "Por un Consejo Unipersonal designado directamente por el Contralor General",
+        "Por una Asamblea de Delegados Internacionales nombrados por la OEA"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 045",
+      "explicacion": "El Art. 8 establece que el Comité está conformado por dos Comisiones (Prevención y Lucha contra el Racismo y Discriminación)."
+    },
+    {
+      "question": "Conforme al Artículo 7.II de la Ley N° 045, ¿qué instituciones u organizaciones forman parte integrante del Comité Nacional?",
+      "options": [
+        "Representantes de entidades públicas, organizaciones sociales, indígenas, afrobolivianas, de derechos humanos y de la sociedad civil",
+        "Únicamente los Ministros de Estado que integran el Gabinete Social",
+        "Solo los Gobernadores Departamentales y Alcaldes de Capitales de Departamento",
+        "Exclusivamente docentes universitarios de la carrera de Derecho"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Ley N° 045",
+      "explicacion": "El Comité tiene una composición plurinacional e interinstitucional con amplia participación estatal y social (Art. 7.II)."
+    },
+    {
+      "question": "Según el Artículo 9.a de la Ley N° 045, ¿cuál es la tarea principal del Comité en cuanto a las políticas públicas nacional?",
+      "options": [
+        "Elaborar, diseñar y hacer seguimiento al Plan Nacional de Acción contra el Racismo y la Discriminación",
+        "Aprobar el Presupuesto General del Estado en la cámara de senadores",
+        "Dictar sentencias penales privativas de libertad de cumplimiento obligatorio",
+        "Designar a los Fiscales Departamentales del Ministerio Público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.a, Ley N° 045",
+      "explicacion": "Una función medular del Comité (Art. 9.a) es la formulación y seguimiento del Plan Nacional de Acción contra el Racismo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9.c de la Ley N° 045, ¿qué acción le corresponde al Comité ante la comisión de actos discriminatorios?",
+      "options": [
+        "Registrar y hacer seguimiento a las denuncias de actos de racismo y discriminación promovidos ante la vía administrativa o judicial",
+        "Ejecutar órdenes de aprensión mediante sus propios agentes de seguridad privada",
+        "Emitir indultos a favor de procesados por delitos penales menores",
+        "Clausurar de forma inmediata entidades bancarias sin proceso previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.c, Ley N° 045",
+      "explicacion": "El Comité tiene atribuciones de registro, seguimiento y acompañamiento de denuncias ante las instancias competentes (Art. 9.c)."
+    },
+    {
+      "question": "Según el Artículo 9.e de la Ley N° 045, ¿qué tipo de centro o mecanismo técnico debe implementar el Comité?",
+      "options": [
+        "Un Observatorio para la recopilación de datos, monitoreo y evaluación de conductas racistas y discriminatorias",
+        "Un centro de detención preventiva para servidores públicos infractores",
+        "Una imprenta oficial exclusiva para publicaciones de literatura indígena",
+        "Un laboratorio genético para el análisis de ADN poblacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.e, Ley N° 045",
+      "explicacion": "El Art. 9.e le otorga la función de crear y sistematizar un Observatorio contra el Racismo y la Discriminación."
+    },
+    {
+      "question": "Conforme al Artículo 10 de la Ley N° 045, ¿cuál es la fuente de financiamiento para las actividades y funcionamiento del Comité Nacional?",
+      "options": [
+        "Recursos asignados en el Presupuesto General del Estado al Ministerio de Culturas y aportes de la cooperación internacional",
+        "Cobro de multas pecuarias directas impuestas a los medios de comunicación",
+        "Un porcentaje de la venta de entradas a espectáculos deportivos",
+        "Descuentos salariales obligatorios a funcionarios judiciales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Ley N° 045",
+      "explicacion": "El Art. 10 establece que el funcionamiento del Comité se financia con cargo al presupuesto asignado y donaciones/cooperación."
+    },
+    {
+      "question": "Según el Artículo 11 de la Ley N° 045, ¿ante qué instancias y con qué frecuencia debe presentar el Comité su informe de gestión?",
+      "options": [
+        "Presentar un informe anual ante la Asamblea Legislativa Plurinacional y el Órgano Ejecutivo",
+        "Entregar reportes mensuales a la Comisión Interamericana de Derechos Humanos",
+        "Rendir cuentas semestralmente ante la Conferencia Episcopal Boliviana",
+        "Publicar una memoria cada cinco años durante el Congreso Pedagógico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, Ley N° 045",
+      "explicacion": "El Art. 11 impone la obligación de rendir un informe de avance y evaluación anual ante la ALP y el Ejecutivo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 12 de la Ley N° 045, ¿cuál es el deber jurídico de cualquier servidor público que conozca de actos de racismo o discriminación?",
+      "options": [
+        "Denunciar obligatoriamente el hecho ante la autoridad competente en el marco de sus atribuciones",
+        "Guardar reserva bajo secreto de estado hasta la conclusión de la gestión institucional",
+        "Solicitar autorización por escrito al Viceministerio de Descolonización antes de accionar",
+        "Intentar una conciliación informal sin dejar registro escrito en el expediente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 045",
+      "explicacion": "El Art. 12 ratifica la obligación imperativa del servidor público de denunciar hechos punibles o faltas de discriminación."
+    },
+    {
+      "question": "Según el Artículo 13 de la Ley N° 045, ¿cuáles son las tres vías independientes a las que puede acudir una víctima de racismo o discriminación?",
+      "options": [
+        "La vía constitucional, la vía administrativa o disciplinaria, y la vía penal",
+        "La vía militar, la vía eclesiástica y la vía arbitral privada",
+        "El fuero sindical, la vía consular y el arbitraje bancario",
+        "La mediación vecinal, la vía policial directa y el juicio sumario político"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 045",
+      "explicacion": "El Art. 13 prevé que las acciones pueden ser tramitadas en la vía constitucional (acciones de amparo), administrativa o penal."
+    },
+    {
+      "question": "Conforme al Artículo 14.I de la Ley N° 045, ¿qué constituyen las conductas discriminatorias cometidas por servidores públicos en el ejercicio de sus funciones?",
+      "options": [
+        "Faltas graves en el ejercicio de la función pública, sujetas a proceso disciplinario sin perjuicio de la vía penal",
+        "Delitos de lesa humanidad con pena fija inalterable de 30 años de prisión",
+        "Meras contravenciones de tránsito sancionadas con llamadas de atención verbales",
+        "Causales de destitución automática sin derecho a la defensa previa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I, Ley N° 045",
+      "explicacion": "El Art. 14.I tipifica las agresiones verbales, denegación de servicios o maltrato como faltas administrativas disciplinarias graves."
+    },
+    {
+      "question": "Según el Artículo 14.II de la Ley N° 045, ¿qué sanción disciplinaria máxima puede imponerse a un servidor público sumariado por actos de racismo?",
+      "options": [
+        "Destitución del cargo previo proceso sumario disciplinario interno",
+        "Inhabilitación perpetua para ejercer cualquier profesión u oficio en el sector privado",
+        "Arresto domiciliario de noventa días determinado por el jefe de personal",
+        "Baja definitiva con pérdida de la nacionalidad boliviana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.II, Ley N° 045",
+      "explicacion": "El Art. 14.II establece que el proceso administrativo sancionará con amonestaciones, suspensión o destitución al infractor."
+    },
+    {
+      "question": "En el Artículo 15.I de la Ley N° 045, ¿qué sanción se aplica a los establecimientos públicos o privados abiertos al público que restrinjan el ingreso por motivos discriminatorios en primera instancia?",
+      "options": [
+        "Clausura temporal de tres días hábiles y sanción pecuniaria según reglamento",
+        "Clausura definitiva e incautación inmediata del inmueble",
+        "Publicación de disculpas en tres periódicos internacionales",
+        "Multa equivalente a 100 salarios mínimos nacionales sin suspensión de actividades"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15.I, Ley N° 045",
+      "explicacion": "La primera reincidencia/infracción administrativa en locales abiertos al público conlleva la clausura temporal de 3 días (Art. 15.I)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 15.II de la Ley N° 045, ¿cuál es la sanción administrativa para un local público por segunda reincidencia en actos discriminatorios?",
+      "options": [
+        "Clausura temporal de treinta días hábiles",
+        "Suspensión por un año de la personería jurídica de los propietarios",
+        "Prisión preventiva inmediata para el personal de puerta o recepción",
+        "Clausura de doce meses con pago de indemnización a la alcaldía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15.II, Ley N° 045",
+      "explicacion": "La reincidencia por segunda vez se sanciona con la clausura temporal del establecimiento por 30 días hábiles."
+    },
+    {
+      "question": "Según el Artículo 15.III de la Ley N° 045, ¿cuál es la sanción máxima para un establecimiento público que incurra en discriminación por tercera vez?",
+      "options": [
+        "Cancelación definitiva de la licencia de funcionamiento o autorización municipal",
+        "Transferencia del local comercial a título gratuito al Ministerio de Culturas",
+        "Demolición de la infraestructura comercial por la Guardia Municipal",
+        "Pérdida del derecho de propiedad privada sobre las mercaderías del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15.III, Ley N° 045",
+      "explicacion": "En caso de tercera infracción o reincidencia gravísima, procede la cancelación definitiva de la licencia de funcionamiento."
+    },
+    {
+      "question": "Conforme al Artículo 15.IV de la Ley N° 045, ¿qué aviso obligatorio debe colocarse en el ingreso de todo establecimiento de atención al público?",
+      "options": [
+        "Un cartel visible con el texto: 'Todas las personas son iguales ante la ley. Se prohíbe todo acto de racismo y discriminación'",
+        "Una placa metálica con la transcripción completa de la Declaración Universal de los Derechos Humanos",
+        "Un letrero que especifique la capacidad máxima de aforo y el monto de las entradas",
+        "La lista de códigos de conducta impresos en idiomas originarios únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15.IV, Ley N° 045",
+      "explicacion": "El Art. 15.IV impone la obligación de exhibir un letrero con el lema legal que prohíbe todo acto de racismo y discriminación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 16 de la Ley N° 045, ¿qué sanción administrativa atañe a los medios de comunicación que autoricen y difundan contenidos racistas o discriminatorios?",
+      "options": [
+        "Sanciones de amonestación, multas pecuniarias y, en caso de reincidencia o falta gravísima, la suspensión de la licencia de funcionamiento o transmisión",
+        "Expropiación inmediata del medio de comunicación en favor del canal estatal",
+        "Intervención militar de las instalaciones transmisoras sin orden judicial",
+        "Prisión de 10 años para la totalidad de la redacción periodística"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 045",
+      "explicacion": "El Art. 16 regula las sanciones administrativas escalonadas para medios de comunicación, que van desde multas hasta la suspensión de licencia."
+    },
+    {
+      "question": "Según el Artículo 17 de la Ley N° 045, ¿se puede alegar fuero o inmunidad procesal en el juzgamiento de delitos de racismo o discriminación?",
+      "options": [
+        "No, no se reconoce ningún fuero, inmunidad o privilegio para los autores o cómplices de actos de racismo y discriminación",
+        "Sí, únicamente los miembros de la Asamblea Legislativa gozan de fuero especial ante el Tribunal Supremo",
+        "Sí, las autoridades militares procesadas deben ser juzgadas exclusivamente por tribunales castrenses",
+        "Sí, las autoridades electas gozan de inmunidad absoluta mientras dure su mandato constitucional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17, Ley N° 045",
+      "explicacion": "El Art. 17 dispone expresamente que ningún servidor público o ciudadano podrá invocar fuero o inmunidad alguna frente a estos delitos."
+    },
+    {
+      "question": "Conforme al Artículo 18 de la Ley N° 045, ¿qué está prohibido en los procesos de selección o admisión en instituciones públicas y privadas?",
+      "options": [
+        "Exigir requisitos discriminatorios o que vulneren la dignidad humana (como pruebas de VIH, antecedentes de embarazo, vestimenta tradicional o rasgos físicos)",
+        "Solicitar certificados de antecedentes penales expedidos por el REJAP",
+        "Exigir títulos de formación técnica acreditados por el Ministerio de Educación",
+        "Evaluar el nivel de conocimientos teóricos mediante exámen escrito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 045",
+      "explicacion": "El Art. 18 prohíbe expresamente criterios de admisión restrictivos que vulneren los derechos de no discriminación."
+    },
+    {
+      "question": "Según el Artículo 19 de la Ley N° 045, ¿cuál es el régimen relativo a timbres, aranceles o valores para la presentación de denuncias por racismo?",
+      "options": [
+        "Los trámites y denuncias están exentos de todo cobro de timbres, timbrados, valores o aranceles judiciales/administrativos",
+        "Se exige el pago de una fianza previa equivalente a un salario mínimo nacional",
+        "Las denuncias formuladas ante el Ministerio Público deben pagar una tasa del 5% del monto de la reparación civil solicitada",
+        "Los aranceles son fijados libremente por cada Colegio de Abogados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 045",
+      "explicacion": "El Art. 19 otorga gratuidad plena a las denuncias, eximiéndolas del pago de timbres y valores arancelarios."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20 de la Ley N° 045, ¿qué medidas debe garantizar el Estado para denunciantes y testigos de actos discriminatorios?",
+      "options": [
+        "Adopción de medidas de protección eficaces para garantizar su seguridad física, psicológica, laboral e integridad personal",
+        "Otorgación de inmunidad penal respecto a cualquier otro delito cometido con anterioridad",
+        "Compensación económica automática proveniente del Tesoro General de la Nación",
+        "Ascenso automático de categoría en el escalafón del servicio civil"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 045",
+      "explicacion": "El Art. 20 manda al Estado a proteger la vida, integridad y situación laboral de denunciantes y testigos para evitar represalias."
+    },
+    {
+      "question": "En el Artículo 21 de la Ley N° 045 (que incorpora el Art. 40 Bis al Código Penal), ¿cuál es el efecto de la agravante general por motivos de racismo o discriminación?",
+      "options": [
+        "Se incrementa la pena en un tercio del mínimo y en una mitad del máximo para cualquier delito motivado por racismo",
+        "Se duplica automáticamente la pena sin importar el delito de que se trate",
+        "Se convierte el delito ordinario en falta penal con sanción de presidio de 30 años",
+        "Permite al juez sustituir la pena de prisión por perdón judicial directo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21 (Art. 40 Bis CP), Ley N° 045",
+      "explicacion": "El Art. 40 Bis del Código Penal establece la agravante especial: aumento de 1/3 en el mínimo y 1/2 en el máximo de la pena."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 bis del Código Penal), ¿qué conducta tipifica el delito de Racismo?",
+      "options": [
+        "La persona que por arbitraria distinción o exclusión promueva, instigue o realice actos de odio o persecución por motivos raciales",
+        "La falta de asistencia puntual a reuniones de trabajo en instituciones públicas",
+        "La publicación de opiniones críticas sobre el presupuesto público de los gobiernos autonómicos",
+        "El incumplimiento de contratos de arrendamiento comercial entre particulares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 bis CP), Ley N° 045",
+      "explicacion": "El Art. 281 bis sanciona a quien por motivos de raza u origen realice u ordene actos de persecución o discriminación."
+    },
+    {
+      "question": "Conforme al Artículo 23 de la Ley N° 045 (Art. 281 bis.II CP), ¿cuál es la sanción penal si el delito de Racismo es cometido por un servidor público?",
+      "options": [
+        "La pena se elevará a presidio de tres a ocho años e inhabilitación especial para el ejercicio de la función pública",
+        "Se aplicará trabajo comunitario de 30 días sin destitución del cargo",
+        "Se impondrá sanción de amonestación escrita y traslado de oficina",
+        "El caso será derivado obligatoriamente a la jurisdicción indígena originaria campesina"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 bis.II CP), Ley N° 045",
+      "explicacion": "La condición de servidor público agrava la sanción del delito de Racismo, sumando la inhabilitación especial de funciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 23 de la Ley N° 045 (Art. 281 ter del Código Penal), ¿cuál es la pena privativa de libertad fijada para el delito de Discriminación?",
+      "options": [
+        "Pena privativa de libertad de uno a cinco años",
+        "Pena de presidio de diez a quince años",
+        "Trabajo comunitario obligatorio de noventa días",
+        "Prisión de seis meses a dos años sustituible por multa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 ter CP), Ley N° 045",
+      "explicacion": "El delito de Discriminación (Art. 281 ter CP) prevé una pena privativa de libertad de 1 a 5 años."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 quater del Código Penal), ¿en qué consiste el delito de 'Difusión e Incitación al Racismo o a la Discriminación'?",
+      "options": [
+        "La persona que por cualquier medio difunda o incite a la realización de actos de racismo o discriminación",
+        "La lectura privada de libros históricos de la época colonial en recintos familiares",
+        "El archivo confidencial de notas de prensa en bibliotecas universitarias",
+        "La cobertura periodística en directo de manifestaciones públicas o bloqueos de caminos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 quater CP), Ley N° 045",
+      "explicacion": "El Art. 281 quater penaliza a quien por cualquier medio (impreso, digital, audiovisual) difunda o incite al racismo o discriminación."
+    },
+    {
+      "question": "En el Art. 281 quater.II del Código Penal (incorporado por la Ley N° 045), ¿qué ocurre si el hecho de difusión e incitación al racismo es realizado por un propietario o trabajador de un medio de comunicación?",
+      "options": [
+        "Se aplicará la pena prevista sin que pueda alegarse inmunidad ni fuero alguno, aplicándose las sanciones penales correspondientes",
+        "El medio de comunicación quedará exonerado si emite un comunicado de disculpas en un plazo de 24 horas",
+        "El caso debe ser remitido obligatoriamente al Tribunal de Imprenta sin intervención del Ministerio Público",
+        "La responsabilidad recaerá únicamente sobre la empresa proveedora de energía eléctrica del canal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 quater.II CP), Ley N° 045",
+      "explicacion": "La norma aclara que las personas que operen en medios de comunicación no gozan de fueros especiales al incurrir en incitación pública al racismo."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 septies del Código Penal), ¿qué conducta se sanciona con relación a las 'Organizaciones o Grupos Racistas o Discriminatorios'?",
+      "options": [
+        "A quien participe, organice, financie o pertenezca a organizaciones o grupos que promuevan la discriminación o la superioridad racial",
+        "A los miembros de partidos políticos legalmente reconocidos que participen en elecciones subnacionales",
+        "A los integrantes de sindicatos laborales que convoquen a huelgas en demanda de incrementos salariales",
+        "A las asociaciones de comerciantes minoristas que vendan productos importados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 septies CP), Ley N° 045",
+      "explicacion": "El Art. 281 septies sanciona penalmente a quienes promuevan, dirijan, financien o integren agrupaciones de ideología racista."
+    },
+    {
+      "question": "Conforme al Artículo 23 de la Ley N° 045 (Art. 281 octies del Código Penal), ¿qué sanciones se contemplan para el delito de 'Insultos y otras agresiones verbales por motivos racistas o discriminatorios'?",
+      "options": [
+        "Prestación de trabajo en favor de la comunidad de uno a dieciocho meses y multa de cuarenta a ciento cincuenta días",
+        "Presidio de cinco a diez años en cárcel de máxima seguridad",
+        "Arresto domiciliario permanente por tres años sin derecho a salidas laborales",
+        "Inhabilitación definitiva para residir en capitales de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 octies CP), Ley N° 045",
+      "explicacion": "El Art. 281 octies establece sanciones de trabajo comunitario (1 a 18 meses) y multa para las agresiones verbales motivadas por racismo."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 octies.II CP), ¿qué efecto tiene la retractación pública y oportuna por parte del imputado en agresiones verbales?",
+      "options": [
+        "Si la retractación se realiza antes de la sentencia y en el mismo medio de difusión, se extinguirá la acción penal",
+        "Reducirá la pena de prisión a la mitad pero exigirá indemnización pecuniaria obligatoria",
+        "No produce ningún efecto legal y el proceso continuará hasta la sentencia firme",
+        "Genera la obligación de pagar las costas judiciales del Estado únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 octies.II CP), Ley N° 045",
+      "explicacion": "La retractación pública expresada en las mismas condiciones y medios antes del fallo extingue la acción penal en el delito de insultos verbales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 24 de la Ley N° 045 (que modifica el Art. 20 del Código de Procedimiento Penal), ¿qué tratamiento procesal reciben las agresiones verbales por motivos racistas?",
+      "options": [
+        "Son consideradas delitos de acción penal privada",
+        "Se tramitan mediante juicio penal militar sumario",
+        "Pasan a ser competencia exclusiva de los jueces de paz de barrio",
+        "Quedan excluidas de la persecución penal y pasan a control municipal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24 (Art. 20 CPP), Ley N° 045",
+      "explicacion": "Las agresiones e insultos verbales (Art. 281 octies) son clasificadas como delitos de acción penal privada en el CPP."
+    },
+    {
+      "question": "Según el Artículo 24 de la Ley N° 045 (que modifica el Art. 26 del CPP), ¿procede la conversión de la acción penal pública a privada en delitos de racismo?",
+      "options": [
+        "Sí, la víctima o el Ministerio Público podrán solicitar la conversión de la acción en los casos previstos por la norma procesal",
+        "No, bajo ninguna circunstancia se permite alterar la naturaleza de la acción penal pública",
+        "Solo si la persona imputada es un funcionario de rango ministerial",
+        "Unicamente previa autorización firmada por la Fiscalía General del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24 (Art. 26 CPP), Ley N° 045",
+      "explicacion": "Se autoriza la conversión de acciones respetando las garantías y facultades de la víctima e instancias fiscales."
+    },
+    {
+      "question": "En las Disposiciones Transitorias de la Ley N° 045, ¿qué plazo se otorgó al Órgano Ejecutivo para la reglamentación de la presente ley?",
+      "options": [
+        "Un plazo de noventa (90) días a partir de su promulgación",
+        "Un plazo de un año calendario desde su publicación formal",
+        "Ciento ochenta días hábiles contados desde la conformación del Comité",
+        "Treinta días contados a partir de la primera sesión legislativa"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Primera, Ley N° 045",
+      "explicacion": "La Disposición Transitoria Primera concedió 90 días para el tratamiento y promulgación del Decreto Supremo Reglamentario."
+    },
+    {
+      "question": "Conforme a la Disposición Transitoria Segunda de la Ley N° 045, ¿qué tarea se encomendó al Ministerio de Justicia respecto al Código Penal?",
+      "options": [
+        "Elaborar y publicar el texto ordenado de los Códigos Penal y de Procedimiento Penal con las modificaciones incorporadas",
+        "Redactar un nuevo Código de Comercio para la regulación de empresas privadas",
+        "Crear una comisión especial de indultos para personas privadas de libertad",
+        "Traducción obligatoria del Código Penal al idioma latín"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda, Ley N° 045",
+      "explicacion": "Se ordenó la publicación del texto ordenado e integrado de las normas penales actualizadas tras la reforma introducida por la Ley N° 045."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14.III de la Ley N° 045, ¿cuál es la consecuencia de no sustanciar ni sancionar administrativamente los actos de discriminación en entidades públicas?",
+      "options": [
+        "Incurrimiento en incumplimiento de deberes por parte de las autoridades encargadas del proceso disciplinario",
+        "La prescripción de la falta administrativa en favor del denunciado en 48 horas",
+        "La pérdida del presupuesto anual de la entidad pública omisa",
+        "La transferencia automática del caso al Tribunal Constitucional Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.III, Ley N° 045",
+      "explicacion": "Las autoridades que omitan investigar o sancionar disciplinariamente estos hechos incurren en el delito de incumplimiento de deberes."
+    },
+    {
+      "question": "¿Qué sanción prevé la Ley N° 045 para la persona que niegue el servicio público de salud o educación basándose en razones de orientación sexual?",
+      "options": [
+        "Infracción administrativa disciplinaria grave e imputación por el delito de Discriminación (Art. 281 ter CP)",
+        "Solo amonestación verbal sin constancia en el archivo personal",
+        "Multa de 5 bolivianos deducible por planilla de haberes",
+        "Derivación del hecho a la comisión de ética del colegio profesional correspondiente únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 14 y 23, Ley N° 045",
+      "explicacion": "Denegar servicios públicos esenciales por discriminación configura falta administrativa grave y delito penado con prisión de 1 a 5 años."
+    },
+    {
+      "question": "Según la Ley N° 045, ¿quién preside las comisiones de trabajo del Comité Nacional contra el Racismo?",
+      "options": [
+        "El Viceministerio de Descolonización u la autoridad delegada del Ministerio de Culturas",
+        "Un delegado electo por los medios de comunicación privados",
+        "El Comandante General de la Policía Boliviana",
+        "El Presidente de la Conferencia Episcopal de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.I y 8, Ley N° 045",
+      "explicacion": "El Viceministerio de Descolonización (adscrito al Ministerio de Culturas) ejerce la coordinación y presidencia de las comisiones del Comité."
+    },
+    {
+      "question": "En el marco de la Ley N° 045, ¿a qué se refiere el término 'Acción Preventiva' en las universidades públicas?",
+      "options": [
+        "Implementar seminarios, talleres y publicaciones académicas que promuevan la convivencia intercultural y la tolerancia racial",
+        "Eliminar los exámenes de grado para estudiantes pertenecientes a minorías",
+        "Prohibir el ingreso de estudiantes extranjeros a las facultades de medicina",
+        "Conceder becas académicas exclusivamente por sorteo público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.I y 5.l, Ley N° 045",
+      "explicacion": "Son medidas de sensibilización, educación e información en la educación superior para erradicar conductas racistas."
+    },
+    {
+      "question": "¿Qué establece el Artículo 15.V de la Ley N° 045 respecto a las licencias de funcionamiento de locales de espectáculos que cometan actos discriminatorios?",
+      "options": [
+        "Las autoridades municipales deberán coordinar el cumplimiento de las sanciones de clausura y revocatoria en el marco de sus competencias",
+        "Las licencias quedan bajo control exclusivo del Ministerio de Gobierno",
+        "Los locales pueden canjear la clausura por la entrega de entradas gratuitas a la gobernación",
+        "La sanción de clausura no aplica si el propietario del local es extranjero"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 045",
+      "explicacion": "Los Gobiernos Autónomos Municipales ejecutan la suspensión o cancelación de licencias de funcionamiento según sus atribuciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.a de la Ley N° 045, ¿constituye la vestimenta tradicional un motivo tutelado contra la discriminación?",
+      "options": [
+        "Sí, la vestimenta o indumentaria tradicional forma parte de las causales expresamente protegidas frente a la discriminación",
+        "No, la vestimenta es un aspecto subjetivo fuera del alcance del principio de igualdad",
+        "Solo si la indumentaria ha sido registrada formalmente en el Ministerio de Culturas",
+        "Únicamente si la persona viste traje típico durante fiestas patronales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.a, Ley N° 045",
+      "explicacion": "El Art. 5.a incluye la vestimenta como una de las características o expresiones sujetas a protección constitucional contra la discriminación."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 bis.III CP), ¿cuál es la sanción penal si del acto de racismo derivan lesiones u otros delitos?",
+      "options": [
+        "Se aplicarán las reglas de concurso de delitos establecidas en el Código Penal",
+        "Se absorberá el delito de lesiones quedando unicamente la sanción administrativa",
+        "El proceso penal quedará nulo y se perdonará al agresor",
+        "La pena máxima no podrá exceder de dos años de trabajo comunitario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 045",
+      "explicacion": "Cuando concurran otros delitos (como lesiones graves o homicidio), se aplican las reglas del concurso penal (Art. 44 y ss. CP)."
+    },
+    {
+      "question": "Conforme al Artículo 6.II.c de la Ley N° 045, ¿qué obligación tienen las instituciones estatales en sus convocatorias de personal?",
+      "options": [
+        "Asegurar criterios de equidad e igualdad de oportunidades sin discriminación por edad, sexo, idioma o vestimenta",
+        "Exigir el pago de una cuota de postulación en cuentas del Tesoro General",
+        "Priorizar obligatoriamente a los egresados de universidades privadas de la sede de gobierno",
+        "Limitar la contratación de personal femenino a puestos administrativos menores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II.c, Ley N° 045",
+      "explicacion": "Garantizar procesos de reclutamiento transparentes e inclusivos respetando la no discriminación."
+    },
+    {
+      "question": "¿Cuál es la consecuencia penal establecida en el Art. 281 ter CP para quien impida el ejercicio de derechos políticos por motivos discriminatorios?",
+      "options": [
+        "Sanción con pena privativa de libertad de 1 a 5 años",
+        "Arresto policial de 8 horas",
+        "Inhabilitación de un mes para votar en elecciones subnacionales",
+        "Multa de 50 bolivianos a favor del Órgano Electoral"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 ter CP), Ley N° 045",
+      "explicacion": "Impedir o restringir el ejercicio de derechos fundamentales (incluidos los políticos) por motivos de discriminación constituye delito de 1 a 5 años de prisión."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9.d de la Ley N° 045, ¿qué atribución tiene el Comité en relación a los convenios internacionales?",
+      "options": [
+        "Promover la ratificación y el cumplimiento de tratados internacionales en materia de racismo y discriminación",
+        "Negociar tratados bilaterales de extradición sin participación del Canciller",
+        "Aprobar préstamos con el Banco Mundial de forma autónoma",
+        "Firmar pactos de paz con ejércitos extranjeros"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.d, Ley N° 045",
+      "explicacion": "Recomendar la adhesión, ratificación y adecuada implementación de la normativa internacional de derechos humanos."
+    },
+    {
+      "question": "Según el Artículo 5.e y f de la Ley N° 045, ¿qué diferencia existe entre la equidad de género y la equidad generacional?",
+      "options": [
+        "La de género atañe a la justicia entre mujeres y hombres, mientras que la generacional abarca la igualdad entre las distintas etapas de la vida",
+        "La de género aplica solo en zonas rurales y la generacional en capitales de departamento",
+        "La generacional es materia penal y la de género es materia exclusivamente administrativa",
+        "No existe diferencia legal, ambos términos son sinónimos absolutos en el texto de la ley"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.e y f, Ley N° 045",
+      "explicacion": "El Art. 5 define separadamente ambas dimensiones: una basada en la identidad de género y la otra en el ciclo vital (edad)."
+    },
+    {
+      "question": "Conforme al Artículo 15.VI de la Ley N° 045, ¿qué autoridad es competente para tramitar y resolver los procesos administrativos sancionatorios a locales públicos?",
+      "options": [
+        "Los Gobiernos Autónomos Municipales conforme a sus reglamentos y procedimientos administrativos",
+        "Los Comandos Departamentales de la Policía Boliviana",
+        "Las Direcciones Departamentales de Educación",
+        "El Contralor General del Estado en sesión pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 045",
+      "explicacion": "La fiscalización y sanción administrativa de establecimientos abiertos al público corresponde al ámbito municipal."
+    },
+    {
+      "question": "De acuerdo con el Artículo 3.b de la Ley N° 045, ¿los extranjeros en tránsito por territorio boliviano están protegidos por la norma?",
+      "options": [
+        "Sí, la ley ampara a todas las personas naturales que se encuentren dentro del territorio nacional, sin distinción de nacionalidad o estatus migratorio",
+        "No, solo ampara a ciudadanos nacidos en Bolivia con cédula de identidad vigente",
+        "Solo si cuentan con visa de trabajo aprobada por la Cancillería",
+        "Únicamente si son diplomáticos acreditados ante el gobierno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.b, Ley N° 045",
+      "explicacion": "El alcance territorial ampara a toda persona en el territorio boliviano, incluidos extranjeros en tránsito o residentes."
+    },
+    {
+      "question": "Según el Artículo 5.c de la Ley N° 045, ¿constituye la incitación al odio de un grupo religioso sobre otro un acto fundado en la doctrina del racismo?",
+      "options": [
+        "Sí, las doctrinas que justifican el odio o la persecución por motivos de credo o religión están comprendidas en los alcances de la ley",
+        "No, la ley no protege los asuntos relacionados con la fe o creencias religiosas",
+        "Solo si la religión afectada cuenta con personería jurídica emitida por el Ministerio de Relaciones Exteriores",
+        "Únicamente en caso de templos edificados antes de la independencia de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5 y 23, Ley N° 045",
+      "explicacion": "La discriminación por motivos de credo o religión está prohibida y sancionada bajo el amparo de la Ley N° 045."
+    },
+    {
+      "question": "En el Artículo 23 de la Ley N° 045 (Art. 281 quater CP), ¿qué pena se prevé para la persona que financie organizaciones de difusión racista?",
+      "options": [
+        "Pena privativa de libertad de uno a cinco años (igual que el autor o difusor)",
+        "Sanción pecuniaria equivalente a un día de salario",
+        "Trabajo en faenas agrícolas durante quince días",
+        "Amonestación privada emitida por la Fiscalía de Distrito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 045",
+      "explicacion": "Quien financie, organice o brinde soporte material a grupos o actividades de propaganda racista incurre en el mismo tipo penal (Art. 281 quater CP)."
+    },
+    {
+      "question": "Conforme al Artículo 6.I.c de la Ley N° 045, ¿qué deben implementar las escuelas superiores de formación de maestros (ESFM)?",
+      "options": [
+        "Estrategias de formación docente continua en enfoque intercultural y técnicas pedagógicas contra el racismo",
+        "Exámenes obligatorios de resistencia física de nivel profesional",
+        "Cursos de conducción de vehículos livianos y pesados",
+        "Un periodo obligatorio de adiestramiento militar de dos años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.I.c, Ley N° 045",
+      "explicacion": "Capacitar a los futuros educadores en contenidos de equidad, derechos humanos y descolonización."
+    },
+    {
+      "question": "Según el Artículo 16.II de la Ley N° 045, ¿quién reglamenta las faltas e infracciones administrativas para los medios de comunicación en el marco de esta ley?",
+      "options": [
+        "El Órgano Ejecutivo mediante Decreto Supremo Reglamentario",
+        "La Asociación Nacional de la Prensa de forma independiente",
+        "Los propietarios de cada red televisiva",
+        "La Autoridad de Fiscalización de Empresas (AEMP)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16.II, Ley N° 045",
+      "explicacion": "El procedimiento y la escala de sanciones administrativas para medios se establecen en el Decreto Supremo Reglamentario emitido por el Ejecutivo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2.c de la Ley N° 045, ¿qué establece el principio de 'Equidad'?",
+      "options": [
+        "El reconocimiento a la diferencia y la equiparación de oportunidades para el ejercicio pleno de los derechos humanos de todas las personas",
+        "La redistribución igualitaria de las rentas petroleras a todos los municipios del país",
+        "La fijación de impuestos proporcionales a las grandes fortunas privadas",
+        "La asignación de igual número de escaños a todos los partidos políticos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.c, Ley N° 045",
+      "explicacion": "El Art. 2.c define la Equidad como la equiparación de oportunidades respetando las diferencias de cada individuo o grupo."
+    },
+    {
+      "question": "Según el Artículo 12.II de la Ley N° 045, ¿qué facultad se otorga a la víctima respecto a la representación legal en denuncias por discriminación?",
+      "options": [
+        "Puede ser patrocinada de manera gratuita por el Ministerio de Justicia o la Defensoría del Pueblo",
+        "Debe contratar obligatoriamente un gabinete privado de tres abogados penalistas",
+        "Debe hacerse representar únicamente por el corregidor o autoridad originaria de su comunidad",
+        "No requiere abogado pero debe presentar tres fiadores personales con solvencia económica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.II, Ley N° 045",
+      "explicacion": "Las instancias estatales como el Servicio del Pueblo / Ministerio de Justicia prestan asistencia legal gratuita a las víctimas."
+    },
+    {
+      "question": "En el Artículo 23 de la Ley N° 045 (Art. 281 ter CP), ¿es punible la discriminación cuando se comete por razones de discapacidad o estado de salud?",
+      "options": [
+        "Sí, la condición de discapacidad, enfermedad o estado de salud son causales expresamente protegidas frente al delito de discriminación",
+        "No, los aspectos médicos o de salud se ventilan únicamente en comités de bioética hospitalaria",
+        "Solo si la persona con discapacidad cuenta con carnet emitido en el exterior",
+        "Únicamente si la discriminación se comete en recintos aeroportuarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 ter CP), Ley N° 045",
+      "explicacion": "El tipo penal de discriminación sanciona expresamente el trato menoscabante por motivos de discapacidad, salud o edad."
+    },
+    {
+      "question": "Conforme al Artículo 9.b de la Ley N° 045, ¿qué función cumple el Comité en materia de proyectos de ley?",
+      "options": [
+        "Proponer e impulsar proyectos de ley u otras normas encaminadas a prevenir y erradicar el racismo",
+        "Aprobar mediante resolución de directorio leyes nacionales en materia económica",
+        "Veto legislativo sobre las decisiones de la Asamblea Legislativa",
+        "Promulgar Decretos Supremos en sustitución del Presidente del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.b, Ley N° 045",
+      "explicacion": "El Comité tiene la iniciativa para proponer políticas normativas y reformas legislativas de prevención y sanción."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2.b de la Ley N° 045, ¿cómo se define el principio de 'Igualdad'?",
+      "options": [
+        "Todos los seres humanos nacen libres e iguales en dignidad y derechos, sin distinción alguna fundada en origen, raza o sexo",
+        "Todos los ciudadanos deben recibir exactamente el mismo ingreso económico garantizado por el Estado",
+        "Todas las empresas públicas y privadas deben contar con el mismo número de trabajadores",
+        "Todas las leyes nacionales deben aplicarse sin tomar en cuenta las sentencias del Tribunal Constitucional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.b, Ley N° 045",
+      "explicacion": "El principio de Igualdad (Art. 2.b) establece que todos los seres humanos gozan de los mismos derechos y dignidad ante la ley."
+    },
+    {
+      "question": "Según el Artículo 5.a de la Ley N° 045, ¿cuál de las siguientes causales NO está protegida explícitamente frente a la discriminación?",
+      "options": [
+        "La comisión comprobada de delitos flagrantes de corrupción pública",
+        "El estado civil, orientación sexual e identidad de género",
+        "El idioma, ideología, filiación política o filosófica",
+        "La ocupación, grado de instrucción u origen gestacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.a, Ley N° 045",
+      "explicacion": "La persecución legal justa por delitos flagrantes cometidos no constituye discriminación, sino ejercicio del ius puniendi del Estado."
+    },
+    {
+      "question": "Conforme al Artículo 14.IV de la Ley N° 045, ¿las sanciones administrativas disciplinarias eximen al funcionario de su responsabilidad penal?",
+      "options": [
+        "No, la sanción disciplinaria administrativa se impone sin perjuicio de la responsabilidad penal o civil a que hubiere lugar",
+        "Sí, la sanción administrativa extingue de inmediato cualquier investigación penal en el Ministerio Público",
+        "Sí, en virtud del principio del non bis in idem no se puede procesar penalmente a quien fue amonestado en su institución",
+        "Solo si la sanción administrativa consistió en la destitución del cargo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.IV, Ley N° 045",
+      "explicacion": "La responsabilidad administrativa, civil y penal son independientes entre sí y acumulables según la Ley N° 045 y la Ley N° 1178."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.III.c de la Ley N° 045, ¿qué se promueve en relación al uso de lenguas originarias en los medios de difusión masiva?",
+      "options": [
+        "El uso de idiomas de las naciones y pueblos indígena originario campesinos en programas de información y campañas preventivas",
+        "La traducción obligatoria del 100% de la programación de televisión abierta al idioma inglés",
+        "La prohibición de emitir contenidos en castellano durante el horario primetime",
+        "La cobranza de tarifas dobles a la publicidad emitida en lenguas originarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.III.c, Ley N° 045",
+      "explicacion": "Fomentar el uso plurinacional e inclusivo de las lenguas oficiales reconocidas en la Constitución en medios masivos."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 octies CP), ¿quién es el titular protegido en el delito de 'Insultos y agresiones verbales'?",
+      "options": [
+        "La persona individual que sea agredida verbalmente o menoscabada en su dignidad por motivos racistas o discriminatorios",
+        "Únicamente los órganos colegiados del Órgano Legislativo",
+        "Las empresas multinacionales con sede en Bolivia",
+        "Los organismos internacionales acreditados en el país"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 octies CP), Ley N° 045",
+      "explicacion": "Protege la honra y dignidad de las personas frente a ofensas o expresiones denigrantes motivadas por odio o prejuicio."
+    },
+    {
+      "question": "En el marco del Artículo 7.III de la Ley N° 045, ¿quién actúa como Órgano Consultivo y de Asesoramiento dentro del Comité Nacional?",
+      "options": [
+        "Representantes de la Defensoría del Pueblo y del Alto Comisionado de las Naciones Unidas para los Derechos Humanos",
+        "Representantes del Fondo Monetario Internacional",
+        "El Consejo de la Magistratura en pleno",
+        "La Asociación de Bancos Privados de Bolivia (ASOBAN)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.III, Ley N° 045",
+      "explicacion": "La Defensoría del Pueblo y organismos internacionales de DDHH fungen como consultores y observadores del Comité."
+    },
+    {
+      "question": "Conforme al Artículo 18 de la Ley N° 045, ¿constituye la exigencia de test de embarazo para la contratación de trabajadoras un acto de discriminación?",
+      "options": [
+        "Sí, está expresamente prohibido solicitar pruebas de embarazo o de VIH en procesos de selección o permanencia laboral",
+        "No, la empresa privada puede solicitarlo libremente en ejercicio de su autonomía contractual",
+        "Solo en caso de contratos laborales a plazo fijo menores a un mes",
+        "Únicamente si la postulante es menor de 18 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 045",
+      "explicacion": "Prohibición categórica de exigir exámenes médicos discriminatorios o violatorios de la intimidad y dignidad de la mujer."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 045 (Art. 281 ter CP), ¿qué pena corresponde a la persona que restrinja el acceso a la educación por motivos de filiación política?",
+      "options": [
+        "Pena privativa de libertad de 1 a 5 años por el delito de Discriminación",
+        "Arresto policial por 24 horas sustituible por fianza",
+        "Destitución del cargo de docente sin proceso previo",
+        "Multa equivalente a diez jornales mínimos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23 (Art. 281 ter CP), Ley N° 045",
+      "explicacion": "La restricción arbitraria del derecho a la educación por motivos ideológicos o de filiación política encuadra en el delito de discriminación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.k de la Ley N° 045, ¿cuál de las siguientes medidas es un ejemplo claro de 'Acción Afirmativa'?",
+      "options": [
+        "La reserva de porcentajes de empleo público para personas con discapacidad o mujeres indígenas",
+        "La sanción con clausura temporal de un restaurante discriminador",
+        "La suspensión de la licencia de un programa radial de difusión racista",
+        "La imputación penal formal dictada por el Fiscal de Materia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.k, Ley N° 045",
+      "explicacion": "Las cupos de inclusión o preferencia temporal para sectores históricamente postergados son típicas acciones afirmativas."
+    },
+    {
+      "question": "Según el Artículo 15.I de la Ley N° 045, ¿quién ejecuta la faja de clausura en un establecimiento sancionado por discriminación?",
+      "options": [
+        "Las autoridades municipales encargadas del control y fiscalización de expendio y servicios",
+        "Las Brigadas de Protección a la Mujer",
+        "Los jueces de sentencia en materia penal",
+        "La Intendencia de las Fuerzas Armadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 045",
+      "explicacion": "Corresponde a los Gobiernos Autónomos Municipales la imposición y control efectivo de las fajas de clausura."
+    },
+    {
+      "question": "En relación al Artículo 20 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 20 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 20 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 20 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 20 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 20 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 21 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 21 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 21 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 21 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 21 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 21 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 22 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 22 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 22 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 22 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 22 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 22 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 23 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 23 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 23 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 23 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 23 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 23 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 24 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 24 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 24 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 24 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 24 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 24 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 1 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 1 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 1 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 1 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 1 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 1 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 2 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 2 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 2 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 2 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 2 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 2 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 3 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 3 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 3 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 3 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 3 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 3 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 4 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 4 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 4 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 4 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 4 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 4 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "En relación al Artículo 5 de la Ley N° 045, ¿cuál de las siguientes afirmaciones sobre la prevención y sanción del racismo en el Estado Plurinacional de Bolivia es correcta?",
+      "options": [
+        "El Artículo 5 tutela de manera imperativa el ejercicio de los derechos humanos sin discriminación, garantizando la debida diligencia de las autoridades competentes",
+        "El Artículo 5 autoriza la aplicación discrecional de tratos diferenciados por razones económicas en el sector privado",
+        "El Artículo 5 excluye de su alcance a los altos dignatarios de Estado y autoridades diplomáticas acreditadas",
+        "El Artículo 5 concede competencia exclusiva a los tribunales de imprenta para el juzgamiento de delitos penales de odio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley N° 045",
+      "explicacion": "El Marco normativo de la Ley N° 045 ratifica en su Artículo 5 la obligación de proteger y garantizar los derechos en igualdad de condiciones sin privilegio alguno."
+    },
+    {
+      "question": "Según el Artículo 14.IV, ¿qué obligación tienen las instituciones privadas respecto a las denuncias por racismo contra sus empleados?",
+      "options": [
+        "Pagar una fianza monetaria ante el Ministerio de Trabajo",
+        "Publicar el nombre del empleado en un periódico de circulación nacional",
+        "Despedir de forma inmediata al empleado sin derecho a beneficios sociales",
+        "Remitir copia de las denuncias a la Dirección General de Lucha contra el Racismo del Viceministerio de Descolonización"
+      ],
+      "answer": 3,
+      "fuente": "Artículo 14.IV, Ley N° 045",
+      "explicacion": "Deberá remitir copia de las denuncias a la Dirección General de Lucha contra el Racismo para registro y seguimiento."
+    }
+  ]
+}

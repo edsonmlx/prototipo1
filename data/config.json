@@ -1,0 +1,1142 @@
+{
+ "convocatoria": {
+  "numero": "N° 0001/2026",
+  "titulo": "Proceso de Institucionalización de Cargos del Sistema Educativo Plurinacional",
+  "gestiones": "2027 · 2028 · 2029",
+  "emisor": "Ministerio de Educación",
+  "portal": "http://sisep.minedu.gob.bo/",
+  "maxPostulaciones": 2,
+  "inscripcion": [
+   "2026-10-09",
+   "2026-10-22"
+  ]
+ },
+ "referencial": "La convocatoria no publica la bibliografía, el número de preguntas ni la nota mínima del examen de competencia: se definirán en el Reglamento (Resolución Ministerial). Las 16 normativas de este simulacro vienen de una lista que te entregó un contacto (no está en el PDF de la convocatoria). El número de preguntas, el tiempo y la nota mínima son referenciales y se editan en data/config.json.",
+ "perfiles": {
+  "general": {
+   "nombre": "Examen de competencia (referencial)",
+   "preguntas": 100,
+   "minutos": 120,
+   "aprobacion": 60,
+   "pesos": {
+    "base": 1.0
+   }
+  }
+ },
+ "practica": {
+  "preguntas": 20,
+  "segundosPorPregunta": 72,
+  "porGrupo": 30
+ },
+ "familias": {
+  "dd": {
+   "nombre": "Dirección Departamental y Subdirecciones",
+   "examen": "2026-11-26",
+   "meritos": [
+    "2026-12-07",
+    "2026-12-12"
+   ],
+   "designacion": "2026-12-28",
+   "posesion": "2027-01-04"
+  },
+  "dist": {
+   "nombre": "Dirección Distrital",
+   "examen": "2026-11-26",
+   "meritos": [
+    "2026-12-07",
+    "2026-12-12"
+   ],
+   "designacion": "2026-12-29",
+   "posesion": "2027-01-05"
+  },
+  "esfm": {
+   "nombre": "ESFM/UA e Institutos Técnicos, Tecnológicos y Artísticos",
+   "examen": "2026-11-27",
+   "meritos": [
+    "2026-12-14",
+    "2026-12-19"
+   ],
+   "designacion": "2026-12-29",
+   "posesion": "2027-01-05"
+  },
+  "ue": {
+   "nombre": "Unidades Educativas, CEA y CEE",
+   "examen": "2026-11-28",
+   "meritos": [
+    "2027-01-06",
+    "2027-01-11"
+   ],
+   "designacion": "2027-01-19",
+   "posesion": "2027-02-01"
+  }
+ },
+ "documentos": {
+  "meritos": [
+   "Certificación de no contar con procesos administrativos con Resolución Final Sancionatoria Ejecutoriada pendiente de cumplimiento (Dirección Departamental de Educación; para Directores Departamentales, Subdirectores y directivos de ESFM en función: Dirección General de Asuntos Jurídicos del Ministerio)",
+   "Certificación de no contar con imputación formal por violencia sexual contra estudiantes (Unidad de Asuntos Jurídicos de la Dirección Departamental, o DGAJ del Ministerio según el cargo)"
+  ],
+  "designacion": [
+   "Certificación REJAP: sin procesos ni antecedentes penales",
+   "Certificación CENVI (ex SIPASSE): sin procesos ni antecedentes de violencia contra la mujer o miembros de su familia",
+   "Certificado de Solvencia Fiscal (Contraloría General del Estado): sin deudas con el Estado"
+  ]
+ },
+ "requisitos": {
+  "ci": "Cédula de Identidad vigente",
+  "libreta": "Libreta de Servicio Militar (solo varones)",
+  "normalista": "Título en Provisión Nacional o Título Profesional de maestra/o normalista, RM de Declaratoria Titular por Antigüedad o Título Homologado",
+  "lic_esfm": "Licenciatura de ESFM, o Título en Provisión Nacional reconocido por el Sistema Universitario Boliviano (privadas: título del Min. Educación)",
+  "posgrado_educ": "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en el ámbito educativo",
+  "cat2": "Categoría Segunda como mínimo",
+  "cat3": "Categoría Tercera como mínimo",
+  "cat4": "Categoría Cuarta como mínimo",
+  "exp3": "Documento que acredite cargo institucionalizado por 3 gestiones educativas consecutivas en los cargos que indica la convocatoria",
+  "rda": "Duplicado de Registro Docente Administrativo (RDA) actualizado",
+  "lengua": "Certificado de Lengua Originaria emitido por institución reconocida por el Ministerio de Educación",
+  "m150": "Tener 150 puntos en méritos como mínimo",
+  "m120": "Tener 120 puntos en méritos como mínimo",
+  "m100": "Tener 100 puntos en méritos como mínimo"
+ },
+ "grupos": [
+  {
+   "id": "normativa",
+   "nombre": "Normativa",
+   "icono": "⚖️",
+   "color": "#F5C451",
+   "desc": "Lista de 16 normativas para el examen"
+  }
+ ],
+ "bibliografias": [
+  {
+   "id": "01_constitucion_politica_del_estado",
+   "grupo": "normativa",
+   "icono": "🏛️",
+   "nombre": "Constitución Política del Estado",
+   "autor": "",
+   "color": "#F5C451",
+   "archivo": "data/bib/01_constitucion_politica_del_estado.json",
+   "survey": false
+  },
+  {
+   "id": "02_ley_070_avelino_sinani_elizardo_perez",
+   "grupo": "normativa",
+   "icono": "📜",
+   "nombre": "Ley N° 070 de Educación Avelino Siñani - Elizardo Pérez",
+   "autor": "Ley de 20 de diciembre de 2010",
+   "color": "#F5C451",
+   "archivo": "data/bib/02_ley_070_avelino_sinani_elizardo_perez.json",
+   "survey": false
+  },
+  {
+   "id": "03_ley_045_contra_el_racismo_y_la_discriminacion",
+   "grupo": "normativa",
+   "icono": "✊",
+   "nombre": "Ley 045 Contra el Racismo y toda Forma de Discriminación",
+   "autor": "",
+   "color": "#F5C451",
+   "archivo": "data/bib/03_ley_045_contra_el_racismo_y_la_discriminacion.json",
+   "survey": false
+  },
+  {
+   "id": "04_ley_348_vida_libre_de_violencia",
+   "grupo": "normativa",
+   "icono": "🛡️",
+   "nombre": "Ley 348 Integral para garantizar a las mujeres una vida libre de violencia",
+   "autor": "",
+   "color": "#F5C451",
+   "archivo": "data/bib/04_ley_348_vida_libre_de_violencia.json",
+   "survey": false
+  },
+  {
+   "id": "05_ley_548_codigo_nina_nino_adolescente",
+   "grupo": "normativa",
+   "icono": "👶",
+   "nombre": "Ley 548 Código Niña, Niño y Adolescente",
+   "autor": "",
+   "color": "#F5C451",
+   "archivo": "data/bib/05_ley_548_codigo_nina_nino_adolescente.json",
+   "survey": false
+  },
+  {
+   "id": "06_ley_223_personas_con_discapacidad",
+   "grupo": "normativa",
+   "icono": "♿",
+   "nombre": "Ley 223 de 2012 de Personas con Discapacidad",
+   "autor": "",
+   "color": "#F5C451",
+   "archivo": "data/bib/06_ley_223_personas_con_discapacidad.json",
+   "survey": false
+  },
+  {
+   "id": "07_ley_1178_administracion_y_control_gubernamentales",
+   "grupo": "normativa",
+   "icono": "🧾",
+   "nombre": "Ley N° 1178 de Administración y Control Gubernamentales",
+   "autor": "Ley de 20 de julio de 1990",
+   "color": "#F5C451",
+   "archivo": "data/bib/07_ley_1178_administracion_y_control_gubernamentales.json",
+   "survey": false
+  },
+  {
+   "id": "08_ley_004_lucha_contra_la_corrupcion",
+   "grupo": "normativa",
+   "icono": "🚫",
+   "nombre": "Ley 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito",
+   "autor": "",
+   "color": "#F5C451",
+   "archivo": "data/bib/08_ley_004_lucha_contra_la_corrupcion.json",
+   "survey": false
+  },
+  {
+   "id": "09_ds_4688_reglamento_escalafon_nacional",
+   "grupo": "normativa",
+   "icono": "⚖️",
+   "nombre": "D.S. N° 4688 Reglamento del Escalafón Nacional del Servicio de Educación",
+   "autor": "Decreto Supremo de 18 de julio de 1957",
+   "color": "#F5C451",
+   "archivo": "data/bib/09_ds_4688_reglamento_escalafon_nacional.json",
+   "survey": false
+  },
+  {
+   "id": "10_rs_212414_reglamento_faltas_y_sanciones",
+   "grupo": "normativa",
+   "icono": "🚨",
+   "nombre": "R.S. N° 212414 Reglamento de Faltas y Sanciones del Magisterio",
+   "autor": "Resolución Suprema de 21 de abril de 1993",
+   "color": "#F5C451",
+   "archivo": "data/bib/10_rs_212414_reglamento_faltas_y_sanciones.json",
+   "survey": false
+  },
+  {
+   "id": "11_rm_864_2019_protocolo_violencia",
+   "grupo": "normativa",
+   "icono": "🧷",
+   "nombre": "R.M. N° 864/2019 Protocolo de Prevención, Actuación y Denuncia en Casos de Violencia",
+   "autor": "Resolución Ministerial de 9 de agosto de 2019",
+   "color": "#F5C451",
+   "archivo": "data/bib/11_rm_864_2019_protocolo_violencia.json",
+   "survey": false
+  },
+  {
+   "id": "12_rm_069_2025_educacion_inclusiva",
+   "grupo": "normativa",
+   "icono": "🤝",
+   "nombre": "R.M. N° 069/2025 Reglamento para el fortalecimiento de la educación inclusiva en el SEP",
+   "autor": "Resolución Ministerial de 7 de febrero de 2025",
+   "color": "#F5C451",
+   "archivo": "data/bib/12_rm_069_2025_educacion_inclusiva.json",
+   "survey": false
+  },
+  {
+   "id": "13_rm_0020_0021_0022_2024_apertura_modificacion_cierre",
+   "grupo": "normativa",
+   "icono": "🏫",
+   "nombre": "R.M. N° 0020, 0021 y 0022/2024 (modificatoria R.M. 534/2025) Reglamento de Apertura, Modificación y Cierre",
+   "autor": "Resoluciones Ministeriales de 9 de enero de 2024 · el título de la lista que te pasaron aparece cortado después de \"Cier…\"",
+   "color": "#F5C451",
+   "archivo": "data/bib/13_rm_0020_0021_0022_2024_apertura_modificacion_cierre.json",
+   "survey": false
+  },
+  {
+   "id": "14_rm_0190_2024_evaluacion_desarrollo_curricular",
+   "grupo": "normativa",
+   "icono": "📊",
+   "nombre": "R.M. N° 0190/2024 Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular",
+   "autor": "Resolución Ministerial de 12 de marzo de 2024",
+   "color": "#F5C451",
+   "archivo": "data/bib/14_rm_0190_2024_evaluacion_desarrollo_curricular.json",
+   "survey": false
+  },
+  {
+   "id": "15_rm_800_2015_libretas_calificaciones_electronicas",
+   "grupo": "normativa",
+   "icono": "🧮",
+   "nombre": "R.M. N° 800/2015 Reglamento de Procedimientos para la Emisión de Libretas de Calificaciones Electrónicas y Certificados de Calificaciones Electrónicas",
+   "autor": "Resolución Ministerial de 23 de octubre de 2015",
+   "color": "#F5C451",
+   "archivo": "data/bib/15_rm_800_2015_libretas_calificaciones_electronicas.json",
+   "survey": false
+  },
+  {
+   "id": "16_rm_001_2026_subsistema_educacion_regular",
+   "grupo": "normativa",
+   "icono": "🗓️",
+   "nombre": "R.M. N° 001/2026 del Subsistema de Educación Regular",
+   "autor": "Resolución Ministerial de 5 de enero de 2026",
+   "color": "#F5C451",
+   "archivo": "data/bib/16_rm_001_2026_subsistema_educacion_regular.json",
+   "survey": false
+  }
+ ],
+ "cargos": [
+  {
+   "id": "dir_departamental",
+   "nombre": "Director(a) Departamental de Educación",
+   "corto": "Director Departamental",
+   "fam": "dd",
+   "costo": 550,
+   "perfil": "general",
+   "categoriaMin": "Segunda",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat2",
+    "exp3",
+    "rda",
+    "lengua",
+    "m150"
+   ],
+   "areas": []
+  },
+  {
+   "id": "sub_regular",
+   "nombre": "Subdirector(a) de Educación Regular",
+   "corto": "Subdirector Regular",
+   "fam": "dd",
+   "costo": 450,
+   "perfil": "general",
+   "categoriaMin": "Segunda",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat2",
+    "exp3",
+    "rda",
+    "lengua",
+    "m150"
+   ],
+   "areas": []
+  },
+  {
+   "id": "sub_alt_especial",
+   "nombre": "Subdirector(a) de Educación Alternativa y Especial",
+   "corto": "Subdirector Alt. y Especial",
+   "fam": "dd",
+   "costo": 450,
+   "perfil": "general",
+   "categoriaMin": "Segunda",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat2",
+    "exp3",
+    "rda",
+    "lengua",
+    "m150"
+   ],
+   "areas": []
+  },
+  {
+   "id": "sub_superior",
+   "nombre": "Subdirector(a) de Educación Superior de Formación Profesional",
+   "corto": "Subdirector Educ. Superior",
+   "fam": "dd",
+   "costo": 450,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "Título en Provisión Nacional o Título Profesional de maestra/o normalista, o RM de Titular por Antigüedad con Licenciatura en áreas técnicas, tecnológicas o artísticas",
+    "Título Profesional con grado de Licenciatura reconocido por el Sistema Universitario Boliviano o por el Min. Educación (universidades privadas)",
+    "Haber desempeñado funciones como Autoridad Educativa en el SEP o directivo en ITT, Formación Artística, CCA o EBI, con 5 años como mínimo",
+    "posgrado_educ",
+    "Duplicado de RDA o RP-DGESTTLA actualizado",
+    "lengua",
+    "m150"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_distrital",
+   "nombre": "Director(a) Distrital de Educación",
+   "corto": "Director Distrital",
+   "fam": "dist",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 120,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "m120"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_ue",
+   "nombre": "Director(a) de Unidad Educativa, Centro de Educación Alternativa o Especial",
+   "corto": "Director U.E. / CEA / CEE",
+   "fam": "ue",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 100 puntos en méritos como mínimo, según pertinencia del subsistema y área a la que postula"
+   ],
+   "areas": []
+  },
+  {
+   "id": "rector_itt",
+   "nombre": "Rector(a) de Instituto Técnico y/o Tecnológico",
+   "corto": "Rector ITT",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título Normalista, RM de Titular por Antigüedad con Licenciatura en áreas técnicas/tecnológicas/artísticas, o Título con grado de Licenciatura en áreas Técnicas, Tecnológicas, Productivas, Ciencias de la Educación, Pedagogía, Administración o Gestión Educativa",
+    "Título de Postgrado (Diplomado, Especialización, Maestría o Doctorado) en el ámbito educativo",
+    "Experiencia de 4 años en docencia en Educación Superior con pertinencia técnica a una carrera del Instituto y/o funciones directivas en ITT, Formación Artística, CCA o EBI (público o de convenio)",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_academico_itt",
+   "nombre": "Director(a) Académico de Instituto Técnico y/o Tecnológico",
+   "corto": "Director Académico ITT",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título Normalista, RM de Titular por Antigüedad con Licenciatura en áreas técnicas/tecnológicas/artísticas, o Título con grado de Licenciatura o Técnico Superior en áreas Técnicas o Tecnológicas relacionado con las carreras del Instituto",
+    "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en el ámbito educativo",
+    "Experiencia mínima de 3 años en docencia en Educación Superior con pertinencia a una carrera del Instituto y/o funciones directivas en ITT, Formación Artística, CCA o EBI",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_admin_itt",
+   "nombre": "Director(a) Administrativo de Instituto Técnico y/o Tecnológico",
+   "corto": "Director Administrativo ITT",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura o Técnico Superior en áreas económicas, financieras o administrativas (normalistas: contar además con Licenciatura o Técnico Superior en esas áreas)",
+    "Experiencia profesional de 3 años como mínimo en entidades públicas o privadas en áreas económicas, financieras o administrativas",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "rector_artistico",
+   "nombre": "Rector(a) de Instituto de Formación Artística, CCA o Escuela Boliviana Intercultural",
+   "corto": "Rector Formación Artística",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura en carreras artísticas, Técnico Superior en áreas artísticas, Ciencias de la Educación, Pedagogía o Título de Maestro/a de las Artes (RM 427/2014), relacionado con las carreras de la institución",
+    "Experiencia de 3 años en docencia en Educación Superior y/o funciones directivas en Formación Artística, CCA o EBI (público, privado o de convenio), o universidades afines a la formación artística",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_academico_artistico",
+   "nombre": "Director(a) Académico de Instituto de Formación Artística, CCA o EBI",
+   "corto": "Director Académico Artístico",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura en carreras artísticas, Técnico Superior en áreas artísticas, Ciencias de la Educación, Pedagogía o Maestro/a de las Artes (RM 427/2014), relacionado con una de las carreras de la institución",
+    "Experiencia de 3 años en docencia en Educación Superior y/o funciones directivas en Formación Artística, CCA o EBI (público, privado o de convenio), o universidades afines",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_admin_artistico",
+   "nombre": "Director(a) Administrativo de Instituto de Formación Artística, CCA o EBI",
+   "corto": "Director Administrativo Artístico",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura o Técnico Superior en áreas económicas, financieras o administrativas (normalistas: Licenciatura en esas áreas)",
+    "Experiencia profesional de 3 años como mínimo en entidades públicas o privadas en áreas económicas, financieras o administrativas",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_general_esfm",
+   "nombre": "Director(a) General de ESFM",
+   "corto": "Director General ESFM",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "Tener 150 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_academico_esfm",
+   "nombre": "Director(a) Académico de ESFM",
+   "corto": "Director Académico ESFM",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "Tener 150 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "areas": []
+  },
+  {
+   "id": "dir_admin_fin_esfm",
+   "nombre": "Director(a) Administrativo Financiero de ESFM",
+   "corto": "Dir. Administrativo Financiero ESFM",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "Licenciatura en Administración de Empresas, Auditoría Financiera, Auditoría, Contaduría Pública o Economía (Sistema Universitario Boliviano o Min. Educación para privadas)",
+    "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en el ámbito Económico, Administrativo y Financiero",
+    "Mínimo 3 años de experiencia en el área administrativa en entidades públicas o privadas (económicas, financieras o administrativas)",
+    "rda",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "coord_ua",
+   "nombre": "Coordinador(a) de Unidad Académica",
+   "corto": "Coordinador de UA",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "Tener 150 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "areas": []
+  },
+  {
+   "id": "coord_iepc_pec",
+   "nombre": "Coordinador(a) Académico IEPC – PEC",
+   "corto": "Coordinador IEPC-PEC",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 120,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "Título de Postgrado (Diplomado, Especialidad, Maestría o Doctorado) en Investigación",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 120 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "areas": []
+  },
+  {
+   "id": "asesor_legal",
+   "nombre": "Asesor(a) Legal",
+   "corto": "Asesor Legal",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Matrícula vigente del Registro Público de Abogados del Ministerio de Justicia",
+    "normalista",
+    "Título Profesional o en Provisión Nacional de Abogado (Sistema Universitario Boliviano o Min. Educación para privadas)",
+    "Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en Derecho Administrativo, Civil, Penal o Constitucional",
+    "lengua",
+    "Certificado de Trabajo que acredite 3 años mínimo de ejercicio de la abogacía (público o privado)"
+   ],
+   "areas": []
+  },
+  {
+   "id": "catedratico",
+   "nombre": "Catedrático(a) – Docente",
+   "corto": "Catedrático Docente",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "Título de maestra/o normalista, RM de Titular por Antigüedad o Título Homologado, de la especialidad a la que postula",
+    "Licenciatura de la especialidad a la que postula (ESFM o Sistema Universitario Boliviano; privadas: Min. Educación)",
+    "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en Educación Superior",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 100 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "areas": []
+  },
+  {
+   "id": "catedratico_lengua",
+   "nombre": "Catedrático(a) – Docente de Lengua Originaria",
+   "corto": "Docente Lengua Originaria",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "Licenciatura en Lengua Originaria o Certificado de Lengua Originaria Nivel Avanzado, según la región",
+    "posgrado_educ",
+    "cat4",
+    "rda",
+    "Tener 100 puntos en méritos como mínimo"
+   ],
+   "areas": []
+  },
+  {
+   "id": "catedratico_productiva",
+   "nombre": "Catedrático(a) – Docente de Área Productiva",
+   "corto": "Docente Área Productiva",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "Licenciatura o Ingeniería en el Área Productiva que requiere la ESFM o UA",
+    "Título de Posgrado en el área Técnica Tecnológica Productiva",
+    "cat4",
+    "rda",
+    "lengua",
+    "m100"
+   ],
+   "areas": []
+  },
+  {
+   "id": "catedratico_apoyo",
+   "nombre": "Catedrático(a) – Docente de Apoyo / Intérprete",
+   "corto": "Docente de Apoyo / Intérprete",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "Título normalista o RM de Titular por Antigüedad en Educación Especial para Personas con Discapacidad",
+    "Licenciatura en Educación Especial (ESFM o Sistema Universitario Boliviano)",
+    "Título de Posgrado en Lengua de Señas Boliviana o Lectura del Sistema Braille, según corresponda",
+    "cat4",
+    "rda",
+    "lengua",
+    "m100"
+   ],
+   "areas": []
+  },
+  {
+   "id": "catedratico_bienestar",
+   "nombre": "Catedrático(a) – Docente Responsable de Bienestar Estudiantil",
+   "corto": "Docente Bienestar Estudiantil",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "Título de maestra/o normalista o RM de Titular por Antigüedad",
+    "Licenciatura en Psicología, Trabajo Social o Psicopedagogía",
+    "Título de Posgrado en el ámbito educativo o en su especialidad",
+    "cat4",
+    "rda",
+    "lengua",
+    "m100"
+   ],
+   "areas": []
+  },
+  {
+   "id": "tec_sistemas_kardex",
+   "nombre": "Técnico(a) I – Responsable de Sistemas y Archivo Kárdex",
+   "corto": "Téc. Sistemas y Kárdex",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Informática, Ingeniería de Sistemas, Ingeniería de Software, Analista de Sistemas o Sistemas Informáticos",
+    "Experiencia mínima de 2 años en el ámbito de su formación",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "tec_presupuesto",
+   "nombre": "Técnico(a) I – Responsable de Presupuesto y Contabilidad",
+   "corto": "Téc. Presupuesto y Contabilidad",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Contaduría General, Contaduría Pública, Auditoría Financiera o Auditoría",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "tec_bienes",
+   "nombre": "Técnico(a) I – Responsable de Bienes y Servicios",
+   "corto": "Téc. Bienes y Servicios",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Contaduría General, Contaduría Pública, Administración de Empresas, Auditoría Financiera, Auditoría, Ingeniería Comercial o Contabilidad",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "tec_salud",
+   "nombre": "Técnico(a) I – Responsable de Salud Preventiva",
+   "corto": "Téc. Salud Preventiva",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Matrícula profesional vigente emitida por el Ministerio de Salud",
+    "Licenciatura o Técnico Superior en Medicina o Enfermería (ESFM con Educación Física y Deportes: formación complementaria en Kinesiología o Fisioterapia)",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "tec_soporte",
+   "nombre": "Técnico(a) II – Sistemas y Soporte Informático",
+   "corto": "Téc. Sistemas y Soporte",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Técnico Superior en Sistemas Informáticos o Licenciatura en Informática, Ingeniería de Sistemas, Ingeniería de Software, Analista de Sistemas o Programador de Sistemas",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "tec_biblioteca",
+   "nombre": "Técnico(a) II – Biblioteca",
+   "corto": "Téc. Biblioteca",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Técnico Superior en Sistemas Informáticos o Licenciatura en Bibliotecología y Archivos, Archivística, Gestión Documental, Informática o Ingeniería de Sistemas",
+    "Experiencia mínima de 2 años en el ámbito de su formación",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "tec_cajero",
+   "nombre": "Técnico(a) II – Cajero",
+   "corto": "Téc. Cajero",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Contaduría Pública, Administración de Empresas o Contaduría General",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "areas": []
+  },
+  {
+   "id": "secretaria",
+   "nombre": "Secretaria/o de Dirección General, Académica, Administrativa o de Coordinación de UA",
+   "corto": "Secretaria/o",
+   "fam": "esfm",
+   "costo": 100,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título Profesional o en Provisión Nacional a nivel Técnico Superior de Secretariado Ejecutivo",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "areas": []
+  }
+ ],
+ "cronograma": [
+  {
+   "t": "Publicación de la Convocatoria",
+   "ini": "2026-10-08",
+   "fin": null,
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Inscripción de postulantes en el sitio web (sisep.minedu.gob.bo)",
+   "ini": "2026-10-09",
+   "fin": "2026-10-22",
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Publicación de la lista de postulantes habilitados",
+   "ini": "2026-10-25",
+   "fin": null,
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directores Departamentales y Subdirectores",
+   "ini": "2026-11-26",
+   "fin": null,
+   "fam": [
+    "dd"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directores Distritales",
+   "ini": "2026-11-26",
+   "fin": null,
+   "fam": [
+    "dist"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directivos, Catedráticos, Administrativos y Técnicos de ESFM/UA e Institutos",
+   "ini": "2026-11-27",
+   "fin": null,
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directores de U.E., CEA y CEE",
+   "ini": "2026-11-28",
+   "fin": null,
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Publicación de la lista de postulantes aprobados",
+   "ini": "2026-12-03",
+   "fin": null,
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Calificación de méritos — Departamentales, Subdirectores y Distritales",
+   "ini": "2026-12-07",
+   "fin": "2026-12-12",
+   "fam": [
+    "dd",
+    "dist"
+   ]
+  },
+  {
+   "t": "Presentación y resolución de apelaciones — Departamentales, Subdirectores y Distritales",
+   "ini": "2026-12-13",
+   "fin": "2026-12-17",
+   "fam": [
+    "dd",
+    "dist"
+   ]
+  },
+  {
+   "t": "Calificación de méritos — ESFM/UA e Institutos",
+   "ini": "2026-12-14",
+   "fin": "2026-12-19",
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Presentación y resolución de apelaciones — ESFM/UA e Institutos",
+   "ini": "2026-12-20",
+   "fin": "2026-12-24",
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Publicación de resultados — Departamentales, Subdirectores y Distritales",
+   "ini": "2026-12-21",
+   "fin": null,
+   "fam": [
+    "dd",
+    "dist"
+   ]
+  },
+  {
+   "t": "Publicación de resultados — ESFM/UA e Institutos",
+   "ini": "2026-12-28",
+   "fin": null,
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Designación — Directores Departamentales y Subdirectores",
+   "ini": "2026-12-28",
+   "fin": null,
+   "fam": [
+    "dd"
+   ]
+  },
+  {
+   "t": "Designación — Directores Distritales y personal de ESFM/UA e Institutos",
+   "ini": "2026-12-29",
+   "fin": null,
+   "fam": [
+    "dist",
+    "esfm"
+   ]
+  },
+  {
+   "t": "Posesión — Directores Departamentales y Subdirectores",
+   "ini": "2027-01-04",
+   "fin": null,
+   "fam": [
+    "dd"
+   ]
+  },
+  {
+   "t": "Posesión — Directores Distritales",
+   "ini": "2027-01-05",
+   "fin": "2027-01-06",
+   "fam": [
+    "dist"
+   ]
+  },
+  {
+   "t": "Posesión — ESFM/UA e Institutos (05–06 ene o 01 feb, según corresponda)",
+   "ini": "2027-01-05",
+   "fin": "2027-02-01",
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Calificación de méritos — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-06",
+   "fin": "2027-01-11",
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Presentación y resolución de apelaciones — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-12",
+   "fin": "2027-01-16",
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Publicación de resultados finales — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-18",
+   "fin": null,
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Designación — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-19",
+   "fin": "2027-01-25",
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Posesión — Directores de U.E., CEA y CEE",
+   "ini": "2027-02-01",
+   "fin": null,
+   "fam": [
+    "ue"
+   ]
+  }
+ ],
+ "pesosNombres": {
+  "base": "Normativa"
+ },
+ "info": [
+  {
+   "ico": "🧩",
+   "t": "Etapas del proceso",
+   "d": "i. Convocatoria y registro de postulantes en línea · ii. Examen de competencia · iii. Calificación de méritos y deméritos · iv. Impugnaciones y apelaciones · v. Designación por prelación."
+  },
+  {
+   "ico": "📝",
+   "t": "Inscripción",
+   "d": "En sisep.minedu.gob.bo, llenando correctamente el formulario. Puedes inscribirte hasta en 2 cargos, en el mismo departamento, según pertinencia, nivel y área (urbano y rural)."
+  },
+  {
+   "ico": "⛪",
+   "t": "Instituciones de convenio",
+   "d": "Los postulantes a Dirección de Unidad Educativa, CEA y CEE eligen al inscribirse entre institución Fiscal o de Convenio. Quien elija Convenio debe presentar y defender un Plan Educativo ante la Comisión Interinstitucional de Calificación (Convenio Sectorial Iglesia Católica – Estado)."
+  },
+  {
+   "ico": "💳",
+   "t": "Pago de la postulación",
+   "d": "Se descuenta automáticamente de la boleta de haberes del SEP. Si no estás en planilla: deposita por cada postulación en Banco Unión S.A., cuenta 10000004669343 (Ministerio de Educación – Recursos Propios), al menos 24 horas antes de inscribirte. Verifica los datos en el portal antes de depositar."
+  },
+  {
+   "ico": "📍",
+   "t": "Sedes del examen",
+   "d": "Las sedes del examen de competencia y de la calificación de méritos se comunicarán mediante instructivo específico en sisep.minedu.gob.bo."
+  },
+  {
+   "ico": "📚",
+   "t": "Reglamentación y base legal",
+   "d": "La convocatoria cita como base legal la Constitución Política del Estado, la Ley 070 (20/12/2010), el D.S. 04688 (18/07/1957) y el D.S. 514 (17/05/2010). El proceso se rige por el Reglamento específico que se emitirá mediante Resolución Ministerial."
+  }
+ ],
+ "gruposBase": [
+  "normativa"
+ ]
+}

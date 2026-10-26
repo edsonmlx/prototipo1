@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <link rel="manifest" href="manifest.json">
+  <title>Historial · ERTEC</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@500;600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/pages/history.css">
+    </head>
+<body>
+
+<div id="loader"><div class="loader-icon">📊</div><div class="loader-ring"></div><div class="loader-txt">Cargando historial...</div></div>
+<div id="toast"></div>
+
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal-card">
+    <div class="modal-icon" id="modal-icon">⚠️</div>
+    <div class="modal-title" id="modal-title"></div>
+    <div class="modal-desc"  id="modal-desc"></div>
+    <div class="modal-btns">
+      <button class="btn btn-red"   id="modal-ok">Confirmar</button>
+      <button class="btn btn-ghost" id="modal-cancel">Cancelar</button>
+    </div>
+  </div>
+</div>
+
+<header class="header">
+  <div class="header-brand">
+    <button class="icon-btn" id="btn-back">←</button>
+    <div>
+      <div class="header-name">Historial</div>
+      <div class="header-sub">Todos tus exámenes</div>
+    </div>
+  </div>
+  <div class="header-acts">
+    <button class="icon-btn" id="btn-dark">🌙</button>
+    <button class="icon-btn" id="btn-clear">🗑️</button>
+  </div>
+</header>
+
+<div class="sec" id="stats-sec">
+  <div class="sec-title">📈 Estadísticas</div>
+  <div class="gstats" id="gstats"></div>
+</div>
+
+<div class="sec" id="rank-sec">
+  <div class="sec-title">🏆 Mejores resultados</div>
+  <div id="rank-list"></div>
+</div>
+
+<div class="sec" id="all-sec">
+  <div class="sec-title" id="all-title">📋 Todos los exámenes</div>
+  <div id="all-list"></div>
+</div>
+
+<script src="assets/js/core/utils.js"></script>
+<script src="assets/js/core/storage.js"></script>
+<script src="assets/js/core/fx.js"></script>
+<script src="assets/js/pages/history.js"></script>
+<script src="assets/js/core/sw-register.js"></script>
+</body>
+</html>

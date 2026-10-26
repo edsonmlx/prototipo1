@@ -1,0 +1,74 @@
+/* =============================================
+   base.css — Tokens de diseño, reset y estilos globales
+   Tema "Índigo Noche + Oro" · claro/oscuro por [data-theme]
+   ============================================= */
+
+:root {
+  /* Marca */
+  --ac:        #6D5EF5;   /* violeta eléctrico */
+  --ac-2:      #8B7DFF;
+  --ac-dark:   #5646DB;
+  --gold:      #F5C451;   /* oro de la convocatoria */
+  --gold-dark: #D9A526;
+  --ok:        #34D399;
+  --bad:       #FB7185;
+  --info:      #38BDF8;
+  --teal:      #14B8A6;
+
+  /* Alias heredados (las páginas antiguas aún los usan) */
+  --rojo:       var(--ac);
+  --rojo-dark:  var(--ac-dark);
+  --rojo-light: var(--ac-2);
+  --acento:     var(--ac);
+  --negro:      #0B1126;
+  --negro2:     #121A33;
+  --blanco:     #FFFFFF;
+
+  /* Tema claro */
+  --bg:        #F2F4FC;
+  --bg-card:   #FFFFFF;
+  --text:      #0C1230;
+  --text-sub:  #5B6690;
+  --border:    #E1E5F5;
+  --sombra:    0 6px 24px rgba(40, 50, 110, .10);
+  --glow:      0 10px 30px rgba(109, 94, 245, .28);
+
+  --radio:     16px;
+  --radio-lg:  24px;
+  --ease:      all .28s cubic-bezier(.4, 0, .2, 1);
+  --spring:    cubic-bezier(.34, 1.56, .64, 1);
+  --f-head:    'Sora', 'Manrope', system-ui, sans-serif;
+  --f-body:    'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --nav-h:     64px;
+}
+
+[data-theme="dark"] {
+  --bg:       #090D1A;
+  --bg-card:  #121A32;
+  --text:     #EEF1FF;
+  --text-sub: #9AA6CB;
+  --border:   #222C4D;
+  --sombra:   0 6px 24px rgba(0, 0, 0, .45);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; -webkit-tap-highlight-color: transparent; scroll-behavior: smooth; }
+body {
+  font-family: var(--f-body);
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+  transition: background .35s ease, color .35s ease;
+  -webkit-user-select: none; user-select: none;
+}
+body::before {
+  content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background:
+    radial-gradient(900px 520px at 88% -8%, rgba(109,94,245,.30), transparent 62%),
+    radial-gradient(760px 520px at -6% 58%, rgba(245,196,81,.11), transparent 62%),
+    radial-gradient(680px 460px at 62% 112%, rgba(20,184,166,.15), transparent 62%);
+}
+[data-theme="light"] body::before { opacity: .55; }
+body.has-nav { padding-bottom: calc(var(--nav-h) + 22px + env(safe-area-inset-bottom, 0px)); }
+button { font-family: inherit; }

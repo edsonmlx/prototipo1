@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "11_rm_864_2019_protocolo_violencia",
+    "nombre": "R.M. N° 864/2019 Protocolo de Prevención, Actuación y Denuncia en Casos de Violencia",
+    "detalle": "Resolución Ministerial de 9 de agosto de 2019",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Qué disposición legal aprueba el Protocolo de Prevención, Actuación y Denuncia en Casos de Violencia Física, Psicológica y Sexual en Unidades Educativas y Centros de Educación Especial?",
+      "options": [
+        "Resolución Ministerial N° 0864/2019 de 9 de agosto de 2019",
+        "Resolución Ministerial N° 01/2019 de 2 de enero de 2019",
+        "Decreto Supremo N° 1302 de 1 de agosto de 2012",
+        "Resolución Suprema N° 212414 de 21 de abril de 1993"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Artículo 1",
+      "explicacion": "La Resolución Ministerial N° 0864/2019, emitida el 9 de agosto de 2019, aprueba el Protocolo de Prevención, Actuación y Denuncia en Casos de Violencia Física, Psicológica y Sexual."
+    },
+    {
+      "question": "¿Cuál es el objeto principal del Protocolo aprobado por la R.M. N° 0864/2019?",
+      "options": [
+        "Sancionar económicamente a las unidades educativas privadas por faltas leves",
+        "Definir lineamientos, directrices y procedimientos para la prevención, actuación, denuncia y protección a las víctimas en casos de violencia en Unidades Educativas y Centros de Educación Especial",
+        "Regular únicamente el proceso de contratación y ascenso de categoría del personal docente",
+        "Establecer la estructura orgánica de la Dirección Departamental de Educación"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 13",
+      "explicacion": "El objeto del Protocolo es definir lineamientos y procedimientos de prevención, actuación, denuncia y protección de las víctimas frente a actos de violencia cometidos en el ámbito educativo."
+    },
+    {
+      "question": "¿A qué integrantes de la comunidad educativa abarca el ámbito de aplicación del Protocolo como posibles generadores de violencia hacia las y los estudiantes?",
+      "options": [
+        "Únicamente a las y los maestros de aula",
+        "Directoras, directores, maestras, maestros, personal administrativo, madres, padres y/o tutores",
+        "Exclusivamente al personal administrativo y de servicio",
+        "Solamente a personal externo no perteneciente a la comunidad educativa"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 13-14",
+      "explicacion": "El protocolo aplica ante agresiones por parte de cualquier miembro adulto de la comunidad educativa (directores, maestros, administrativos, padres/tutores) hacia estudiantes."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un principio rector bajo el cual se rige el Protocolo de la R.M. N° 0864/2019?",
+      "options": [
+        "El interés superior de la niña, niño y adolescente",
+        "La presunción de culpabilidad automática",
+        "La confidencialidad absoluta que impida realizar la denuncia penal",
+        "La mediación obligatoria entre el agresor sexual y la víctima"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 15",
+      "explicacion": "El interés superior de la niña, niño y adolescente es el primer principio rector establecido en el Protocolo."
+    },
+    {
+      "question": "¿Cuántos principios rectores guía la aplicación del Protocolo de la R.M. N° 0864/2019?",
+      "options": [
+        "5 principios",
+        "8 principios",
+        "10 principios",
+        "12 principios"
+      ],
+      "answer": 2,
+      "fuente": "Aspectos generales del protocolo, pág. 15",
+      "explicacion": "El protocolo enumera 10 principios: Interés superior, Cultura de paz, Lucha contra el racismo/discriminación, Respeto a la identidad e integridad, Prioridad absoluta, Equidad de género, Desarrollo integral, Oportunidad y celeridad, Corresponsabilidad, y Participación."
+    },
+    {
+      "question": "Según la Ley N° 070 (Art. 3, num. 12), citada en la Presentación del Protocolo, la educación es promotora de:",
+      "options": [
+        "La competencia individual y el rendimiento elitista",
+        "La convivencia pacífica y la erradicación de toda forma de violencia en el ámbito educativo",
+        "La sanción penal inmediata sin proceso administrativo previo",
+        "El aislamiento de las familias en las decisiones escolares"
+      ],
+      "answer": 1,
+      "fuente": "Presentación del Protocolo, pág. 9",
+      "explicacion": "La Ley N° 070 establece que la educación promueve la convivencia pacífica para erradicar la violencia y consolidar una cultura de paz."
+    },
+    {
+      "question": "¿Qué principio exige dar preferencia de atención y protección prioritaria a niñas, niños y adolescentes en todo trámite o procedimiento?",
+      "options": [
+        "Prioridad absoluta y atención preferente",
+        "Desarrollo integral",
+        "Autonomía universitaria",
+        "Cultura del silencio"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 15",
+      "explicacion": "El principio de 'Prioridad absoluta y atención preferente' obliga a dar atención primaria y urgente a los derechos de las y los menores de edad."
+    },
+    {
+      "question": "El principio de 'Corresponsabilidad' en el Protocolo implica que la protección y prevención de la violencia es deber de:",
+      "options": [
+        "Exclusivamente la Policía Boliviana y el Ministerio Público",
+        "Todos los miembros de la comunidad educativa (autoridades, maestros, administrativos, padres y estudiantes)",
+        "Únicamente los directores distritales de educación",
+        "Solamente las Defensorías de la Niñez y Adolescencia"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 15",
+      "explicacion": "La corresponsabilidad compromete a toda la comunidad educativa a velar activamente por la seguridad y bienestar de los estudiantes."
+    },
+    {
+      "question": "¿Qué norma abrogó explícitamente la Resolución Ministerial N° 0864/2019?",
+      "options": [
+        "La Resolución Ministerial N° 2412/2017 de 20 de julio de 2017",
+        "La Ley N° 548 - Código Niña, Niño y Adolescente",
+        "El Decreto Supremo N° 1302 de 1 de agosto de 2012",
+        "La Resolución Suprema N° 212414 de 21 de abril de 1993"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Artículo 2",
+      "explicacion": "El Artículo 2 de la R.M. N° 0864/2019 establece expresamente la abrogatoria de la R.M. N° 2412/2017."
+    },
+    {
+      "question": "¿Cuál es el fin último de evitar la 'revictimización' en la aplicación del Protocolo?",
+      "options": [
+        "Impedir que el agresor reciba sanción disciplinaria",
+        "Evitar someter a la víctima a interrogatorios repetitivos, cuestionamientos o tratos que le causen mayor sufrimiento emocional",
+        "Ocultar los casos para no dañar el prestigio de la unidad educativa",
+        "Evitar la participación de la Defensoría de la Niñez"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 14 y 36",
+      "explicacion": "Garantizar la no revictimización implica proteger a la víctima de reiterar su relato o sufrir cuestionamientos y señalamientos indebidos."
+    },
+    {
+      "question": "¿Qué ley de abreviación procesal penal otorgó un plazo de 90 días para la actualización de protocolos de atención con perspectiva sensible no revictimizante?",
+      "options": [
+        "Ley N° 1173 de 8 de mayo de 2019 (Disposición Transitoria Decimoctava)",
+        "Ley N° 348 de 9 de marzo de 2013",
+        "Ley N° 045 de 8 de octubre de 2010",
+        "Ley N° 264 de 31 de julio de 2012"
+      ],
+      "answer": 0,
+      "fuente": "Marco legal y normativo / Vistos y Considerando, pág. 4-5",
+      "explicacion": "La Ley N° 1173 (Disposición Transitoria Decimoctava) dispuso la actualización de protocolos de atención integral sensibles y no revictimizantes."
+    },
+    {
+      "question": "Según el Protocolo, ¿qué es un protocolo de actuación?",
+      "options": [
+        "Un reglamento interno de penalizaciones económicas automáticas",
+        "Un instrumento de actuación que define la ruta y los pasos a seguir ante una situación determinada respondiendo a qué, cómo, dónde, quién y por qué",
+        "Una guía optativa que los directores pueden decidir si aplican o no",
+        "Un manual para la formulación de exámenes pedagógicos trimestrales"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 13",
+      "explicacion": "Un protocolo define la ruta a seguir con base en normas establecidas para orientar la actuación oportuna ante situaciones específicas."
+    },
+    {
+      "question": "El principio de 'Oportunidad y celeridad' exige que los procedimientos de atención de denuncias se caractericen por:",
+      "options": [
+        "Respuestas inmediatas, ágiles y sin dilaciones indebidas",
+        "Lapsos de espera no menores a seis meses antes de tomar medidas",
+        "Trámites burocráticos prolongados en la Dirección Distrital",
+        "La suspensión temporal de la denuncia hasta fin de gestión"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 15",
+      "explicacion": "La celeridad impone actuar de manera pronta, eficaz y sin retrasos que comprometan los derechos de la víctima."
+    },
+    {
+      "question": "¿Qué documento constitutivo debe elaborar cada Unidad Educativa para promover la convivencia pacífica y prevenir la violencia?",
+      "options": [
+        "Plan de Convivencia Armónica y Pacífica",
+        "Reglamento de Faltas y Sanciones del Alumnado",
+        "Manual de Funciones Administrativas de la DDE",
+        "Código Penal Escolar Interno"
+      ],
+      "answer": 0,
+      "fuente": "Parte I y II del Protocolo, pág. 23, 27",
+      "explicacion": "Cada Unidad Educativa debe contar obligatoriamente con un Plan de Convivencia Armónica y Pacífica socializado e implementado."
+    },
+    {
+      "question": "¿En qué norma se sustenta la definición general de violencia hacia la niñez y adolescencia citada en el Protocolo?",
+      "options": [
+        "Ley N° 548 - Código Niña, Niño y Adolescente (Art. 147)",
+        "Ley N° 070 (Art. 80)",
+        "Decreto Supremo N° 23318-A",
+        "Resolución Suprema N° 212414"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 16",
+      "explicacion": "El Protocolo adopta la definición del Art. 147 de la Ley N° 548 (Código Niña, Niño y Adolescente)."
+    },
+    {
+      "question": "Según la Ley N° 548 (Art. 147), ¿qué constituye violencia hacia una niña, niño o adolescente?",
+      "options": [
+        "Toda acción u omisión que ocasione lesiones, daños, sufrimientos, perjuicios en la salud física, mental, afectiva o desarrollo deficiente",
+        "Únicamente las agresiones físicas con armas o heridas de gravedad",
+        "Cualquier llamada de atención verbal efectuada de forma respetuosa por un maestro",
+        "La aplicación estricta de evaluaciones académicas exigentes"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 16",
+      "explicacion": "Violencia es toda acción u omisión que provoque privaciones, lesiones, sufrimiento físico, mental, afectivo, sexual o altere el desarrollo integral."
+    },
+    {
+      "question": "¿Cómo se define la Violencia Psicológica en el Protocolo?",
+      "options": [
+        "Agresión física leve sin dejar moretones o marcas visibles",
+        "Agresión verbal con expresiones descalificadoras, frases humillantes, amenazas, chantaje o aislamiento que desvalorizan y dañan la autoestima o salud mental",
+        "El incumplimiento injustificado en la presentación de la libreta escolar",
+        "La exigencia del uso del uniforme escolar conforme a reglamento"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 16",
+      "explicacion": "La violencia psicológica se ejerce sin contacto físico mediante burlas, insultos, gritos, amenazas, manipulación o discriminación afectando la salud emocional."
+    },
+    {
+      "question": "¿Cuáles son manifestaciones características del maltrato verbal dentro de la violencia psicológica?",
+      "options": [
+        "Felicitaciones públicas por méritos académicos",
+        "Gritos, insultos, groserías, sarcasmos, sobrenombres peyorativos y adjetivos negativos",
+        "Orientaciones pedagógicas individuales en el aula",
+        "Asignación de tareas adicionales acordadas comunitariamente"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 16",
+      "explicacion": "El maltrato verbal incluye gritos, sobrenombres, sarcasmos, comentarios peyorativos y discriminatorios."
+    },
+    {
+      "question": "¿Qué es la Violencia Física según el Protocolo?",
+      "options": [
+        "Toda acción intencional que ocasiona lesiones, daño o sufrimientos físicos (internos o externos) empleando fuerza física, armas u otros medios",
+        "Toda llamada de atención realizada por el director en presencia de los padres",
+        "Cualquier desacuerdo pedagógico entre docentes y estudiantes",
+        "La prohibición de ingresar al aula por impuntualidad"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 17",
+      "explicacion": "La violencia física involucra fuerza intencional, golpes, empujones, quemaduras u objetos que causan daño o lesión corporal."
+    },
+    {
+      "question": "¿En qué artículos del Código Penal y la Ley N° 548 se tipifican y sancionan las lesiones físicas?",
+      "options": [
+        "Código Penal (Art. 270 y ss.) y Ley N° 548",
+        "Código Penal (Art. 100) y Ley N° 070",
+        "Decreto Supremo N° 29894",
+        "Resolución Ministerial N° 01/2019"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 17",
+      "explicacion": "Las lesiones físicas en sus distintos grados están sancionadas por el Código Penal (Art. 270 y ss.) y el Código Niña, Niño y Adolescente."
+    },
+    {
+      "question": "¿Qué es la Violencia por Omisión o Negligencia en el ámbito educativo?",
+      "options": [
+        "Forma pasiva de violencia por descuido u omisión de las obligaciones de atención, cuidado, supervisión y protección de los estudiantes",
+        "Aplicación de exámenes sorpresivos por parte del maestro",
+        "Envío de notificaciones escritas a los padres de familia",
+        "Reestructuración del horario de clases por razones organizativas"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 18",
+      "explicacion": "Es el descuido u omisión en el cumplimiento de deberes de protección, cuidado, alimentación, afecto o supervisión por parte de los adultos."
+    },
+    {
+      "question": "¿Cuál de las siguientes acciones constituye un ejemplo explícito de violencia por omisión o negligencia atribuible a personal educativo?",
+      "options": [
+        "Realizar el seguimiento a estudiantes con necesidades educativas especiales",
+        "Inasistencia e impuntualidad recurrente de los maestros a sus clases dejando desatendidos a los estudiantes",
+        "Organizar ferias de prevención de la violencia en la unidad educativa",
+        "Denunciar un hecho de violencia en menos de 24 horas"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 20-21",
+      "explicacion": "Dejar a las y los estudiantes desatendidos por inasistencia e impuntualidad del docente es una clara muestra de negligencia u omisión."
+    },
+    {
+      "question": "¿Constituye violencia por omisión o negligencia prolongar los periodos de recreo sin vigilancia de los docentes o porteros?",
+      "options": [
+        "No, porque el recreo es un espacio libre donde los adultos no deben intervenir",
+        "Sí, porque la ausencia de supervisión adecuada deja a las y los estudiantes expuestos a situaciones de riesgo o accidentes",
+        "Solo si ocurre en unidades educativas privadas",
+        "Únicamente si la junta escolar lo aprueba mediante acta"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 19-21",
+      "explicacion": "La falta de vigilancia en recreos u horas libres es negligencia ya que vulnera el deber de resguardo de la integridad física y psicológica."
+    },
+    {
+      "question": "Según la definición de UNICEF (2006) y el Art. 148 de la Ley N° 548, ¿qué es la Violencia Sexual infantil?",
+      "options": [
+        "Toda acción que involucre a un menor en actividad sexual o erotizada que por su edad no puede comprender ni consentir libremente",
+        "Toda discusión violenta entre dos estudiantes del mismo curso",
+        "El ausentismo escolar prolongado sin justificación de los padres",
+        "La falta de uniforme en actividades cívicas escolares"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales del protocolo, pág. 22-23",
+      "explicacion": "Involucra cualquier acto de contenido sexual o erotizado hacia una persona menor de edad, aprovechando la asimetría de poder y sin capacidad de consentimiento válido."
+    },
+    {
+      "question": "¿Por qué la violencia sexual contra una niña, niño o adolescente es considerada un hecho de interés público y NO un asunto privado?",
+      "options": [
+        "Porque afecta únicamente la reputación de la unidad educativa",
+        "Porque constituye un delito penal y una vulneración de derechos fundamentales cuyo resguardo es obligación del Estado y la sociedad",
+        "Porque solo se persigue si los padres pagan una fianza previa",
+        "Porque es un tema que debe debatirse en asambleas públicas de padres"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 23",
+      "explicacion": "Todo hecho que atente contra la integridad sexual de la niñez es un delito de orden público y su persecución es prioritaria y obligatoria."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una manifestación directa de violencia sexual descrita en el Protocolo?",
+      "options": [
+        "Llamar la atención por no traer el material de trabajo",
+        "Toqueteos, caricias, manoseos o acercamientos indeseados sobre cualquier parte del cuerpo de la o el estudiante",
+        "Asignar una nota insuficiente en un examen de evaluación",
+        "Cambiar de lugar de asiento a un estudiante en el aula"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 24",
+      "explicacion": "Los toqueteos, caricias o manoseos en cualquier parte del cuerpo (consentidos o no por la víctima) son formas explícitas de violencia sexual."
+    },
+    {
+      "question": "¿Constituye violencia sexual la facilitación, exposición o envío de material pornográfico a estudiantes mediante celulares o redes sociales?",
+      "options": [
+        "No, siempre que se envíe fuera del horario de clases",
+        "Sí, constituye delito y vulneración grave a la integridad sexual",
+        "Solo si los padres presentan una queja formal escrita en la DDE",
+        "Depende de si el estudiante aceptó recibir el archivo"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 25, 37",
+      "explicacion": "Exponer o facilitar pornografía a menores mediante cualquier medio impreso o digital está sancionado penalmente y es violencia sexual."
+    },
+    {
+      "question": "¿Qué es la hipersexualización en el ámbito escolar según las prohibiciones del Protocolo?",
+      "options": [
+        "Incentivar la práctica de deportes colectivos mixtos",
+        "Promover o permitir actividades, vestimentas, bailes o concursos que sexualizan prematuramente a las y los estudiantes",
+        "Impartir talleres de educación integral en sexualidad y autocuidado",
+        "Fomentar el uso de uniformes de educación física"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Prevención, pág. 73",
+      "explicacion": "Está expresamente prohibida cualquier actividad que fomente la hipersexualización de niñas, niños y adolescentes en el entorno educativo."
+    },
+    {
+      "question": "¿Puede existir violencia por omisión si un docente presencia una agresión a un estudiante y decide no intervenir ni reportarla?",
+      "options": [
+        "No, el docente solo responde por sus propias acciones pedagógicas",
+        "Sí, la omisión de denuncia o la inacción ante un hecho violento detectado vulnera el deber de protección y es sancionable",
+        "Depende de si el hecho ocurrió durante el recreo o en la clase",
+        "Solo si la víctima es de nivel inicial"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 19-20, 107",
+      "explicacion": "No reportar o no intervenir ante hechos de violencia constituye incumplimiento de deberes y omisión de denuncia sancionada por ley."
+    },
+    {
+      "question": "En la violencia psicológica, ¿cuál es el impacto principal en la víctima?",
+      "options": [
+        "Fracturas óseas y quemaduras visibles",
+        "Desvalorización, menoscabo de la autoestima, ansiedad y afectación al desarrollo emocional y mental",
+        "Sanción administrativa automática en el sistema RDA",
+        "Inhabilitación de la unidad educativa para funcionar"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales del protocolo, pág. 16",
+      "explicacion": "Mena la autoestima, genera inseguridad, desajuste emocional y aislamiento, afectando la salud mental del estudiante."
+    },
+    {
+      "question": "Según el Código Penal (Art. 308) y la Ley N° 348, ¿cuál es la pena privativa de libertad para el delito de Violación?",
+      "options": [
+        "1 a 3 años",
+        "5 a 10 años",
+        "15 a 20 años",
+        "30 años sin derecho a indulto"
+      ],
+      "answer": 2,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 27",
+      "explicacion": "El delito de Violación se sanciona con privación de libertad de 15 a 20 años."
+    },
+    {
+      "question": "¿Qué pena se aplica para la Violación cometida contra una persona menor de 14 años (Violación de infante, niña, niño o adolescente - Art. 308 bis)?",
+      "options": [
+        "10 a 15 años",
+        "20 a 25 años",
+        "5 a 8 años",
+        "8 a 12 años"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 28",
+      "explicacion": "Si la víctima es menor de 14 años, la sanción es de 20 a 25 años de privación de libertad, sin importar si se alega consentimiento."
+    },
+    {
+      "question": "En el delito de Violación de menor de 14 años, si concurren agravantes dispuestas en el Art. 310 y la pena alcanza los 30 años, esta se aplicará:",
+      "options": [
+        "Con perdón judicial a los 5 años",
+        "Sin derecho a indulto",
+        "Sustituyéndose por trabajo comunitario",
+        "Solo si no hay antecedentes penales previos"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 28",
+      "explicacion": "Con agravantes máximas, la pena por violación de menor alcanza 30 años de prisión sin derecho a indulto."
+    },
+    {
+      "question": "¿Cómo sanciona el Código Penal (Art. 312 quater) el Acoso Sexual ejercido por un servidor público valiéndose de su posición jerárquica?",
+      "options": [
+        "Únicamente con una llamada de atención verbal",
+        "Destitución de su cargo y pena de prisión de 4 a 8 años agravada en un tercio",
+        "Traslado a otra unidad educativa lejana",
+        "Multa equivalente a un salario mínimo"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 29",
+      "explicacion": "El acoso sexual tiene pena de 4 a 8 años; si lo ejerce un servidor público, se impone la destitución y la pena se agrava en un tercio."
+    },
+    {
+      "question": "¿En qué consiste el delito de Estupro (Art. 309, Código Penal)?",
+      "options": [
+        "Tener acceso carnal mediante seducción o engaño con persona mayor de 14 y menor de 18 años",
+        "Realizar toqueteos a mayores de 18 años con su consentimiento",
+        "Faltar el respeto verbalmente a un maestro de aula",
+        "Publicar fotografías escolares en periódicos locales sin permiso"
+      ],
+      "answer": 0,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 30",
+      "explicacion": "El estupro es el acceso carnal mediante seducción o engaño a personas entre 14 y 18 años, sancionado con 3 a 6 años de cárcel."
+    },
+    {
+      "question": "¿De cuánto es el incremento en la pena de prisión cuando concurre alguna de las Agravantes del Art. 310 del Código Penal en delitos sexuales?",
+      "options": [
+        "Se incrementa en 1 año",
+        "Se agrava en cinco (5) años",
+        "Se reduce a la mitad por colaboración",
+        "No hay incremento si el autor se arrepiente"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 31",
+      "explicacion": "Las agravantes del Art. 310 del Código Penal incrementan la pena privativa de libertad en 5 años."
+    },
+    {
+      "question": "¿Cuál de las siguientes situaciones constituye una Agravante de delitos sexuales contemplada en el Art. 310 del Código Penal?",
+      "options": [
+        "Si el autor estuviera encargado de la educación de la víctima o esta se encontrara en situación de dependencia",
+        "Si el hecho ocurrió durante el periodo de vacaciones escolares",
+        "Si la víctima era alumna destacada con buenas calificaciones",
+        "Si la unidad educativa es de convenio o privada"
+      ],
+      "answer": 0,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 32",
+      "explicacion": "Ser encargado de la educación de la víctima o tenerla bajo dependencia es una agravante específica del Art. 310, inc. g)."
+    },
+    {
+      "question": "¿Cuál es la pena para el delito de Abuso Sexual (Art. 312, Código Penal) cuando la víctima es una niña, niño o adolescente?",
+      "options": [
+        "1 a 3 años de prisión",
+        "10 a 15 años de privación de libertad",
+        "2 a 4 años con trabajo comunitario",
+        "30 años de presidio"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 33",
+      "explicacion": "El abuso sexual (actos sexuales sin penetración) se sanciona con 10 a 15 años de prisión si la víctima es niña, niño o adolescente."
+    },
+    {
+      "question": "¿Qué sanción establece el Art. 281 del Código Penal para el delito de Trata de Personas?",
+      "options": [
+        "5 a 8 años",
+        "10 a 15 años de privación de libertad",
+        "15 a 20 años",
+        "2 a 5 años"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 34-35",
+      "explicacion": "La Trata de personas se sanciona con 10 a 15 años de privación de libertad."
+    },
+    {
+      "question": "¿En qué consiste el delito de Pornografía (Art. 323 bis, Código Penal) y cómo se agrava si la víctima es menor de edad?",
+      "options": [
+        "Grabar o difundir material erótico con menores; la pena se agrava en un tercio",
+        "Publicar notas de exámenes en paneles escolares; se sanciona con suspensión",
+        "Vender uniformes escolares no autorizados; se sanciona con multa",
+        "Fotografiar desfiles patrios; no tiene sanción"
+      ],
+      "answer": 0,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 37-38",
+      "explicacion": "Involucrar a menores en grabaciones/fotos de contenido sexual o difundirlas tiene pena de 10 a 15 años, agravada en un tercio si la víctima es menor."
+    },
+    {
+      "question": "¿Cuál es la sanción penal para el delito de Infanticidio (Art. 258, Código Penal)?",
+      "options": [
+        "15 a 20 años de prisión",
+        "30 años de presidio sin derecho a indulto",
+        "20 a 25 años con beneficio de fianza",
+        "10 a 15 años"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 37",
+      "explicacion": "El infanticidio (matar a un niño/a desde su nacimiento hasta los 12 años) se sanciona con 30 años de prisión sin derecho a indulto."
+    },
+    {
+      "question": "¿Qué establece el Código Penal sobre el Proxenetismo cuando afecta a menores de edad?",
+      "options": [
+        "Promover o facilitar la prostitución mediante abuso de poder o vulnerabilidad se sanciona con 10 a 15 años de prisión",
+        "Es un delito menor excarcelable con fianza",
+        "Solo es sancionado si ocurre dentro del aula",
+        "Requiere la denuncia previa del director departamental"
+      ],
+      "answer": 0,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 35-36",
+      "explicacion": "El proxenetismo que induce o explota la prostitución se sanciona severamente con 10 a 15 años de privación de libertad."
+    },
+    {
+      "question": "Si como consecuencia de una agresión sexual la víctima resulta embarazada o fallece, ¿qué pena corresponde?",
+      "options": [
+        "Se mantiene la pena básica de 15 años",
+        "Se aplican las penas de la agravante o las correspondientes a feminicidio o asesinato",
+        "Se otorga libertad condicional al autor",
+        "Se aplica una amonestación administrativa disciplinaria"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 32",
+      "explicacion": "Si causa la muerte, se aplica la pena de feminicidio o asesinato (30 años sin indulto); el embarazo es agravante del Art. 310."
+    },
+    {
+      "question": "¿El consentimiento de la víctima menor de 14 años exime de responsabilidad penal al agresor en delitos sexuales?",
+      "options": [
+        "Sí, si existe una carta firmada por la víctima",
+        "No, no se admite alegación de consentimiento en menores de 14 años",
+        "Sí, si los padres le otorgan autorización por escrito",
+        "Depende del grado escolar que curse la víctima"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 28",
+      "explicacion": "En menores de 14 años la ley no reconoce capacidad de consentimiento; la acción es delito absoluto en todos los casos."
+    },
+    {
+      "question": "¿Cuál es la pena privativa de libertad para el delito de Tráfico de Personas (Art. 321 bis, Código Penal)?",
+      "options": [
+        "1 a 3 años",
+        "5 a 10 años de privación de libertad",
+        "15 a 20 años",
+        "30 años"
+      ],
+      "answer": 1,
+      "fuente": "Delitos contra la libertad e integridad sexual, pág. 36",
+      "explicacion": "El tráfico de personas (facilitación de entrada/salida ilegal de personas para lucro) tiene pena de 5 a 10 años."
+    },
+    {
+      "question": "¿Cuáles son algunas consecuencias emocionales a CORTO PLAZO en una víctima de violencia?",
+      "options": [
+        "Depresión crónica y prostitución",
+        "Sentimientos de tristeza, desamparo, irritabilidad, vergüenza, culpa y ansiedad",
+        "Inadaptación social y autolesiones irreversibles",
+        "Repetición consecutiva de tres años escolares"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales - Consecuencias, pág. 40",
+      "explicacion": "Las reacciones iniciales incluyen tristeza, desamparo, cambios bruscos de ánimo, timidez, culpa, ansiedad e hiperactividad."
+    },
+    {
+      "question": "¿Qué consecuencia COGNITIVA se manifiesta a corto plazo en estudiantes víctimas de violencia?",
+      "options": [
+        "Baja en rendimiento escolar, disminución de atención/concentración y desmotivación",
+        "Fugas recurrentes del hogar",
+        "Disfunciones sexuales en la edad adulta",
+        "Pérdida de la memoria a largo plazo irreparable"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales - Consecuencias, pág. 40-41",
+      "explicacion": "A corto plazo se observa caída en el rendimiento escolar, desinterés por tareas y pérdida de concentración."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un indicador CONDUCTUAL a MEDIANO PLAZO provocado por situaciones de violencia no atendidas?",
+      "options": [
+        "Fugas del hogar, deserción escolar, consumo de alcohol/drogas e insertamiento en conductas de riesgo",
+        "Pérdida temporal de un lápiz escolar",
+        "Petición de cambio de aula de forma respetuosa",
+        "Participación activa en brigadas escolares"
+      ],
+      "answer": 0,
+      "fuente": "Aspectos generales - Consecuencias, pág. 42",
+      "explicacion": "A mediano plazo surgen conductas de huida, abandono escolar, consumo de sustancias y problemas de comportamiento."
+    },
+    {
+      "question": "¿Cuáles son consecuencias a LARGO PLAZO derivadas de la violencia sexual en la infancia si no se recibe atención adecuada?",
+      "options": [
+        "Aumento inmediato de la concentración académica",
+        "Disfunciones sexuales, depresión profunda, baja autoestima, conductas autodestructivas o suicidio",
+        "Obtención de becas de excelencia académica",
+        "Especialización en mediación comunitaria"
+      ],
+      "answer": 1,
+      "fuente": "Aspectos generales - Consecuencias, pág. 43-44",
+      "explicacion": "La violencia sexual no tratada deja secuelas profundas a largo plazo como depresión, estigmatización, adicciones, autolesiones y suicidio."
+    },
+    {
+      "question": "¿Qué indicador físico puede alertar sobre una posible agresión física en una estudiante?",
+      "options": [
+        "Entrega puntual de cuadernos de deberes",
+        "Moretones, contusiones, quemaduras o uso de vestimenta inadecuada para el clima (para ocultar lesiones)",
+        "Uso del uniforme deportivo en días autorizados",
+        "Peinado ordenado conforme a normas de convivencia"
+      ],
+      "answer": 1,
+      "fuente": "Detección y Tabla de Indicadores, pág. 91",
+      "explicacion": "Moretones, marcas indelebles, laceraciones o ropa abrigada e inusual para ocultar heridas son indicadores físicos clave."
+    },
+    {
+      "question": "¿Qué indicadores físicos o médicos específicos hacen presumir la existencia de violencia sexual en niñas o niños?",
+      "options": [
+        "Excelente coordinación motora en deportes",
+        "Sangrado en genitales externos, dificultad al caminar o sentarse y embarazo adolescente",
+        "Cansancio leve tras la clase de educación física",
+        "Aumento de peso saludable acorde a la edad"
+      ],
+      "answer": 1,
+      "fuente": "Detección y Tabla de Indicadores, pág. 91",
+      "explicacion": "Lesiones o dolor genital, sangrado, molestias al sentarse/caminar o embarazo son signos físicos de agresión sexual."
+    },
+    {
+      "question": "¿Cuáles son manifestaciones de retroceso conductual (regresión) en niños pequeños víctimas de trauma por violencia?",
+      "options": [
+        "Comportamiento de autonomía precoz",
+        "Orinarse en la cama (enuresis secundaria) o chuparse el dedo",
+        "Liderazgo en debates escolares de aula",
+        "Uso de vocabulario científico avanzado"
+      ],
+      "answer": 1,
+      "fuente": "Detección y Tabla de Indicadores, pág. 91",
+      "explicacion": "Las regresiones conductuales incluyen pérdida del control de esfínteres, conductas infantiles superadas y apego ansioso."
+    },
+    {
+      "question": "Si un estudiante demuestra temor extremo o rechazo repentino a quedarse a solas con un adulto específico de la unidad educativa, se debe:",
+      "options": [
+        "Obligar al estudiante a permanecer a solas para vencer el miedo",
+        "Estar alerta e investigar de inmediato la causa protegiendo al estudiante sin revictimizarlo",
+        "Ignorar el hecho considerando que es una simple falta de respeto",
+        "Sancionar al estudiante con nota de demérito en disciplina"
+      ],
+      "answer": 1,
+      "fuente": "Detección, pág. 94-96",
+      "explicacion": "El temor o rechazo repentino a un adulto es un indicador conductual de alarma que exige indagación cuidadosa y protección."
+    },
+    {
+      "question": "¿Por qué es fundamental CREER en el relato de una niña, niño o adolescente que manifiesta haber sido víctima de violencia sexual?",
+      "options": [
+        "Porque los niños raramente inventan relatos de abuso sexual y cuestionarlos causa daño emocional y silencio",
+        "Porque así lo exige el estatuto de la junta de padres de familia",
+        "Para acelerar el cobro de indemnizaciones monetarias",
+        "Porque evita la realización de informes técnicos legalizados"
+      ],
+      "answer": 0,
+      "fuente": "Detección e Intervención, pág. 45, 99",
+      "explicacion": "El Protocolo enfatiza validar y creer el relato infantil; dudar o culpar a la víctima genera desamparo y encubre al agresor."
+    },
+    {
+      "question": "¿Qué síntoma psicosomático recurrente puede manifestarse en estudiantes antes de retornar a la unidad educativa si sufren acoso o violencia?",
+      "options": [
+        "Aumento de energía para realizar tareas pedagógicas",
+        "Dolores de cabeza, náuseas, desmayos o dolores abdominales frecuentes los días previos o mañanas de clase",
+        "Mejora notable del apetito en el almuerzo escolar",
+        "Risas ininterrumpidas durante las horas de descanso"
+      ],
+      "answer": 1,
+      "fuente": "Detección e Indicadores, pág. 91-94",
+      "explicacion": "Las somatizaciones (cefaleas, vómitos, mareos) antes de ir a la escuela expresan ansiedad y temor frente al entorno escolar."
+    },
+    {
+      "question": "¿Cuál es una función específica del Ministerio de Educación a través de los Abogados Defensores en casos de violencia sexual?",
+      "options": [
+        "Denunciar ante el Ministerio Público o adherirse a los procesos penales seguidos contra personal del SEP e impulsar el proceso hasta la sentencia",
+        "Absolver de responsabilidad a los docentes sin investigación",
+        "Sustituir a los jueces de la niñez en la emisión de sentencias",
+        "Cerrar la unidad educativa donde ocurrió el hecho"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: Ministerio de Educación, pág. 48-50",
+      "explicacion": "Los Abogados Defensores del Ministerio de Educación tienen el mandato de denunciar, adherirse y hacer seguimiento riguroso a los procesos penales."
+    },
+    {
+      "question": "¿En qué plazo máximo un Abogado Defensor del Ministerio de Educación debe denunciar nuevos hechos de violencia sexual conocidos?",
+      "options": [
+        "Plazo máximo de 48 horas (y formalizar querella a las siguientes 72 horas)",
+        "En un plazo de 30 días hábiles",
+        "Al finalizar el trimestre escolar",
+        "No tiene plazo determinado"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: Ministerio de Educación, pág. 50",
+      "explicacion": "Debe presentar la denuncia ante autoridad competente en máximo 48 horas y formalizar querella dentro de las siguientes 72 horas."
+    },
+    {
+      "question": "¿Qué acción debe realizar el Abogado Defensor una vez obtenida la Imputación Formal emitida por el Fiscal?",
+      "options": [
+        "Remitir copia legalizada a la DDE y a la UGPSEP para aplicar la suspensión preventiva sin goce de haberes (DS 1302/1320)",
+        "Archivar el expediente en la dirección de la unidad educativa",
+        "Otorgar vacaciones pagadas al imputado",
+        "Solicitar la anulación del proceso disciplinario"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: Ministerio de Educación, pág. 50",
+      "explicacion": "La imputación formal permite aplicar la medida cautelar de suspensión de funciones sin goce de haberes mediante registro de rótulo observado."
+    },
+    {
+      "question": "¿Cuál es una responsabilidad de la Directora o Director Departamental de Educación (DDE) respecto a la prevención de la violencia?",
+      "options": [
+        "Garantizar que todas las Unidades Educativas y CEE cuenten con un Plan de Convivencia Armónica y Pacífica",
+        "Impartir clases directas en las aulas de nivel primario",
+        "Aprobar cobros extraordinarios a las familias",
+        "Contratar personal sin registro en el RDA"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: Director Departamental, pág. 53",
+      "explicacion": "La DDE debe velar porque cada centro educativo cuente con su Plan de Convivencia e implementar políticas de prevención."
+    },
+    {
+      "question": "¿Qué función le corresponde al Director Distrital de Educación ante la presencia de una falta grave o delito cometido por personal docente/administrativo?",
+      "options": [
+        "Iniciar el proceso disciplinario administrativo hasta su culminación y dar parte a la DDE y autoridades competentes",
+        "Ocultar la denuncia para evitar conflictos con el sindicato",
+        "Conceder permiso de salida al denunciado sin investigar",
+        "Transferir de inmediato a la víctima a otro distrito escolar"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: Director Distrital, pág. 59",
+      "explicacion": "El Director Distrital instruye el inicio del proceso disciplinario administrativo conforme al Reglamento de Faltas y Sanciones y comunica a la DDE."
+    },
+    {
+      "question": "¿Qué institución especializada depende del SEDEGES para la atención y proceso de recuperación terapéutica de víctimas de violencia sexual?",
+      "options": [
+        "CEPAT (Centro Especializado de Prevención y Atención Terapéutica)",
+        "FELCC (Fuerza Especial de Lucha Contra el Crimen)",
+        "DNA (Defensoría del Pueblo)",
+        "RDA (Registro Docente Administrativo)"
+      ],
+      "answer": 0,
+      "fuente": "Parte I y III: pág. 55, 58, 114",
+      "explicacion": "El CEPAT es la instancia especializada del SEDEGES/SEDEPOS destinada a la atención psicológica y recuperación terapéutica sostenida de las víctimas."
+    },
+    {
+      "question": "¿Cada cuánto tiempo deben los Abogados Defensores presentar informes detallados sobre los procesos penales a la Unidad de Gestión Jurídica del Ministerio?",
+      "options": [
+        "Cada 30 de mes",
+        "Anualmente en la rendición de cuentas",
+        "Cada 5 años",
+        "Únicamente cuando el proceso concluya"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: pág. 51",
+      "explicacion": "Deben remitir un informe detallado y documentado cada 30 de mes a la Unidad de Gestión Jurídica del Ministerio de Educación."
+    },
+    {
+      "question": "¿Qué obligación tiene la DDE cuando toma conocimiento de una acusación formal o querella por delitos sexuales cometidos por un educador?",
+      "options": [
+        "Proseguir las acciones penales hasta su conclusión e informar a la UGPSEP",
+        "Esperar a que la junta escolar resuelva el conflicto de forma interna",
+        "Autorizar la renuncia voluntaria del docente para cerrar el caso",
+        "Otorgar cambio de rubro al procesado en oficinas centrales"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: pág. 52, 118-119",
+      "explicacion": "La DDE debe promover y coadyuvar la acción penal hasta la sentencia ejecutoriada sin interrumpir el proceso administrativo."
+    },
+    {
+      "question": "¿Con qué frecuencia deben consolidarse los datos de casos de violencia detectados en las unidades educativas para formular políticas públicas de prevención?",
+      "options": [
+        "Consolidación anualmente",
+        "Cada dos semanas",
+        "Únicamente cada cambio de gobierno",
+        "No se consolidan datos estadísticos"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: Ministerio de Educación, pág. 48",
+      "explicacion": "El Ministerio de Educación consolida anualmente la información remiida por las DDEs para diseñar políticas de prevención."
+    },
+    {
+      "question": "¿A qué autoridades locales se acude para coordinar acciones de protección a la niñez en cada municipio?",
+      "options": [
+        "Defensorías de la Niñez y Adolescencia (DNA) de los Gobiernos Autónomos Municipales",
+        "Juntas vecinales de comerciantes",
+        "Empresas privadas de seguridad",
+        "Comités electorales locales"
+      ],
+      "answer": 0,
+      "fuente": "Parte I: pág. 58",
+      "explicacion": "Las DNA municipales son las instancias rectoras locales para la protección, restitución de derechos y recepción de denuncias."
+    },
+    {
+      "question": "¿Puede una autoridad educativa archivar una denuncia por violencia sexual si el denunciado promete no volver a hacerlo?",
+      "options": [
+        "Sí, si existe un acuerdo escrito entre el director y el docente",
+        "No, bajo ninguna circunstancia; es un delito de acción pública obligatoria de denunciar en máximo 24 horas",
+        "Sí, si el estudiante otorga su perdón en presencia del consejo docente",
+        "Solo si se trata de un colegio privado"
+      ],
+      "answer": 1,
+      "fuente": "Denuncia y Normativa Penal, pág. 107",
+      "explicacion": "Los delitos sexuales no son transigibles ni negociables; ocultar o archivar una denuncia constituye complicidad e incumplimiento de deberes."
+    },
+    {
+      "question": "¿Qué norma reglamenta la estructura, composición y funciones de las Direcciones Departamentales de Educación (DDE)?",
+      "options": [
+        "Decreto Supremo N° 0813 de 9 de marzo de 2011",
+        "Ley N° 348",
+        "Resolución Ministerial N° 0864/2019",
+        "Código de Procedimiento Penal"
+      ],
+      "answer": 0,
+      "fuente": "Marco legal, pág. 12",
+      "explicacion": "El Decreto Supremo N° 0813 reglamenta la estructura y atribuciones de las Direcciones Departamentales de Educación."
+    },
+    {
+      "question": "¿Qué instrumento se utiliza para la derivación o referencia oficial de casos de violencia a instancias externas (DNA, Salud, Ministerio Público)?",
+      "options": [
+        "Formulario de Derivación (Referencia) - ANEXO 2",
+        "Libro de filiación del RDA",
+        "Boletín de calificaciones trimestral",
+        "Kardex personal del docente"
+      ],
+      "answer": 0,
+      "fuente": "Anexos del Protocolo, pág. 147-148",
+      "explicacion": "El ANEXO 2 del Protocolo es el Formulario oficial de Derivación (Referencia) para remitir casos a instituciones externas."
+    },
+    {
+      "question": "¿Está permitido que un docente o administrativo permanezca A SOLAS con un estudiante en un aula u otro ambiente cerrado?",
+      "options": [
+        "Sí, siempre que sea para nivelación académica",
+        "No, está estrictamente prohibido permanecer a solas con un estudiante en aulas u otros ambientes",
+        "Sí, durante los periodos de recreo",
+        "Solo si el docente es del mismo sexo que el estudiante"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Prevención - Maestras y Maestros, pág. 75, 82",
+      "explicacion": "Está explícitamente prohibido que docentes o administrativos se queden a solas con un estudiante en aulas u oficinas."
+    },
+    {
+      "question": "¿Qué regulación establece el Protocolo sobre la comunicación por teléfono o redes sociales entre docentes y estudiantes de manera individual?",
+      "options": [
+        "Está totalmente permitida a cualquier hora",
+        "Está prohibida la comunicación individual; en caso necesario se realiza vía padres y/o Dirección de la Unidad Educativa",
+        "Solo se permite en horarios nocturnos",
+        "Está permitida si el estudiante otorga su número telefónico"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Prevención, pág. 71, 82",
+      "explicacion": "Se prohíben las llamadas o mensajes privados individuales entre docentes y estudiantes. Toda comunicación pedagógica debe ser grupal o por medio de los tutores."
+    },
+    {
+      "question": "¿Se puede restringir o prohibir el ingreso a la unidad educativa o al aula a un estudiante por llegar con retraso?",
+      "options": [
+        "Sí, para enseñar disciplina estricta",
+        "No, bajo ningún motivo está permitido dejar fuera a un estudiante o restringir su ingreso a la UE o aula",
+        "Sí, si es reincidente por más de tres veces",
+        "Depende de la decisión unilateral del portero"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Prevención, pág. 71, 77",
+      "explicacion": "Queda prohibido dejar fuera de la escuela a los estudiantes por llegar tarde, ya que esto los expone a peligros e inseguridad en la vía pública."
+    },
+    {
+      "question": "¿Dónde deben realizarse las actividades escolares programadas por los docentes con los estudiantes?",
+      "options": [
+        "En los domicilios particulares de los maestros",
+        "Dentro de los predios de las unidades educativas o CEE y en horarios de la jornada educativa",
+        "En locales comerciales o de recreación nocturna",
+        "En casas de los estudiantes sin supervisión de padres"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Prevención - Directores y Maestros, pág. 68, 83",
+      "explicacion": "Todas las actividades pedagógicas deben realizarse dentro del establecimiento educativo y en horario escolar oficial."
+    },
+    {
+      "question": "¿Qué función específica le corresponde a la portera o portero para precautelar la seguridad en el establecimiento?",
+      "options": [
+        "Permanecer al cuidado continuo de la puerta de ingreso/salida y controlar que no ingresen personas ajenas sin autorización",
+        "Delegar la puerta a los estudiantes para atender asuntos personales",
+        "Permitir el ingreso libre de vendedores ambulantes a los pasillos",
+        "Revisar el contenido de los teléfonos celulares de los estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Parte II: Personal administrativo, pág. 77-78",
+      "explicacion": "Los porteros deben vigilar permanentemente las puertas, controlar accesos y no delegar sus funciones a terceros ni recibir visitas no autorizadas."
+    },
+    {
+      "question": "¿Tienen permitido los visitantes autorizados por Dirección transitar libremente por baños, pasillos o aulas sin acompañamiento?",
+      "options": [
+        "Sí, pueden circular por todo el establecimiento",
+        "No, se debe controlar que no ingresen a baños, aulas o espacios privados de los estudiantes",
+        "Solo si son exalumnos de la institución",
+        "Depende de si traen donaciones para el colegio"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Personal administrativo, pág. 78",
+      "explicacion": "El personal debe vigilar que las visitas autorizadas no accedan a áreas íntimas como baños, vestidores o aulas vacías."
+    },
+    {
+      "question": "¿Cuál es una obligación de las y los maestros para la prevención de la violencia en el aula?",
+      "options": [
+        "Articular contenidos de prevención de violencia, desarrollo del cuerpo, respeto y derechos en sus programas de estudio",
+        "Sancionar las faltas disciplinarias mediante castigos físicos leves",
+        "Ignorar las discusiones menores entre estudiantes en el aula",
+        "Imponer lecturas obligatorias fuera del horario escolar"
+      ],
+      "answer": 0,
+      "fuente": "Parte II: Maestras y Maestros, pág. 80",
+      "explicacion": "Los maestros deben integrar transversalmente temas de autocuidado, valores, convivencia pacífica y prevención en su planificación curricular."
+    },
+    {
+      "question": "¿Cómo debe actuar un docente cuando presencia un conflicto o agresión entre estudiantes?",
+      "options": [
+        "Ser un observador pasivo y esperar a que los estudiantes lo resuelvan solos",
+        "Intervenir de manera inmediata para detener la agresión y proponer la resolución pacífica del conflicto",
+        "Grabar el hecho con su teléfono móvil para difundirlo",
+        "Expulsar definitivamente a ambos estudiantes del establecimiento"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Maestras y Maestros, pág. 82",
+      "explicacion": "El docente no puede ser observador pasivo; debe frenar de inmediato la violencia y aplicar metodologías de cultura de paz."
+    },
+    {
+      "question": "¿Qué responsabilidad tienen las madres, padres y/o tutores en la prevención de la violencia en el marco del Protocolo?",
+      "options": [
+        "Promover el diálogo familiar, coadyuvar en el control de ingreso/salida y participar en la elaboración del Plan de Convivencia",
+        "Exigir el castigo físico de sus hijos en la escuela",
+        "Sancionar económicamente a los docentes que aplican evaluaciones",
+        "Delegar toda la crianza de los hijos a la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "Parte II: Madres, padres y tutores, pág. 84-85",
+      "explicacion": "Los padres son corresponsables en fomentar el buen trato, supervisar las actividades y apoyar las normas de convivencia armónica."
+    },
+    {
+      "question": "¿Cuál es un deber central de las y los estudiantes establecido en el Protocolo?",
+      "options": [
+        "Respetar la integridad física, psicológica y sexual de sus pares, docentes y administrativos, y comunicar cualquier hecho de violencia",
+        "Organizar grupos de vigilancia sin supervisión de adultos",
+        "Aceptar castigos físicos de sus compañeros mayores",
+        "Guardar silencio ante actos de acoso escolar"
+      ],
+      "answer": 0,
+      "fuente": "Parte II: Estudiantes, pág. 86-88",
+      "explicacion": "Los estudiantes deben respetar a todos los miembros de la comunidad educativa, cuidar su cuerpo y denunciar actos violentos."
+    },
+    {
+      "question": "¿Pueden los trabajos prácticos grupales realizarse en casas particulares sin el consentimiento expreso de los padres y tutores?",
+      "options": [
+        "Sí, es decisión libre de los estudiantes",
+        "No, los trabajos que requieran apoyo extra-aula deben ser preferentemente grupales y contar con la autorización de los padres",
+        "Solo si se realizan en fines de semana",
+        "Sí, siempre que el maestro asista a la casa"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Maestras y Maestros, pág. 83",
+      "explicacion": "Se requiere consentimiento paterno para actividades fuera del aula y está prohibido citar estudiantes a casas de maestros."
+    },
+    {
+      "question": "¿Qué medida debe tomar la Dirección para mejorar la seguridad física en los predios escolares?",
+      "options": [
+        "Identificar puntos ciegos o inseguros y gestionar cámaras de seguridad, iluminación y vigilancia en baños y canchas",
+        "Cerrar los baños durante todo el periodo de clases",
+        "Prohibir el uso de las canchas deportivas",
+        "Eliminar el horario de recreo"
+      ],
+      "answer": 0,
+      "fuente": "Parte II: Director de UE, pág. 67",
+      "explicacion": "El director debe supervisar y habilitar espacios seguros, iluminar áreas oscuras y garantizar vigilancia en zonas de riesgo (baños, patios)."
+    },
+    {
+      "question": "¿Quién aprueba y autoriza la creación de grupos de comunicación digital (WhatsApp, Facebook) con fines estrictamente pedagógicos?",
+      "options": [
+        "Cada estudiante de manera independiente",
+        "La Dirección de la Unidad Educativa con conocimiento y representación de los padres de familia",
+        "El sindicato de profesores",
+        "No se requiere autorización alguna"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Director de UE, pág. 70",
+      "explicacion": "Los grupos institucionales deben estar autorizados por la Dirección y contar con la participación/conocimiento de las familias."
+    },
+    {
+      "question": "Si se requiere dialogar individualmente con un estudiante por un asunto pedagógico o de conducta, ¿qué procedimiento debe seguir el docente?",
+      "options": [
+        "Citar al estudiante a solas en su vehículo particular",
+        "Informar al Director para convocar a la madre, padre o tutor y realizar la reunión en presencia de ellos",
+        "Cerrar el aula con llave para que nadie interrumpa",
+        "Esperar a la salida del colegio fuera del establecimiento"
+      ],
+      "answer": 1,
+      "fuente": "Parte II: Maestras y Maestros, pág. 81",
+      "explicacion": "Toda entrevista individual debe canalizarse por Dirección y contar con la presencia de los padres o tutores legales."
+    },
+    {
+      "question": "¿Cuáles son los 4 pasos secuenciales de la actuación ante un caso de violencia en el ámbito educativo?",
+      "options": [
+        "Juicio oral, condena, apelación y despido",
+        "Detección, Intervención, Contención y Denuncia/Derivación",
+        "Amonestación verbal, multa, suspensión y expulsión",
+        "Mediación, perdón, reconciliación y archivo"
+      ],
+      "answer": 1,
+      "fuente": "Parte III: Actuación, pág. 90-108",
+      "explicacion": "El protocolo articula la actuación en 4 pilares: Detección oportuna, Intervención cuidadosa, Contención emocional y Denuncia/Derivación formal."
+    },
+    {
+      "question": "¿En qué consiste la 'Escucha Activa' durante el relato de una víctima de violencia?",
+      "options": [
+        "Escuchar con atención respetuosa sin interrumpir, sin emitir juicios de valor ni cuestionar la veracidad de los hechos",
+        "Interrogar exhaustivamente a la víctima pidiéndole detalles morbosos",
+        "Aconsejar a la víctima que no le cuente a sus padres",
+        "Tomar fotos a la víctima mientras relata el hecho"
+      ],
+      "answer": 0,
+      "fuente": "Parte III: Intervención y Contención, pág. 100, 103",
+      "explicacion": "La escucha activa brinda contención emocional, acogida y confianza sin presionar ni interrogar con preguntas innecesarias."
+    },
+    {
+      "question": "En casos de violencia sexual, ¿quiénes son las personas capacitadas que deben realizar el proceso de contención emocional especializada?",
+      "options": [
+        "Cualquier compañero de curso elegido al azar",
+        "El personal especializado de la Defensoría de la Niñez y Adolescencia (DNA) o SLIM",
+        "El personal de limpieza del establecimiento",
+        "Comerciantes de los alrededores del colegio"
+      ],
+      "answer": 1,
+      "fuente": "Parte III: Contención, pág. 102, 105",
+      "explicacion": "Ante violencia sexual, la contención especializada la realiza el equipo multidisciplinario de la DNA/SLIM para evitar traumas."
+    },
+    {
+      "question": "¿Qué está expresamente PROHIBIDO hacer al brindar contención a una niña, niño o adolescente víctima de violencia?",
+      "options": [
+        "Expresar apoyo verbal y garantizar su protección",
+        "Emitir juicios de valor, dudar de su palabra, culpar a la víctima o realizarle preguntas indagatorias/revictimizantes",
+        "Avanzar en el llenado del informe en el Anexo 1",
+        "Comunicar la situación a la DNA"
+      ],
+      "answer": 1,
+      "fuente": "Parte III: Contención, pág. 103-104",
+      "explicacion": "Queda prohibido juzgar, dudar, culpar, hacer promesas falsas o forzar al menor a repetir detalles del trauma."
+    },
+    {
+      "question": "¿Qué documento debe llenar el Director o persona que detecta la violencia para registrar objetivamente el caso dentro de la UE?",
+      "options": [
+        "Informe de Situación - ANEXO 1",
+        "Carta de despido automático",
+        "Formulario de filiación del sindicato",
+        "Solicitud de cambio de turno"
+      ],
+      "answer": 0,
+      "fuente": "Parte III: Intervención / ANEXO 1, pág. 101, 145",
+      "explicacion": "Se elabora el Informe de Situación (ANEXO 1) con datos descriptivos del hecho sin juicios de valor ni revictimización."
+    },
+    {
+      "question": "¿Qué se debe hacer si se sospecha o detecta que la violencia sufrida por el estudiante es de tipo INTRAFAMILIAR?",
+      "options": [
+        "Confrontar de inmediato a los padres en la escuela exigiendo explicaciones",
+        "Comunicar inmediatamente a la Defensoría de la Niñez y Adolescencia (DNA) sin confrontar a los agresores para no poner en riesgo al estudiante",
+        "Devolver al estudiante a su casa sin registrar el hecho",
+        "Amonestar al estudiante por causar problemas familiares"
+      ],
+      "answer": 1,
+      "fuente": "Parte III: Contención, pág. 105, 107",
+      "explicacion": "Si la agresión viene de la familia, NO se confronta a los padres; se reporta directamente a la DNA para medidas de protección de rescate/acogida."
+    },
+    {
+      "question": "¿En qué plazo se debe realizar la DENUNCIA ante la Defensoría de la Niñez, Fiscalía o Policía cuando se conoce un hecho de violencia?",
+      "options": [
+        "En un plazo máximo de 24 horas",
+        "En un plazo de 10 días hábiles",
+        "Al finalizar el mes lectivo",
+        "Cuando los padres lo autoricen por escrito"
+      ],
+      "answer": 0,
+      "fuente": "Parte III: Denuncia, pág. 108",
+      "explicacion": "La ley (Art. 286 Código Penal y Art. 155 Ley 548) obliga a denunciar los hechos de violencia en un plazo máximo de 24 horas."
+    },
+    {
+      "question": "Si el presunto agresor en un caso de violencia en la escuela es la propia DIRECTORA O DIRECTOR de la Unidad Educativa, ¿ante quién se denuncia?",
+      "options": [
+        "Ante la propia Directora para que se autoamoneste",
+        "Directamente ante la Dirección Distrital de Educación y la Defensoría de la Niñez y Adolescencia (DNA)",
+        "Ante la portera del colegio",
+        "No se puede denunciar por tener inmunidad jerárquica"
+      ],
+      "answer": 1,
+      "fuente": "Parte III: Denuncia y Rutas, pág. 97, 108, 125",
+      "explicacion": "Si el director es el sindicado, cualquier miembro reporta de inmediato a la Dirección Distrital y a la DNA de la jurisdicción."
+    },
+    {
+      "question": "En la RUTA 1 (Violencia Física y Psicológica), si la falta cometida NO constituye infracción ni delito penal, ¿qué medida aplica el Director de la UE?",
+      "options": [
+        "Emite una amonestación escrita al maestro/a para reflexionar y evitar situaciones similares en el futuro",
+        "Procede al despido definitivo sin proceso",
+        "Envía al docente a prisión preventiva por 3 años",
+        "Pide la clausura de la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "Ruta 1 y Numeral 3.7, pág. 115, 130",
+      "explicacion": "Si no es delito ni falta grave disciplinaria, el director aplica amonestación escrita y orientación reflexiva."
+    },
+    {
+      "question": "En la RUTA 2 (Violencia Sexual), si el hecho delictivo ocurrió FUERA del ámbito educativo (ej. entorno comunitario), ¿cómo concluye la actuación de la escuela?",
+      "options": [
+        "La ruta concluye con la denuncia a la DNA y la implementación de las medidas de protección educativas necesarias para la víctima",
+        "La escuela expulsa a la víctima por tener problemas externos",
+        "Se ignora el caso por no haber ocurrido dentro del aula",
+        "Se sanciona a los docentes de turno"
+      ],
+      "answer": 0,
+      "fuente": "Ruta 2 - Nota explicativa, pág. 136",
+      "explicacion": "Si fue fuera de la escuela, se denuncia a la DNA y la escuela aplica las medidas de protección y adecuaciones curriculares para garantizar su educación."
+    },
+    {
+      "question": "En casos de violencia sexual, ¿qué autoriza la Sentencia Constitucional 0206/2014 informada a la víctima y sus tutores?",
+      "options": [
+        "La interrupción legal del embarazo en cualquier centro de salud sin necesidad de orden o proceso judicial previo",
+        "El perdón automático del agresor si este pide disculpas públicas",
+        "La transferencia inmediata del docente a una universidad pública",
+        "La cancelación de la matrícula escolar de la estudiante"
+      ],
+      "answer": 0,
+      "fuente": "Ruta 2 - Nota explicativa, pág. 136",
+      "explicacion": "La Sentencia Constitucional 0206/2014 autoriza la Interrupción Legal del Embarazo (ILE) en casos de violación sin requerir querella o fallo judicial."
+    },
+    {
+      "question": "Según los Decretos Supremos N° 1302 y 1320, ¿qué medida cautelar se aplica a docentes o administrativos imputados formalmente por delitos sexuales?",
+      "options": [
+        "Suspensión de funciones sin goce de haberes mientras dure el proceso penal",
+        "Aumento de sueldo como compensación por el proceso",
+        "Cambio de materia a dictar en el mismo curso",
+        "Jubilación anticipada con 100% de salario"
+      ],
+      "answer": 0,
+      "fuente": "Ruta 3 y D.S. 1302/1320, pág. 143",
+      "explicacion": "El D.S. 1320 establece la suspensión preventiva de funciones sin goce de sueldo tras la emisión de la imputación formal por violencia sexual."
+    },
+    {
+      "question": "¿Qué es el 'Rótulo Observado Preventivo - Medida Cautelar' en el Registro Docente Administrativo (RDA)?",
+      "options": [
+        "Aviso que registra la suspensión preventiva por Imputación Formal emitida por la Fiscalía en casos de violencia sexual (RM 1239/2018)",
+        "Premio otorgado a los mejores docentes de la gestión",
+        "Registro de cambio de domicilio del educador",
+        "Anotación de falta de puntualidad en el marcado de biométrico"
+      ],
+      "answer": 0,
+      "fuente": "Ruta 3 y R.M. N° 1239/2018, pág. 141-142",
+      "explicacion": "Se registra en el RDA tras la imputación formal fiscal por delitos sexuales y genera la suspensión sin goce de haberes."
+    },
+    {
+      "question": "¿Cuándo se aplica el 'Rótulo OBSERVADO DEFINITIVO' en el RDA a personal del Sistema Educativo Plurinacional?",
+      "options": [
+        "Cuando existe Fallo Ejecutoriado del Tribunal Disciplinario (retiro definitivo) o Sentencia Condenatoria Ejecutoriada emitida por Juez Penal",
+        "Con la simple presentación de una queja verbal de un padre de familia",
+        "Al cumplir 25 años de servicio docente",
+        "Cuando el maestro solicita su cambio de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Ruta 3 y R.M. N° 1239/2018, pág. 144-145",
+      "explicacion": "El rótulo Observado Definitivo invalida el registro en el RDA e impone el retiro definitivo e inhabilitación perpetua del SEP tras sentencia/fallo firme."
+    },
+    {
+      "question": "¿Qué trámites le están prohibidos realizar al personal docente o administrativo que cuenta con Rótulo Observado Preventivo en el RDA?",
+      "options": [
+        "Ascenso de categoría y trámites administrativos de movimiento o gestión mientras dure la suspensión",
+        "Cobro de su renta de jubilación una vez cumplida la edad legal",
+        "Atención médica en la Caja Nacional de Salud",
+        "Inscripción de sus hijos en unidades educativas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Ruta 3 y R.M. N° 1239/2018, pág. 139, 142",
+      "explicacion": "Quien está suspendido preventivamente no puede realizar trámites administrativos del SEP ni rendir examen de ascenso de categoría."
+    },
+    {
+      "question": "Si un estudiante víctima de violencia debe ausentarse temporalmente de la escuela por recuperación psicológica, ¿qué obligación tienen los docentes?",
+      "options": [
+        "Reprobar automáticamente al estudiante por faltas",
+        "Realizar adaptaciones y adecuaciones curriculares para garantizar el derecho a la educación a su retorno",
+        "Exigir el pago de clases particulares obligatorias",
+        "Dar de baja la matrícula escolar del estudiante"
+      ],
+      "answer": 1,
+      "fuente": "Parte III: Atención y Protección, pág. 113, 121, 124",
+      "explicacion": "Los maestros deben realizar adecuaciones curriculares para que la víctima avance pedagógicamente sin perder la gestión escolar."
+    },
+    {
+      "question": "¿Qué función cumple la Plantilla para Registro de Casos (ANEXO 3) que lleva cada Unidad Educativa a fin de gestión?",
+      "options": [
+        "Registar estadísticamente los casos atendidos para consolidar datos e informar a la Distrital orientando la prevención",
+        "Publicar los nombres de los estudiantes en la puerta del colegio",
+        "Servir de base para sancionar económicamente a las familias",
+        "Evaluar la conducta de los docentes en la materia de cívica"
+      ],
+      "answer": 0,
+      "fuente": "Parte III: Registro y ANEXO 3, pág. 122, 150",
+      "explicacion": "El Registro de Casos (ANEXO 3) sirve a fines estadísticos y de seguimiento institucional anual sobre la prevalencia de violencia."
+    },
+    {
+      "question": "¿Cuál es la fecha exacta de emisión de la Resolución Ministerial N° 0864/2019?",
+      "options": [
+        "9 de agosto de 2019",
+        "12 de abril de 2019",
+        "25 de noviembre de 2019",
+        "2 de enero de 2019"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Encabezado",
+      "explicacion": "La R.M. N° 0864/2019 fue firmada y emitida formalmente el 9 de agosto de 2019 por el Ministerio de Educación."
+    },
+    {
+      "question": "¿Qué ámbito de aplicación tiene el Protocolo aprobado por la R.M. N° 0864/2019?",
+      "options": [
+        "Todas las Unidades Educativas Fiscales, Privadas y de Convenio, y Centros de Educación Especial de Bolivia",
+        "Únicamente las Unidades Educativas Fiscales del área urbana",
+        "Solo los institutos técnicos y tecnológicos del subsistema de educación superior",
+        "Exclusivamente los internados y centros de reclusión de menores"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Objeto y Ámbito de Aplicación",
+      "explicacion": "El protocolo es de cumplimiento obligatorio en todos los establecimientos de Educación Regular y Especial, sean fiscales, privados o de convenio."
+    },
+    {
+      "question": "¿Cuál es la norma máxima a nivel internacional en la que se fundamenta la protección prioritaria de la niñez en este protocolo?",
+      "options": [
+        "La Convención sobre los Derechos del Niño de las Naciones Unidas",
+        "El Tratado de Versalles",
+        "La Carta de la OEA sobre Asuntos Laborales",
+        "El Convenio 169 de la OIT"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Marco Normativo Internacional",
+      "explicacion": "La Convención sobre los Derechos del Niño establece el principio del Interés Superior de la Niñez y la prioridad absoluta de su protección."
+    },
+    {
+      "question": "¿Qué ley boliviana define el Código Niña, Niño y Adolescente y sus garantías contra la violencia?",
+      "options": [
+        "Ley N° 548",
+        "Ley N° 348",
+        "Ley N° 070",
+        "Ley N° 045"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Marco Legal Nacional",
+      "explicacion": "La Ley N° 548 es el Código Niña, Niño y Adolescente que norma los derechos y las medidas de protección integral en Bolivia."
+    },
+    {
+      "question": "¿Qué ley establece los mecanismos para garantizar a las mujeres una vida libre de violencia?",
+      "options": [
+        "Ley N° 348",
+        "Ley N° 070",
+        "Ley N° 2027",
+        "Ley N° 1178"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Marco Legal Nacional",
+      "explicacion": "La Ley N° 348 (Ley Integral para Garantizar a las Mujeres una Vida Libre de Violencia) ampara a niñas, adolescentes y mujeres en el ámbito educativo y general."
+    },
+    {
+      "question": "¿Qué ley estatuye la Educación 'Avelino Siñani - Elizardo Pérez' incorporando la convivencia armónica y pacífica?",
+      "options": [
+        "Ley N° 070",
+        "Ley N° 045",
+        "Ley N° 2027",
+        "Ley N° 1600"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Marco Legal Educativo",
+      "explicacion": "La Ley N° 070 de la Educación establece la formación integral, comunitaria y en valores sociocomunitarios para erradicar la violencia."
+    },
+    {
+      "question": "¿Qué Ley sanciona el Racismo y Toda Forma de Discriminación en las instituciones educativas?",
+      "options": [
+        "Ley N° 045",
+        "Ley N° 548",
+        "Ley N° 263",
+        "Ley N° 1178"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Marco Legal Nacional",
+      "explicacion": "La Ley N° 045 prohíbe y sanciona actos de discriminación o racismo en el ámbito educativo y público."
+    },
+    {
+      "question": "¿Cuál es la Ley Integral contra la Trata y Tráfico de Personas vinculada a la prevención escolar?",
+      "options": [
+        "Ley N° 263",
+        "Ley N° 348",
+        "Ley N° 548",
+        "Ley N° 070"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Marco Legal de Protección",
+      "explicacion": "La Ley N° 263 es la Ley Integral contra la Trata y Tráfico de Personas, relevante para la seguridad de estudiantes dentro y fuera de la escuela."
+    },
+    {
+      "question": "¿Qué establece el Decreto Supremo N° 1302 modificado por el D.S. N° 1320?",
+      "options": [
+        "Medidas de erradicación de la violencia, maltrato y abuso sexual en el ámbito educativo y suspensión preventiva de docentes o administrativos imputados",
+        "Reglamento de faltas y licencias médicas del magisterio",
+        "Creación del escalafón nacional docente y administrativo",
+        "Aumento salarial para el personal de unidades educativas rurales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y D.S. 1302/1320",
+      "explicacion": "El D.S. 1302 y su modificación D.S. 1320 ordenan la suspensión del personal docente o administrativo imputado por delitos de violencia sexual contra estudiantes."
+    },
+    {
+      "question": "¿Qué autoridad aprueba las reglamentaciones específicas del Protocolo de la R.M. 0864/2019?",
+      "options": [
+        "El Ministro de Educación",
+        "El Director Distrital de Educación únicamente",
+        "El Junta Escolar de Madres y Padres de Familia",
+        "El Comandante General de la Policía Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Parte Resolutiva",
+      "explicacion": "La parte resolutiva de la R.M. N° 0864/2019 está firmada por el Ministro de Educación como máxima autoridad ejecutiva del sector."
+    },
+    {
+      "question": "¿En qué consiste el principio de 'Interés Superior de la Niña, Niño y Adolescente' en el protocolo?",
+      "options": [
+        "En priorizar en todas las decisiones la satisfacción de sus derechos de forma plena por encima de cualquier otro interés",
+        "En dar preferencia a las decisiones tomadas por los padres aunque perjudiquen el desarrollo del estudiante",
+        "En acelerar los trámites administrativos del colegio antes que atender a la víctima",
+        "En otorgar calificaciones aprobatorias a todos los estudiantes involucrados en un conflicto"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "El Interés Superior exige considerar de forma preeminente el bienestar integral y la protección de los derechos del menor de edad."
+    },
+    {
+      "question": "¿Qué implica el principio de 'Prioridad Absoluta'?",
+      "options": [
+        "Que la atención a niñas, niños y adolescentes debe anteponerse a cualquier otra gestión administrativa o judicial",
+        "Que solo se atienden los casos de violencia física dejando en segundo plano la psicológica",
+        "Que los directores tienen prioridad sobre los estudiantes en las denuncias",
+        "Que los casos solo se atienden en horario lectivo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "La Prioridad Absoluta obliga a todas las autoridades e instituciones a brindar asistencia inmediata a la niñez antes que a cualquier otro asunto."
+    },
+    {
+      "question": "¿Qué establece el principio de 'No Revictimización' (Evitar la re-victimización)?",
+      "options": [
+        "Evitar someter a la víctima a repetidos interrogatorios o relatos traumáticos en las distintas etapas del proceso",
+        "Impedir que la víctima continúe asistiendo a clases en la misma unidad educativa",
+        "Obligar a la víctima a confrontar directamente a su agresor para aclarar los hechos",
+        "Publicar el nombre de la víctima en los periódicos escolares para alertar a otros"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "La No Revictimización exige proteger la integridad emocional del estudiante impidiendo declaraciones reiteradas que reinstalen el trauma."
+    },
+    {
+      "question": "¿Qué principio exige mantener en estricta reserva la identidad y antecedentes de la víctima?",
+      "options": [
+        "Confidencialidad y Privacidad",
+        "Publicidad y Transparencia",
+        "Libre Expresión Comunitaria",
+        "Celeridad Procesal General"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "La confidencialidad es indispensable para evitar la estigmatización y proteger el derecho a la imagen y privacidad del estudiante."
+    },
+    {
+      "question": "¿Qué significa el principio de 'Celeridad' en el abordaje de violencia escolar?",
+      "options": [
+        "Actuar con máxima rapidez, prontitud y sin dilaciones innecesarias ante cualquier denuncia de violencia",
+        "Resolver los casos únicamente a fin de año en la evaluación institucional",
+        "Esperar 30 días hábiles antes de remitir la denuncia a las autoridades competentes",
+        "Delegar el proceso a comisiones externas que se reúnen una vez al mes"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "La celeridad garantiza que las medidas de protección e investigación se adopten de inmediato para cortar el ciclo de agresión."
+    },
+    {
+      "question": "¿En qué consiste el principio de 'Gratuidad' en las actuaciones del protocolo?",
+      "options": [
+        "Todos los procedimientos, informes y actuaciones promovidas dentro del sistema educativo son absolutamente gratuitos para la víctima y su familia",
+        "La unidad educativa debe cobrar una tasa mínima de papelería para tramitar denuncias",
+        "Los padres deben contratar un abogado privado obligatoriamente para activar el protocolo",
+        "Solo se exime de cobro a estudiantes con beca completa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "Ninguna autoridad educativa o institución pública puede exigir cobro alguno por recepcionar, tramitar o remitir denuncias de violencia escolar."
+    },
+    {
+      "question": "¿Qué abarca el principio de 'Corresponsabilidad' en la prevención de la violencia?",
+      "options": [
+        "El compromiso conjunto del Estado, la sociedad, la familia y la comunidad educativa en la protección de los estudiantes",
+        "La responsabilidad exclusiva del maestro de aula por todo lo que ocurra en el colegio",
+        "La obligación de la víctima de asumir el costo de las evaluaciones psicológicas",
+        "La transferencia total de la seguridad escolar a la Policía Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "La corresponsabilidad reconoce que la erradicación de la violencia escolar requiere el esfuerzo articulado del hogar, la escuela y la comunidad."
+    },
+    {
+      "question": "¿Qué principio promueve la cultura de paz y el diálogo en la resolución de conflictos no constitutivos de delito?",
+      "options": [
+        "Cultura de Paz y Solución Pacífica",
+        "Sanción Punitiva Automática",
+        "Expulsión Inmediata",
+        "Aislamiento Preventivo Permanente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "El fomento de una cultura de paz busca resolver discrepancias menores mediante el diálogo, la empatía y la restauración del tejido social."
+    },
+    {
+      "question": "¿Qué establece el principio de 'Interculturalidad' en el abordaje de la violencia?",
+      "options": [
+        "Respetar la diversidad cultural y cosmovisiones de los estudiantes adaptando la orientación sin discriminación alguna",
+        "Aplicar únicamente leyes indígenas originarias para todos los delitos de violencia sexual",
+        "Ignorar las normas nacionales cuando la unidad educativa esté en zona rural",
+        "Traducir las denuncias solo cuando el agresor lo solicite"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "La interculturalidad busca garantizar el acceso a la justicia y protección considerando las particularidades idiomáticas y culturales de la comunidad."
+    },
+    {
+      "question": "¿Qué principio obliga a adoptar 'Medidas de Protección Inmediata' antes de concluir las investigaciones?",
+      "options": [
+        "Protección Oportuna y Efectiva",
+        "Presunción de Culpabilidad",
+        "Neutralidad Indiferente",
+        "Sanción Posterior a Sentencia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "Las medidas de protección deben aplicarse al instante de conocida la denuncia para salvaguardar la vida e integridad del estudiante."
+    },
+    {
+      "question": "¿Qué rol cumple la 'Presunción de Inocencia' respecto a la persona denunciada en el ámbito administrativo o penal?",
+      "options": [
+        "Se garantiza el debido proceso a la parte denunciada sin entorpecer ni suspender las medidas de protección a favor de la víctima",
+        "Impide adoptar cualquier medida de separación o alejamiento del sospechoso",
+        "Obliga a la víctima a convivir con el agresor hasta que exista sentencia judicial firme",
+        "Cancela automáticamente las competencias del Director Distrital"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores y Garantías",
+      "explicacion": "Se respeta el debido proceso de la persona investigada, pero las medidas cautelares de protección a favor del menor se aplican prioritariamente."
+    },
+    {
+      "question": "¿Qué principio resguarda el derecho del estudiante a ser escuchado en todo proceso que le afecte?",
+      "options": [
+        "Derecho a ser Oído y Tomado en Cuenta",
+        "Voto Ponderado Estudiantil",
+        "Inviolabilidad de la Palabra Adulta",
+        "Representación Exclusiva por Abogado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Principios Rectores",
+      "explicacion": "Toda niña, niño o adolescente tiene derecho a expresar su opinión libremente y a que su testimonio sea valorado según su desarrollo evolutivo."
+    },
+    {
+      "question": "¿Qué se entiende por 'Atención Preferente' en los servicios de salud y defensorías ante casos de violencia escolar?",
+      "options": [
+        "Obligación de atender sin demora ni trámites burocráticos a la víctima de violencia remitida por la escuela",
+        "Cobrar una tarifa preferencial en clínicas privadas",
+        "Atender al estudiante únicamente si va acompañado por el Director del colegio",
+        "Dar turno prioritario solo para citas odontológicas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Enfoque Institucional",
+      "explicacion": "Las instancias de salud y defensorías deben brindar atención médica, psicológica y legal inmediata al tratarse de menores expuestos a violencia."
+    },
+    {
+      "question": "¿Cómo se define el 'Abordaje Integral' de la violencia escolar en el protocolo?",
+      "options": [
+        "Un proceso interdisciplinario que incluye medidas de prevención, atención, sanción, reparación y restitución de derechos",
+        "La aplicación exclusiva de sanciones disciplinarias al estudiante agresor",
+        "El archivo sumarial de casos tras la presentación del informe anual",
+        "La transferencia del estudiante a otro colegio para evitar problemas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Enfoque de Protección",
+      "explicacion": "El abordaje integral va más allá del castigo; exige articular apoyos psicopedagógicos, legales, sociales y de restauración comunitaria."
+    },
+    {
+      "question": "¿Qué órgano rector del Estado coordina las políticas de protección a la niñez junto al Ministerio de Educación?",
+      "options": [
+        "El Ministerio de Justicia y Transparencia Institucional (a través del Viceministerio de Igualdad de Oportunidades)",
+        "El Ministerio de Economía y Finanzas Públicas",
+        "El Ministerio de Minería y Metalurgia",
+        "El Ministerio de Relaciones Exteriores"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Coordinación Interinstitucional",
+      "explicacion": "El Ministerio de Justicia es la entidad nacional encargada de articular políticas de niñez, género y lucha contra la violencia."
+    },
+    {
+      "question": "¿Qué es la Violencia Física en el entorno educativo según el Protocolo?",
+      "options": [
+        "Toda acción que causa daño, dolor o lesión corporal en la integridad de un estudiante, mediante el uso de la fuerza física o de objetos",
+        "Cualquier crítica verbal vertida en una reunión de padres de familia",
+        "El envío de tareas escolares complejas para el fin de semana",
+        "La falta de uniformes escolares completos durante las horas de gimnasia"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Clasificación de la Violencia",
+      "explicacion": "La violencia física implica agresión directa al cuerpo (golpes, empujones, tirones de pelo, castigos corporales) vulnerando la integridad corporal."
+    },
+    {
+      "question": "¿Cómo se define el 'Castigo Corporal' en las Unidades Educativas?",
+      "options": [
+        "Toda medida disciplinaria en la que se utilice la fuerza física con la intención de causar algún grado de dolor o malestar, por leve que sea",
+        "La asignación de lecturas adicionales como refuerzo pedagógico",
+        "La llamada de atención en privado al estudiante sobre su rendimiento académico",
+        "El registro de la asistencia diaria en el cuaderno de aula"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Definiciones Específicas",
+      "explicacion": "El castigo corporal está prohibido categóricamente en Bolivia y abarca desde reglazos y plantones hasta trabajos físicos forzados e hirientes."
+    },
+    {
+      "question": "¿Qué constituye la Violencia Psicológica o Emocional en el aula?",
+      "options": [
+        "Acciones u omisiones que dañan la autoestima, estabilidad emocional o desarrollo psicológico, tales como insultos, humillaciones, amenazas o aislamiento",
+        "La reprobación de un examen debido a falta de estudio",
+        "La exigencia de puntualidad al ingreso del establecimiento",
+        "El cambio de asiento decretado por el profesor para mejorar la atención"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Clasificación de la Violencia",
+      "explicacion": "La violencia psicológica destruye la salud mental mediante descalificaciones, apodos denigrantes, intimidación, rechazo o ley del hielo."
+    },
+    {
+      "question": "¿Qué se comprende por Violencia Sexual en el ámbito educativo?",
+      "options": [
+        "Toda conducta de connotación o contenido sexual efectuada sin el consentimiento libre y pleno de la víctima o aprovechándose de su minoridad o vulnerabilidad",
+        "La enseñanza impartida en la materia de Biología sobre el sistema reproductor humano",
+        "Las charlas informativas sobre prevención de embarazos en la adolescencia",
+        "El uso de uniformes escolares reglamentarios en actos cívicos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Clasificación de la Violencia",
+      "explicacion": "La violencia sexual abarca desde tocamientos, exhibicionismo, acoso y chantaje sexual hasta la violación y explotación comercial."
+    },
+    {
+      "question": "¿Qué es el 'Acoso Escolar' o Bullying según las definiciones del Protocolo?",
+      "options": [
+        "Toda forma de persecución, hostigamiento, agresión física, verbal o psicológica intencionada y reiterada entre estudiantes que genera un desequilibrio de poder",
+        "Una discusión puntual y aislada entre dos compañeros durante un juego de fútbol",
+        "El debate académico de ideas contrapuestas en la clase de Ciencias Sociales",
+        "La elección democrática del centro de estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Bullying y Ciberbullying",
+      "explicacion": "El acoso escolar requiere intencionalidad, reiteración en el tiempo y asimetría de poder entre el agresor o grupo y la víctima."
+    },
+    {
+      "question": "¿Cómo se manifiesta el Ciberacoso o 'Ciberbullying' en la comunidad educativa?",
+      "options": [
+        "Uso de tecnologías de la información (redes sociales, mensajería, entornos virtuales) para hostigar, difamar, intimidar o excluir reiteradamente a un estudiante",
+        "El envío de tareas y guías de estudio en formato PDF mediante grupos institucionales",
+        "La publicación de comunicados oficiales de la dirección en la página web del colegio",
+        "La creación de grupos de estudio para resolver prácticas de matemáticas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Bullying y Ciberbullying",
+      "explicacion": "El ciberacoso trasciende los muros escolares al difundir fotos comprometedoras, memes denigrantes o insultos en redes y plataformas virtuales."
+    },
+    {
+      "question": "¿Qué es la Violencia de Género en el contexto educativo?",
+      "options": [
+        "Cualquier agresión o discriminación basada en el sexo, género o roles de género estereotipados que afecte desproporcionadamente a mujeres u hombres",
+        "La conformación de equipos mixtos para la realización de trabajos prácticos",
+        "La asignación igualitaria de responsabilidades en la directiva de curso",
+        "La participación de niñas en campeonatos intercolegiales de ajedrez"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Enfoque de Género",
+      "explicacion": "La violencia de género se fundamenta en relaciones desiguales de poder y mandatos machistas o prejuicios sobre la masculinidad y feminidad."
+    },
+    {
+      "question": "¿Qué se entiende por 'Negligencia u Omisión de Cuidado' por parte del personal escolar o de la familia?",
+      "options": [
+        "La falta de atención oportuna a las necesidades básicas de alimentación, salud, protección, higiene o seguridad del estudiante que ponga en riesgo su integridad",
+        "La solicitud de certificados de nacimiento para la inscripción del alumno",
+        "La aplicación de pruebas objetivas de evaluación trimestral",
+        "La reprogramación de un examen por inasistencia justificada"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Formas de Maltrato Omisivo",
+      "explicacion": "La negligencia implica la desatención severa e inexcusable que expone al estudiante a peligros, abandono físico, emocional o de salud."
+    },
+    {
+      "question": "¿Qué constituye el 'Acoso Sexual' perpetrado por personal educativo hacia un estudiante?",
+      "options": [
+        "Solicitud de favores sexuales, insinuaciones, comentarios o contactos no deseados valiéndose de su posición de autoridad o jerarquía docente",
+        "La entrega de la libreta escolares con calificaciones reprobatorias",
+        "La recomendación de reforzar los contenidos pedagógicos en la casa",
+        "La toma de asistencia al iniciar la clase presencial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Delitos Sexuales en Educación",
+      "explicacion": "El acoso sexual abusa del poder y la posición del maestro o administrativo imponiendo requerimientos de índole sexual bajo amenaza o promesa."
+    },
+    {
+      "question": "¿Qué es el 'Estupro' en el Código Penal y su tipificación relativa a la comunidad escolar?",
+      "options": [
+        "Acceso carnal con persona mayor de catorce y menor de dieciocho años, mediante seducción o engaño",
+        "Agresión física cometida entre estudiantes de la misma edad durante el recreo",
+        "Uso no autorizado de material bibliográfico institucional",
+        "Falta injustificada a las reuniones de la Junta Escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Código Penal Art. 309",
+      "explicacion": "El estupro aprovecha la inmadurez del menor de entre 14 y 18 años utilizando el engaño o seducción para lograr la relación sexual."
+    },
+    {
+      "question": "¿Qué es la 'Violación' cometida contra una persona menor de edad?",
+      "options": [
+        "Toda penetración anal, vaginal u oral mediante el uso de violencia física, intimidación o cuando la víctima se encuentre incapacitada de resistir o sea menor de catorce años",
+        "El retiro voluntario de una estudiante de la unidad educativa",
+        "La expulsión justificada de un estudiante por fraude académico",
+        "El decomiso preventivo de objetos distractores en el aula"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Código Penal Art. 308",
+      "explicacion": "Si la víctima es menor de catorce años se configura automáticamente Violación de Niña, Niño o Adolescente (agravada), sin importar el supuesto consentimiento."
+    },
+    {
+      "question": "¿Qué abarca el delito de 'Abuso Sexual' según el Código Penal en este contexto?",
+      "options": [
+        "Realizar actos sexuales no constitutivos de penetración (tocamientos impúdicos, manoseos) a una persona sin su consentimiento o a menores de catorce años",
+        "El uso de apodos ofensivos entre compañeros durante la clase de educación física",
+        "La falta de materiales escolares al momento de realizar la tarea",
+        "El retraso recurrente a la hora de ingreso a la escuela"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Código Penal Art. 312",
+      "explicacion": "El abuso sexual vulnera la indemnidad e integridad sexual del estudiante mediante contactos físicos de naturaleza sexual sin penetración."
+    },
+    {
+      "question": "¿Qué es la 'Pornografía con Niñas, Niños o Adolescentes' sancionada legalmente?",
+      "options": [
+        "La producción, comercialización, difusión, publicación o posesión de imágenes, videos u objetos que representen de manera explícita la sexualidad de un menor de edad",
+        "La proyección de documentales médicos de divulgación científica en el colegio",
+        "La exhibición de láminas anatómicas del texto escolar aprobado por el Ministerio",
+        "La toma de fotografías de la promoción en el patio del colegio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Código Penal Art. 323",
+      "explicacion": "La pornografía infantil constituye una grave vulneración de derechos y delito imprescritible que acarrea severas penas privativas de libertad."
+    },
+    {
+      "question": "¿Qué se entiende por 'Violencia Institucional' en el ámbito de la educación?",
+      "options": [
+        "Todo acto u omisión de servidoras o servidores públicos que tenga el fin de retardar, obstaculizar e impedir el goce de los derechos de los estudiantes o encubrir agresiones",
+        "La reparación de los muros o techos de las aulas durante las vacaciones de invierno",
+        "La reorganización del personal de limpieza por orden del Municipio",
+        "La realización de simulacros de evacuación ante terremotos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Formas de Violencia Sistemática",
+      "explicacion": "La violencia institucional ocurre cuando las autoridades o funcionarios revictimizan, encubren, niegan la denuncia o dilatan la protección legal."
+    },
+    {
+      "question": "¿Qué implica la 'Discriminación' en el ámbito escolar según la Ley 045 y el Protocolo?",
+      "options": [
+        "Toda distinción, exclusión, restricción o preferencia basada en motivos de raza, color, origen, género, idioma, religión o discapacidad que anule el ejercicio de derechos",
+        "La conformación de grupos de nivelación académica pedagógica",
+        "La distribución de los estudiantes por turnos de mañana y tarde",
+        "La asignación de becas comunitarias por mérito académico sobresaliente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Ley N° 045",
+      "explicacion": "La discriminación atenta contra el principio de igualdad y dignidad prohibiendo el trato segregador o la negación de matrícula o permanencia."
+    },
+    {
+      "question": "¿Cuáles son indicadores de alarma físicos visibles de una posible violencia física en un estudiante?",
+      "options": [
+        "Hematomas, quemaduras, fracturas, rasguños, marcas de objetos o mordeduras sin explicación lógica ni coincidente con el relato",
+        "Aumento en el ritmo de lectura oral en la clase",
+        "Uso de prendas de vestir limpias y acordes a la temporada del año",
+        "Asistencia puntual a todas las clases de la semana"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Indicadores de Detección",
+      "explicacion": "Las lesiones corporales recurrentes o inexplicables son señales de alerta primaria de castigo corporal o agresión física grave."
+    },
+    {
+      "question": "¿Qué indicadores emocionales y conductuales suelen manifestar víctimas de violencia psicológica o acoso?",
+      "options": [
+        "Aislamiento voluntario, llanto repentino, descenso en las calificaciones, labilidad emocional, insomnio, miedo extremo o sobresalto",
+        "Incremento espontáneo en la participación en clase y liderazgo comunitario",
+        "Llegada alegre y entusiasta al establecimiento escolar todos los días",
+        "Aumento del apetito y predisposición a la práctica deportiva"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Indicadores de Detección",
+      "explicacion": "La víctima de daño psicológico o acoso experimenta angustia, retroceso en la conducta, mutismo selectivo y bajo rendimiento académico."
+    },
+    {
+      "question": "¿Qué indicadores conductuales en el aula pueden ser señal de abuso o violencia sexual en niños o niñas?",
+      "options": [
+        "Conductas hipersexualizadas no acordes a su edad evolutiva, temor focalizado hacia una persona específica, retrocesos en el control de esfínteres (enuresis/encopresis) o rechazo injustificado a volver a casa",
+        "Entrega anticipada de las tareas escolares asignadas",
+        "Interés por coleccionar estampillas o figuras de cómics infantiles",
+        "Inscripción activa en el coro de la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Indicadores de Detección Sexual",
+      "explicacion": "El trauma por violencia sexual desestructura el comportamiento manifestándose en sexualización precoz, miedos intensos o somatizaciones."
+    },
+    {
+      "question": "¿Qué son los 'Síntomas Somáticos' asociados al estrés por agresión o maltrato escolar?",
+      "options": [
+        "Dolores recurrentes de estómago, cefaleas intensas, náuseas o mareos sin causa médica orgánica diagnosticada, especialmente antes de ir al colegio",
+        "Crecimiento acelerado de la estatura acordes a la pubertad",
+        "Mejoría en la visión de lejos tras el uso de lentes correctivos",
+        "Consolidación de la dentición definitiva en el estudiante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Indicadores Físico-Somáticos",
+      "explicacion": "La tensión emocional no canalizada se somatiza frecuentemente en dolores abdominales y de cabeza como mecanismo de rechazo al entorno de agresión."
+    },
+    {
+      "question": "¿Qué actitud del estudiante ante el recreo debe llamar la atención del profesor o tutor?",
+      "options": [
+        "Permanecer siempre encerrado en el aula, refugiarse cerca del escritorio del profesor o evitar ir a los baños solos por miedo",
+        "Correr y jugar ruidosamente con sus compañeros de curso en la cancha",
+        "Comprar su merienda escolar en el quiosco de la escuela",
+        "Comentar las noticias deportivas del fin de semana con sus pares"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Pautas de Observación en Aula",
+      "explicacion": "El aislamiento en los recreos y la búsqueda constante de la cercanía del docente indican temor al acoso o agresiones de otros estudiantes en zonas desprotegidas."
+    },
+    {
+      "question": "¿Qué indicador académico es una señal típica de alerta ante situaciones de violencia escolar no resueltas?",
+      "options": [
+        "Caída repentina, abrupta y no justificada en las calificaciones y ausentismo o fuga escolar recurrente",
+        "Mantenimiento del promedio general de calificaciones por encima de 90 puntos",
+        "Solicitud de libros adicionales en la biblioteca escolar",
+        "Participación destacada en la feria de ciencias del distrito"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Indicadores Académicos",
+      "explicacion": "El impacto traumático de la violencia altera la concentración, la memoria de trabajo y la motivación, reflejándose en una baja drástica del rendimiento."
+    },
+    {
+      "question": "¿Por qué es fundamental que los docentes reconozcan a tiempo los indicadores de violencia?",
+      "options": [
+        "Porque la detección temprana permite activar las medidas de protección y evitar daños irreversibles o la continuidad de la agresión",
+        "Para clasificar a los alumnos entre aplicados y problemáticos desde el inicio del año",
+        "Para justificar la reprobación del alumno sin dar exámenes de recuperación",
+        "Para eximir al colegio de presentar informes a la Dirección Distrital"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Rol del Magisterio",
+      "explicacion": "El docente es la primera línea de observación cotidiana; detectar señales sutiles previene la consolidación del maltrato o la impunidad."
+    },
+    {
+      "question": "¿Qué debe hacer un profesor si un estudiante le revela confidencialmente que sufre agresiones en su hogar o en la escuela?",
+      "options": [
+        "Escuchar con calma, creerle, transmitirle seguridad, mantener la calma y registrar los hechos sin juzgar ni culpar al estudiante",
+        "Exigirle pruebas fotográficas antes de tomar en cuenta su testimonio",
+        "Reñir al estudiante por no haberse defendido en el momento del hecho",
+        "Publicar el relato del estudiante en el grupo de WhatsApp del curso"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Pautas de Contención",
+      "explicacion": "La respuesta inicial del adulto de confianza es determinante: se debe brindar validación afectiva, seguridad y asegurar la ruta de protección."
+    },
+    {
+      "question": "¿Qué frase o conducta debe EVITAR categóricamente el personal educativo al recibir una revelación de agresión?",
+      "options": [
+        "Prometer guardar el secreto absoluto sin reportar la denuncia, o acusar al estudiante de ser el culpable o exagerado",
+        "Ofrecer un vaso de agua al estudiante y llevarlo a un ambiente tranquilo",
+        "Escuchar atentamente sin interrumpir ni presionar la declaración",
+        "Informar al estudiante que se le brindará ayuda y protección con profesionales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Errores Frecuentes a Evitar",
+      "explicacion": "No se pueden prometer 'secretos' porque legalmente existe la obligación de denunciar, y responsabilizar a la víctima es revictimización grave."
+    },
+    {
+      "question": "¿Qué documento de registro preliminar debe llenar el docente o autoridad al detectar o recibir la denuncia?",
+      "options": [
+        "El Formulario/Anexo de Registro de Hechos de Violencia escolar del Protocolo",
+        "Una nota simple de reclamo en la libreta de calificaciones",
+        "Un acta de expulsión definitiva firmada por la Junta Escolar",
+        "Una boleta de citación judicial extendida por el tribunal de penas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Formulario Anexo 1",
+      "explicacion": "El Protocolo cuenta con un formulario estandarizado donde se sistematizan los datos del hecho, involucrados, fecha e indicadores observados."
+    },
+    {
+      "question": "¿Qué aspecto NO debe realizar el docente al momento de indagar una posible violencia sexual?",
+      "options": [
+        "Realizar exámenes físicos o inspección de las partes íntimas del estudiante",
+        "Informar de inmediato a la Dirección del establecimiento",
+        "Tranquilizar al niño o niña y garantizar su resguardo en la escuela",
+        "Anotar literalmente las palabras utilizadas por la víctima"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Prohibiciones de Invasión Técnica",
+      "explicacion": "La revisión física o corporal está estrictamente reservada al médico forense o personal de salud autorizado; el docente tiene prohibido desvestir o revisar genitales."
+    },
+    {
+      "question": "¿Qué importancia tiene registrar 'las palabras textuales' de la víctima en el informe?",
+      "options": [
+        "Preserva la fidelidad del relato original sin interpretaciones o sesgos del adulto que redacta el documento",
+        "Cumple una exigencia gramatical para la materia de Lenguaje",
+        "Permite corregir los errores de ortografía del estudiante en su declaración",
+        "Demuestra que el estudiante tiene un vocabulario ampliado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Directrices de Registro",
+      "explicacion": "Registrar el testimonio tal como lo expresa el menor evita que la narración sea alterada, condicionada o traducida al lenguaje adulto."
+    },
+    {
+      "question": "¿Qué se debe hacer si las marcas de violencia física son recientes y requieren atención médica de emergencia?",
+      "options": [
+        "Trasladar inmediatamente al estudiante al centro de salud más cercano y comunicar simultáneamente a la DNA y padres (si estos no son los agresores)",
+        "Esperar a la reunión del consejo de profesores del día viernes para pedir autorización",
+        "Aplicar alcohol o cremas caseras en la dirección y enviarlo a su domicilio",
+        "Exigir que la ambulancia sea pagada por el profesor de turno antes de salir"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Urgencias Médicas",
+      "explicacion": "La salud y la vida son prioritarias; en emergencias médicas se actúa al instante llevando al menor al centro hospitalario en coordinación con las instancias del ramo."
+    },
+    {
+      "question": "¿Qué instancia especializada del Municipio es la encargada principal de brindar defensa y acogida a niños víctimas de violencia?",
+      "options": [
+        "La Defensoría de la Niñez y Adolescencia (DNA)",
+        "La Intendencia Municipal de Abasto",
+        "El Tribunal Departamental Electoral",
+        "La Oficialía Mayor de Culturas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Red Interinstitucional",
+      "explicacion": "La DNA es el órgano municipal público y gratuito mandatado por la Ley 548 para defender y representar legalmente a los menores de edad."
+    },
+    {
+      "question": "¿Qué unidad policial investiga delitos de violencia hacia la mujer, niños y familia en Bolivia?",
+      "options": [
+        "Fuerza Especial de Lucha Contra la Violencia (FELCV)",
+        "Fuerza Especial de Lucha Contra el Crimen (FELCC)",
+        "Fuerza Especial de Lucha Contra el Narcotráfico (FELCN)",
+        "Dirección Nacional de Tránsito y Seguridad Vial"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Red Interinstitucional",
+      "explicacion": "La FELCV es la división especial de la Policía Boliviana encargada de la recepción, investigación y persecución de delitos en el marco de la Ley 348 y delitos sexuales."
+    },
+    {
+      "question": "¿Qué cubre la 'RUTA 1' del Protocolo de la R.M. N° 0864/2019?",
+      "options": [
+        "Procedimiento ante casos de Violencia Física, Psicológica y Acoso Escolar entre estudiantes o de pares",
+        "Procedimiento ante delitos de agresión sexual cometidos por docentes",
+        "Trámite de jubilación de personal administrativo",
+        "Reglamentación de excursiones y viajes de promoción"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Ruta 1 de Actuación",
+      "explicacion": "La Ruta 1 guía el abordaje de faltas, violencia física, verbal, psicológica o ciberacoso cometidos entre compañeros o dentro de la dinámica escolar sin connotación penal mayor."
+    },
+    {
+      "question": "¿Qué cubre la 'RUTA 2' del Protocolo de la R.M. N° 0864/2019?",
+      "options": [
+        "Procedimiento ante denuncias de Violencia Sexual contra estudiantes en el sistema educativo",
+        "Pautas para el cobro de pensiones en unidades educativas privadas",
+        "Atención de accidentes de tránsito en las afueras de la escuela",
+        "Procesos de selección de nuevos directores de colegio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Ruta 2 de Actuación",
+      "explicacion": "La Ruta 2 establece el canal obligatorio de denuncia penal urgente y protección integral inmediata ante cualquier caso de agresión sexual a menores."
+    },
+    {
+      "question": "¿Qué cubre la 'RUTA 3' del Protocolo de la R.M. N° 0864/2019?",
+      "options": [
+        "Procedimiento Administrativo Disciplinario contra personal docente o administrativo por infracciones y hechos de violencia conforme al D.S. 1302/1320",
+        "Proceso de acreditación de títulos de bachiller en humanidades",
+        "Planificación del calendario escolar anual y vacacionales",
+        "Mantenimiento edilicio y compra de mobiliario escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Ruta 3 de Actuación",
+      "explicacion": "La Ruta 3 norma el proceso sumario administrativo en la Dirección Distrital/Departamental para sancionar o destituir al personal infractor."
+    },
+    {
+      "question": "En la Ruta 1 (violencia de pares), ¿cuál es la primera medida de contención que debe aplicar el establecimiento?",
+      "options": [
+        "Cesar de inmediato la agresión, separar pacíficamente a las partes y brindar protección a la víctima",
+        "Sancionar a ambos estudiantes con la expulsión inmediata del colegio",
+        "Llamar a los medios de comunicación para hacer la denuncia pública",
+        "Obligar a los estudiantes a pelear fuera del establecimiento para solucionar el asunto"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Ruta 1 - Pasos",
+      "explicacion": "Lo prioritario ante un hecho de violencia en desarrollo es frenar la agresión, poner a salvo a la víctima y calmar los ánimos."
+    },
+    {
+      "question": "En la Ruta 1, ¿se permite aplicar sanciones que violen el derecho a la educación (como la expulsión arbitraria)?",
+      "options": [
+        "No, la Constitución y la Ley 548 prohíben la expulsión arbitraria que cancele el derecho a la educación de niños y adolescentes",
+        "Sí, el Director tiene atribución absoluta para expulsar a cualquier estudiante conflictivo sin trámite previo",
+        "Sí, siempre que la Junta de Padres lo apruebe por mayoría de votos",
+        "Solo si el estudiante reprobó más de dos materias en el trimestre"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Garantías del Estudiante",
+      "explicacion": "Está prohibida la expulsión arbitraria; las medidas disciplinarias escolares deben ser educativas, reflexivas y con debido proceso, sin privar de la educación."
+    },
+    {
+      "question": "¿Qué busca la 'Justicia Restaurativa' en los casos de violencia entre pares acordes a la Ruta 1?",
+      "options": [
+        "Comprender el daño causado, responsabilizarse del hecho, reparar la ofensa y reintegrar armónicamente a las partes a la comunidad",
+        "Imponer multas económicas a los abuelos del estudiante agresor",
+        "Someter al agresor al escarnio público frente a toda la unidad educativa",
+        "Enviar al estudiante a un centro de privación de libertad de manera automática"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Enfoque Restaurativo",
+      "explicacion": "El enfoque restaurativo prioriza reparar el daño socioemocional y modificar la conducta del infractor antes que la mera punición."
+    },
+    {
+      "question": "En la Ruta 2 (violencia sexual), ¿cuál es el plazo máximo para remitir la denuncia ante la FELCV, Fiscalía o DNA?",
+      "options": [
+        "24 horas desde que se toma conocimiento del hecho",
+        "72 horas hábiles tras reunir a la Junta Escolar",
+        "15 días de calendario previa investigación interna del Director",
+        "Al finalizar el trimestre correspondiente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Ruta 2 - Plazos Urgentes",
+      "explicacion": "Ante la gravedad de un delito sexual, el Director o docente debe denunciar obligatoriamente en un plazo máximo e impostergable de 24 horas."
+    },
+    {
+      "question": "¿Qué delito comete la autoridad educativa o docente que conociendo un hecho de violencia sexual contra un estudiante NO lo denuncia a las autoridades?",
+      "options": [
+        "Incumplimiento de Deberes y Denegación de Auxilio (encubrimiento penal sancionado por el Código Penal)",
+        "Infractores menores de reglamentos de aula",
+        "Falta leve con amonestación verbal de la distrital",
+        "No comete ninguna falta si lo resuelve internamente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Código Penal",
+      "explicacion": "La omisión de denuncia en delitos contra menores constituye conducta penal tipificada (incumplimiento de deberes/encubrimiento) sujeta a proceso penal contra el funcionario."
+    },
+    {
+      "question": "¿Se requiere la autorización o presencia del padre de familia o tutor para realizar la denuncia penal urgente ante la FELCV o DNA?",
+      "options": [
+        "No, la denuncia debe interponerse de oficio de inmediato por la autoridad o profesor, sin dilaciones ni condicionamiento a la venia paterna",
+        "Sí, es obligatorio esperar a que los padres firmen una carta poder notariada",
+        "Sí, si los padres no están presentes la denuncia se anula automáticamente",
+        "Solo si el estudiante es menor de 6 años de edad"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Ruta 2 - Deber de Oficio",
+      "explicacion": "La obligación de denunciar es de oficio y directa para todo servidor público que conozca un delito contra un menor, para evitar encubrimientos familiares."
+    },
+    {
+      "question": "En caso de violencia sexual u homicidio, ¿qué prevé la Ley en relación al Aborto Impune / Interrupción Legal del Embarazo (ILE) según la Sentencia Constitucional 0206/2014?",
+      "options": [
+        "Garantizar el acceso inmediato, gratuito y sin necesidad de querella ni autorización judicial a la Interrupción Legal del Embarazo (ILE) en centros de salud con el mero requerimiento de la denuncia",
+        "Prohibir tajantemente cualquier procedimiento médico de interrupción en todos los casos",
+        "Exigir una sentencia condenatoria firme del agresor antes de autorizar el procedimiento",
+        "Cobrar una multa económica a los padres que soliciten el servicio público"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y S.C.P. 0206/2014",
+      "explicacion": "La SCP 0206/2014 determina que para acceder a la ILE por violación no se requiere querella penal ni orden judicial, bastando la denuncia y copia de la misma."
+    },
+    {
+      "question": "En la Ruta 3 (Proceso Administrativo), ¿qué autoridad instruye la apertura del proceso disciplinario en la Dirección Distrital?",
+      "options": [
+        "El Director Distrital de Educación mediante Resolución Administrativa del Sumariante",
+        "El Presidente de la Promoción de Estudiantes",
+        "El Alcalde Municipal del cantón",
+        "El Presidente del Colegio de Profesores Privados"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Ruta 3 - Proceso Sumario",
+      "explicacion": "El Director Distrital o la autoridad sumariante designada en la Dirección Departamental inicia el sumario administrativo disciplinario."
+    },
+    {
+      "question": "¿Qué ocurre con el docente o administrativo suspendido bajo el D.S. 1302/1320 mientras dura la investigación penal con imputación?",
+      "options": [
+        "Se lo aleja del contacto con estudiantes y se suspende su haber salarial de acuerdo a la norma vigente",
+        "Sigue dictando clases normalmente en el turno de la tarde",
+        "Se le otorga una beca de posgrado con goce total de sueldo",
+        "Pasa a ser el Director de la Unidad Educativa interinamente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y D.S. 1302/1320",
+      "explicacion": "El D.S. 1320 busca apartar completamente al denunciado imputado del sistema escolar para resguardar a las potenciales víctimas durante el juicio."
+    },
+    {
+      "question": "¿Si el proceso penal concluye con Sentencia Condenatoria Ejecutoriada contra el docente por delitos sexuales, cuál es la sanción administrativa máxima?",
+      "options": [
+        "Destitución definitiva del cargo e inhabilitación perpetua para ejercer la docencia en el sistema educativo nacional",
+        "Suspensión de 1 mes de trabajo sin goce de haberes",
+        "Llamada de atención escrita mediante Memorandum de la Distrital",
+        "Traslado a una escuela rural distante"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y D.S. 1302",
+      "explicacion": "La condena penal firme por delitos de violencia sexual contra menores acarrea la expulsión definitiva del Magisterio sin derecho a reincorporación."
+    },
+    {
+      "question": "¿Qué es el 'Rótulo Observado' en el Registro Docente Administrativo (RDA)?",
+      "options": [
+        "Un registro informático preventivo y definitivo en el sistema del Ministerio de Educación que bloquea la contratación de personal con procesos penales o sentencias por violencia",
+        "Un sello impreso en la libreta escolar de los alumnos sobresalientes",
+        "Un distintivo que se coloca en el chaleco de los profesores de turno",
+        "Un formato de evaluación trimestral para las materias técnicas"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y RM 1239/2018 (RDA)",
+      "explicacion": "El rótulo observado en el RDA impide que un denunciado o condenado por violencia vuelva a ser contratado o designado en ningún colegio del país."
+    },
+    {
+      "question": "¿Qué entidad nacional administra el sistema RDA donde se inscribe el Rótulo Observado?",
+      "options": [
+        "El Ministerio de Educación de Bolivia (Dirección General de Planificación / Sistemas)",
+        "El Ministerio de Trabajo, Empleo y Previsión Social",
+        "El Tribunal Supremo de Justicia",
+        "La Policía Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Gestión de Rótulos RDA",
+      "explicacion": "El Ministerio de Educación es el titular y administrador exclusivo de la base de datos del Registro Docente Administrativo (RDA)."
+    },
+    {
+      "question": "¿Cuál es la obligación principal del Director de la Unidad Educativa en materia de prevención según el Protocolo?",
+      "options": [
+        "Elaborar e implementar el Plan de Convivencia Pacífica y Armónica, supervisar la disciplina y canalizar inmediatamente las denuncias de violencia",
+        "Vender los textos escolares y cobrar las matrículas de los estudiantes",
+        "Impartir las clases de educación física en todos los niveles de primaria",
+        "Revisar las maletas y mochilas de los profesores al salir del colegio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Funciones del Director",
+      "explicacion": "El Director es la máxima autoridad del establecimiento y garante de la convivencia armónica y el cumplimiento estricto del protocolo."
+    },
+    {
+      "question": "¿Qué instrumento institucional obligatorio debe tener cada Unidad Educativa para regular la convivencia pacífica?",
+      "options": [
+        "El Plan de Convivencia Pacífica y Armónica (PCPA) participativo",
+        "Un reglamento disciplinario punitivo heredado del siglo anterior",
+        "Un contrato privado de confidencialidad firmado con los padres",
+        "Una fianza bancaria depositada en el Ministerio de Economía"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Herramientas Institucionales",
+      "explicacion": "El Plan de Convivencia Pacífica se elabora participativamente entre docentes, estudiantes y padres para establecer normas y estrategias preventivas."
+    },
+    {
+      "question": "¿Qué rol tienen las y los Maestros en el marco de la R.M. N° 0864/2019?",
+      "options": [
+        "Promover valores sociocomunitarios, detectar tempranamente conductas de riesgo o violencia, proteger al estudiante y reportar de inmediato los hechos",
+        "Atender las denuncias de la comunidad únicamente si no afectan su horario de clases",
+        "Sancionar físicamente a los estudiantes desafiantes para mantener el orden",
+        "Delegar la custodia de sus aulas a los porteros durante el dictado de clases"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Rol del Plantel Docente",
+      "explicacion": "El docente tiene un rol ético y legal activo de protección, prevención en el aula y reporte obligatorio ante la menor sospecha fundada de maltrato."
+    },
+    {
+      "question": "¿Qué rol cumple el Personal Administrativo y de Servicio (porteros, regentía, secretaría)?",
+      "options": [
+        "Vigilar la seguridad de los espacios comunes (pasillos, baños, patios), tratar con respeto a los estudiantes y reportar situaciones irregulares o de peligro",
+        "Aplicar castigos o arrestos escolares en la portería",
+        "Tomar exámenes de recuperación a los estudiantes rezagados",
+        "Revisar el contenido de los teléfonos móviles de los estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Rol del Personal Administrativo",
+      "explicacion": "El personal de servicio controla zonas críticas de bajo control docente (patios, sanitarios) y debe resguardar el bienestar físico de los niños."
+    },
+    {
+      "question": "¿Qué obligación tienen las Madres, Padres y Tutores en la prevención de la violencia escolar?",
+      "options": [
+        "Asumir la educación en valores en la familia, no ejercer violencia en el hogar, colaborar con la escuela y asistir a los llamados de las autoridades",
+        "Exigir que la escuela solucione los problemas de conducta sin involucrar a los padres",
+        "Autorizar al profesor el uso de castigo corporal suave si el estudiante se porta mal",
+        "Pagar los abogados de los docentes que sean denunciados en la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Corresponsabilidad Familiar",
+      "explicacion": "La familia es el primer núcleo de protección; la erradicación del maltrato requiere coherencia entre las normas del hogar y la unidad educativa."
+    },
+    {
+      "question": "¿Qué rol desempeñan las Comisiones de Convivencia de los Consejos Educativos / Juntas Escolares?",
+      "options": [
+        "Coadyuvar en las campañas de prevención, velar por la seguridad del entorno escolar e impulsar la cultura de paz sin interferir en los procesos sumarios ni revictimizar",
+        "Asumir el rol de jueces y juzgar a los profesores en asambleas populares",
+        "Ocultar las denuncias de violencia para no manchar el prestigio del establecimiento",
+        "Sustituir a la Policía Nacional en las investigaciones periciales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Participación Social",
+      "explicacion": "La representación de padres promueve la prevención e infraestructura segura, pero no tiene competencia legal para juzgar o entorpecer denuncias."
+    },
+    {
+      "question": "¿Cómo deben participar los Estudiantes en la prevención de la violencia?",
+      "options": [
+        "Practicando el respeto mutuo, rechazando el acoso, denunciando actos de injusticia y participando en las brigadas escolares de convivencia",
+        "Imponiendo sus propias reglas mediante el uso de la fuerza física",
+        "Ignorando las agresiones que sufran sus compañeros de curso",
+        "Faltando a clases cuando surjan desacuerdos con los profesores"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Rol de la Comunidad Estudiantil",
+      "explicacion": "Los estudiantes son sujetos activos de derechos y protagonistas del buen trato, pudiendo conformar brigadas sociocomunitarias de paz."
+    },
+    {
+      "question": "¿Qué prohibición explícita tienen las Autoridades Educativas respecto a la mediación o conciliación en delitos de Violencia Sexual?",
+      "options": [
+        "Está estrictamente PROHIBIDA cualquier conciliación, pacto, acuerdo transaccional o mediación en delitos de violencia sexual contra menores de edad",
+        "Se permite conciliar si el agresor paga una indemnización económica a la familia",
+        "Se puede conciliar únicamente en presencia del párroco o autoridad tradicional",
+        "La conciliación es obligatoria antes de acudir a la Policía"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Ley 348 / Ley 548",
+      "explicacion": "Los delitos sexuales y agresiones graves a menores no son transigibles ni conciliables; la mediación en estos casos constituye un delito de encubrimiento."
+    },
+    {
+      "question": "¿Por qué la norma prohíbe el 'firmar actas de compromiso de no agresión' como solución final ante un delito de agresión sexual?",
+      "options": [
+        "Porque invalida la acción penal pública, encubre el delito y deja a la víctima en la indefensión exponiéndola a nuevas agresiones",
+        "Porque la firma de actas consume demasiado papel impreso en la dirección",
+        "Porque las actas solo deben ser firmadas por abogados matriculados",
+        "Porque las actas solo tienen validez durante las vacaciones escolares"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Nulidad de Acuerdos Privados",
+      "explicacion": "Las actas o compromisos privados en delitos de acción pública son nulos de pleno derecho y vulneran la obligación estatal de procesar al agresor."
+    },
+    {
+      "question": "¿Qué trato se le debe dar al estudiante en situación de discapacidad ante una sospecha o hecho de violencia?",
+      "options": [
+        "Proporcionar ajustes razonables, intérprete o apoyos especializados asegurando la máxima accesibilidad y protección conforme a su tipo de discapacidad",
+        "Desestimar su testimonio al asumir que no tiene capacidad de declarar",
+        "Exigir que la denuncia sea presentada exclusivamente por un médico genetista",
+        "Aislar al estudiante en una sala cerrada hasta el fin del año lectivo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Enfoque de Inclusión y Discapacidad",
+      "explicacion": "Las personas en situación de discapacidad tienen derecho a ajustes razonables (lengua de señas, pictografía, lenguaje claro) para garantizar su voz e integridad."
+    },
+    {
+      "question": "¿Qué acción preventivo-formativa debe programarse periódicamente en el aula según el Protocolo?",
+      "options": [
+        "Talleres de autoprotección, educación en afectividad, valores, derechos humanos y uso responsable de las redes sociales",
+        "Cursos de artes marciales obligatorios para combatir a los agresores",
+        "Exámenes sorpresa de memoria sobre la legislación penal boliviana",
+        "Charlas sobre venta de productos comerciales de limpieza"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Acciones de Prevención Curricular",
+      "explicacion": "La prevención primaria requiere empoderar a los estudiantes en límites corporales, autocuidado, empatía y denuncia de conductas inapropiadas."
+    },
+    {
+      "question": "¿Qué medida de infraestructura física se recomienda en las Unidades Educativas para prevenir agresiones en zonas oscuras o apartadas?",
+      "options": [
+        "Mejorar la iluminación, visibilidad y supervisión efectiva de pasillos, depósitos, baños y zonas periféricas del predio escolar",
+        "Clausurar de forma permanente la biblioteca escolar",
+        "Colocar candados a las aulas durante la dictación de la clase",
+        "Prohibir el uso de los sanitarios durante los recreos"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Prevención Ambiental",
+      "explicacion": "Los espacios desiertos o mal iluminados favorecen situaciones de acoso o violencia; la supervisión ambiental es un factor clave de resguardo."
+    },
+    {
+      "question": "Si la agresión física o psicológica proviene de los propios PADRES del estudiante en su hogar (violencia intrafamiliar), ¿cómo debe proceder la escuela?",
+      "options": [
+        "Remitir inmediatamente el caso a la Defensoría de la Niñez y Adolescencia (DNA) para las medidas de protección de la víctima frente al hogar violento",
+        "Citar a los padres e increparlos en la puerta del colegio frente a otros padres",
+        "Devolver al niño a su casa exigiendo que pida perdón a sus agresores",
+        "No intervenir por considerar que el ámbito familiar es privado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Violencia en el Entorno Familiar",
+      "explicacion": "Cuando la violencia proviene de los tutores, la escuela notifica a la DNA para que esta instancia legal asuma las medidas de rescate, acogida o resguardo del menor."
+    },
+    {
+      "question": "¿Qué ocurre si una denuncia resulta ser falsa pero fue presentada de buena fe frente a indicios de sospecha?",
+      "options": [
+        "La norma protege la actuación del denunciante que actúa en cumplimiento del deber de protección a la niñez, sin perjuicio de investigar mala fe o calumnia manifiesta",
+        "El denunciante es sancionado inmediatamente con el despido del colegio",
+        "Se cierra la escuela por el resto del año lectivo",
+        "Se anulan todas las calificaciones del curso involucrado"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Protección al Denunciante de Buena Fe",
+      "explicacion": "La buena fe en el reporte de alertas protege al docente, priorizando el resguardo de la infancia ante la duda razonable."
+    },
+    {
+      "question": "¿Qué documento de derivación médica y psicológica estandarizado se adjunta en los anexos del Protocolo?",
+      "options": [
+        "El Anexo de Ficha de Derivación Institucional a servicios de Salud, DNA o Fiscalía",
+        "La factura comercial de servicios de papelería",
+        "La boleta de depósito bancario de la matriculación",
+        "El inventario de activos fijos del laboratorio de física"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Anexos Técnicos",
+      "explicacion": "El Protocolo cuenta con anexos de fichas de registro y remisión para formalizar la transferencia formal del caso a los servicios externos de protección."
+    },
+    {
+      "question": "¿En qué plazo debe la Dirección Distrital informar a la Dirección Departamental sobre las denuncias graves registradas?",
+      "options": [
+        "En el día o un plazo máximo de 24 a 48 horas según el nivel de urgencia",
+        "Al finalizar la gestión escolar en la memoria anual",
+        "En 6 meses previo trámite presupuestario",
+        "Únicamente cuando lo solicite la prensa"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Flujograma de Reporte Institucional",
+      "explicacion": "La cadena de mando jerárquico requiere comunicación inmediata entre el nivel local (Unidad Educativa), distrital y departamental para el seguimiento del caso."
+    },
+    {
+      "question": "¿Quién rinde cuentas y monitorea el cumplimiento de la R.M. N° 0864/2019 a nivel departamental?",
+      "options": [
+        "El Director Departamental de Educación a través de la Subdirección de Educación Regular y Especial",
+        "El Comité Olímpico Boliviano",
+        "La Federación de Empresarios Privados",
+        "La Gerencia Regional del Banco Unión"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Instancias de Monitoreo",
+      "explicacion": "La Dirección Departamental de Educación es la encargada de velar por la correcta aplicación del protocolo en todos los distritos de su jurisdicción."
+    },
+    {
+      "question": "¿Qué sanción administrativa corresponde al personal directivo que oculte o archive intencionalmente una denuncia de violencia sexual?",
+      "options": [
+        "Proceso disciplinario por falta muy grave, destitución del cargo administrativo y remisión de antecedentes al Ministerio Público",
+        "Cambio de turno en la misma unidad educativa",
+        "Amonestación verbal sin registro en el archivo personal",
+        "Asignación de un bono económico de estímulo"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019 y Reglamento de Faltas y Sanciones",
+      "explicacion": "El encubrimiento de delitos de violencia sexual es una falta severa que implica la destitución e inhabilitación, además del proceso penal."
+    },
+    {
+      "question": "¿Puede un estudiante víctima de violencia pedir su cambio de paralelo o turno dentro de la misma unidad educativa?",
+      "options": [
+        "Sí, como medida de protección administrativa inmediata para evitar el contacto con el agresor o el ambiente hostil",
+        "No, la distribución de paralelos es inamovible durante todo el año",
+        "Solo si aprueba un examen psicotécnico de suficiencia",
+        "Solo si paga una tasa de reprogramación en la secretaría del colegio"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Medidas de Resguardo Internas",
+      "explicacion": "Facilitar el cambio de curso o turno a la víctima es una medida cautelar sencilla que disminuye la presión emocional y protege su estabilidad."
+    },
+    {
+      "question": "En el caso de unidades educativas privadas, ¿qué ocurre si incumplen con la aplicación de este Protocolo?",
+      "options": [
+        "Son sujetas a sanciones administrativas, multas pecuniarias progresivas e incluso la revocatoria de su resolución de funcionamiento por el Ministerio de Educación",
+        "Quedan exentas por ser entidades particulares no estatales",
+        "Solo se les aplica un descuento del 1% en la factura de agua",
+        "Deben cambiar de nombre comercial en un plazo de 5 años"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Sanciones a Colegios Privados",
+      "explicacion": "Las instituciones privadas están sujetas a la regulación pública; omitir el protocolo pone en riesgo su autorización legal de funcionamiento."
+    },
+    {
+      "question": "¿Qué rol juegan los gabinetes psicológicos o psicopedagógicos escolares si la escuela cuenta con ellos?",
+      "options": [
+        "Brindar contención emocional primaria, orientar a las familias, derivar a instancias externas especializadas y realizar el seguimiento pedagógico",
+        "Reemplazar a los fiscales en la toma de declaraciones judiciales",
+        "Administrar medicamentos psicoactivos sin receta médica",
+        "Sancionar a los docentes que lleguen atrasados"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Apoyo Profesional Interno",
+      "explicacion": "Los profesionales del gabinete prestan contención afectiva inmediata y andamiaje psicopedagógico a los estudiantes involucrados."
+    },
+    {
+      "question": "¿Se puede suspender el derecho a rendir evaluaciones académicas a un estudiante involucrado en un hecho de violencia en calidad de víctima o denunciado?",
+      "options": [
+        "No, se deben garantizar reprogramaciones y evaluaciones adaptadas para resguardar su derecho constitucional a la educación",
+        "Sí, la reprobación automática es obligatoria para sentar precedente",
+        "Solo si los profesores del área aprueban la sanción por unanimidad",
+        "Sí, hasta que se emita la sentencia judicial en la Corte Suprema"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Garantía Educativa Continua",
+      "explicacion": "El proceso sumario o la investigación no suspenden los derechos académicos del estudiante, debiendo reprogramarse sus pruebas si fue apartado temporalmente."
+    },
+    {
+      "question": "¿Qué entidad supervisa que los derechos de los niños no sean vulnerados durante la actuación policial o judicial?",
+      "options": [
+        "La Defensoría del Pueblo y las Defensorías de la Niñez y Adolescencia (DNA)",
+        "La Asociación de Notarios de Fe Pública",
+        "La Cámara Nacional de Comercio",
+        "El Servicio de Impuestos Nacionales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Observación de Derechos",
+      "explicacion": "La Defensoría del Pueblo y la DNA velan por el debido proceso y los derechos humanos de las niñas, niños y adolescentes en cualquier instancia estatal."
+    },
+    {
+      "question": "¿Cuál es la vigencia del Protocolo aprobado por la R.M. N° 0864/2019?",
+      "options": [
+        "De cumplimiento permanente e indefinido a partir de su publicación oficial",
+        "Solamente de 1 año lectivo renovable con examen",
+        "Únicamente durante la gestión gubernamental del ministro firmante",
+        "Aplica solo para los meses de invierno escolar"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Disposiciones Finales",
+      "explicacion": "Es una disposición reglamentaria de carácter permanente obligatoria para todo el Sistema Educativo Plurinacional de Bolivia."
+    },
+    {
+      "question": "¿Cuál es el fin supremo que persigue la R.M. N° 0864/2019 en el Estado Plurinacional de Bolivia?",
+      "options": [
+        "Garantizar espacios educativos seguros, libres de violencia, donde las niñas, niños y adolescentes ejerzan sus derechos y desarrollen plenamente su personalidad",
+        "Aumentar la cantidad de reglamentos administrativos en los colegios",
+        "Disminuir la contratación de docentes en el magisterio público",
+        "Sustituir la labor de las familias por la de las autoridades judiciales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Propósito Institucional",
+      "explicacion": "El objetivo final del protocolo es consolidar una escuela pacífica, justa y libre de todo tipo de violencia, protegiendo la vida y dignidad del estudiantado."
+    },
+    {
+      "question": "¿Qué sanción se establece si un establecimiento educativo encubre reiteradamente actos de acoso escolar entre estudiantes?",
+      "options": [
+        "Apertura de proceso disciplinario a la autoridad educativa e intervención de la Dirección Distrital",
+        "Clausura del año escolar para todo el nivel primario",
+        "Reducción del horario lectivo diario a 2 horas",
+        "Exención de pago de impuestos municipales"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Responsabilidad Institucional",
+      "explicacion": "La omisión intencional o encubrimiento de situaciones de acoso escolar acarrea responsabilidad disciplinaria e intervención de las autoridades de educación."
+    },
+    {
+      "question": "¿Qué principio orienta la actuación del personal educativo al comunicar noticias o reportes a los medios de comunicación?",
+      "options": [
+        "Prohibición absoluta de difundir la imagen, nombre o datos que permitan identificar a estudiantes víctimas o involucrados en hechos de violencia",
+        "Obligación de convocar a conferencias de prensa con la presencia de la víctima",
+        "Publicación del informe de la denuncia en la página oficial del colegio",
+        "Difusión del video de las declaraciones del estudiante en canales de televisión"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Protección de la Imagen y Privacidad",
+      "explicacion": "El Código Niña, Niño y Adolescente y el Protocolo prohíben estrictamente la sobreexposición mediática y la revelación de la identidad de los menores."
+    },
+    {
+      "question": "¿Qué procedimiento se sigue ante la sospecha de tenencia de armas u objetos peligrosos por parte de un estudiante en el colegio?",
+      "options": [
+        "Intervención con la DNA y la Policía Boliviana sin ejercer violencia, resguardando la seguridad del aula y aplicando el plan de seguridad escolar",
+        "Revisión corporal violenta por parte de los compañeros de curso",
+        "Uso de la fuerza física por el profesor para reducir al estudiante",
+        "Expulsión inmediata a la calle sin notificar a los padres ni autoridades"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Protocolos de Prevención de Riesgos",
+      "explicacion": "Ante situaciones de peligro inminente con armas u objetos punzocortantes, se activa el protocolo de seguridad convocando a las instancias especializadas."
+    },
+    {
+      "question": "¿Qué rol cumple la brigada escolar o brigada de convivencia sociocomunitaria?",
+      "options": [
+        "Espacio de participación estudiantil promotor del buen trato, la cultura de paz y la prevención de conflictos entre pares",
+        "Cuerpo de vigilancia punitiva con potestad de sancionar a sus compañeros",
+        "Grupo de estudiantes encargado del cobro de cuotas escolares",
+        "Equipo de evaluación de los planes de trabajo docente"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Participación Estudiantil",
+      "explicacion": "Las brigadas escolares promueven liderazgos positivos, mediación pacífica de discrepancias y campañas de buen trato entre estudiantes."
+    },
+    {
+      "question": "¿Qué debe constar en el expediente administrativo cuando se concluye un caso de violencia escolar procesado bajo el Protocolo?",
+      "options": [
+        "El informe final de actuaciones, medidas de protección adoptadas, derivaciones realizadas y la resolución del caso resguardando la confidencialidad",
+        "La copia de los títulos de propiedad de la unidad educativa",
+        "El registro fotográfico del estudiante víctima expuesto públicamente",
+        "El comprobante de pago de aranceles de registro"
+      ],
+      "answer": 0,
+      "fuente": "R.M. N° 0864/2019, Cierre y Archivo de Casos",
+      "explicacion": "Cada caso debe contar con un archivo reservado que acredite la trazabilidad de la actuación, la restitución de derechos y la resolución firme."
+    },
+    {
+      "question": "¿En qué consiste la 'Contrareferencia' emitida por las instituciones de protección (DNA, SLIM, CEPAT) hacia la Unidad Educativa?",
+      "options": [
+        "Informe que comunica a la escuela las acciones realizadas, recomendaciones de apoyo al estudiante y estado del proceso",
+        "Certificado que exime al profesor de someterse al proceso disciplinario",
+        "Factura de cobro por los servicios de apoyo brindados",
+        "Solicitud de clausura de la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "Parte III: Contrareferencia, pág. 120-121",
+      "explicacion": "La contrareferencia informa al director las medidas de restitución adoptadas y orienta las adecuaciones pedagógicas a aplicar en el aula."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#090D1A">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="ERTEC">
+  <link rel="manifest" href="manifest.json">
+  <title>ERTEC · Simulacro de Institucionalización</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@500;600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/pages/login.css">
+</head>
+<body>
+<div class="aurora"><i></i><i></i><i></i></div><div class="grid-bg"></div>
+<div id="loader"><div class="loader-icon">📚</div><div class="loader-ring"></div><div class="loader-txt">Iniciando ERTEC</div></div>
+<div id="toast"></div>
+
+<div class="login-wrap">
+  <div class="brand-block">
+    <div class="brand-logo">🎓</div>
+    <div class="brand-name">ERT<span>EC</span></div>
+    <div class="brand-sub">Simulacro de Institucionalización de Cargos</div>
+    <div class="brand-conv"><i></i> Convocatoria Pública N° 0001/2026 · Gestiones 2027-2029</div>
+  </div>
+
+  <div class="login-card">
+    <div class="error-box" id="error-box">❌ Contraseña incorrecta. Intenta de nuevo.</div>
+    <form id="login-form" autocomplete="off">
+      <label class="lbl" for="pw">Contraseña de acceso</label>
+      <div class="input-wrap">
+        <input type="password" id="pw" class="inp" placeholder="Ingresa tu contraseña" required autocomplete="off">
+        <button type="button" class="eye-btn" id="eye">👁️</button>
+      </div>
+      <button type="submit" class="btn btn-red" id="btn-login">🔓 Ingresar al simulacro</button>
+    </form>
+  </div>
+
+  <div id="install-banner">
+    <div class="install-ico">📲</div>
+    <div class="install-info"><div class="install-title">Instalar como app</div><div class="install-sub">Úsala sin internet desde tu pantalla de inicio</div></div>
+    <button class="install-btn" id="btn-install">Instalar</button>
+  </div>
+  <div class="footer-note">Plataforma independiente y privada · No oficial · Solo práctica<br>Sin relación con el Ministerio de Educación</div>
+</div>
+
+<script src="assets/js/core/utils.js"></script>
+<script src="assets/js/core/storage.js"></script>
+<script src="assets/js/core/fx.js"></script>
+<script src="assets/js/pages/login.js"></script>
+<script src="assets/js/core/sw-register.js"></script>
+</body>
+</html>

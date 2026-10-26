@@ -1,0 +1,53 @@
+/* =============================================
+   pages/history.css — Estilos exclusivos de history.html
+   ============================================= */
+
+.sec { padding:16px 16px 0; }
+.sec-title { font-size:13px; font-weight:800; color:var(--text); margin-bottom:11px; }
+
+.gstats { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-bottom:4px; }
+.gs     { background:var(--bg-card); border:1.5px solid var(--border); border-radius:18px; padding:13px 8px; text-align:center; }
+.gs-n   { font-family:var(--f-head); font-size:24px; font-weight:800; color:var(--rojo); line-height:1; }
+.gs-l   { font-size:10px; color:var(--text-sub); text-transform:uppercase; letter-spacing:.5px; margin-top:4px; }
+
+.rank-card { background:var(--bg-card); border:1.5px solid var(--border); border-radius:18px; padding:13px 14px; display:flex; align-items:center; gap:12px; margin-bottom:8px; }
+.rank-medal { font-size:24px; flex-shrink:0; }
+.rank-info  { flex:1; min-width:0; }
+.rank-name  { font-size:14px; font-weight:700; color:var(--text); margin-bottom:2px; }
+.rank-meta  { font-size:11px; color:var(--text-sub); }
+.rank-pct   { font-family:var(--f-head); font-size:26px; font-weight:800; flex-shrink:0; }
+.rank-pct.pass{color:#00C070;} .rank-pct.fail{color:var(--rojo);}
+
+.hist-entry { animation:fadeUp .5s ease both; background:var(--bg-card); border:1.5px solid var(--border); border-radius:18px; margin-bottom:8px; overflow:hidden; }
+.he-main    { display:flex; align-items:flex-start; gap:11px; padding:13px 14px; }
+.he-idx     { width:36px; height:36px; border-radius:9px; flex-shrink:0; display:flex; align-items:center; justify-content:center; font-size:12px; font-weight:800; }
+.he-idx.pass{ background:rgba(0,150,80,.15); color:#00C070; }
+.he-idx.fail{ background:rgba(109,94,245,.12); color:#FB7185; }
+.he-body    { flex:1; min-width:0; }
+.he-mode    { font-size:14px; font-weight:700; color:var(--text); margin-bottom:3px; }
+.he-date    { font-size:11px; color:var(--text-sub); margin-bottom:6px; }
+.he-chips   { display:flex; flex-wrap:wrap; gap:10px; }
+.he-chip    { font-size:11px; color:var(--text-sub); }
+.he-score   { font-family:var(--f-head); font-size:26px; font-weight:800; flex-shrink:0; text-align:right; }
+.he-score.pass{color:#00C070;} .he-score.fail{color:#FB7185;}
+.he-detail  { font-size:11px; color:var(--text-sub); text-align:right; }
+
+/* Nota: historial no tiene revisión individual (solo results.html la tiene en sesión) */
+.empty { text-align:center; padding:52px 20px; background:var(--bg-card); border:1.5px solid var(--border); border-radius:16px; }
+.empty .ico { font-size:48px; margin-bottom:12px; }
+.empty h3   { font-size:17px; font-weight:800; color:var(--text); margin-bottom:7px; }
+.empty p    { font-size:13px; color:var(--text-sub); line-height:1.55; }
+  
+@media (min-width: 1024px) {
+  .shell { max-width: 1120px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); column-gap: 28px; align-items: start; }
+  .shell > .header { grid-column: 1 / -1; }
+  #stats-sec { grid-column: 1; grid-row: 2; } #rank-sec { grid-column: 1; grid-row: 3; }
+  .shell > .sec:last-child { grid-column: 2; grid-row: 2 / span 2; }
+}
+
+/* ── Utilidades que reemplazan estilos en línea ── */
+#btn-back { margin-right: 6px; } #btn-clear { color: var(--bad); }
+#stats-sec, #rank-sec { display: none; }
+#rank-sec .sec-title, #all-title { margin-top: 8px; }
+#all-sec { padding-bottom: 36px; }
+.btn--inline { display: inline-flex; width: auto; margin-top: 16px; padding: 12px 24px; }

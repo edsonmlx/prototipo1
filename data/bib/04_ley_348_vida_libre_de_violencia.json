@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "04_ley_348_vida_libre_de_violencia",
+    "nombre": "Ley 348 Integral para garantizar a las mujeres una vida libre de violencia",
+    "detalle": "",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "Según el Artículo 2 de la Ley N° 348, ¿cuál es el objeto y la finalidad esencial de esta norma en el Estado Plurinacional de Bolivia?",
+      "options": [
+        "Establecer mecanismos, medidas y políticas integrales de prevención, atención, protección y reparación a las mujeres en situación de violencia, así como la persecución y sanción a los agresores",
+        "Reglamentar de manera exclusiva la tipificación penal de los delitos cometidos contra menores de edad en el ámbito familiar",
+        "Crear un cuerpo policial independiente con facultades jurisdiccionales directas para sancionar contravenciones de género",
+        "Sustituir las funciones sancionatorias del Órgano Judicial mediante juntas comunitarias de conciliación obligatoria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Ley N° 348",
+      "explicacion": "El Artículo 2 señala expresamente que el objeto es establecer mecanismos, medidas y políticas integrales de prevención, atención, protección y reparación a las mujeres, y la persecución y sanción a los agresores."
+    },
+    {
+      "question": "Conforme al Artículo 3.I de la Ley N° 348, ¿por qué razón el Estado Plurinacional de Bolivia asume como prioridad nacional la erradicación de la violencia hacia las mujeres?",
+      "options": [
+        "Por constituir una contravención de orden administrativo menor regulada por los Gobiernos Autónomos Municipales",
+        "Por ser una de las formas más extremas de discriminación en razón de género",
+        "Por tratarse de un problema exclusivo del ámbito privado que requiere arbitraje laboral",
+        "Por ser una falta civil derivada del incumplimiento de contratos de asistencia familiar"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.I, Ley N° 348",
+      "explicacion": "El Art. 3.I establece que el Estado asume como prioridad nacional la erradicación de la violencia hacia las mujeres por ser una de las formas más extremas de discriminación en razón de género."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.12 de la Ley N° 348, ¿en qué consiste el principio de 'Despatriarcalización'?",
+      "options": [
+        "En la prohibición total del matrimonio civil en todo el territorio nacional",
+        "En la elaboración de políticas públicas desde la identidad plurinacional para la visibilización, denuncia y erradicación del patriarcado mediante la transformación de estructuras desiguales de poder",
+        "En la delegación de la justicia penal a organizaciones no gubernamentales internacionales",
+        "En la equiparación automática de sanciones penales sin consideración del tipo de delito cometido"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.12, Ley N° 348",
+      "explicacion": "El Art. 4.12 define la despatriarcalización como la transformación de las estructuras, relaciones, tradiciones y comportamientos desiguales de poder, dominio, exclusión y explotación."
+    },
+    {
+      "question": "Según el Artículo 4.11 de la Ley N° 348, ¿qué prescribe el principio de 'Informalidad' en la administración pública?",
+      "options": [
+        "Permite omitir la redacción de sentencias escritas en todos los procesos judiciales penales",
+        "No se exigirá el cumplimiento de requisitos formales o materiales que entorpezcan el restablecimiento de los derechos vulnerados y la sanción a los responsables",
+        "Autoriza a los funcionarios a actuar sin seguir ningún protocolo de atención ni registro de denuncias",
+        "Exime a las autoridades de remitir los informes semestrales al SIPPASE"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.11, Ley N° 348",
+      "explicacion": "El principio de informalidad establece que en todos los niveles no se exigirá el cumplimiento de requisitos formales o materiales que entorpezcan el proceso de restablecimiento de derechos."
+    },
+    {
+      "question": "Según el Artículo 3.I de la Ley N° 348, ¿cuál es la prioridad del Estado respecto al problema de la violencia hacia las mujeres?",
+      "options": [
+        "El Estado considera la violencia hacia las mujeres como un asunto privado del entorno familiar",
+        "El Estado declara la erradicación de la violencia hacia las mujeres como una prioridad nacional y una obligación estatal",
+        "El Estado delega la prevención y sanción exclusivamente a las Organizaciones No Gubernamentales (ONGs)",
+        "El Estado limita su intervención a casos donde exista lesión física gravísima comprobada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.I, Ley N° 348",
+      "explicacion": "El Art. 3.I establece expresamente que la erradicación de la violencia hacia las mujeres es una prioridad nacional y una obligación del Estado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.1 de la Ley N° 348, ¿en qué consiste el principio de 'Vivencia Vivir Bien' (Suma Qamaña / Ñandereko)?",
+      "options": [
+        "Es el desarrollo de la mujer en equilibrio y armonía con la familia, la sociedad y la naturaleza, respetando sus derechos",
+        "Es la obligación de la mujer de mantener la cohesión familiar sin importar situaciones de agresión verbal",
+        "Es un mandato exclusivo para comunidades indígenas originarias campesinas sin alcance urbano",
+        "Es el principio de subordinación pacífica de los intereses individuales a los comunitarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.1, Ley N° 348",
+      "explicacion": "El Art. 4.1 define la Vivencia Vivir Bien como el desarrollo en equilibrio, armonía y respeto a los derechos humanos de las mujeres."
+    },
+    {
+      "question": "Conforme al Artículo 4.3 de la Ley N° 348, ¿qué implica el principio de 'Igualdad'?",
+      "options": [
+        "Que las mujeres y los hombres tienen los mismos derechos y oportunidades, sin distinción de género, raza o condición social",
+        "Que se aplican las mismas penas procesales a hombres y mujeres sin considerar el contexto de vulnerabilidad de género",
+        "Que las mujeres pierden el derecho a medidas afirmativas si acceden a cargos públicos de decisión",
+        "Que la carga de la prueba se divide equitativamente entre la víctima y el imputado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.3, Ley N° 348",
+      "explicacion": "El principio de Igualdad garantiza el goce de los mismos derechos y oportunidades a mujeres y hombres."
+    },
+    {
+      "question": "Según el Artículo 4.7 de la Ley N° 348, el principio de 'Informalidad' establece que:",
+      "options": [
+        "En todos los niveles de atención y protección, no se exigirá el cumplimiento de formalidades que entorpezcan la protección inmediata",
+        "Los juicios por violencia de género pueden tramitarse verbalmente sin registro escrito formal",
+        "Los fiscales pueden obviar la presentación de imputación formal y aplicar acuerdos verbales",
+        "Las víctimas pueden presentar demandas sin necesidad de identificarse formalmente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.7, Ley N° 348",
+      "explicacion": "La Informalidad rige para que la exigencia de requisitos o formalidades no impida la atención y protección oportuna."
+    },
+    {
+      "question": "El Artículo 4.9 de la Ley N° 348 define el principio de 'Celeridad' como:",
+      "options": [
+        "La obligación de los servidores públicos de resolver los trámites en el menor tiempo posible y sin dilaciones indebidas",
+        "El juzgamiento en juicio oral continuo con un plazo máximo improrrogable de 24 horas",
+        "La facultad de la víctima de dispensar al fiscal del plazo probatorio fijado por ley",
+        "La resolución sumaria en única instancia sin recurso de apelación de medidas cautelares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.9, Ley N° 348",
+      "explicacion": "El principio de Celeridad obliga a las autoridades a actuar con prontitud, eficacia y oportunidad procesal."
+    },
+    {
+      "question": "En el marco del Artículo 7.2 de la Ley N° 348, ¿qué comprende la 'Violencia Feminicida'?",
+      "options": [
+        "La forma extrema de violencia de género que atenta contra el derecho a la vida y la integridad física o psicológica de las mujeres, pudiendo culminar en feminicidio",
+        "Cualquier agresión física entre cónyuges cometida en vía pública con testigos presenciales",
+        "Exclusivamente el homicidio cometido en el seno del matrimonio legalmente constituido",
+        "La privación involuntaria de la libertad de circulación por motivos de salud mental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.2, Ley N° 348",
+      "explicacion": "La Violencia Feminicida es la acción de extrema violencia que atenta contra la vida e integridad de las mujeres."
+    },
+    {
+      "question": "Según el Artículo 7.6 de la Ley N° 348, la 'Violencia en los Servicios de Salud' abarca:",
+      "options": [
+        "Cualquier acción que limite, restrinja o vulnere el derecho de las mujeres a recibir atención de salud oportuna, libre de discriminación y con trato digno",
+        "Exclusivamente la mala práctica médica que produzca secuelas permanentes o incapacidad",
+        "La falta de insumos médicos en hospitales públicos por limitaciones presupuestarias",
+        "La negativa de atención médica a varones agresores en centros de rehabilitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.6, Ley N° 348",
+      "explicacion": "Incluye toda conducta que vulnere el acceso, calidad, oportunidad y calidez en los servicios de salud para las mujeres."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7.9 de la Ley N° 348, la 'Violencia Mediática' se produce cuando:",
+      "options": [
+        "Los medios de comunicación difunden imágenes o mensajes que estereotipan, cosifican o denigran a la mujer, promoviendo la violencia o discriminación",
+        "Se publican noticias judiciales sobre feminicidios sin autorización expresa de los familiares de la víctima",
+        "Los canales de televisión emiten spots informativos estatales sin incluir lenguaje de señas",
+        "Se emiten programas políticos que critican el desempeño de funcionarias públicas en ejercicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.9, Ley N° 348",
+      "explicacion": "Es la publicación o difusión de mensajes e imágenes que degraden o cosifiquen a las mujeres a través de medios masivos."
+    },
+    {
+      "question": "Según el Artículo 7.11 de la Ley N° 348, la 'Violencia Contra los Derechos Reproductivos' incluye:",
+      "options": [
+        "Toda acción que impida o limite el libre ejercicio de los derechos sexuales y reproductivos de la mujer, como el acceso a anticonceptivos o la libre decisión sobre el número de hijos",
+        "La negativa del empleador a otorgar subsidio de lactancia en empresas con menos de cinco trabajadores",
+        "El cobro de valores por atención de partos en clínicas de medicina prepagada privada",
+        "La falta de licencias por maternidad remuneradas superiores a un año de gestión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.11, Ley N° 348",
+      "explicacion": "Impedir, vulnerar o limitar la libre decisión sobre el cuerpo, maternidad o salud reproductiva constituye violencia contra derechos reproductivos."
+    },
+    {
+      "question": "Conforme al Artículo 7.15 de la Ley N° 348, ¿qué caracteriza a la 'Violencia Institucional'?",
+      "options": [
+        "Toda acción u omisión de servidores públicos que retarde, obstaculice o impida el acceso a la justicia y el ejercicio de derechos de las mujeres",
+        "Los desacuerdos de trabajo entre servidoras públicas dentro de un mismo ministerio",
+        "La falta de presupuesto en municipios rurales para la compra de vehículos administrativos",
+        "Las huelgas de trabajadores de la salud que afecten la atención general a la población"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.15, Ley N° 348",
+      "explicacion": "La Violencia Institucional es ejercida por servidores públicos que dilaten, impidan o atenten contra los derechos de las mujeres."
+    },
+    {
+      "question": "De acuerdo con el Artículo 12 de la Ley N° 348, ¿qué función principal cumple el Sistema Integral con Registro Único (SIPPASE)?",
+      "options": [
+        "Centralizar, administrar y sistematizar la información de casos de violencia hacia las mujeres a nivel nacional",
+        "Registrar las propiedades inmuebles adjudicadas a víctimas de feminicidio",
+        "Fiscalizar el presupuesto asignado a la Policía Boliviana para patrullajes preventivos",
+        "Conceder licencias de funcionamiento a los centros privados de acogida temporal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 348",
+      "explicacion": "El SIPPASE centraliza y automatiza los datos sobre hechos de violencia de género registrados por todas las entidades pertinentes."
+    },
+    {
+      "question": "Según el Artículo 13.I de la Ley N° 348, ¿cuál es un requisito indispensable para el acceso a cualquier cargo público en todos los Órganos del Estado?",
+      "options": [
+        "No contar con antecedente de violencia ejercida contra una mujer o cualquier miembro de su familia, certificado por el SIPPASE",
+        "Presentar certificación de matrimonio civil con antigüedad mayor a tres años",
+        "Contar con libreta de servicio militar obligatorio de forma indeclinable",
+        "Acreditar declaración jurada de no haber sido demandado por cobro de deudas civiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I, Ley N° 348",
+      "explicacion": "Se exige expresamente no tener antecedentes de violencia sancionados mediante sentencia firme o resolución administrativa."
+    },
+    {
+      "question": "Conforme al Artículo 14 de la Ley N° 348, las Entidades Territoriales Autónomas deben destinar recursos para la lucha contra la violencia provenientes de:",
+      "options": [
+        "Los recursos del Impuesto Directo a los Hidrocarburos (IDH) conforme a reglamentación específica",
+        "Un impuesto especial aplicado al consumo de bebidas alcohólicas e importaciones de tabaco",
+        "Descuentos obligatorios en las planillas de sueldos de los servidores públicos autonómicos",
+        "Aportes voluntarios de las juntas vecinales y comités de vigilancia municipal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Ley N° 348",
+      "explicacion": "Las ETA deben asignar recursos del IDH para infraestructura, equipamiento y sostenibilidad de SLIMs y Casas de Acogida."
+    },
+    {
+      "question": "Según el Artículo 18.2 de la Ley N° 348, en el ámbito educativo, el Ministerio de Educación tiene la obligación de:",
+      "options": [
+        "Incorporar la temática de derechos de las mujeres, equidad de género y no violencia en los currículos escolares en todos los niveles",
+        "Expulsar a todo estudiante varón que sea denunciado por desacuerdos escolares con compañeras de curso",
+        "Suspender las licencias de funcionamiento de colegios privados que no tengan un 50% de docentes mujeres",
+        "Imponer talleres semanales obligatorios fuera del horario escolar para padres de familia exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18.2, Ley N° 348",
+      "explicacion": "Obliga a incorporar contenidos de no violencia, igualdad y derechos humanos en la currícula del Sistema Educativo Plurinacional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20.1 de la Ley N° 348, en el sector laboral, queda absolutamente prohibido:",
+      "options": [
+        "Exigir pruebas de embarazo, VIH/SIDA o revisiones médicas ginecológicas para la selección, ingreso o permanencia en un empleo",
+        "Contratar mujeres en horarios nocturnos sin la autorización previa del Inspector de Trabajo",
+        "Otorgar licencias por maternidad superiores a los 90 días calendario estipulados",
+        "Establecer contratos a plazo fijo en labores administrativas para profesionales femeninas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.1, Ley N° 348",
+      "explicacion": "Está expresamente prohibido exigir pruebas médicas invasivas como embarazo o VIH para acceder o conservar un puesto de trabajo."
+    },
+    {
+      "question": "Según el Artículo 20.3 de la Ley N° 348, las empresas públicas y privadas deben otorgar a las trabajadoras en situación de violencia:",
+      "options": [
+        "Tolerancia en el horario de trabajo e inamovilidad laboral durante el tiempo que duren las medidas de protección y el tratamiento",
+        "Un subsidio económico extraordinario equivalente al 50% de su salario por un año",
+        "Jubilación anticipada con el 100% de aportes sin importar la edad alcanzada",
+        "Vacación anual pagada por un período ininterrumpido de seis meses consecutivos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.3, Ley N° 348",
+      "explicacion": "Se garantiza tolerancia en horarios e inamovilidad laboral durante el periodo de atención médica o judicial acreditado."
+    },
+    {
+      "question": "En el marco del Artículo 21.I de la Ley N° 348, la atención en servicios de salud públicos y de la seguridad social a mujeres víctimas de violencia es:",
+      "options": [
+        "Gratuita, de carácter prioritario e inmediato, sin requerir la presentación previa de denuncia policial o judicial",
+        "Sujeta al pago diferido de aranceles tras la emisión de la sentencia penal correspondiente",
+        "Condicionada a la presentación del certificado médico forense en un plazo no mayor a 12 horas",
+        "Gratuita únicamente para beneficiarias del bonos estatales de extrema pobreza"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I, Ley N° 348",
+      "explicacion": "La atención médica es obligatoria, gratuita e inmediata, sin condicionarla a trámites o denuncias judiciales previas."
+    },
+    {
+      "question": "Según el Artículo 22.II de la Ley N° 348, el personal médico de salud que atienda a una mujer con signos de violencia tiene el deber de:",
+      "options": [
+        "Emitir el certificado médico de atención y reportar de oficio el hecho a la FELCV o al Ministerio Público en un plazo de 24 horas",
+        "Exigir el consentimiento escrito del agresor antes de elaborar la ficha clínica de atención",
+        "Derivar a la víctima a un centro privado de salud si las lesiones requieren sutura o cirugía",
+        "Guardar reserva absoluta bajo secreto profesional prohibiendo cualquier reporte externo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.II, Ley N° 348",
+      "explicacion": "Deben extender certificación médica gratuita e informar de oficio a la autoridad competente sin dilación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 25.I de la Ley N° 348, los Servicios Legales Integrales Municipales (SLIM) son:",
+      "options": [
+        "Servicios permanentes y gratuitos de atención integral (legal, psicológica y social) encargados de la protección a mujeres en situación de violencia",
+        "Tribunales de arbitraje comunitario compuestos por dirigentes de juntas vecinales",
+        "Unidades de la Policía Nacional destinadas al arresto preventivo de infractores por contravenciones",
+        "Oficinas privadas de asesoría jurídica financiadas mediante aranceles regulados por el Ministerio de Justicia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.I, Ley N° 348",
+      "explicacion": "Los SLIMs son dependencias municipales obligatorias de atención gratuita, multidisciplinaria e interdisciplinaria."
+    },
+    {
+      "question": "Conforme al Artículo 27 de la Ley N° 348, las Casas de Acogida y Refugio Temporal deben caracterizarse por:",
+      "options": [
+        "Garantizar la protección, alojamiento, alimentación, atención médica y psicológica a la víctima y sus dependientes de forma confidencial",
+        "Estar ubicadas en dependencias de la Policía Boliviana con acceso público y carteles indicativos",
+        "Cobrar una tarifa diaria simbólica para cubrir los gastos de alimentación de los menores",
+        "Limitar la estadía a un tiempo máximo improrrogable de 48 horas calendario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, Ley N° 348",
+      "explicacion": "Ofrecen cobijo, protección confidencial, alimentación y atención integral a la mujer e hijos menores."
+    },
+    {
+      "question": "Según el Artículo 32 de la Ley N° 348, las Promotoras Comunitarias son:",
+      "options": [
+        "Mujeres de la comunidad capacitadas para orientar, acompañar y brindar primer apoyo a mujeres en situación de violencia",
+        "Funcionarias del Ministerio de Gobierno designadas con rango de agentes de policía judicial",
+        "Abogadas contratadas por el Colegio de Abogados para tramitar divorcios gratuitos",
+        "Inspectoras municipales encargadas de clausurar locales nocturnos sin licencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32, Ley N° 348",
+      "explicacion": "Son lideresas comunitarias voluntarias preparadas para la prevención, orientación y acompañamiento a víctimas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 35 de la Ley N° 348, las Medidas de Protección tienen como objetivo central:",
+      "options": [
+        "Interrumpir e impedir que la agresión continúe, resguardando la vida, integridad y seguridad de la mujer y sus dependientes",
+        "Dictar condena anticipada contra el imputado sin necesidad de desarrollo del juicio oral",
+        "Inmovilizar la totalidad del patrimonio comercial de los familiares del agresor",
+        "Obligar a la víctima a abandonar la residencia habitual y trasladarse a otro municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 348",
+      "explicacion": "Buscan cesar la violencia de forma inmediata, precautelando la vida, seguridad física y psicológica de la víctima."
+    },
+    {
+      "question": "Según el Artículo 35.1 de la Ley N° 348, el fiscal o juez que conozca una denuncia puede ordenar de inmediato que el agresor:",
+      "options": [
+        "Salga y se desocupe del domicilio cónyugal o habitacional, independientemente de la titularidad de la propiedad",
+        "Acredite la compra de una vivienda alternativa para la víctima en un plazo de 72 horas",
+        "Permanezca en la vivienda bajo la custodia y vigilancia obligatoria de la víctima",
+        "Entregue de manera definitiva su parte de los bienes gananciales a favor del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.1, Ley N° 348",
+      "explicacion": "La autoridad dispone el alejamiento y desocupación inmediata del domicilio por parte del denunciado."
+    },
+    {
+      "question": "Conforme al Artículo 35.3 de la Ley N° 348, en materia patrimonial, las medidas de protección autorizan a la autoridad a:",
+      "options": [
+        "Prohibir al agresor la enajenación, disposición o gravamen de bienes comunes o de la víctima",
+        "Subastar de manera sumaria los vehículos del agresor para pagar aranceles fiscales",
+        "Transferir la propiedad de las empresas del agresor a favor del Ministerio de Justicia",
+        "Expropiar los bienes de la familia extendida del denunciado sin indemnización"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.3, Ley N° 348",
+      "explicacion": "Faculta a suspender o prohibir la venta, ocultamiento o gravamen de bienes muebles e inmuebles compartidos."
+    },
+    {
+      "question": "Según el Artículo 35.8 de la Ley N° 348, una medida de protección de carácter personal consiste en:",
+      "options": [
+        "Prohibir al agresor acercarse, comunicarse o intimidar a la víctima, sus familiares o testigos por cualquier medio",
+        "Obligar al agresor a cambiar de ciudad de residencia de forma permanente",
+        "Retener el pasaporte de los familiares del agresor hasta el tercer grado de consanguinidad",
+        "Publicar la fotografía del imputado en medios de comunicación impresos a costa del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.8, Ley N° 348",
+      "explicacion": "Restringe la proximidad, acceso, acoso o comunicación del agresor hacia la víctima o su entorno."
+    },
+    {
+      "question": "En el marco del Artículo 36 de la Ley N° 348, ¿en qué plazo máximo las autoridades judiciales deben ratificar, modificar o revocar las medidas de protección urgentes dispuestas por el fiscal?",
+      "options": [
+        "En el plazo máximo de veinticuatro (24) horas siguientes a su conocimiento",
+        "En el plazo ordinario de quince días hábiles en audiencia de medidas cautelares",
+        "En el plazo de tres días hábiles previa consulta obligatoria al SIPPASE",
+        "En un lapso improrrogable de sesenta días en la fase de conclusiones"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36, Ley N° 348",
+      "explicacion": "La autoridad judicial debe resolver sobre la homologación o ratificación de las medidas dentro de las 24 horas."
+    },
+    {
+      "question": "Según el Artículo 46.I de la Ley N° 348, sobre la Conciliación en hechos de violencia hacia las mujeres:",
+      "options": [
+        "Está totalmente prohibida la conciliación en todos los hechos de violencia que comprometan la vida o integridad física o sexual",
+        "La conciliación es obligatoria e indispensable antes de iniciar la etapa preparatoria del proceso penal",
+        "Se permite la conciliación hasta tres veces si cuenta con la firma de un sacerdote o autoridad comunitaria",
+        "Se faculta al fiscal de materia a imponer acuerdos conciliatorios monetarios de oficio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46.I, Ley N° 348",
+      "explicacion": "Se prohíbe la conciliación; ningún hecho de violencia grave, física o sexual puede ser sujeto a negociación."
+    },
+    {
+      "question": "Conforme al Artículo 46.II de la Ley N° 348, de manera excepcionalísima, se admitirá la conciliación únicamente cuando:",
+      "options": [
+        "Sea solicitada por única vez por la víctima, en hechos de violencia física leve, sin que exista antecedente de reincidencia o riesgo vital",
+        "El agresor acepte pagar una multa equivalente a tres salarios mínimos nacionales ante el juez de instrucción",
+        "Se trate de casos de violencia sexual donde no existan testigos presenciales directos",
+        "El Ministerio Público considere conveniente archivar la investigación por carga procesal acumulada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46.II, Ley N° 348",
+      "explicacion": "Se admite por única vez a solicitud fundada de la víctima, en casos leves no constitutivos de delito grave ni reincidencia."
+    },
+    {
+      "question": "Según el Artículo 47 de la Ley N° 348, ¿qué se prohíbe expresamente en la substanciación de procesos de violencia hacia las mujeres?",
+      "options": [
+        "Promover o someter a la víctima a procesos de mediación, terapia de pareja o confrontación con el agresor",
+        "La presentación de declaraciones probatorias mediante videoconferencia o medios virtuales",
+        "La intervención de abogados defensores asignados por el Servicio Plurinacional de Asistencia a la Víctima",
+        "La admisión de certificaciones médicas emitidas por profesionales de la salud pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47, Ley N° 348",
+      "explicacion": "Queda prohibida la mediación o cualquier mecanismo que obligue a la víctima a someterse a terapias conjuntas o careos con el agresor."
+    },
+    {
+      "question": "De acuerdo con el Artículo 50 de la Ley N° 348, la Fuerza Especial de Lucha Contra la Violencia (FELCV) es:",
+      "options": [
+        "Un organismo especializado de la Policía Boliviana encargado de la prevención, auxilio, investigación y aprehensión en casos de violencia hacia las mujeres",
+        "Una guardia municipal dedicada al control de permisos de funcionamiento de locales de espectáculos",
+        "Un cuerpo de seguridad civil dependiente directamente de los Consejos Magistraturales Departamentales",
+        "Una brigada militar encargada del resguardo de fronteras en zonas de trata y tráfico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50, Ley N° 348",
+      "explicacion": "La FELCV es el órgano policial especializado competente para intervenir de oficio o a denuncia en hechos de violencia."
+    },
+    {
+      "question": "Según el Artículo 53 de la Ley N° 348, en casos de flagrancia o peligro inminente para la vida de la mujer, el personal de la FELCV puede:",
+      "options": [
+        "Ingresar al domicilio donde se esté cometiendo el delito sin necesidad de mandamiento de allanamiento para prestar auxilio y aprehender al agresor",
+        "Esperar la emisión de una orden judicial escrita expedida por el juez de turno en horario administrativo",
+        "Solicitar la presencia previa del Corregidor y del Subgobernador Departamental para ingresar a la vivienda",
+        "Limitarse a permanecer en la puerta exterior haciendo uso de altavoces o megáfonos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 53, Ley N° 348",
+      "explicacion": "Faculta a ingresar libremente al lugar del hecho en flagrancia para socorrer a la víctima y aprehender al imputado."
+    },
+    {
+      "question": "Conforme al Artículo 55 de la Ley N° 348, los certificados médicos expedidos por profesionales de salud del sistema público o de la seguridad social:",
+      "options": [
+        "Tienen plena validez probatoria y no requieren homologación formal ante el médico forense para el inicio de la investigación penal",
+        "Carecen de valor legal hasta que sean ratificados por un tribunal compuesto por tres peritos privados",
+        "Solo sirven para justificar inasistencias laborales pero no como prueba en juicio penal",
+        "Deben ser legalizados mediante timbre de caja de salud de manera obligatoria para su admisión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 55, Ley N° 348",
+      "explicacion": "Los certificados del sistema de salud público tienen valor probatorio directo y no exigen homologación previa para iniciar el proceso."
+    },
+    {
+      "question": "De acuerdo con el Artículo 60 de la Ley N° 348, la representación y patrocinio legal a las víctimas que carezcan de recursos económicos es asumido por:",
+      "options": [
+        "El Servicio Plurinacional de Asistencia a la Víctima (SEPAVI), los SLIMs o las Defensorías de la Niñez y Adolescencia",
+        "Los consultorios jurídicos de los partidos políticos con representación legislativa",
+        "Colegios privados de abogados cobrando tarifas sociales reguladas por el municipio",
+        "El Ministerio de Economía mediante giros directos para contratación de juristas independientes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, Ley N° 348",
+      "explicacion": "SEPAVI, SLIMs y entidades públicas de patrocinio gratuito brindan la asistencia jurídica especializada obligatoria."
+    },
+    {
+      "question": "Según el Artículo 62.I de la Ley N° 348, todos los delitos tipificados en el marco de esta norma se consideran de:",
+      "options": [
+        "Acción penal pública, perseguibles de oficio por el Ministerio Público con la sola noticia fehaciente del hecho",
+        "Acción penal privada, dependientes exclusivamente de querella formal presentada por la víctima",
+        "Acción pública a instancia de parte, que se extinguen si la víctima abandona el proceso por más de diez días",
+        "Competencia exclusiva de las autoridades de la Jurisdicción Indígena Originaria Campesina"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 62.I, Ley N° 348",
+      "explicacion": "Se tramitan como delitos de acción penal pública perseguibles de oficio, prohibiendo el abandono arbitrario de la causa."
+    },
+    {
+      "question": "Conforme al Artículo 65 de la Ley N° 348, el desistimiento o renuncia de la víctima en procesos penales por violencia de género:",
+      "options": [
+        "No impedirá que el Ministerio Público continúe de oficio con la investigación y el procesamiento penal del hecho",
+        "Extingue automáticamente la acción penal debiendo archivarse los obrados con calidad de cosa juzgada",
+        "Sanciona a la víctima con el pago de las costas y costos procesales devengados",
+        "Obliga al juez a liberar de inmediato al imputado sin imponer medidas cautelares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 65, Ley N° 348",
+      "explicacion": "Por ser de acción pública, el desistimiento o apartamiento de la víctima no paraliza ni extingue la persecución penal."
+    },
+    {
+      "question": "De acuerdo con el Artículo 70 de la Ley N° 348, los Juzgados de Instrucción en Violencia Hacia las Mujeres son competentes para:",
+      "options": [
+        "Dirigir la etapa preparatoria, resolver medidas cautelares, de protección y cautelar las garantías constitucionales del proceso",
+        "Dictar sentencia definitiva condenatoria de 30 años en juicio oral continuo",
+        "Tramitar las apelaciones de auto de vista en segunda instancia departamental",
+        "Resolver procesos de división de herencia y liquidación de bienes matrimoniales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70, Ley N° 348",
+      "explicacion": "Ejercen el control jurisdiccional de la investigación y resuelven sobre medidas cautelares y de protección."
+    },
+    {
+      "question": "Según el Artículo 71.I de la Ley N° 348, los Tribunales de Sentencia en Violencia Hacia las Mujeres juzgan:",
+      "options": [
+        "Los delitos cuya pena sea mayor a cuatro (4) años de privación de libertad",
+        "Exclusivamente faltas administrativas y contravenciones del personal policial de la FELCV",
+        "Delitos menores con penas pecuniarias y multas comunitarias no mayores a seis meses",
+        "Procesos apelados en casación procedentes del Tribunal Supremo de Justicia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71.I, Ley N° 348",
+      "explicacion": "Conocen y resuelven el juicio oral en delitos sancionados con penas privativas de libertad superiores a 4 años."
+    },
+    {
+      "question": "Conforme al Artículo 75 de la Ley N° 348, las sanciones alternativas a la privación de libertad se aplican únicamente cuando:",
+      "options": [
+        "La pena impuesta sea igual o menor a tres (3) años y no exista reincidencia ni concurran circunstancias agravantes de gravedad",
+        "El imputado sea autoridad elegida por voto popular en ejercicio activo de sus funciones",
+        "La víctima declare por escrito que ha perdonado incondicionalmente al agresor",
+        "El hecho de violencia sea cometido por un servidor público dentro de un edificio gubernamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 75, Ley N° 348",
+      "explicacion": "Se aplican de forma restrictiva para delitos menores con condenas no mayores a 3 años y sin reincidencia."
+    },
+    {
+      "question": "Según el Artículo 76 de la Ley N° 348, la sanción alternativa de 'Trabajo Comunitario' consiste en:",
+      "options": [
+        "La prestación de trabajos no remunerados a favor de la comunidad o instituciones públicas de 52 a 104 semanas, fuera de la jornada laboral",
+        "La obligación de reparar edificios escolares en horario de trabajo habitual con goce de salario",
+        "El cumplimiento de tareas de limpieza en el domicilio particular de la víctima durante seis meses",
+        "La prestación de servicios de escolta militar en puestos fronterizos del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 76, Ley N° 348",
+      "explicacion": "Implica laburar sin pago en beneficio público entre 52 y 104 semanas sin afectar el empleo ordinario del sancionado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 77 de la Ley N° 348, la sanción alternativa de 'Detención de Fin de Semana' se cumple en:",
+      "options": [
+        "Un recinto penitenciario desde el día viernes a horas 19:00 hasta el día lunes a horas 06:00",
+        "El domicilio cónyugal bajo custodia permanente de los familiares de la víctima",
+        "Las oficinas de los SLIMs cumpliendo tareas administrativas de archivo",
+        "Un centro de salud realizando turnos médicos nocturnos supervisados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 77, Ley N° 348",
+      "explicacion": "Se efectúa con el ingreso al penal el viernes a las 19:00 y salida el lunes a las 06:00 para evitar la pérdida del empleo."
+    },
+    {
+      "question": "Según el Artículo 84 de la Ley N° 348 (Art. 252 bis del Código Penal), el delito de Feminicidio se configura cuando se da muerte a una mujer en cualquiera de las siguientes circunstancias, EXCEPTUANDO:",
+      "options": [
+        "Cuando la muerte sea consecuencia de una enfermedad crónica o muerte natural dentro de un hospital público",
+        "Cuando el autor sea o haya sido cónyuge, conviviente o mantenga una relación análoga de afectividad",
+        "When la víctima se haya encontrado en estado de vulnerabilidad o sometida a relaciones de poder desiguales",
+        "Cuando el hecho haya sido precedido por violencia física, psicológica, sexual o económica constante"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84 (Art. 252 bis CP), Ley N° 348",
+      "explicacion": "La muerte natural o por enfermedad no constituye feminicidio; las demás causales tipifican el delito sancionado con 30 años sin indulto."
+    },
+    {
+      "question": "Conforme al Artículo 83 de la Ley N° 348, que incorpora el Artículo 272 bis al Código Penal, la 'Violencia Familiar o Doméstica' es sancionada con:",
+      "options": [
+        "Privación de libertad de dos (2) a cuatro (4) años, siempre que el hecho no constituya un delito más grave",
+        "Multa equivalente a diez salarios mínimos y trabajo comunitario por dos semanas",
+        "Arresto domiciliario de 24 horas y disculpa pública en audiencia oral",
+        "Privación de libertad de diez a quince años de cumplimiento obligatorio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 272 bis CP), Ley N° 348",
+      "explicacion": "El tipo penal de Violencia Familiar o Doméstica sanciona las agresiones físicas o psicológicas continuas con 2 a 4 años de cárcel."
+    },
+    {
+      "question": "Según el Artículo 83 de la Ley N° 348 (Art. 272 bis.II CP), la pena por Violencia Familiar o Doméstica se elevará en un tercio cuando:",
+      "options": [
+        "El hecho sea cometido en presencia de hijas e hijos menores de edad o cuando la víctima sea mujer embarazada o persona con discapacidad",
+        "El agresor se encuentre en estado de sobriedad absoluta en el momento de la agresión",
+        "La víctima ejerza la profesión de servidora pública en el ámbito municipal",
+        "La agresión ocurra dentro de un establecimiento comercial de propiedad privada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 272 bis.II CP), Ley N° 348",
+      "explicacion": "Son agravantes especiales la presencia de menores, el estado de gestación, la edad avanzada o discapacidad de la mujer."
+    },
+    {
+      "question": "De acuerdo con el Artículo 83 de la Ley N° 348 (Art. 312 quater del Código Penal), el delito de 'Acoso Sexual' sanciona a quien:",
+      "options": [
+        "Valiéndose de una posición de jerarquía o poder, solicite o exija favores sexuales para sí o para un tercero bajo amenaza de causar un mal",
+        "Realice halagos o comentarios sobre la vestimenta en espacios públicos sin contacto físico",
+        "Envíe solicitudes de amistad a través de redes sociales sin conocer previamente a la persona",
+        "Presente ofertas de empleo dirigidas exclusivamente a profesionales del sexo femenino"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 312 quater CP), Ley N° 348",
+      "explicacion": "El acoso sexual exige la subordinación o ventaja jerárquica (laboral, educativa, etc.) para solicitar o exigir favores sexuales no deseados."
+    },
+    {
+      "question": "Conforme al Artículo 83 de la Ley N° 348 (Art. 312 quater.II CP), la pena para el delito de Acoso Sexual es de:",
+      "options": [
+        "Privación de libertad de cuatro (4) a ocho (8) años",
+        "Prestación de trabajo de 30 días y multa pecuniaria leve",
+        "Reclusión de seis meses a un año o suspensión del cargo",
+        "Privación de libertad de doce a quince años de cárcel"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 312 quater.II CP), Ley N° 348",
+      "explicacion": "Se tipifica con una pena privativa de libertad de 4 a 8 años de prisión."
+    },
+    {
+      "question": "Según el Artículo 83 de la Ley N° 348, que incorpora el Artículo 250 bis al Código Penal, el delito de 'Violencia Económica' sanciona a quien:",
+      "options": [
+        "Menoscabe, limite o restrinja la libre disposición de los ingresos, bienes o salario de la mujer, o la prive de los medios indispensables para su subsistencia",
+        "Se niegue a otorgar préstamos personales sin garantía bancaria a su cónyuge",
+        "Incurra en quiebra comercial involuntaria afectando el capital de su empresa familiar",
+        "No efectúe depósitos voluntarios de dinero en cuentas de ahorro a plazo fijo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 250 bis CP), Ley N° 348",
+      "explicacion": "Consiste en la restricción, retención o despojo no consentido del salario, bienes o recursos necesarios para la subsistencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 83 de la Ley N° 348 (Art. 250 ter del Código Penal), la 'Violencia Patrimonial' se configura cuando:",
+      "options": [
+        "Se apodera, transforma, sustrae, destruye o retiene bienes, instrumentos de trabajo o documentos personales de la mujer",
+        "Se compra un inmueble utilizando créditos hipotecarios bancarios concedidos a nombre del cónyuge",
+        "Se omiten los pagos de impuestos a la propiedad de bienes inmuebles urbanos",
+        "Se alquila un departamento compartido sin contar con la firma de un fiador solidario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 250 ter CP), Ley N° 348",
+      "explicacion": "Afecta la propiedad o posesión de objetos, herramientas laborales, títulos o documentos personales de la mujer."
+    },
+    {
+      "question": "Según el Artículo 83 de la Ley N° 348 (Art. 267 bis del Código Penal), el delito de 'Aborto Forzado' castiga a quien:",
+      "options": [
+        "Mediante violencia física, psicológica o sin el consentimiento libre e informado de la mujer, le causare la interrupción de su embarazo",
+        "Realice un procedimiento médico de emergencia para salvar la vida de la madre con su consentimiento expreso",
+        "Suministre analgésicos durante el trabajo de parto previo diagnóstico médico autorizado",
+        "Omitiere brindar información sobre métodos anticonceptivos a parejas jóvenes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 267 bis CP), Ley N° 348",
+      "explicacion": "Sanciona la provocación del aborto no consentido o ejercido mediante violencia o intimidación."
+    },
+    {
+      "question": "Conforme al Artículo 83 de la Ley N° 348 (Art. 271 bis del Código Penal), la 'Esterilización Forzada' impone la pena de privación de libertad de:",
+      "options": [
+        "Cinco (5) a doce (12) años a quien prive a una persona de su función reproductiva sin su consentimiento libre e informado",
+        "Un año a tres años sustituibles por perdón judicial sumario",
+        "Quince a veinte años cuando se realice en clínicas privadas con autorización de la familia",
+        "Seis meses a dos años con multa pecuniaria estatal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 271 bis CP), Ley N° 348",
+      "explicacion": "La privación quirúrgica o química no consentida de la capacidad reproductiva tiene una pena severa de 5 a 12 años de cárcel."
+    },
+    {
+      "question": "Según el Artículo 83 de la Ley N° 348 (Art. 154 bis del Código Penal), el 'Incumplimiento de Deberes de Protección' sanciona a los servidores públicos que:",
+      "options": [
+        "Omitan, retarden o se nieguen a brindar auxilio, recepción de denuncia o tramitación oportuna a mujeres en situación de violencia",
+        "No asistan a capacitaciones voluntarias sobre equidad de género dictadas en fines de semana",
+        "No cuenten con título de posgrado en materia de derechos humanos y ciencias penales",
+        "Se ausenten de sus fuentes de trabajo con licencia médica debidamente justificada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 154 bis CP), Ley N° 348",
+      "explicacion": "Penaliza la negligencia, negativa o dilación injustificada de fiscales, policías o jueces en proteger a las mujeres."
+    },
+    {
+      "question": "De acuerdo con el Artículo 38 de la Ley N° 348, la 'Declaratoria de Alerta contra la Violencia' se activa cuando:",
+      "options": [
+        "Se produzca un alarmante índice de hechos de violencia o feminicidios en un determinado territorio o municipio",
+        "El presupuesto municipal para obras públicas sufra una reducción superior al 20%",
+        "Se convoque a elecciones subnacionales para la renovación de autoridades locales",
+        "Las organizaciones sociales marchen en la sede de gobierno exigiendo fuentes laborales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38, Ley N° 348",
+      "explicacion": "Es un mecanismo de emergencia nacional o subnacional decretado ante altos índices o situaciones críticas de violencia hacia las mujeres."
+    },
+    {
+      "question": "Conforme al Artículo 39 de la Ley N° 348, la Declaratoria de Alerta faculta a las entidades estatales a:",
+      "options": [
+        "Reasignar y disponer recursos económicos de manera inmediata para hacer frente a la emergencia",
+        "Clausurar por tiempo indefinido las unidades educativas de la zona afectada",
+        "Establecer toques de queda nocturnos para la población femenina en general",
+        "Suspender las garantías constitucionales del debido proceso para los procesados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39, Ley N° 348",
+      "explicacion": "Permite destinar partidas presupuestarias extraordinarias de forma prioritaria para acciones de choque y protección."
+    },
+    {
+      "question": "Según el Artículo 43 de la Ley N° 348, para evitar la revictimización, la declaración de la mujer víctima de violencia:",
+      "options": [
+        "Deberá tomarse preferentemente bajo el sistema de Cámara Gesell o prueba pericial anticipada para no ser reiterada en juicio",
+        "Deberá repetirse obligatoriamente en tres oportunidades ante diferentes fiscales de materia",
+        "Deberá ser ratificada en presencia obligatoria de los medios de comunicación masiva",
+        "Solo se considerará válida si se presta ante el Pleno de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 43, Ley N° 348",
+      "explicacion": "Se protege la dignidad de la víctima evitando interrogatorios reiterados y utilizando mecanismos de anticipación de prueba como la Cámara Gesell."
+    },
+    {
+      "question": "De acuerdo con el Artículo 44 de la Ley N° 348, la reserva de identidad de la víctima en el proceso penal es:",
+      "options": [
+        "Un derecho que debe ser garantizado por las autoridades judiciales y la FELCV cuando existan riesgos para su seguridad o dignidad",
+        "Una sanción impuesta a la víctima que le impide informar sobre el estado de su caso a sus familiares",
+        "Un trámite reservado exclusivamente a ciudadanas extranjeras en situación de refugio",
+        "Una decisión facultativa que requiere el pago previo de timbres judiciales de reserva"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 44, Ley N° 348",
+      "explicacion": "Proclama la protección de datos e identidad de la víctima para resguardar su seguridad e intimidad."
+    },
+    {
+      "question": "Conforme al Artículo 45.I de la Ley N° 348, los medios de comunicación pública y privada deben destinar espacio gratuito para campañas de prevención en un porcentaje de:",
+      "options": [
+        "Mínimo diez minutos al mes en horarios de máxima audiencia",
+        "Un 50% de la pauta publicitaria comercial diaria disponible",
+        "Dos horas semanales en transmisiones exclusivamente matutinas",
+        "Un minuto por cada emisión de noticieros estelares nocturnos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.I, Ley N° 348",
+      "explicacion": "Dispone la difusión obligatoria y gratuita de spots y mensajes preventivos por parte de las cadenas mediáticas."
+    },
+    {
+      "question": "Según el Artículo 48.I de la Ley N° 348, los Servidores Públicos que tengan conocimiento de un hecho de violencia hacia una mujer están:",
+      "options": [
+        "Obligados a denunciarlo de inmediato ante la FELCV, el Ministerio Público o la autoridad más cercana",
+        "Facultados a guardar silencio si la víctima les solicita reserva oral",
+        "Obligados a tramitar primero una investigación administrativa interna durante 30 días",
+        "Autorizados a cobrar gastos de representación a la familia de la víctima"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48.I, Ley N° 348",
+      "explicacion": "Constituye un deber ineludible de todo funcionario público denunciar de oficio cualquier acto de violencia que conozca en ejercicio de sus funciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 49 de la Ley N° 348, en comunidades indígenas originarias campesinas, el tratamiento de hechos de violencia debe regirse por:",
+      "options": [
+        "El respeto a la vida, la dignidad e integridad física de la mujer, sin que los usos y costumbres fundamenten abusos ni impunidad",
+        "El principio de subordinación absoluta del fallo a las decisiones de las asambleas masculinas locales",
+        "La aplicación preferente del castigo físico como medida de corrección cónyugal autorizada",
+        "La expulsión inmediata de la mujer de su territorio comunitario por alteración de la paz"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 49, Ley N° 348",
+      "explicacion": "Ninguna norma o costumbre comunitaria puede invocarse para justificar la violencia ni para vulnerar derechos fundamentales."
+    },
+    {
+      "question": "Conforme al Artículo 51.I de la Ley N° 348, el personal asignado a la FELCV debe contar obligatoriamente con:",
+      "options": [
+        "Perfil especializado, capacitación continua en derechos humanos y enfoque de género, y permanencia mínima de tres años",
+        "Título de abogacía con especialización en derecho penal internacional",
+        "Grado militar militar de teniente coronel o superior dentro de la estructura de las Fuerzas Armadas",
+        "Certificación de aprobación de cursos de artes marciales y defensa personal avanzada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 51.I, Ley N° 348",
+      "explicacion": "Se exige la inamovilidad temporal (3 años) y una formación rigurosa y con sensibilidad social y de género."
+    },
+    {
+      "question": "Según el Artículo 56 de la Ley N° 348, el Instituto de Investigaciones Forenses (IDIF) debe contar con:",
+      "options": [
+        "Unidades especializadas y médicos forenses capacitados para la atención ágil, gratuita e inmediata de víctimas de violencia",
+        "Servicios de cobro por adelantado para reactivos químicos importados",
+        "Médicos asignados exclusivamente para atender peritajes de funcionarios gubernamentales",
+        "Laboratorios itinerantes que funcionen únicamente tres meses al año"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 56, Ley N° 348",
+      "explicacion": "El IDIF debe garantizar la gratuidad, prioridad y rigor técnico científico en la toma de muestras y emisión de informes forenses."
+    },
+    {
+      "question": "De acuerdo con el Artículo 58 de la Ley N° 348, los Gobiernos Autónomos Departamentales tienen la responsabilidad de financiar y administrar:",
+      "options": [
+        "Casas de Acogida y Refugio Temporal a nivel departamental para mujeres en situación de extrema violencia",
+        "Los sueldos de los fiscales y jueces de instrucción en violencia de género",
+        "Las compras de combustible para las patrullas terrestres del Ministerio de Defensa",
+        "Los pasajes internacionales de las comisiones parlamentarias de DDHH"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58, Ley N° 348",
+      "explicacion": "Es competencia de las Gobernaciones crear, equipar y sostener centros de refugio temporal departamentales."
+    },
+    {
+      "question": "Según el Artículo 64 de la Ley N° 348, en los procesos penales por violencia de género, la carga probatoria del hecho denunciado recae fundamentalmente en:",
+      "options": [
+        "El Ministerio Público y los organismos de investigación, liberando a la víctima de la obligación de conseguir pruebas por su cuenta",
+        "La víctima, quien debe presentar al menos tres peritajes privados financiados por su familia",
+        "El Defensor del Pueblo en calidad de querellante adhesivo obligatorio",
+        "El juez de la causa, quien debe recabar personalmente los testimonios en el lugar del hecho"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 64, Ley N° 348",
+      "explicacion": "Corresponde al Estado (Fiscalía y Policía) investigar de oficio y aportar los elementos de convicción sin cargar dicho peso a la víctima."
+    },
+    {
+      "question": "Conforme al Artículo 67 de la Ley N° 348, la gratuidad en las actuaciones judiciales comprende:",
+      "options": [
+        "La exención de todo pago por timbres, valores, certificados, formularios o legalizaciones en todo el trámite del proceso",
+        "Únicamente el no pago de aranceles de notificación en capitales de departamento",
+        "El subsidio estatal para la contratación de peritos privados de libre elección",
+        "La condonación de deudas tributarias personales pendientes de la víctima"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 67, Ley N° 348",
+      "explicacion": "Todas las diligencias, certificados, fotocopias, actuaciones y notificaciones judiciales para la víctima son 100% gratuitas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 69 de la Ley N° 348, la rebeldía del imputado procesado por feminicidio u otros delitos graves de violencia:",
+      "options": [
+        "No suspende la etapa de juicio ni la prosecución del proceso penal hasta la sentencia",
+        "Archiva definitivamente el caso concediéndole la libertad irrestricta",
+        "Obliga al juez a declarar la nulidad de todo lo actuado hasta la fase inicial",
+        "Otorga un plazo de gracia de dos años para su apersonamiento voluntario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 69, Ley N° 348",
+      "explicacion": "El juzgamiento por feminicidio y delitos conexos puede continuar en rebeldía del imputado conforme a las previsiones constitucionales."
+    },
+    {
+      "question": "Según el Artículo 73 de la Ley N° 348, la inhabilitación como sanción accesoria a delitos de violencia comprende:",
+      "options": [
+        "La privación de ejercer empleos o cargos públicos, profesiones o derechos de patria potestad de uno a doce años",
+        "La suspensión definitiva de la cédula de identidad del condenado",
+        "La prohibición de emitir voto en elecciones generales por el resto de su vida",
+        "La cancelación de títulos académicos expedidos por universidades públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 73, Ley N° 348",
+      "explicacion": "Consiste en la incapacidad temporal para ejercer funciones públicas, tutelas o derechos familiares específicos hasta por 12 años."
+    },
+    {
+      "question": "Conforme al Artículo 74 de la Ley N° 348, el importe recaudado por concepto de multas aplicadas a agresores se destina a:",
+      "options": [
+        "Sostener y financiar los Servicios Legales Integrales Municipales (SLIM) y las Casas de Acogida",
+        "El Fondo de Pensiones de la Policía Boliviana para bonos de jubilación",
+        "El pago de remuneraciones extraordinarias a los vocales de Tribunales Departamentales",
+        "La Tesorería General del Estado para la compra de mobiliario de oficina gubernamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 74, Ley N° 348",
+      "explicacion": "Los montos recaudados por multas por faltas o sanciones alternativas alimentan las partidas de atención de SLIMs y refugios."
+    },
+    {
+      "question": "De acuerdo con el Artículo 78 de la Ley N° 348, la sanción de 'Plan de Conducta' obliga al sancionado a:",
+      "options": [
+        "Someterse a programas educativos, psicológicos o de rehabilitación para modificar comportamientos violentos",
+        "Presentarse diariamente a firmar el libro de asistencia en el comando general de policía",
+        "Redactar un ensayo autobiográfico sobre relaciones humanas para su publicación en prensa",
+        "Realizar aportes económicos mensuales directos a favor del municipio de su residencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 78, Ley N° 348",
+      "explicacion": "El plan de conducta impone reglas como someterse obligatoriamente a tratamiento psicológico, psiquiátrico o desintoxicación."
+    },
+    {
+      "question": "Según el Artículo 79 de la Ley N° 348, cuando la violencia sea cometida por un servidor público en ejercicio de sus funciones:",
+      "options": [
+        "Se considerará una circunstancia agravante que incrementará la pena en un tercio del máximo legal fijado",
+        "El proceso penal se tramitará obligatoriamente en la vía ordinaria civil",
+        "Gozará de fuero especial debiendo ser juzgado en la capital del Estado por el Tribunal Supremo",
+        "Se le concederá un perdón judicial automático por primera infracción formal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 79, Ley N° 348",
+      "explicacion": "Aprovechar la función pública para agredir o restringir derechos constituye agravante especial en el tipo penal."
+    },
+    {
+      "question": "Conforme al Artículo 80 de la Ley N° 348, la reparación del daño a la víctima fijada en sentencia condenatoria comprende:",
+      "options": [
+        "La restitución del derecho vulnerado, el pago de gastos de tratamiento médico, psicológico, lucro cesante y daño moral",
+        "Únicamente una carta de disculpas firmada ante un notario de fe pública",
+        "La entrega de cupones de alimentos financiados por el Ministerio de Salud",
+        "La exoneración de impuestos a la renta a favor de los parientes del imputado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 80, Ley N° 348",
+      "explicacion": "La indemnización abarca gastos curativos, perjuicios materiales, lucro cesante, afectación moral y daño al proyecto de vida."
+    },
+    {
+      "question": "De acuerdo con el Artículo 81 de la Ley N° 348, en caso de insolvencia patrimonial del condenado por delito de feminicidio, el Estado velará por:",
+      "options": [
+        "El acceso prioritario de los hijos o dependientes menores de edad a programas de asistencia social, becas y protección integral",
+        "El remate sumario de las viviendas de los vecinos del agresor",
+        "La sustitución de la indemnización por años adicionales de detención preventiva a familiares del condendo",
+        "El pago de la deuda económica mediante la emisión de bonos soberanos del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81, Ley N° 348",
+      "explicacion": "Se protege el interés superior de los niños en huérfanos de feminicidio mediante subsidios y asistencia estatal garantizada."
+    },
+    {
+      "question": "Según el Artículo 82 de la Ley N° 348, los delitos tipificados en esta norma son imprescriptibles cuando:",
+      "options": [
+        "Atenten contra la vida y la integridad física o sexual de las mujeres en los términos establecidos por la Constitución",
+        "Tengan una cuantía económica o perjuicio financiero menor a mil bolivianos",
+        "Ocurran en municipios con una población inferior a diez mil habitantes",
+        "Sean cometidos entre familiares de cuarto grado de consanguinidad únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 82, Ley N° 348",
+      "explicacion": "Conforme al mandato constitucional, las violaciones gravísimas a derechos fundamentales y la vida no prescriben."
+    },
+    {
+      "question": "Conforme al Artículo 83 de la Ley N° 348 (Art. 308 bis del Código Penal), la 'Violación de Infante, Niña, Niño o Adolescente' impone la pena de:",
+      "options": [
+        "Privación de libertad de treinta (30) años sin derecho a indulto cuando la víctima sea menor de catorce años",
+        "Privación de libertad de diez a quince años de prisión revisables a los cinco años",
+        "Trabajo en obras públicas por un lapso no menor a dos años ni mayor a cinco",
+        "Reclusión de doce a veinte años con derecho a redención por estudio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 308 bis CP), Ley N° 348",
+      "explicacion": "Se sanciona con la máxima pena de 30 años sin derecho a indulto por la extrema gravedad del hecho contra menores."
+    },
+    {
+      "question": "Según el Artículo 83 de la Ley N° 348 (Art. 310 del Código Penal), la pena del delito de Violación se agrava hasta treinta años de prisión sin indulto cuando:",
+      "options": [
+        "La víctima sea persona con discapacidad, adulta mayor, se produzca un embarazo no deseado, o intervengan dos o más autores",
+        "El hecho sea cometido en días feriados nacionales o festividades religiosas",
+        "El autor sea ciudadano extranjero en situación migratoria irregular",
+        "Se utilice un vehículo de servicio público para el traslado de la víctima"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 310 CP), Ley N° 348",
+      "explicacion": "Constituyen circunstancias agravantes especiales que elevan la sanción al límite constitucional de 30 años sin indulto."
+    },
+    {
+      "question": "De acuerdo con el Artículo 83 de la Ley N° 348 (Art. 312 bis del Código Penal), el 'Abuso Sexual' sanciona a quien:",
+      "options": [
+        "Realizare actos sexuales no constitutivos de violación mediante violencia, amenaza o aprovechando la vulnerabilidad de la víctima",
+        "Realice miradas insinuantes o gestos en espectáculos públicos autorizados",
+        "Contrate artistas para presentaciones en vivo en establecimientos nocturnos legalmente habilitados",
+        "Promueva la venta de literatura de educación reproductiva a mayores de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 312 bis CP), Ley N° 348",
+      "explicacion": "Involucra tocamientos, agresiones o actos libidinosos no consentidos que no lleguen a la penetración propia de la violación."
+    },
+    {
+      "question": "Conforme al Artículo 83 de la Ley N° 348 (Art. 312 bis.II CP), la pena por Abuso Sexual oscila entre:",
+      "options": [
+        "Diez (10) a quince (15) años de privación de libertad si la víctima fuera niña, niño o adolescente",
+        "Dos a cinco años si el autor es un familiar en línea directa",
+        "Seis meses a un año de prestación de servicios comunitarios",
+        "Veinte a veinticinco años sin derecho a indulto gubernamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 312 bis.II CP), Ley N° 348",
+      "explicacion": "Cuando la víctima del abuso sea menor de edad, la pena se eleva a la escala de 10 a 15 años de prisión."
+    },
+    {
+      "question": "Según el Artículo 83 de la Ley N° 348 (Art. 281 bis del Código Penal), el acoso o violencia política hacia la mujer busca:",
+      "options": [
+        "Acreditar, acosar, intimidar o restringir el ejercicio del mandato de mujeres electas o designadas en la función pública",
+        "Exigir el pago de aportes a militantes dentro de los partidos políticos",
+        "Requerir la presentación de informes de gestión trimestrales a ministras de Estado",
+        "Fiscalizar los gastos de viáticos de diputadas de las bancadas de oposición"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 281 bis CP), Ley N° 348",
+      "explicacion": "El tipo penal sanciona los actos de coerción, amedrentamiento o agresión dirigidos a forzar la renuncia o limitar la labor política de las mujeres."
+    },
+    {
+      "question": "De acuerdo con el Artículo 83 de la Ley N° 348 (Art. 312 ter del Código Penal), el delito de 'Apto Obsceno' o exhibicionismo coercitivo en presencia de menores sanciona a quien:",
+      "options": [
+        "Realizare ejecuciones o actos de significación explícitamente sexual ante niñas, niños o adolescentes",
+        "Exhiba esculturas artísticas de desnudos en museos o galerías de arte públicas",
+        "Comercialice prendas de vestir en tiendas o mostradores comerciales abiertos",
+        "DifundaSpots televisivos estatales sobre prevención de enfermedades de transmisión sexual"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 312 ter CP), Ley N° 348",
+      "explicacion": "Penaliza los actos o conductas obscenas dirigidas o ejecutadas deliberadamente ante menores de edad."
+    },
+    {
+      "question": "Conforme al Artículo 85 de la Ley N° 348, los Servicios de Salud privados que nieguen la atención médica de emergencia a una mujer en situación de violencia:",
+      "options": [
+        "Serán pasibles a sanciones administrativas, multas y clausura temporal, además de la responsabilidad penal de sus personeros",
+        "Quedan exentos de culpa si la paciente no presenta certificado de seguro privado de salud",
+        "Solo deberán pagar un recargo del 5% en su declaración de impuestos a las utilidades",
+        "Deben ser juzgados por el Comité de Ética de la Cámara Nacional de Comercio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 85, Ley N° 348",
+      "explicacion": "La negativa de auxilio médico urgente en centros privados está severamente castigada en la vía penal y administrativa."
+    },
+    {
+      "question": "Según el Artículo 88 de la Ley N° 348, la Policía Boliviana debe implementar la 'Línea Gratuita de Emergencia' con funcionamiento:",
+      "options": [
+        "Las 24 horas del día, los 365 días del año, brindando auxilio inmediato y georreferenciado",
+        "Exclusivamente en días hábiles de horas 08:00 a 18:00",
+        "Durante los fines de semana y feriados nacionales únicamente",
+        "En periodos de Alerta con cobertura limitada a ciudades capitales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 88, Ley N° 348",
+      "explicacion": "Dispone el funcionamiento ininterrumpido y sin costo de la línea de auxilio policial rápida para situaciones de riesgo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 90 de la Ley N° 348, las servidoras públicas encargadas de la atención a víctimas que incurran en tratos crueles, despectivos o revictimizantes serán sancionadas con:",
+      "options": [
+        "Procesamiento disciplinario por falta grave, con destitución del cargo e inicio de acción penal por incumplimiento de deberes",
+        "Una llamada de atención verbal privada por parte de su inmediato superior",
+        "El traslado a otra oficina de la misma institución sin afectación salarial",
+        "Un descuento del 10% de su haber básico mensual por una sola vez"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 90, Ley N° 348",
+      "explicacion": "El maltrato o re-victimización por parte del personal de atención implica falta gravísima, destitución y proceso penal."
+    },
+    {
+      "question": "Conforme al Artículo 93 de la Ley N° 348, los Colegios de Abogados y el Ministerio de Justicia deben velar porque los profesionales del derecho que patrocinen a agresores:",
+      "options": [
+        "No utilicen chicanas, dilaciones maliciosas o recursos notoriamente infundados para entorpecer el proceso, bajo sanción ética",
+        "Ganen un porcentaje fijo del 30% del patrimonio en controversia como honorarios",
+        "Se abstengan de presentar pruebas documentales en la etapa sumarial",
+        "Inscriban sus nombres en la nómina de peritos judiciales del Tribunal Departamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 93, Ley N° 348",
+      "explicacion": "Prohíbe el uso abusivo de artimañas procesales dilatorias orientadas a dejar impunes los delitos de violencia contra las mujeres."
+    },
+    {
+      "question": "Según el Artículo 95 de la Ley N° 348, la formación y capacitación en derechos humanos de las mujeres y prevención de la violencia es:",
+      "options": [
+        "Obligatoria y continua en la Universidad Policial (UNIPOL), la Escuela Militar de Ingeniería y los institutos de formación docente",
+        "Optativa y con costo adicional para los cadetes de último año de formación",
+        "Un requisito aplicable únicamente a los servidores del área de administración financiera",
+        "Dictada exclusivamente por docentes o instructores extranjeros acreditados por la OEA"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 95, Ley N° 348",
+      "explicacion": "La capacitación en prevención de género es curricular y obligatoria en institutos policiales, militares y educativos del Estado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 96 de la Ley N° 348, la evaluación de impacto y seguimiento de las políticas de erradicación de la violencia se consigna en:",
+      "options": [
+        "El Informe Anual que el Ente Rector (Ministerio de Justicia) debe presentar obligatoriamente ante la Asamblea Legislativa Plurinacional",
+        "Un boletín informativo digital publicado quinquenalmente por el INE",
+        "La Memoria Anual del Banco Central de Bolivia sobre inversión social",
+        "El reporte semestral del Ministerio de Trabajo presentado a la OIT"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 96, Ley N° 348",
+      "explicacion": "El Ministerio de Justicia debe rendir cuentas anualmente ante el primer órgano del Estado sobre la ejecución de la norma."
+    },
+    {
+      "question": "Conforme al Artículo 97 de la Ley N° 348, sobre el Régimen Penitenciario para condenados por violencia de género:",
+      "options": [
+        "Deben participar obligatoriamente de terapias de rehabilitación psicológica y reeducación para acceder a cualquier beneficio del régimen",
+        "Tienen derecho automático a indulto anual de fin de año si cumplen seis meses de reclusión",
+        "Están exentos del trabajo penitenciario por motivos de seguridad personal",
+        "Gozan de salidas dominicales sin custodia tras cumplir la mitad de la condena"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 97, Ley N° 348",
+      "explicacion": "Se condiciona el acceso a programas o evaluaciones penitenciarias al cumplimiento de programas de rehabilitación y no reincidencia."
+    },
+    {
+      "question": "Según el Artículo 98 de la Ley N° 348, los Centros de Reeducación para Agresores son:",
+      "options": [
+        "Instituciones especializadas encargadas de brindar tratamiento psicológico, psiquiátrico y conductual a hombres que han ejercido violencia",
+        "Cárceles de máxima seguridad construidas en zonas insulares del país",
+        "Centros de trabajo forzado militarizado bajo la tuición del Ministerio de Defensa",
+        "Oficinas de orientación matrimonial dependientes de las iglesias locales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 98, Ley N° 348",
+      "explicacion": "Son centros de modificación de conducta orientados a erradicar patrones machistas y agresivos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 99 de la Ley N° 348, el presupuesto para el funcionamiento de los Centros de Reeducación de Agresores proviene de:",
+      "options": [
+        "Los Gobiernos Autónomos Departamentales y Municipales, además del pago voluntario u obligatorio impuesto al agresor",
+        "Aportes del Organismo Internacional de Energía Atómica",
+        "Un impuesto especial a las transacciones de transferencias bancarias",
+        "Descuentos directos en los sueldos de las juezas y fiscales de materia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 99, Ley N° 348",
+      "explicacion": "Se financia con presupuestos autonómicos y con los montos fijados judicialmente al propio condenado."
+    },
+    {
+      "question": "Conforme al Artículo 100 de la Ley N° 348, el protocolo unificado de atención a víctimas debe ser aplicado de forma:",
+      "options": [
+        "Obligatoria y estandarizada por todas las instituciones que integran la cadena de atención (Policía, Fiscalía, Salud y SLIMs)",
+        "Discrecional según el criterio individual del funcionario de turno",
+        "Exclusiva en las ciudades que integran el eje central del país (La Paz, Cochabamba, Santa Cruz)",
+        "Voluntaria previa suscripción de un acta de adhesión institucional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 100, Ley N° 348",
+      "explicacion": "El Protocolo Único de Atención homologa y estandariza los procedimientos para evitar la revictimización y la dispersión."
+    },
+    {
+      "question": "En el marco de la Disposición Transitoria Segunda de la Ley N° 348, la reglamentación del SIPPASE y de los protocolos unificados se fijó en un plazo de:",
+      "options": [
+        "Noventa (90) días a partir de la promulgación de la Ley",
+        "Trescientos sesenta días calendario en coordinación con las gobernaciones",
+        "Cinco años en el marco del Plan General de Desarrollo Económico y Social",
+        "Treinta días hábiles sin necesidad de consulta intersectorial"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda, Ley N° 348",
+      "explicacion": "Estableció un plazo de 90 días para que el Órgano Ejecutivo emita la reglamentación operativa."
+    },
+    {
+      "question": "De acuerdo con la Disposición Abrogatoria y Derogatoria de la Ley N° 348, queda expresamente abrogada:",
+      "options": [
+        "La Ley N° 1674 de Violencia En el Familia o Doméstica, de 15 de diciembre de 1995",
+        "La Ley N° 1770 de Arbitraje y Conciliación Institucional",
+        "La Ley N° 2026 Código Niño, Niña y Adolescente de 1999",
+        "La Ley N° 004 de Lucha Contra la Corrupción Marcelo Quiroga Santa Cruz"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Abrogatoria, Ley N° 348",
+      "explicacion": "Abrogó de manera explícita la antigua Ley 1674, reemplazándola con el nuevo paradigma integral de la Ley 348."
+    },
+    {
+      "question": "Según el Artículo 5.1 de la Ley N° 348, la 'Despatriarcalización' es definida como:",
+      "options": [
+        "La transformación de las relaciones de poder machistas y de dominación mediante la desestructuración de patrones culturales patriarcales",
+        "La prohibición de que varones ejerzan cargos de dirección ejecutiva en la administración pública",
+        "La eliminación de la figura del padre de familia en las cédulas de identidad personales",
+        "La transferencia exclusiva de las propiedades familiares a las hijas primogénitas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.1, Ley N° 348",
+      "explicacion": "Es la deconstrucción estructural de las relaciones de sometimiento, machismo y subordinación histórica hacia la mujer."
+    },
+    {
+      "question": "Conforme al Artículo 5.4 de la Ley N° 348, la 'Especialidad' de la atención significa que:",
+      "options": [
+        "Las instituciones y profesionales deben contar con conocimientos específicos y sensibilidad social en materia de género y derechos humanos",
+        "Las denuncias solo pueden ser atendidas por médicas y abogadas de sexo femenino",
+        "Los procesos deben juzgarse en tribunales militares de fuero especial",
+        "Los trámites deben tramitarse en idioma extranjero si la víctima así lo solicita"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.4, Ley N° 348",
+      "explicacion": "Exige que las autoridades de la cadena de atención tengan formación técnica cualificada sobre abordaje integral de la violencia de género."
+    },
+    {
+      "question": "Según el Artículo 8.I de la Ley N° 348, el 'Ente Rector' responsable de coordinar las políticas nacionales de prevención y erradicación de la violencia hacia las mujeres es:",
+      "options": [
+        "El Ministerio de Justicia (a través del Viceministerio de Igualdad de Oportunidades)",
+        "El Ministerio de Gobierno mediante la Dirección General de Régimen Interior",
+        "El Ministerio de Defensa en coordinación con el Comando en Jefe de las FF.AA.",
+        "La Defensoría del Pueblo mediante la Adjuntía de la Mujer"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, Ley N° 348",
+      "explicacion": "El Ministerio de Justicia ejerce la tuición y rectoría técnica de la política pública de erradicación de la violencia de género."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9.II de la Ley N° 348, los Gobiernos Autónomos Municipales en zonas rurales dispersas pueden constituir SLIMs mediante:",
+      "options": [
+        "Mancomunidades municipales para financiar y prestar servicios integrales compartidos de atención a mujeres",
+        "Contratos de tercerización con empresas privadas de seguridad ciudadana",
+        "Acuerdos de cooperación directa con las embajadas internacionales acreditadas",
+        "Decretos supremos expedidos por la Presidencia del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.II, Ley N° 348",
+      "explicacion": "Faculta a municipios pequeños o dispersos a mancomunarse para optimizar presupuesto y garantizar la presencia de SLIMs."
+    },
+    {
+      "question": "Conforme al Artículo 15 de la Ley N° 348, el Estado garantiza a las mujeres en situación de violencia el acceso a programas de:",
+      "options": [
+        "Vivienda social, empleo digno, créditos de fomento e inserción productiva para lograr su independencia económica",
+        "Viajes turísticos nacionales anuales financiados por el Ministerio de Culturas",
+        "Exención del pago de tarifas de servicios básicos de por vida",
+        "Jubilación inmediata a los 35 años de edad sin aportes acumulados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 348",
+      "explicacion": "Promueve el empoderamiento económico a través de empleo, vivienda social y créditos preferenciales para romper el círculo de la violencia."
+    },
+    {
+      "question": "Según el Artículo 19 de la Ley N° 348, en el Sistema de Educación Superior (universidades e institutos), queda prohibido:",
+      "options": [
+        "Cualquier acto de acoso, chantaje o violencia sexual a cambio de notas, aprobaciones o permanencia académica",
+        "El dictado de cátedras sobre derecho penal por docentes del sexo masculino",
+        "La conformación de centros de estudiantes integrados en un 100% por varones",
+        "El cobro de matrículas universitarias en carreras de ciencias sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 348",
+      "explicacion": "Prohíbe el acoso sexual académico y condicionamientos de notas a cambio de favores sexuales o de índole personal."
+    },
+    {
+      "question": "De acuerdo con el Artículo 24 de la Ley N° 348, la atención integral a la mujer en situación de violencia comprende obligatoriamente los servicios de:",
+      "options": [
+        "Atención legal, contención psicológica, apoyo social y atención médica de manera coordinada e interdisciplinaria",
+        "Defensa penal al agresor en la vía ordinaria con patrocinio fiscal",
+        "Asesoramiento financiero bancario para inversiones en la bolsa de valores",
+        "Alojamiento permanente en hoteles de cinco estrellas financiados por el TGN"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, Ley N° 348",
+      "explicacion": "La atención integral debe ser abordada desde la psicología, el trabajo social, la medicina y el derecho de forma conjunta."
+    },
+    {
+      "question": "Conforme al Artículo 30 de la Ley N° 348, los refugios temporales deberán otorgar seguridad física permanente a las víctimas mediante:",
+      "options": [
+        "Resguardo policial o de seguridad especializada las 24 horas del día sin revelar la ubicación de la infraestructura",
+        "Vigilancia vecinal por parte de las OTB del distrito municipal",
+        "Cámaras de seguridad conectadas a los canales de televisión locales",
+        "Sistemas de alarma sonora instalados en la fachada del inmueble"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 348",
+      "explicacion": "Exige estricta confidencialidad de la ubicación y custodia efectiva para impedir ataques de agresores."
+    },
+    {
+      "question": "Según el Artículo 34 de la Ley N° 348, cuando una mujer acuda a solicitar ayuda ante cualquier autoridad, esta tiene la obligación procesal de:",
+      "options": [
+        "Dictar de manera inmediata las medidas de protección urgentes de su competencia y derivar el caso en el día",
+        "Exigir la firma de dos garantes personales con propiedad inmueble",
+        "Citar formalmente a las partes a una audiencia de conciliación dentro de los 15 días posteriores",
+        "Notificar al empleador de la víctima para descontar de su salario los días no trabajados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34, Ley N° 348",
+      "explicacion": "Manda actuar sin dilación, disponiendo medidas de protección urgentes sin exigencias burocráticas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 41 de la Ley N° 348, las denuncias por hecho de violencia contra las mujeres pueden ser presentadas de forma:",
+      "options": [
+        "Verbal o escrita, sin necesidad de patrocinio de abogado ni sellos de valores",
+        "Exclusivamente mediante querella formal redactada por un notario de fe pública",
+        "En memorial firmado en tres ejemplares legalizados ante la Fiscalía General",
+        "Por comunicación fehaciente enviada por correo certificado internacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 348",
+      "explicacion": "Garantiza el acceso directo y sencillo mediante denuncia oral o escrita sin requiring abogacía formal previa."
+    },
+    {
+      "question": "Conforme al Artículo 61 de la Ley N° 348, los antecedentes de violencia registrados en el SIPPASE:",
+      "options": [
+        "Son de carácter público para la verificación institucional e impiden el nombramiento en cargos públicos",
+        "Se cancelan automáticamente tras noventa días de su registro inicial",
+        "Pueden ser eliminados por acuerdo privado entre el agresor y la víctima",
+        "Solo pueden ser consultados por jueces de la Corte Interamericana de Derechos Humanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61, Ley N° 348",
+      "explicacion": "Quedan registrados en el banco de datos único y constituyen un impedimento legal para ejercer la función pública."
+    },
+    {
+      "question": "Según la Ley N° 348 en su conjunto, ¿cuál es la orientación fundamental que deben seguir todas las autoridades del Estado respecto a las mujeres víctimas de violencia?",
+      "options": [
+        "Garantizar una vida libre de violencia mediante la prevención, protección inmediata, no revictimización, sanción oportuna a agresores y reparación del daño",
+        "Priorizar la preservación del vínculo matrimonial por encima de los riesgos de agresión física",
+        "Derivar los hechos a la justicia ordinaria civil para negociaciones de indemnizaciones de daños y perjuicios",
+        "Limitar la intervención estatal a la entrega de subsidios económicos temporales sin persecución penal"
+      ],
+      "answer": 0,
+      "fuente": "Ley 348 - Vida Libre de Violencia",
+      "explicacion": "El espíritu integral de la Ley 348 impone erradicar la impunidad, proteger la vida e integridad de las mujeres y refundar una sociedad sin discriminación patriarcal."
+    },
+    {
+      "question": "En virtud del Artículo 5.IV de la Ley N° 348, ¿a quiénes más son aplicables las disposiciones de esta Ley además de las mujeres?",
+      "options": [
+        "Únicamente a mujeres ciudadanas bolivianas mayores de 18 años con residencia en áreas urbanas",
+        "A toda persona que por su situación de vulnerabilidad sufra cualquiera de las formas de violencia que esta Ley sanciona, independientemente de su género",
+        "Exclusivamente a personas con sentencia judicial ejecutoriada en materia penal",
+        "Solo a servidores públicos en ejercicio de funciones administrativas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.IV, Ley N° 348",
+      "explicacion": "El Art. 5.IV establece que las disposiciones de la Ley serán aplicables a toda persona que por su situación de vulnerabilidad sufra cualquiera de las formas de violencia sancionadas, independientemente de su género."
+    },
+    {
+      "question": "Según la definición legal contenida en el Artículo 6.1 de la Ley N° 348, ¿qué constituye la 'Violencia'?",
+      "options": [
+        "Cualquier acción u omisión, abierta o encubierta, que cause la muerte, sufrimiento o daño físico, sexual o psicológico a una mujer, o le genere perjuicio en su patrimonio, economía o trabajo por el sólo hecho de ser mujer",
+        "Únicamente la agresión física caracterizada por lesiones corporales visibles con impedimento mayor a 90 días",
+        "Todo desacuerdo económico o patrimonial entre cónyuges tramitado ante juzgados civiles",
+        "Las disputas verbales esporádicas sin afectación psicológica ni secuelas emocionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.1, Ley N° 348",
+      "explicacion": "El Art. 6.1 define la violencia como cualquier acción u omisión, abierta o encubierta, que cause muerte, sufrimiento o daño físico, sexual o psicológico, o perjuicio patrimonial/laboral por el solo hecho de ser mujer."
+    },
+    {
+      "question": "Conforme al Artículo 6.4 de la Ley N° 348, ¿cómo se definen los 'Presupuestos Sensibles a Género'?",
+      "options": [
+        "Son aquellos destinados exclusivamente a la construcción de infraestructura administrativa del Órgano Judicial",
+        "Son los presupuestos que se orientan con carácter prioritario a la asignación y redistribución de recursos hacia políticas públicas tomando en cuenta las diferentes necesidades e intereses de mujeres y hombres para reducir brechas",
+        "Son fondos de reserva bancaria utilizados únicamente en situaciones de desastre natural o emergencia nacional",
+        "Son transferencias directas del TGN otorgadas sin fiscalización a empresas privadas de publicidad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.4, Ley N° 348",
+      "explicacion": "El Art. 6.4 define estos presupuestos como la asignación prioritaria de recursos para la reducción de brechas y la inclusión de mujeres en situación de violencia y vulnerabilidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.7 de la Ley N° 348, ¿qué garantiza el principio de 'Igualdad de Oportunidades'?",
+      "options": [
+        "Que todas las mujeres tendrán acceso a la protección y acciones que la Ley establece, independientemente de sus circunstancias personales, edad, pertenencia a pueblo indígena, orientación sexual o credo",
+        "Que las sanciones penales contra los agresores serán sustituidas automáticamente por multas económicas equitativas",
+        "Que las denuncias de violencia solo podrán tramitarse en las capitales de departamento",
+        "Que el patrocinio jurídico será arancelado según el nivel de ingresos de la víctima"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.7, Ley N° 348",
+      "explicacion": "Garantiza el acceso a la protección y acciones de la ley sin distinción de circunstancias personales, sociales, edad, procedencia, orientación sexual o credo."
+    },
+    {
+      "question": "Según el Artículo 4.14 de la Ley N° 348, ¿qué se exige de los servidores públicos bajo el principio de 'Especialidad'?",
+      "options": [
+        "Contar con titulación de doctorado en ciencias políticas expedido por universidad extranjera",
+        "Contar con los conocimientos necesarios para garantizar a las mujeres un trato respetuoso, digno y eficaz en todos los niveles de administración",
+        "Tener una antigüedad mínima de 15 años en el ejercicio de la abogacía pública",
+        "Haber ejercido cargos electivos previamente en Entidades Territoriales Autónomas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.14, Ley N° 348",
+      "explicacion": "El Art. 4.14 establece que las y los servidores públicos deberán contar con los conocimientos necesarios para garantizar un trato respetuoso, digno y eficaz."
+    },
+    {
+      "question": "Conforme al Artículo 3.III de la Ley N° 348, ¿cuál es la obligación de las Entidades Territoriales Autónomas (ETAs) respecto a la erradicación de la violencia?",
+      "options": [
+        "Asignar recursos humanos y económicos destinados a la implementación de políticas, programas y proyectos para erradicar todas las formas de violencia hacia las mujeres",
+        "Transferir la totalidad de sus ingresos fiscales al Ministerio de Justicia de manera trimestral",
+        "Aprobar leyes de amnistía anuales para agresores sin reincidencia procesal",
+        "Delegar sus competencias exclusivas en materia de salud y educación a la Policía Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.III, Ley N° 348",
+      "explicacion": "Las ETAs deben asignar recursos humanos y económicos para políticas y programas destinados a erradicar la violencia contra las mujeres en su jurisdicción."
+    },
+    {
+      "question": "Según el Artículo 7.2 de la Ley N° 348, ¿cómo se define la 'Violencia Feminicida'?",
+      "options": [
+        "Es cualquier agresión física o psicológica que genera una incapacidad laboral menor a catorce días",
+        "Es la acción de extrema violencia que viola el derecho fundamental a la vida y causa la muerte de la mujer por el hecho de serlo",
+        "Es el menoscabo patrimonial infligido a una mujer por familiares de segundo grado de consanguinidad",
+        "Es la difusión sin consentimiento de datos personales o imágenes en medios masivos de comunicación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.2, Ley N° 348",
+      "explicacion": "El Art. 7.2 define la violencia feminicida como la acción de extrema violencia que viola el derecho fundamental a la vida y causa la muerte de la mujer por el hecho de serlo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7.3 de la Ley N° 348, ¿cuáles son las consecuencias señaladas para la 'Violencia Psicológica'?",
+      "options": [
+        "Pérdida inmediata del derecho propietario sobre bienes inmuebles gananciales",
+        "Disminución de la autoestima, depresión, inestabilidad psicológica, desorientación e incluso el suicidio",
+        "Suspensión automática de los derechos de ciudadanía e inhabilitación electoral del agresor",
+        "Incapacidad física permanente declarada únicamente por un tribunal médico militar"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.3, Ley N° 348",
+      "explicacion": "La violencia psicológica comprende acciones sistemáticas de desvalorización e intimidación que provocan disminución de autoestima, depresión, inestabilidad o suicidio."
+    },
+    {
+      "question": "Conforme al Artículo 7.8 de la Ley N° 348, ¿qué constituye la 'Violencia contra los Derechos Reproductivos'?",
+      "options": [
+        "La acción u omisión que impide, limita o vulnera el derecho de las mujeres a la información, atención integral en embarazo/parto, a decidir libremente el número de hijos y elegir métodos anticonceptivos seguros",
+        "La obligación legal de inscribir a los recién nacidos en el Registro Civil dentro del plazo de 30 días",
+        "La prohibición de contraer matrimonio civil antes de cumplir los 21 años de edad",
+        "La negativa del empleador a conceder licencias comerciales por viajes de capacitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.8, Ley N° 348",
+      "explicacion": "El Art. 7.8 define esta violencia como aquella que vulnera el derecho a la información, atención integral durante embarazo/parto, decisión libre sobre espaciamiento de hijos y uso de anticonceptivos."
+    },
+    {
+      "question": "Según el Artículo 7.10 de la Ley N° 348, ¿en qué consiste la 'Violencia Patrimonial y Económica'?",
+      "options": [
+        "En la aplicación de tasas impositivas diferenciadas por parte de los Gobiernos Autónomos Municipales",
+        "En toda acción u omisión que al afectar los bienes propios y/o gananciales de la mujer ocasiona daño a su patrimonio, controla sus ingresos o la priva de medios indispensables para vivir",
+        "En la falta de pago de cotizaciones al sistema de pensiones por parte de empresas privadas",
+        "En la quiebra fraudulenta de instituciones financieras del sistema bancario nacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.10, Ley N° 348",
+      "explicacion": "Afecta los bienes propios o gananciales, menoscaba el patrimonio, controla/limita ingresos o priva de medios indispensables para la subsistencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7.14 de la Ley N° 348, ¿cómo se caracteriza la 'Violencia Institucional'?",
+      "options": [
+        "Es toda acción u omisión de servidoras/es públicos o personal de instituciones privadas que implique trato discriminatorio, humillante y deshumanizado que retarde, obstaculice o niegue el acceso y atención al servicio",
+        "Es la clausura definitiva de oficinas administrativas ordenada por sentencia del Tribunal Constitucional Plurinacional",
+        "Es el incumplimiento de deberes contractuales en la ejecución de obras públicas de infraestructura vial",
+        "Es la reorganización interna de Ministerios mediante Decreto Supremo emitido por el Órgano Ejecutivo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.14, Ley N° 348",
+      "explicacion": "El Art. 7.14 la define como la acción u omisión de personal público o privado que mediante trato discriminatorio u humillante retarde, obstaculice o niegue el servicio a la mujer."
+    },
+    {
+      "question": "Conforme al Artículo 7.15 de la Ley N° 348, ¿quiénes pueden ser los agresores en la 'Violencia en la Familia'?",
+      "options": [
+        "Únicamente el cónyuge o conviviente que mantenga un vínculo laboral formal registrado",
+        "El cónyuge o ex-cónyuge, conviviente o ex-conviviente, o su familia, ascendientes, descendientes, hermanos, parientes civiles o afines, tutores o encargados de custodia",
+        "Exclusivamente parientes consanguíneos hasta el primer grado de línea directa",
+        "Cualquier empleador que ejerza autoridad jerárquica en un establecimiento comercial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.15, Ley N° 348",
+      "explicacion": "Comprende agresiones cometidas por cónyuge/ex-cónyuge, conviviente/ex-conviviente, familiares ascendientes, descendientes, hermanos, afines, tutores o custodios."
+    },
+    {
+      "question": "Según el Artículo 7.4 de la Ley N° 348, ¿qué se entiende por 'Violencia Mediática'?",
+      "options": [
+        "La publicación por medios masivos de mensajes e imágenes estereotipadas que promueven la sumisión, injurian, difaman o explotan la imagen de las mujeres",
+        "La interrupción técnica no autorizada de señales de televisión digital abierta",
+        "El cobro de tarifas publicitarias superiores a los aranceles fijados por la Autoridad de Telecomunicaciones",
+        "La emisión de programas informativos sin traducción simultánea a idiomas originarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.4, Ley N° 348",
+      "explicacion": "Es la producida por medios de comunicación mediante mensajes o imágenes estereotipadas que promueven la sumisión, explotación, difamación o desvalorización de las mujeres."
+    },
+    {
+      "question": "Conforme al Artículo 7.9 de la Ley N° 348, ¿en qué consiste la 'Violencia en Servicios de Salud'?",
+      "options": [
+        "Toda acción discriminadora, humillante y deshumanizada que omite, niega o restringe el acceso a atención eficaz e inmediata y a información oportuna por parte del personal de salud",
+        "La falta de insumos farmacéuticos importados en establecimientos privados de salud",
+        "El cobro de consultas médicas generales de acuerdo a los aranceles del Colegio Médico",
+        "La derivación de pacientes a centros hospitalarios de tercer nivel por razones de infraestructura"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.9, Ley N° 348",
+      "explicacion": "El Art. 7.9 sanciona la atención discriminadora o la restricción de acceso oportuno e información por parte del personal de salud que ponga en riesgo la salud o vida de la mujer."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7.6 de la Ley N° 348, ¿qué abarca la 'Violencia contra la Dignidad, la Honra y el Nombre'?",
+      "options": [
+        "Toda expresión verbal o escrita de ofensa, insulto, difamación, calumnia o amenaza que desacredita, descalifica, degrada o afecta el nombre, honor y reputación de la mujer",
+        "La modificación de apellidos en la cédula de identidad por razones de estado civil",
+        "La impugnación judicial de partidas de nacimiento tramitadas ante el Registro Civil",
+        "El uso de seudónimos artísticos en registros de propiedad intelectual"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.6, Ley N° 348",
+      "explicacion": "El Art. 7.6 define esta forma de violencia como cualquier expresión ofensiva, difamatoria o amenazante que descalifique o degradé la dignidad, honra o reputación."
+    },
+    {
+      "question": "Según el Artículo 7.11 de la Ley N° 348, ¿cómo se configura la 'Violencia Laboral'?",
+      "options": [
+        "Es toda acción en el trabajo que discrimina, humilla, amenaza o intimida a la mujer, o supedita/obstaculiza su acceso, permanencia o ascenso vulnerando sus derechos",
+        "Es el despido por la terminación del contrato de obra o servicio fijado a plazo fijo",
+        "Es el traslado de personal administrativo dispuesto por rotación de personal programada",
+        "Es la huelga promovida por sindicatos de trabajadores inscritos legalmente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.11, Ley N° 348",
+      "explicacion": "El Art. 7.11 establece que es la acción producida en el ámbito laboral por cualquier persona de superior, igual o inferior jerarquía que obstaculice o vulnere los derechos laborales de la mujer."
+    },
+    {
+      "question": "Conforme al Artículo 7.12 de la Ley N° 348, ¿qué se entiende por 'Violencia en el Sistema Educativo Plurinacional'?",
+      "options": [
+        "Todo acto de agresión física, psicológica o sexual cometido contra las mujeres en el sistema educativo regular, alternativo, especial y superior",
+        "La reprobación de asignaturas académicas por incumplimiento del rendimiento mínimo escolar",
+        "La modificación del calendario escolar por factores climáticos decretada por el Ministerio de Educación",
+        "La exigencia de uniformes escolares según el reglamento interno de la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.12, Ley N° 348",
+      "explicacion": "Abarca todo acto de agresión física, psicológica o sexual cometido contra mujeres en cualquiera de los subsistemas educativos."
+    },
+    {
+      "question": "Según el Artículo 7.13 de la Ley N° 348, ¿a qué normativa remite la definición de 'Violencia en el Ejercicio Político y de Liderazgo de la Mujer'?",
+      "options": [
+        "A la Ley N° 243, Contra el Acoso y la Violencia Política hacia las Mujeres",
+        "A la Ley del Órgano Electoral Plurinacional N° 018",
+        "A la Ley Régimen Electoral N° 026",
+        "Al Código Procesal Constitucional N° 254"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.13, Ley N° 348",
+      "explicacion": "Remite de forma expresa a lo establecido en el Artículo 7 de la Ley N° 243 Contra el Acoso y la Violencia Política hacia las Mujeres."
+    },
+    {
+      "question": "De acuerdo con el Artículo 7.7 de la Ley N° 348, ¿qué resguarda la definición de 'Violencia Sexual'?",
+      "options": [
+        "Toda conducta que ponga en riesgo la autodeterminación sexual, tanto en el acto sexual como en contacto o acceso carnal genital o no genital que vulnere el ejercicio a una vida sexual libre y segura",
+        "Las revisiones de rutina efectuadas por profesionales médicos autorizados con consentimiento expreso",
+        "La exigencia de certificados de matrimonio para la tramitación de subsidios familiares",
+        "La difusión de campañas de educación sexual integral aprobadas por el Ministerio de Salud"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.7, Ley N° 348",
+      "explicacion": "Resguarda la autodeterminación e integridad sexual frente a cualquier conducta de acceso carnal o contacto no consentido."
+    },
+    {
+      "question": "Según el Artículo 7.16 de la Ley N° 348, ¿qué protege la categoría de 'Violencia contra los Derechos y la Libertad Sexual'?",
+      "options": [
+        "Toda acción u omisión que impida o restrinja el ejercicio del derecho de las mujeres a disfrutar de una vida sexual libre, segura, afectiva y plena o vulnere su libertad de elección",
+        "La regulación legal sobre el derecho de familia y la patria potestad compartida",
+        "Los trámites administrativos de adopción internacional de menores de edad",
+        "La sanción penal contra el incumplimiento de deberes de asistencia familiar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.16, Ley N° 348",
+      "explicacion": "El Art. 7.16 protege la libertad de elección y el disfrute de una vida sexual libre, segura, afectiva y plena."
+    },
+    {
+      "question": "Conforme al Artículo 7.17 de la Ley N° 348, ¿cuál es el alcance de la nómina de tipos de violencia señalados en el Artículo 7?",
+      "options": [
+        "Es una lista taxativa y cerrada que impide sancionar cualquier otra conducta no expresada de forma literal",
+        "Es de carácter enunciativo y no limitativo, incluyendo cualquier otra forma de violencia que dañe la dignidad, integridad o libertad de las mujeres",
+        "Aplica exclusivamente a hechos cometidos dentro del domicilio cónyugal registrado",
+        "Requiere reglamentación anual previa emitida por la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 7.17, Ley N° 348",
+      "explicacion": "El Artículo 7 aclara formalmente que la nómina de tipos de violencia es enunciativa y no limitativa."
+    },
+    {
+      "question": "Según el Artículo 16 de la Ley N° 348, ¿qué entidad pública ejerce la calidad de 'Ente Rector' para la aplicación de esta Ley?",
+      "options": [
+        "El Ministerio de Gobierno a través de la Policía Boliviana",
+        "El Ministerio de Justicia",
+        "El Ministerio de Salud y Deportes",
+        "La Defensoría del Pueblo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 16, Ley N° 348",
+      "explicacion": "El Artículo 16 designa expresamente al Ministerio de Justicia como Ente Rector responsable de coordinar políticas integrales y administrar el SIPPASE."
+    },
+    {
+      "question": "De acuerdo con el Artículo 11.I de la Ley N° 348, ¿qué significa la sigla 'SIPPASE' y cuál es su característica en cuanto a la información registrada?",
+      "options": [
+        "Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género; la información registrada es de carácter reservado",
+        "Servicio Interinstitucional Público de Protección Agraria y Seguridad; sus datos son de libre acceso público sin restricción",
+        "Sistema de Inspección Policial y Patrullaje Escolar; sus archivos son destruidos anualmente",
+        "Secretaría de Integración Plurinacional de Salud y Educación; depende exclusivamente de las Alcaldías"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.I, Ley N° 348",
+      "explicacion": "El SIPPASE reorganiza la atención e información de violencia en razón de género mediante un registro único cuyos datos son de carácter reservado."
+    },
+    {
+      "question": "Conforme al Artículo 13.I de la Ley N° 348, ¿cuál es el requisito inexcusable para el acceso a un cargo público en cualquier Órgano del Estado?",
+      "options": [
+        "Presentar declaración jurada de bienes y rentas ante la Contraloría General del Estado únicamente",
+        "No contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia que tenga sentencia ejecutoriada en calidad de cosa juzgada, certificado por el SIPPASE",
+        "Haber cumplido un mínimo de dos años de servicio militar obligatorio en las Fuerzas Armadas",
+        "Estar afiliado a una organización sindical reconocida por el Ministerio de Trabajo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 13.I, Ley N° 348",
+      "explicacion": "El Art. 13.I exige como requisito inexcusable no contar con antecedentes de violencia con sentencia ejecutoriada, certificado por el SIPPASE."
+    },
+    {
+      "question": "Según el Artículo 17.I de la Ley N° 348, ¿cuáles son los tres criterios de acción bajo los cuales se estructuran las medidas de prevención?",
+      "options": [
+        "Prevención Estructural, Prevención Individual y Prevención Colectiva",
+        "Prevención Sumaria, Prevención Ordinaria y Prevención Penal",
+        "Prevención Municipal, Prevención Departamental y Prevención Internacional",
+        "Prevención Financiera, Prevención Impositiva y Prevención Laboral"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.I, Ley N° 348",
+      "explicacion": "El Art. 17.I clasifica las medidas de prevención en tres criterios esenciales: Estructural, Individual y Colectiva."
+    },
+    {
+      "question": "De acuerdo con el Artículo 19.I.3 de la Ley N° 348, ¿qué obligación tiene el Ministerio de Educación en las Unidades Educativas respecto a la atención psicológica?",
+      "options": [
+        "Sancionar a los estudiantes con la expulsión definitiva del sistema escolar ante la primera falta disciplinaria",
+        "Crear en las unidades educativas un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas",
+        "Delegar las tareas de consejería escolar exclusivamente a la Policía Comunitaria",
+        "Prohibir la intervención de gabinetes psicopedagógicos en casos de violencia intrafamiliar"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 19.I.3, Ley N° 348",
+      "explicacion": "Dispone la creación de un centro de atención psicológica con especialidad obligatoria en violencia para atender a estudiantes en situación de violencia."
+    },
+    {
+      "question": "Conforme al Artículo 19.I.4 de la Ley N° 348, ¿qué medida garantiza el Ministerio de Educación en favor de las hijas e hijos de mujeres en situación de violencia que cambian de domicilio?",
+      "options": [
+        "El traspaso inmediato a las unidades educativas que correspondan",
+        "La pérdida del año escolar hasta la conclusión del proceso penal",
+        "La obligación de rendir exámenes de admisión extraordinarios en colegios privados",
+        "El pago de un arancel de matriculación especial a la Dirección Distrital"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.I.4, Ley N° 348",
+      "explicacion": "Garantiza el traspaso inmediato a las unidades educativas correspondientes si la madre debe cambiar de domicilio por situación de violencia."
+    },
+    {
+      "question": "Según el Artículo 20.I.9 de la Ley N° 348, ¿cuál es la obligación del personal médico ante la atención de mujeres con daño físico o sexual por violencia?",
+      "options": [
+        "Exigir el pago previo de la consulta forense antes de brindar auxilio",
+        "Extender de oficio, de forma obligatoria, gratuita y en papel corriente, un certificado médico que deberá ser derivado para valoración y homologación forense",
+        "Derivar el caso de forma privada a clínicas particulares sin notificar a la Policía",
+        "Requerir orden judicial emitida por juzgado civil para elaborar el historial médico"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 20.I.9, Ley N° 348",
+      "explicacion": "El personal médico debe extender de oficio, obligatoriamente y gratis en papel corriente el certificado médico, para posterior homologación forense."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20.II de la Ley N° 348, ¿en qué plazo los servicios de salud deben reportar obligatoriamente los casos de violencia atendidos al SIPPASE?",
+      "options": [
+        "Dentro de las 24 horas de conocidos los hechos",
+        "Dentro de las 48 horas de conocidos los hechos",
+        "En un plazo improrrogable de 15 días hábiles",
+        "Al finalizar la gestión anual durante el informe de rendición de cuentas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 20.II, Ley N° 348",
+      "explicacion": "Los servicios de salud públicos, privados y de la seguridad social tienen la obligación de reportar los casos al SIPPASE dentro de las 48 horas."
+    },
+    {
+      "question": "Conforme al Artículo 21.I.2 de la Ley N° 348, ¿qué pruebas o requisitos están expresamente prohibidos para el acceso o permanencia laboral de las mujeres?",
+      "options": [
+        "La presentación de títulos profesionales legalizados por el Ministerio de Educación",
+        "La presentación de pruebas de laboratorio, prueba de VIH/SIDA, de embarazo o entrevistas sobre decisiones personales",
+        "La verificación de la cédula de identidad y certificado de nacimiento",
+        "La acreditación de experiencia laboral previa mediante certificados de trabajo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 21.I.2, Ley N° 348",
+      "explicacion": "Se prohíbe expresamente exigir pruebas de laboratorio, prueba de VIH/SIDA, de embarazo o entrevistas sobre decisiones personales."
+    },
+    {
+      "question": "Según el Artículo 21.I.8 de la Ley N° 348, ¿qué derecho laboral se otorga a las mujeres en situación de violencia que presentan una medida de protección?",
+      "options": [
+        "Licencia indefinida con goce de sueldo sin necesidad de seguimiento judicial",
+        "Flexibilidad y tolerancia en los centros de trabajo sin que se vean afectados sus derechos laborales y salariales",
+        "Indemnización por despido indirecto con un recargo del 500%",
+        "Jubilación anticipada obligatoria financiada por la empresa privada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 21.I.8, Ley N° 348",
+      "explicacion": "Otorga un sistema de flexibilidad y tolerancia laboral en los centros de trabajo a sola presentación de la resolución de medidas de protección."
+    },
+    {
+      "question": "De acuerdo con el Artículo 23.2 de la Ley N° 348, ¿qué obligación imponen los medios de comunicación en el marco de la responsabilidad social?",
+      "options": [
+        "Destinar un espacio mínimo gratuito para la difusión de mensajes que promuevan los valores de la presente Ley",
+        "Pagar un impuesto extraordinario del 10% sobre sus ingresos publicitarios brutos",
+        "Transmitir en vivo todos los juicios orales por delitos de violencia intrafamiliar",
+        "Someter sus guiones periodísticos a censura previa del Ministerio de Justicia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.2, Ley N° 348",
+      "explicacion": "Los medios deben destinar un espacio mínimo gratuito para la difusión de mensajes que promuevan los valores y principios de la Ley 348."
+    },
+    {
+      "question": "Conforme al Artículo 19.III de la Ley N° 348, ¿qué responsabilidad asume el personal docente o administrativo que detecte violencia y no la reporte?",
+      "options": [
+        "Queda exento de responsabilidad por no pertenecer al personal judicial",
+        "Sera pasible a las sanciones legales que correspondan por omisión",
+        "Recibirá una amonestación verbal privada sin registro en su archivo personal",
+        "Sera transferido a otra unidad educativa dentro del mismo distrito"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 19.III, Ley N° 348",
+      "explicacion": "El personal docente, administrativo o de apoyo profesional que no reporte situaciones de violencia detectadas será pasible a sanciones legales."
+    },
+    {
+      "question": "Según el Artículo 16 de la Ley N° 348, ¿ante quién debe rendir un informe anual el Ministerio de Justicia sobre el cumplimiento de la Ley?",
+      "options": [
+        "Ante la Asamblea Legislativa Plurinacional",
+        "Ante el Tribunal Constitucional Plurinacional",
+        "Ante la Conferencia Episcopal Boliviana",
+        "Ante la Organización de las Naciones Unidas únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 348",
+      "explicacion": "El Ministerio de Justicia rendirá un informe anual ante la Asamblea Legislativa Plurinacional sobre el avance y cumplimiento de la norma."
+    },
+    {
+      "question": "De acuerdo con el Artículo 18 de la Ley N° 348, ¿cuál es el límite que tienen las autoridades indígena originario campesinas al adoptar medidas de prevención comunitarias?",
+      "options": [
+        "No podrán vulnerar los derechos reconocidos en la Constitución Política del Estado y el bloque de constitucionalidad",
+        "Deben contar con la autorización escrita del Alcalde Municipal de su jurisdicción",
+        "Solo pueden intervenir si el hecho ocurre dentro de un predio fiscal",
+        "Están obligadas a imponer sanciones privativas de libertad mayores a 10 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 348",
+      "explicacion": "Ninguna medida o ejercicio de la jurisdicción indígena originario campesina podrá vulnerar la CPE ni el bloque de constitucionalidad."
+    },
+    {
+      "question": "Conforme al Artículo 12 de la Ley N° 348, ¿cuál es el carácter de los programas de formación en derechos de las mujeres para la Policía, Fuerzas Armadas y Ministerio Público?",
+      "options": [
+        "Son optativos y voluntarios dependientes del criterio del funcionario",
+        "Serán permanentemente actualizados y aplicados a todo el personal independientemente de su jerarquía, sin excepción y con carácter obligatorio",
+        "Se imparten únicamente a funcionarios de rango técnico o administrativo auxiliar",
+        "Requieren financiamiento externo internacional para su ejecución"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 12, Ley N° 348",
+      "explicacion": "Los programas de formación en género y derechos humanos son obligatorios para todo el personal de la administración pública sin excepción de jerarquía."
+    },
+    {
+      "question": "Según el Artículo 28 de la Ley N° 348, ¿cuál es el plazo máximo general de permanencia de una mujer en las Casas de Acogida y Refugio Temporal?",
+      "options": [
+        "Un plazo máximo de quince días continuos",
+        "No podrán permanecer en ellas más de tres meses, salvo justificación por persistir inestabilidad o situación de riesgo",
+        "Un periodo fijo e improrrogable de un año calendario",
+        "Hasta que concluya definitivamente el juicio penal con sentencia ejecutoriada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 28, Ley N° 348",
+      "explicacion": "La permanencia no podrá exceder de 3 meses, a menos que la gravedad de la violencia o inestabilidad/riesgo justifiquen su prolongación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 27 de la Ley N° 348, ¿cuál es el régimen de publicidad o localización de las Casas de Acogida y Refugio Temporal?",
+      "options": [
+        "Su ubicación debe ser publicada en la gaceta municipal de forma trimestral",
+        "Se constituyen en refugio seguro y su localización no podrá ser revelada, garantizando el anonimato y la privacidad de las mujeres acogidas",
+        "Son de acceso libre y abierto para cualquier ciudadano sin registro previo",
+        "Deben contar con señalización luminosa en la vía pública para su identificación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 27, Ley N° 348",
+      "explicacion": "El Art. 27 establece el secreto y reserva de la localización de las casas de acogida para garantizar la seguridad y anonimato de las víctimas."
+    },
+    {
+      "question": "Conforme al Artículo 29 de la Ley N° 348, ¿quiénes pueden constituirse en 'Promotoras Comunitarias'?",
+      "options": [
+        "Las mujeres que hubieran superado su situación de violencia o aquellas que deseen asumir este compromiso voluntariamente para apoyar a otras mujeres",
+        "Únicamente abogadas tituladas con registro en el Ministerio de Justicia",
+        "Funcionarias policiales destinadas a tareas administrativas en la FELCV",
+        "Representantes legales de empresas constructoras de obras públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 348",
+      "explicacion": "Las mujeres que superaron la violencia o voluntarias se constituyen en promotoras comunitarias articuladas a los servicios públicos de atención."
+    },
+    {
+      "question": "Según el Artículo 31.I y II de la Ley N° 348, ¿cuál es la regla fundamental respecto a la 'Rehabilitación de Agresores'?",
+      "options": [
+        "La terapia sustituye automáticamente la pena de prisión dictada en la sentencia penal",
+        "La terapia será ordenada por autoridad jurisdiccional, no sustituirá la sanción impuesta y en ningún caso se prestará junto a la mujer agredida",
+        "Se realizará de forma obligatoria mediante sesiones de pareja conjuntas",
+        "Es financiada en su totalidad por la víctima mediante cuotas mensuales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 31.I y II, Ley N° 348",
+      "explicacion": "La rehabilitación no sustituye la sanción penal impuesta y está prohibido expresamente realizar la terapia junto a la mujer agredida."
+    },
+    {
+      "question": "De acuerdo con el Artículo 35.1 de la Ley N° 348, ¿qué medida de protección puede ordenar el juez respecto al domicilio conyugal?",
+      "options": [
+        "Ordenar la desocupación inmediata del domicilio por parte de la mujer y sus hijos",
+        "Ordenar la salida, desocupación o restricción del agresor del domicilio conyugal, independientemente de la acreditación de propiedad o posesión del inmueble",
+        "Obligar a la mujer a pagar un alquiler mensual al agresor mientras dure el proceso",
+        "Proceder a la remate judicial del inmueble en un plazo de 48 horas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 35.1, Ley N° 348",
+      "explicacion": "El juez puede ordenar la desocupación o salida del agresor del domicilio habitado por la víctima, sin importar la titularidad del inmueble."
+    },
+    {
+      "question": "Conforme al Artículo 35.3 y 13 de la Ley N° 348, ¿qué medidas económicas y cautelares puede disponer la autoridad judicial para proteger a la víctima e hijos?",
+      "options": [
+        "Disponer asistencia familiar, anotación preventiva de bienes del agresor y congelamiento de cuentas bancarias",
+        "Transferir las cuentas bancarias del agresor a fondos del Tesoro General de la Nación",
+        "Inhabilitar comercialmente a todos los familiares del agresor en el sistema financiero",
+        "Condonar las deudas impositivas de la empresa del agresor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.3 y 13, Ley N° 348",
+      "explicacion": "Dispone la asistencia familiar, la anotación preventiva de bienes sujetos a registro y el congelamiento de cuentas bancarias para asegurar el cumplimiento."
+    },
+    {
+      "question": "Según el Artículo 36 de la Ley N° 348, ¿qué ocurre con los hijos menores de edad que quedan huérfanos a consecuencia de un delito de feminicidio cometido por el cónyuge o conviviente?",
+      "options": [
+        "Serán puestos bajo la custodia del agresor mientras se dicta sentencia formal",
+        "Serán puestos de inmediato bajo custodia de los abuelos u otros familiares dolientes, o de los servicios de atención de la niñez",
+        "Serán derivados obligatoriamente a centros de reclusión juvenil",
+        "Perderán automáticamente su nacionalidad y derechos sucesorios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 36, Ley N° 348",
+      "explicacion": "Serán puestos de inmediato bajo custodia de familiares dolientes (familia materna/paterna no agresora) o de las Defensorías de la Niñez."
+    },
+    {
+      "question": "De acuerdo con el Artículo 37.I de la Ley N° 348, ¿quién y cuándo se declara la 'Alerta contra la Violencia hacia las Mujeres'?",
+      "options": [
+        "El Órgano Ejecutivo a través del Ente Rector, ante un índice alarmante de casos de violencia en un área o sector determinado",
+        "El Consejo de la Magistratura al detectarse retardación de justicia en materia laboral",
+        "La Policía Boliviana al iniciar el operativo de seguridad por fiestas patrias",
+        "Los colectivos privados mediante comunicados en redes sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37.I, Ley N° 348",
+      "explicacion": "El Órgano Ejecutivo vía Ente Rector declara alerta cuando se detecta un índice alarmante de delitos o violencia que vulnere derechos de las mujeres."
+    },
+    {
+      "question": "Conforme al Artículo 39 de la Ley N° 348, ¿cuál es la duración máxima que puede tener la declaratoria de Alerta contra la Violencia?",
+      "options": [
+        "Un máximo de treinta días hábiles",
+        "No podrá prolongarse por más de un (1) año",
+        "Tiene una vigencia indefinida de diez años",
+        "Concluye automáticamente a los tres meses de su emisión"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 39, Ley N° 348",
+      "explicacion": "El Artículo 39 fija expresamente que la alerta subsistirá mientras prevalezcan las causas, pero no podrá prolongarse por más de un (1) año."
+    },
+    {
+      "question": "Según el Artículo 38.2 de la Ley N° 348, ¿qué facultad presupuestaria se otorga a las Máximas Autoridades Ejecutivas (MAEs) durante una declaratoria de alerta?",
+      "options": [
+        "Solicitar prestamos internacionales a bancos privados sin autorización legislativa",
+        "Reasignar los recursos económicos necesarios aplicando el procedimiento determinado para situaciones de emergencia",
+        "Aumentar los sueldos de los funcionarios administrativos en un 50%",
+        "Suspender la ejecución del presupuesto anual de salud y educación"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 38.2, Ley N° 348",
+      "explicacion": "Las MAEs de entidades públicas y ETAs deben reasignar recursos necesarios aplicando el mismo procedimiento que para situaciones de emergencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 35.8 de la Ley N° 348, ¿qué medida puede dictar la autoridad judicial respecto del régimen de visitas de los hijos en situación de violencia?",
+      "options": [
+        "Obligar a la madre a entregar a los hijos al agresor todos los fines de semana",
+        "Suspender temporalmente al agresor del régimen de visitas y convivencia con sus hijas e hijos",
+        "Transferir la patria potestad exclusiva al Ministerio de Gobierno",
+        "Conceder al agresor la custodia total fuera del territorio nacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 35.8, Ley N° 348",
+      "explicacion": "Como medida de protección, el juez puede suspender temporalmente al agresor del régimen de visitas y convivencia con sus hijas e hijos."
+    },
+    {
+      "question": "Conforme al Artículo 35.2 de la Ley N° 348, ¿qué prohibición patrimonial se le impone al agresor como medida de protección?",
+      "options": [
+        "Prohibición de enajenar, hipotecar, prendar, disponer o cambiar la titularidad del derecho propietario de bienes muebles o inmuebles comunes",
+        "Prohibición de abrir cuentas de ahorro en el sistema bancario nacional",
+        "Obligación de donar el 100% de sus bienes a instituciones de beneficencia",
+        "Inhabilitación para ejercer el comercio minorista en ferias municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.2, Ley N° 348",
+      "explicacion": "Se le prohíbe enajenar, hipotecar, prendar o modificar el derecho propietario de bienes muebles e inmuebles comunes."
+    },
+    {
+      "question": "Según el Artículo 30 de la Ley N° 348, ¿cuál es la función de las 'Casas Comunitarias de la Mujer' en el área rural?",
+      "options": [
+        "Atender tareas de orientación, prevención y detección de casos de violencia articuladas a las promotoras comunitarias",
+        "Sustituir a los juzgados de instrucción penal en la emisión de sentencias de presidio",
+        "Cobrar impuestos por la venta de productos agrícolas en mercados comunales",
+        "Administrar los centros de detención preventiva de la Policía Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 348",
+      "explicacion": "Son espacios definidos por las mujeres organizadas en el área rural con apoyo de la alcaldía para orientación, prevención y detección de violencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 33 de la Ley N° 348, ¿qué principio de la Ley deben observar los procedimientos judiciales o administrativos bajo responsabilidad?",
+      "options": [
+        "El principio de celeridad procesal sin consideración de los derechos de la víctima",
+        "El principio de trato digno y no revictimización",
+        "El principio de publicidad absoluta de las imágenes y datos personales de la víctima",
+        "El principio de prescripción quinquenal de las acciones penales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 33, Ley N° 348",
+      "explicacion": "Deben aplicar el principio de trato digno y evitar la revictimización de las mujeres en situación de violencia, bajo responsabilidad."
+    },
+    {
+      "question": "Conforme al Artículo 40 de la Ley N° 348, ¿qué ocurre si al cabo de un año de declarada la alerta no hubieran cambiado las condiciones de riesgo para las mujeres?",
+      "options": [
+        "Se evaluarán las acciones de las entidades responsables para establecer responsabilidades por omisión (administrativas, civiles y penales)",
+        "La alerta se renueva automáticamente por un periodo de diez años sin auditoría",
+        "Se transfieren las competencias de las alcaldías a las Fuerzas Armadas",
+        "Se archivan los obrados sin investigación ni sanciones"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40, Ley N° 348",
+      "explicacion": "Se evaluarán las acciones de las entidades responsables a fin de establecer responsabilidades por omisión e incumplimiento de funciones."
+    },
+    {
+      "question": "Según el Artículo 46.I de la Ley N° 348, ¿cuál es la regla general sobre la conciliación en hechos de violencia contra las mujeres?",
+      "options": [
+        "La conciliación es obligatoria e indispensable antes de iniciar cualquier acción penal",
+        "La conciliación está prohibida en cualquier hecho de violencia que comprometa la vida e integridad sexual",
+        "La conciliación puede ser promovida de oficio por los funcionarios policiales de la FELCV",
+        "La conciliación es promovida libremente por los fiscales de materia para descongestionar causas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 46.I, Ley N° 348",
+      "explicacion": "La conciliación está prohibida en cualquier hecho que comprometa la vida e integridad sexual. Ninguna institución receptora de denuncias puede promoverla."
+    },
+    {
+      "question": "De acuerdo con el Artículo 46.IV de la Ley N° 348, ¿cuándo se admite excepcionalmente la conciliación?",
+      "options": [
+        "Cuando la solicite el agresor o su abogado defensor en la primera audiencia",
+        "Únicamente promovida por la víctima, sólo por única vez y no siendo posible en casos de reincidencia",
+        "Siempre que exista un acuerdo de pago de daños civiles por montos elevados",
+        "Cuando el hecho sea calificado como delito de feminicidio en grado de tentativa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 46.IV, Ley N° 348",
+      "explicacion": "Excepcionalmente puede ser promovida únicamente por la víctima, por una sola vez y no procede en reincidencia ni en hechos que comprometan la vida/integridad sexual."
+    },
+    {
+      "question": "Conforme al Artículo 42.I y II de la Ley N° 348, ¿cuáles son las instancias policiales y judiciales receptoras directas de denuncias que deben remitirlas al Ministerio Público?",
+      "options": [
+        "Policía Boliviana y Ministerio Público (directas); SLIM, DNA, SIJPLU y SEPDAVI (de promoción y remisión)",
+        "Exclusivamente las Notarías de Fe Pública y las Fuerzas Armadas",
+        "Los Juzgados Civiles y Comerciales de Capital",
+        "El Ministerio de Trabajo y la Contraloría General del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42.I y II, Ley N° 348",
+      "explicacion": "La denuncia directa se realiza ante la Policía o el Ministerio Público. SLIM, DNA, SIJPLU, SEPDAVI y autoridades indígenas promueven la denuncia y remiten de inmediato al MP."
+    },
+    {
+      "question": "Según el Artículo 53.I de la Ley N° 348, ¿qué organismo especializado de la Policía Boliviana se crea para la investigación de violencia hacia las mujeres?",
+      "options": [
+        "Fuerza Especial de Lucha Contra el Crimen (FELCC)",
+        "Fuerza Especial de Lucha Contra la Violencia (FELCV)",
+        "Fuerza Especial de Lucha Contra el Narcotráfico (FELCN)",
+        "Dirección Nacional de Tránsito y Seguridad Vial"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 53.I, Ley N° 348",
+      "explicacion": "Se crea la Fuerza Especial de Lucha Contra la Violencia (FELCV) como organismo especializado de la Policía Boliviana."
+    },
+    {
+      "question": "De acuerdo con el Artículo 54.3 de la Ley N° 348, ¿cuál es la facultad de la FELCV en casos de flagrancia dentro de un domicilio?",
+      "options": [
+        "Solicitar una orden judicial de allanamiento que debe ser tramitada en 72 horas",
+        "Socorrer a las personas agredidas e hijos aun cuando se encuentren dentro de un domicilio, sin necesidad de mandamiento ni limitación de hora y día",
+        "Esperar la presencia del fiscal de materia asignado antes de ingresar a la vivienda",
+        "Requerir autorización escrita firmada por los vecinos de la zona"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 54.3, Ley N° 348",
+      "explicacion": "En caso de flagrancia, la Policía puede ingresar al domicilio para socorrer a las víctimas sin necesidad de orden judicial ni límite de hora o día."
+    },
+    {
+      "question": "Conforme al Artículo 54.2 de la Ley N° 348, ¿en qué plazo máximo la Policía debe poner a los aprehendidos por delito flagrante a disposición del Ministerio Público?",
+      "options": [
+        "En el plazo máximo de ocho (8) horas",
+        "En un plazo de 24 horas improrrogables",
+        "En el lapso de 48 horas de acuerdo a la distancia geográfica",
+        "En el término de tres días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54.2, Ley N° 348",
+      "explicacion": "Aprehender de inmediato en caso de flagrancia y poner a los presuntos responsables a disposición del Ministerio Público en un plazo máximo de 8 horas."
+    },
+    {
+      "question": "Según el Artículo 54.11 de la Ley N° 348, ¿durante cuánto tiempo la Policía debe hacer seguimiento a la mujer protegida para verificar la eficacia del auxilio?",
+      "options": [
+        "Durante veinticuatro (24) horas",
+        "Hacer seguimiento a la mujer por setenta y dos (72) horas",
+        "Durante treinta días continuos mediante resguardo permanente",
+        "Durante seis meses a través de visitas semanales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 54.11, Ley N° 348",
+      "explicacion": "El Art. 54.11 faculta a la Policía a hacer seguimiento por 72 horas a la víctima para garantizar la eficacia de la protección."
+    },
+    {
+      "question": "De acuerdo con el Artículo 58.II de la Ley N° 348, ¿puede un funcionario policial negar auxilio a una víctima alegando falta de competencia?",
+      "options": [
+        "Sí, si no pertenece formalmente a la unidad especializada de la FELCV",
+        "Ninguna funcionaria o funcionario policial negará el auxilio y apoyo a mujeres en situación de violencia alegando falta de competencia",
+        "Sí, si el hecho ocurre fuera del horario de su turno administrativo",
+        "Solo si no cuenta con movilidad patrullera asignada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 58.II, Ley N° 348",
+      "explicacion": "Ningún efectivo policial puede negar el auxilio o apoyo a una mujer en situación de violencia alegando falta de competencia."
+    },
+    {
+      "question": "Conforme al Artículo 59.I de la Ley N° 348, ¿cuál es el carácter de la investigación penal en delitos de violencia contra las mujeres?",
+      "options": [
+        "Se inicia y tramita exclusivamente a pedido de parte querellante",
+        "La investigación se seguirá de oficio, independientemente del impulso de la denunciante",
+        "Requiere la acusación particular suscrita por la víctima para pasar a la etapa preparatoria",
+        "Se suspende de forma automática si la víctima no presenta testigos en 5 días"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 59.I, Ley N° 348",
+      "explicacion": "La investigación penal es de oficio y la persecución continúa independientemente del impulso o desistimiento de la parte denunciante."
+    },
+    {
+      "question": "Según el Artículo 50.I y II de la Ley N° 348, ¿cuál es la naturaleza de los Servicios Legales Integrales Municipales (SLIMs)?",
+      "options": [
+        "Son entidades privadas lucrativas contratadas por los ministerios del área social",
+        "Son servicios organizados por los Gobiernos Autónomos Municipales con carácter permanente y gratuito para la defensa psicológica, social y legal de las mujeres",
+        "Son tribunales arbitrales encargados de fijar multas pecuniarias a agresores",
+        "Son unidades militares destinadas a la vigilancia de fronteras"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 50.I y II, Ley N° 348",
+      "explicacion": "Son servicios municipales permanentes y gratuitos obligatorios encargados de la asistencia psicológica, social y patrocinio legal gratuito."
+    },
+    {
+      "question": "De acuerdo con el Artículo 65 de la Ley N° 348, ¿cuál es el valor probatorio de los certificados médicos extendidos por profesionales de la salud públicos o privados?",
+      "options": [
+        "Constituyen prueba de fe plena sin necesidad de homologación posterior",
+        "Se tendrán como un indicio respecto a los delitos y adquirirán valor probatorio una vez homologados por un médico forense",
+        "Carecen de todo valor legal dentro del proceso penal",
+        "Solo son válidos si están redactados en formularios expedidos por juzgados civiles"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 65, Ley N° 348",
+      "explicacion": "Se consideran un indicio respecto a los delitos y adquieren valor probatorio pleno una vez homologados por el médico forense."
+    },
+    {
+      "question": "Conforme al Artículo 49 de la Ley N° 348, ¿qué función cumple el Servicio Plurinacional de Defensa a la Víctima (SEPDAVI)?",
+      "options": [
+        "Brindar patrocinio legal gratuito y apoyo psicológico a mujeres en situación de violencia carentes de recursos económicos",
+        "Asumir la defensa técnica del imputado cuando carezca de abogado particular",
+        "Emitir certificados de antecedentes penales a nivel nacional",
+        "Administrar los recursos del seguro social de corto plazo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 49, Ley N° 348",
+      "explicacion": "El SEPDAVI presta apoyo y patrocinio legal gratuito y psicológico a mujeres en situación de violencia carentes de recursos."
+    },
+    {
+      "question": "Según el Artículo 47 de la Ley N° 348, ¿qué principio de preferencia normativa se aplica en caso de conflicto entre derechos individuales y colectivos?",
+      "options": [
+        "Se dará preferencia a los derechos para la dignidad de las mujeres reconocidos en tratados internacionales, la CPE y la Ley 348",
+        "Prevalecerán siempre los usos y costumbres locales independientemente de su contenido",
+        "Se resolverá por sorteo de votos en el Tribunal Supremo de Justicia",
+        "Se aplicará la norma penal más beneficiosa para el imputado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47, Ley N° 348",
+      "explicacion": "En colisión de derechos, se dará preferencia a los derechos para la dignidad de las mujeres contemplados en la CPE, Tratados y la Ley 348."
+    },
+    {
+      "question": "De acuerdo con el Artículo 61.10 de la Ley N° 348, ¿con qué periodicidad los Fiscales de Materia deben presentar sus informes estadísticos al SIPPASE?",
+      "options": [
+        "Mediante informes de carácter semestral",
+        "De forma mensual obligatoria",
+        "Únicamente cada cinco años",
+        "Al finalizar la etapa de juicio oral únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61.10, Ley N° 348",
+      "explicacion": "Los Fiscales de Materia presentan sus informes semestrales sobre causas atendidas y requerimientos al SIPPASE."
+    },
+    {
+      "question": "Conforme al Artículo 66 de la Ley N° 348, ¿cuáles son los requisitos para la obtención de fotocopias de actuaciones investigativas por parte de la víctima?",
+      "options": [
+        "Acreditar el pago previo de aranceles judiciales en cuentas del Órgano Judicial",
+        "Se otorgan en forma expedita, sin notificación previa y sin costo adicional al de las fotocopias",
+        "Requieren orden del Juez de Instrucción previa vista fiscal en 10 días",
+        "Se otorgan únicamente tras la dictación de acusación formal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 66, Ley N° 348",
+      "explicacion": "La víctima tiene derecho a fotocopias de todas las actuaciones de forma expedita, sin notificación previa y sin más costo que el de las copias."
+    },
+    {
+      "question": "Según las modificaciones introducidas por el Artículo 68 de la Ley N° 348 al Artículo 72 bis de la Ley del Órgano Judicial N° 025, ¿cuál es la competencia de los Juzgados de Sentencia en Violencia contra las Mujeres?",
+      "options": [
+        "Resolver juicios por delitos de acción pública que constituyan violencia contra las mujeres sancionados con pena privativa de libertad cuyo máximo legal sea de cuatro (4) o menos años",
+        "Juzgar delitos con penas mayores a treinta años de prisión sin derecho a indulto",
+        "Tramitar exclusivamente los recursos de casación ante el Tribunal Supremo",
+        "Conocer las demandas relativas a contratos comerciales entre sociedades anónimas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 68 (Art. 72 bis LOJ), Ley N° 348",
+      "explicacion": "Los Juzgados de Sentencia conocen delitos contra las mujeres con penas cuyo máximo sea de cuatro o menos años."
+    },
+    {
+      "question": "De acuerdo con el Artículo 68 de la Ley N° 348 (Art. 72 ter LOJ), ¿cuál es la competencia de los Tribunales de Sentencia en Materia de Violencia contra las Mujeres?",
+      "options": [
+        "Conocer la substanciación y resolución del juicio penal en delitos sancionados con pena privativa de libertad mayores a cuatro (4) años",
+        "Resolver contravenciones de tránsito y faltas administrativas menores",
+        "Tramitar apelaciones de procesos ejecutivos civiles",
+        "Dictar decretos supremos de indulto a favor de agresores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 68 (Art. 72 ter LOJ), Ley N° 348",
+      "explicacion": "Los Tribunales de Sentencia conocen juicios penales por delitos de violencia contra las mujeres con penas mayores a 4 años."
+    },
+    {
+      "question": "Conforme al Artículo 76.I.1 de la Ley N° 348, ¿en qué casos se pueden aplicar sanciones alternativas a la privación de libertad?",
+      "options": [
+        "En cualquier delito de feminicidio o violación de menores de edad",
+        "Siempre que el autor no sea reincidente y la pena impuesta no sea mayor a tres (3) años",
+        "A todos los imputados con reincidencia comprobada en más de tres procesos penales",
+        "Únicamente cuando el agresor pertenezca a las Fuerzas Armadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 76.I.1, Ley N° 348",
+      "explicacion": "Aplica si el autor no es reincidente y la pena impuesta no excede los tres años de privación de libertad."
+    },
+    {
+      "question": "Según el Artículo 77 de la Ley N° 348, ¿cuál es el destino exclusivo de los fondos recaudados por concepto de multas impuestas como sanción alternativa?",
+      "options": [
+        "Se destinan a las cuentas generales del Tesoro General de la Nación sin asignación específica",
+        "Se destinan a los Servicios de Atención Integral a cargo de los Gobiernos Autónomos Municipales (Casas de Acogida y servicios de salud)",
+        "Se entregan directamente como premio al personal policial de la FELCV",
+        "Se depositan en cuentas de inversión de la banca privada internacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 77, Ley N° 348",
+      "explicacion": "Las multas se destinan exclusivamente a los Servicios de Atención Integral municipales, con preferencia a Casas de Acogida y salud."
+    },
+    {
+      "question": "De acuerdo con el Artículo 78 de la Ley N° 348, ¿cómo se ejecuta la sanción alternativa de 'Detención de Fin de Semana'?",
+      "options": [
+        "Desde el día viernes a horas 19:00 hasta el día lunes a horas 6:00",
+        "Desde el día sábado a horas 12:00 hasta el día domingo a horas 18:00",
+        "Únicamente los días domingos de 8:00 a 12:00",
+        "Durante catorce días continuos cada fin de mes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 78, Ley N° 348",
+      "explicacion": "Es una limitación de libertad que se aplica desde el viernes a las 19:00 hasta el lunes a las 6:00."
+    },
+    {
+      "question": "Conforme al Artículo 79 de la Ley N° 348, ¿cuál es la duración mínima y máxima de la sanción de 'Trabajos Comunitarios'?",
+      "options": [
+        "Mínimo un (1) mes y máximo seis (6) meses",
+        "Un mínimo de un (1) año (52 semanas) y un máximo de hasta dos años (104 semanas)",
+        "Mínimo cinco años y máximo diez años",
+        "Un periodo fijo de dos semanas no prorrogables"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 79, Ley N° 348",
+      "explicacion": "Se aplica por un mínimo de 1 año (52 semanas) y un máximo de hasta 104 semanas en favor del Gobierno Autónomo Municipal."
+    },
+    {
+      "question": "Según el Artículo 81 de la Ley N° 348, ¿cuál es el límite temporal de la sanción de 'Inhabilitación'?",
+      "options": [
+        "Tiene un límite temporal de doce (12) años",
+        "Inhabilitación perpetua sin posibilidad de rehabilitación",
+        "Un máximo de dos meses de suspensión de derechos",
+        "Hasta que el condenado cumpla 70 años de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81, Ley N° 348",
+      "explicacion": "La inhabilitación abarca privación de derechos/cargos con un límite temporal de hasta 12 años."
+    },
+    {
+      "question": "De acuerdo con el Artículo 82 de la Ley N° 348, ¿cuál de las siguientes prohibiciones forma parte del 'Plan de Conducta' para condenados con sanciones alternativas?",
+      "options": [
+        "Obligación de cambiar de domicilio a otra provincia del departamento",
+        "Abstenerse de asistir a lugares públicos en los que se expendan bebidas alcohólicas y lenocinios, y prohibición de portar armas",
+        "Prohibición absoluta de ejercer cualquier actividad económica o comercial",
+        "Obligación de abstenerse de emitir voto en elecciones municipales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 82, Ley N° 348",
+      "explicacion": "Entre las instrucciones están: prohibición de portar armas, abstenerse de consumir alcohol/drogas y no asistir a bares/lenocinios."
+    },
+    {
+      "question": "Conforme al Artículo 69.2 de la Ley N° 348, ¿qué requisito adicional se exige a los postulantes a jueces de juzgados de violencia contra la mujer?",
+      "options": [
+        "Certificado de suficiencia de aptitud psicotécnica expedido por el Consejo de la Magistratura para medir rasgos de personalidad y valores",
+        "Acreditar el patrocinio de al menos 50 causas penales en la justicia ordinaria",
+        "Haber cumplido funciones de Fiscal General del Estado",
+        "Pertenecer a una organización social con personería jurídica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 69.2, Ley N° 348",
+      "explicacion": "Exige certificado de suficiencia de aptitud psicotécnica expedido por el Consejo de la Magistratura."
+    },
+    {
+      "question": "Según el Artículo 71 de la Ley N° 348, ¿de qué áreas profesionales se compone el 'Equipo Interdisciplinario' de los Juzgados de Violencia?",
+      "options": [
+        "Profesionales de las áreas social y psicológica especializados en derechos humanos y de las mujeres",
+        "Ingenieros comerciales y contadores auditores forenses",
+        "Médicos cirujanos generales y químicos farmacéuticos",
+        "Peritos en balística e informática militar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71, Ley N° 348",
+      "explicacion": "Se compone de profesionales de las áreas social y psicológica especializados en derechos de las mujeres."
+    },
+    {
+      "question": "De acuerdo con el Artículo 72.2 de la Ley N° 348, ¿cuál es el objetivo del protocolo de atención implementado por el equipo interdisciplinario para los testimonios de las víctimas?",
+      "options": [
+        "Acelerar las condenas sin necesidad de valoración probatoria",
+        "Evitar alterar su proceso de recuperación mediante la repetición de interrogatorios, impidiendo la revictimización",
+        "Permitir careos públicos transmitidos por medios de comunicación",
+        "Obligar a las víctimas a prestar declaración en presencia exclusiva del agresor"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 72.2, Ley N° 348",
+      "explicacion": "Busca evitar la revictimización impidiendo la repetición innecesaria de interrogatorios a víctimas e hijos."
+    },
+    {
+      "question": "Conforme al Artículo 74 de la Ley N° 348, ¿con qué periodicidad el Consejo de la Magistratura debe reportar el movimiento de causas por violencia al SIPPASE?",
+      "options": [
+        "Con carácter trimestral",
+        "Cada cinco años",
+        "De forma anual al cierre de la gestión",
+        "Únicamente a requerimiento de la policía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 74, Ley N° 348",
+      "explicacion": "El Consejo de la Magistratura debe reportar al SIPPASE el movimiento de causas por violencia de forma trimestral."
+    },
+    {
+      "question": "Según el Artículo 77 de la Ley N° 348, ¿cómo se calcula el día multa cuando el salario del sancionado es indeterminado?",
+      "options": [
+        "Sobre el cien por ciento (100%) del salario mínimo nacional",
+        "Sobre el cincuenta por ciento (50%) del salario mínimo nacional",
+        "A razón de un monto fijo fijado libremente por el secretario de cámara",
+        "Tomando como base el presupuesto del Gobierno Autónomo Municipal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 77, Ley N° 348",
+      "explicacion": "Si el salario es indeterminado, se calcula sobre el 50% del salario mínimo nacional por cada día multa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 81 de la Ley N° 348, ¿cuándo puede concederse la rehabilitación al sancionado con inhabilitación?",
+      "options": [
+        "Transcurrida la mitad del plazo impuesto, o un mínimo de cinco (5) años",
+        "Inmediatamente al haber pagado una multa equivalente a 10 salarios mínimos",
+        "A los tres meses de emitida la sentencia de primera instancia",
+        "No existe figura de rehabilitación en el ordenamiento penal boliviano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81, Ley N° 348",
+      "explicacion": "La rehabilitación puede darse transcurrida la mitad del plazo impuesto o un mínimo de 5 años."
+    },
+    {
+      "question": "Conforme al Artículo 76.II de la Ley N° 348, ¿qué facultad tiene el juez al aplicar sanciones alternativas?",
+      "options": [
+        "Aplicar una sanción alternativa junto a otras cuando sea necesario para proteger a la mujer, hijos o el núcleo familiar",
+        "Anular de oficio todas las medidas de protección previamente dictadas",
+        "Absolver de responsabilidad civil al agresor",
+        "Delegar la ejecución de la sentencia a la justicia comunitaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 76.II, Ley N° 348",
+      "explicacion": "El juez puede combinar o aplicar una sanción alternativa junto a otras medidas para garantizar la protección de la víctima y su familia."
+    },
+    {
+      "question": "Según el Artículo 84 de la Ley N° 348, que incorpora el Artículo 252 bis al Código Penal, ¿cuál es la pena fijada para el delito de 'Feminicidio'?",
+      "options": [
+        "Privación de libertad de treinta (30) años sin derecho a indulto",
+        "Privación de libertad de quince a veinte años con derecho a indulto",
+        "Reclusión de dos a ocho años sustituible por trabajo comunitario",
+        "Privación de libertad de diez a quince años según atenuantes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84 (Art. 252 bis CP), Ley N° 348",
+      "explicacion": "El delito de Feminicidio sanciona a quien mate a una mujer en las circunstancias señaladas con la pena de 30 años de prisión sin derecho a indulto."
+    },
+    {
+      "question": "De acuerdo con el Artículo 83 de la Ley N° 348 (Art. 254 del Código Penal), ¿procede la figura de 'Homicidio por Emoción Violenta' en casos de Feminicidio?",
+      "options": [
+        "Sí, siempre que el agresor demuestre estado de alteración psíquica en el juicio",
+        "Este tipo penal no procederá en caso de feminicidio",
+        "Sí, reduciendo la pena a solo dos años de reclusión en todos los casos",
+        "Aplica únicamente si la víctima era cónyuge o conviviente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 83 (Art. 254 CP), Ley N° 348",
+      "explicacion": "La reforma excluye expresamente la aplicación del homicidio por emoción violenta en casos de feminicidio."
+    },
+    {
+      "question": "Conforme al Artículo 84 de la Ley N° 348 (Art. 272 bis del Código Penal), ¿cuál es la pena para el delito de 'Violencia Familiar o Doméstica'?",
+      "options": [
+        "Pena de reclusión de dos (2) a cuatro (4) años, siempre que no constituya otro delito",
+        "Prestación de trabajo de 10 a 20 días sin antecedente penal",
+        "Privación de libertad de diez a quince años de presidio",
+        "Multa equivalente a un salario mínimo nacional sin privación de libertad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84 (Art. 272 bis CP), Ley N° 348",
+      "explicacion": "El Art. 272 bis CP tipifica la Violencia Familiar o Doméstica con pena de reclusión de 2 a 4 años."
+    },
+    {
+      "question": "Según el Artículo 84 de la Ley N° 348 (Art. 312 quater del Código Penal), ¿cuál es la pena para el delito de 'Acoso Sexual' y cuál es la sanción si es cometido por un servidor público?",
+      "options": [
+        "Pena de privación de libertad de cuatro (4) a ocho (8) años; si es cometido por servidor público será destituido y la pena agravada en un tercio",
+        "Pena de reclusión de seis meses a un año sin destitución del cargo",
+        "Multa de 50 días y amonestación escrita en el archivo personal",
+        "Trabajo comunitario de 30 días sin inhabilitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84 (Art. 312 quater CP), Ley N° 348",
+      "explicacion": "Se sanciona con 4 a 8 años de privación de libertad y destitución e incremento en 1/3 del máximo si es ejercido por servidor público."
+    },
+    {
+      "question": "De acuerdo con el Artículo 85 de la Ley N° 348 (Art. 250 bis del Código Penal), ¿cuál es la pena fijada para el delito de 'Violencia Económica'?",
+      "options": [
+        "Privación de libertad de dos (2) a cuatro (4) años",
+        "Privación de libertad de diez a quince años",
+        "Prestación de trabajo comunitario de 10 días",
+        "Amonestación verbal en audiencia pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 85 (Art. 250 bis CP), Ley N° 348",
+      "explicacion": "La Violencia Económica es sancionada con pena privativa de libertad de 2 a 4 años."
+    },
+    {
+      "question": "Conforme al Artículo 84 de la Ley N° 348 (Art. 271 bis del Código Penal), ¿qué pena se impone a quien prive a otra persona de su función reproductiva sin su consentimiento expreso ('Esterilización Forzada')?",
+      "options": [
+        "Pena privativa de libertad de cinco (5) a doce (12) años",
+        "Reclusión de uno a tres años sustituible por multa",
+        "Multa de 100 días de salario",
+        "Suspensión temporal del ejercicio de la medicina por 30 días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84 (Art. 271 bis CP), Ley N° 348",
+      "explicacion": "La Esterilización Forzada se sanciona con pena privativa de libertad de 5 a 12 años."
+    },
+    {
+      "question": "Según el Artículo 84 de la Ley N° 348 (Art. 154 bis del Código Penal), ¿qué delito comete el servidor público que propicie la impunidad u obstaculice la investigación de violencia contra las mujeres?",
+      "options": [
+        "Incumplimiento de Deberes de Protección a Mujeres en Situación de Violencia",
+        "Prevaricato judicial agravado",
+        "Cohecho pasivo propio",
+        "Negatividad de auxilio con atenuante de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84 (Art. 154 bis CP), Ley N° 348",
+      "explicacion": "Tipifica el Incumplimiento de Deberes de Protección a Mujeres en Situación de Violencia con trabajos comunitarios de 90 a 120 días e inhabilitación de 1 a 4 años."
+    },
+    {
+      "question": "De acuerdo con el Artículo 86.1 de la Ley N° 348, ¿en qué consiste el principio procesal de 'Gratuidad'?",
+      "options": [
+        "Exención del pago de valores, legalizaciones, notificaciones, formularios, testimonios, certificaciones, peritajes y órdenes instruidas en todas las reparticiones públicas",
+        "Obligación de la víctima de financiar los pasajes del personal policial investigador",
+        "Pago diferido de aranceles al finalizar la etapa de apelación",
+        "Cobro único de tasa judicial fija en juzgados de instrucción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 86.1, Ley N° 348",
+      "explicacion": "Exime a las mujeres en situación de violencia de todo pago por valores, notificaciones, peritajes, testimonios o formularios en reparticiones públicas."
+    },
+    {
+      "question": "Conforme al Artículo 86.12 y Artículo 94 de la Ley N° 348, ¿a quién corresponde la 'Carga de la Prueba' en los procesos penales por violencia?",
+      "options": [
+        "A la mujer víctima, quien debe reunir y pagar los peritajes en 48 horas",
+        "Al Ministerio Público, como responsable de la investigación de delitos",
+        "Al juez de instrucción de materia de forma oficiosa",
+        "A la Defensoría del Pueblo mediante dictámenes de opinión"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 86.12 y 94, Ley N° 348",
+      "explicacion": "Ninguna mujer tiene la carga de demostrar judicialmente su situación de violencia; es responsabilidad del Ministerio Público reunir las pruebas."
+    },
+    {
+      "question": "Según el Artículo 90 de la Ley N° 348, ¿cuál es la acción penal correspondiente a todos los delitos contemplados en esta Ley?",
+      "options": [
+        "Son delitos de acción penal privada únicamente",
+        "Todos los delitos contemplados en la presente Ley son delitos de acción pública",
+        "Requieren querella de parte previa antes de cualquier investigación policial",
+        "Son faltas contravencionales de acción mixta"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 90, Ley N° 348",
+      "explicacion": "Todos los delitos previstos en la Ley 348 son de acción penal pública."
+    },
+    {
+      "question": "De acuerdo con el Artículo 91 de la Ley N° 348, ¿cuándo se declarará 'Rebelde' al imputado en estos delitos?",
+      "options": [
+        "Cuando no se presente a la primera audiencia señalada por la autoridad jurisdiccional después de haber sido notificado legalmente",
+        "Únicamente si abandona el territorio nacional por más de seis meses",
+        "Cuando se niegue a prestar declaración inquisitiva ante la policía",
+        "Si no presenta abogados defensores particulares en 24 horas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 91, Ley N° 348",
+      "explicacion": "Se declarará rebelde al imputado cuando no comparezca a la primera audiencia señalada tras su notificación legal."
+    },
+    {
+      "question": "Conforme al Artículo 89 de la Ley N° 348, ¿cuál es el régimen de publicidad de las actuaciones en procesos por violencia?",
+      "options": [
+        "Son de acceso público irrestricto transmitidos en canales estatales",
+        "El proceso por hechos de violencia es reservado, manteniendo en estricta reserva el nombre de la víctima, salvo solicitud expresa de la mujer",
+        "Los nombres e imágenes de las víctimas deben ser difundidos para advertencia social",
+        "Se entregan copias de los obrados a cualquier interesado sin registro"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 89, Ley N° 348",
+      "explicacion": "El proceso por violencia es reservado y se mantiene en estricta reserva el nombre de la víctima salvo solicitud expresa de ella."
+    },
+    {
+      "question": "Según el Artículo 100 de la Ley N° 348, ¿cuándo se puede iniciar una acción por 'Denuncia o Acusación Falsa'?",
+      "options": [
+        "Con la resolución fiscal de rechazo de la denuncia o de sobreseimiento, o concluido el proceso con sentencia absolutoria ejecutoriada",
+        "En cualquier momento de la etapa preliminar mediante simple memorial del denunciado",
+        "Antes de la recepción de la declaración informativa del imputado",
+        "Únicamente si la víctima no se presenta a la inspección ocular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 100, Ley N° 348",
+      "explicacion": "Quien haya sido falsamente denunciado puede iniciar la acción con la resolución de rechazo, sobreseimiento o sentencia absolutoria ejecutoriada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 83 de la Ley N° 348 (Art. 267 bis del Código Penal), ¿qué pena se impone al que mediante violencia causa un aborto a una mujer ('Aborto Forzado')?",
+      "options": [
+        "Reclusión de cuatro (4) a ocho (8) años",
+        "Privación de libertad de quince a veinte años",
+        "Trabajos comunitarios de 52 semanas",
+        "Multa pecuniaria de 100 días de salario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 267 bis CP), Ley N° 348",
+      "explicacion": "El Aborto Forzado causado mediante violencia física, psicológica o sexual se sanciona con reclusión de 4 a 8 años."
+    },
+    {
+      "question": "Conforme al Artículo 83 de la Ley N° 348 (Art. 308 bis del Código Penal), ¿cuál es la pena fijada para la 'Violación de Infante, Niña, Niño o Adolescente'?",
+      "options": [
+        "Privación de libertad de treinta (30) años sin derecho a indulto",
+        "Privación de libertad de diez a quince años con indulto presidencial",
+        "Reclusión de cinco a diez años con perdón judicial",
+        "Trabajo comunitario obligatorio de dos años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83 (Art. 308 bis CP), Ley N° 348",
+      "explicacion": "La violación cometida contra infante, niña, niño o adolescente se sanciona con la pena máxima de 30 años de prisión sin derecho a indulto."
+    }
+  ]
+}

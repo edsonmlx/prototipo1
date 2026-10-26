@@ -1,0 +1,25 @@
+/* =============================================
+   layout.css — Contenedores y adaptación a pantallas anchas
+   ≥1024px: menú lateral, contenido centrado en .shell
+   ============================================= */
+
+/* =============================================
+   ESCRITORIO (≥1024px): menú lateral + contenido ancho
+   ============================================= */
+.shell { width: 100%; margin: 0 auto; }
+@media (min-width: 1024px) {
+  body.has-nav { padding-left: 120px; padding-right: 24px; padding-bottom: 36px; }
+  .bnav {
+    left: 22px; top: 50%; bottom: auto; transform: translateY(-50%);
+    width: 86px; height: auto; grid-auto-flow: row; grid-auto-columns: auto; gap: 6px; padding: 8px;
+    animation: navInD .6s var(--spring) .2s both;
+  }
+  .bnav a { padding: 13px 0; font-size: 11px; }
+  .bnav a svg { width: 23px; height: 23px; }
+  #toast { bottom: 30px; }
+  .shell { max-width: 1000px; }
+  .shell > .header { margin-top: 14px; border-radius: 20px; padding: 14px 22px; }
+  .modal-overlay { align-items: center; }
+  .modal-card { animation-name: popIn; }
+}
+@media (min-width: 1500px) { .shell { max-width: 1120px; } }

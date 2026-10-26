@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="theme-color" content="#0B1126">
+  <link rel="manifest" href="manifest.json">
+  <title>Examen · ERTEC</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@500;600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/animations.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/pages/exam.css">
+</head>
+<body>
+<div id="loader"><div class="loader-icon">📝</div><div class="loader-ring"></div><div class="loader-txt" id="loader-txt">Preparando examen</div></div>
+<div id="toast"></div>
+<div class="modal-overlay" id="modal-overlay"><div class="modal-card">
+  <div class="modal-icon" id="modal-icon">⚠️</div><div class="modal-title" id="modal-title"></div><div class="modal-desc" id="modal-desc"></div>
+  <div class="modal-btns"><button class="btn btn-red" id="modal-ok">Confirmar</button><button class="btn btn-ghost" id="modal-cancel">Cancelar</button></div>
+</div></div>
+
+<div class="exam-hdr">
+  <div class="hdr-row">
+    <div><div class="hdr-mode" id="hdr-mode">ERTEC</div><div class="hdr-prog" id="hdr-prog">Pregunta 1</div></div>
+    <div class="timer-box" id="timer-box"><div class="t-dot"></div><span class="t-time" id="t-time">00:00</span></div>
+  </div>
+  <div class="prog-track"><div class="prog-fill" id="prog-fill"></div></div>
+</div>
+
+<div class="exam-body">
+<div class="ex-main">
+  <div id="notice"></div>
+  <div class="q-meta">
+    <div class="q-counter">Pregunta <strong id="q-n">1</strong> de <strong id="q-tot">0</strong></div>
+    <span class="streak" id="streak"><i>🔥</i><span id="streak-n">0</span> seguidas</span>
+    <div class="q-cat" id="q-cat">Bibliografía</div>
+  </div>
+
+  <div class="q-card" id="q-card">
+    <div class="q-num" id="q-num-lbl">Pregunta 1</div>
+    <p class="q-text" id="q-text">Cargando…</p>
+    <div class="q-fuente" id="q-fuente"></div>
+  </div>
+  <div class="options" id="options"></div>
+  <div class="feedback-bar" id="feedback-bar"><span id="fb-ico">✅</span><span id="fb-txt"></span></div>
+
+  <div class="nav-row">
+    <button class="btn-nav" id="btn-prev">← Anterior</button>
+    <button class="btn-nav btn-next" id="btn-next">Siguiente →</button>
+    <button class="btn-nav btn-finish" id="btn-finish">🏁 Finalizar y ver resultados</button>
+  </div>
+</div>
+<div class="ex-side">
+  <div class="info-row"><div>✅ <strong id="i-ok">0</strong></div><div>❌ <strong id="i-bad">0</strong></div><div>⏭ <strong id="i-skip">0</strong> sin responder</div></div>
+  <div><div class="map-label">Mapa de preguntas</div><div class="map-grid" id="map-grid"></div></div>
+  <button class="btn btn-danger" id="btn-abandon">✕ Abandonar examen</button>
+</div>
+</div>
+
+<script src="assets/js/core/utils.js"></script>
+<script src="assets/js/core/storage.js"></script>
+<script src="assets/js/core/config.js"></script>
+<script src="assets/js/core/modes.js"></script>
+<script src="assets/js/core/timer.js"></script>
+<script src="assets/js/core/sound.js"></script>
+<script src="assets/js/core/fx.js"></script>
+<script src="assets/js/pages/exam.js"></script>
+<script src="assets/js/core/sw-register.js"></script>
+</body>
+</html>

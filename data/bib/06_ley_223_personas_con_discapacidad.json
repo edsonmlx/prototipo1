@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "06_ley_223_personas_con_discapacidad",
+    "nombre": "Ley 223 de 2012 de Personas con Discapacidad",
+    "detalle": "Ley General para Personas con Discapacidad de 2 de marzo de 2012",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "Según el Artículo 1 de la Ley N° 223 (Ley General para Personas con Discapacidad), ¿cuál es el objeto principal de esta norma?",
+      "options": [
+        "Garantizar a las personas con discapacidad el ejercicio pleno de sus derechos y deberes en igualdad de condiciones y equiparación de oportunidades, bajo un sistema de protección integral",
+        "Crear un subsidio mensual obligatorio financiado por las empresas privadas a favor de todas las personas con discapacidad",
+        "Establecer juzgados especiales para el juzgamiento de faltas cometidas contra personas con discapacidad",
+        "Sustituir la administración del Sistema de Salud Público por seguros privados especializados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 223",
+      "explicacion": "El Art. 1 de la Ley 223 establece que el objeto es garantizar el ejercicio pleno de sus derechos y deberes en igualdad de condiciones y equiparación de oportunidades, con trato preferente y protección integral."
+    },
+    {
+      "question": "¿A qué entidades es aplicable la Ley N° 223 conforme a su Artículo 3 (Ámbito de Aplicación)?",
+      "options": [
+        "Únicamente a los Ministerios y Secretarías del Nivel Central del Estado",
+        "A todo el territorio del Estado Plurinacional y de cumplimiento obligatorio por todos los Órganos del Estado, instituciones públicas, privadas, cooperativas y de economía mixta",
+        "Solo a las Unidades Educativas e Institutos de Educación Especial del sector fiscal",
+        "Exclusivamente a los Gobiernos Autónomos Municipales y Departamentales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3, Ley N° 223",
+      "explicacion": "El Art. 3 dispone que la ley rige en todo el territorio nacional y es de cumplimiento obligatorio para los Órganos del Estado y toda institución pública, privada, cooperativa o mixta."
+    },
+    {
+      "question": "Según el Artículo 4.d de la Ley N° 223, ¿cómo se define el principio de 'Accesibilidad'?",
+      "options": [
+        "La obligación de otorgar pasajes gratuitos en todos los medios de transporte internacional",
+        "Que los servicios que goza la sociedad puedan acomodarse para ser accedidos por las personas con discapacidad, sin restricción arquitectónica, física, social, económica, cultural o comunicacional",
+        "El ingreso libre y sin examen a todas las carreras de universidades privadas",
+        "La entrega de créditos bancarios sin necesidad de garantías ni capacidad de reembolso"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.d, Ley N° 223",
+      "explicacion": "El principio de accesibilidad garantiza que los servicios públicos y privados se acomoden para ser accedidos sin barreras arquitectónicas, físicas, sociales, económicas o comunicacionales."
+    },
+    {
+      "question": "Conforme al Artículo 4.h de la Ley N° 223, ¿cuál es el alcance del principio de 'Asistencia Económica Estatal'?",
+      "options": [
+        "El Estado promueve una renta solidaria para las personas con discapacidad grave y muy grave, y asistencia económica mediante planes, programas y proyectos",
+        "El otorgamiento de un sueldo básico universal a todas las familias de Bolivia sin evaluación de grado de discapacidad",
+        "La exención total del pago de servicios de luz y agua para el grado de discapacidad leve",
+        "La dotación de vivienda gratuita a todos los parientes hasta el cuarto grado de consanguinidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.h, Ley N° 223",
+      "explicacion": "El Art. 4.h establece que el Estado promueve una renta solidaria para discapacidad grave y muy grave, además de apoyo económico a través de programas y proyectos."
+    },
+    {
+      "question": "¿Cómo define la Ley N° 223 en su Artículo 5.a la 'Discapacidad'?",
+      "options": [
+        "Una enfermedad médica degenerativa de carácter irreversible clasificada clínicamente",
+        "El resultado de la interacción de la persona con deficiencias físicas, psíquicas, intelectuales y/o sensoriales a largo plazo o permanentes, con diversas barreras físicas, psicológicas, sociales, culturales y comunicacionales",
+        "La incapacidad absoluta y permanente para desempeñar cualquier actividad laboral en el sector público o privado",
+        "La pérdida temporal de capacidades motoras producida por accidentes de trabajo o enfermedades profesionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.a, Ley N° 223",
+      "explicacion": "La Ley 223 adopta el modelo social de discapacidad: resultado de la interacción entre deficiencias a largo plazo/permanentes y diversas barreras del entorno."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.b de la Ley N° 223, ¿en qué consiste el 'Trato Preferente'?",
+      "options": [
+        "En la exoneración automática del pago de impuestos a la renta y las utilidades",
+        "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad, garantizando su equiparación e igualdad con carácter de primacía",
+        "Un subsidio directo otorgado por las municipalidades en días festivos nacionales",
+        "El derecho a no cumplir las normas laborales y de asistencia en el centro de trabajo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.b, Ley N° 223",
+      "explicacion": "El trato preferente comprende acciones integradoras para eliminar desventajas y asegurar la equiparación con primacía."
+    },
+    {
+      "question": "Según el Artículo 5.d de la Ley N° 223, ¿qué se entiende por 'Deficiencia'?",
+      "options": [
+        "Problemas en las funciones fisiológicas o en las estructuras corporales de una persona, que pueden consistir en pérdida, defecto, anomalía o desviación significativa respecto a la norma",
+        "La falta de ingresos económicos en el hogar de una persona vulnerable",
+        "La ausencia de títulos profesionales o capacitación técnica en el puesto de trabajo",
+        "Cualquier lesión física producida exclusivamente durante el desempeño de funciones militares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.d, Ley N° 223",
+      "explicacion": "Deficiencia abarca problemas anatómicos y fisiológicos corporales (pérdida, defecto, anomalía o desviación significativa)."
+    },
+    {
+      "question": "¿Cómo define el Artículo 5.h de la Ley N° 223 a las personas con 'Discapacidad Intelectual'?",
+      "options": [
+        "Personas que sufren trastornos afectivos o neurosis de personalidad sin compromiso cognitivo",
+        "Personas caracterizadas por deficiencias anatómicas y/o funcionales del sistema nervioso central que ocasionan limitaciones significativas en el funcionamiento de la inteligencia, desarrollo evolutivo y conducta adaptativa",
+        "Personas con pérdida de audición en grado moderado que dificulta la comunicación verbal",
+        "Personas con movilidad reducida en miembros inferiores ocasionada por lesiones medulares"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.h, Ley N° 223",
+      "explicacion": "La discapacidad intelectual proviene de deficiencias del SNC que limitan el funcionamiento intelectual, desarrollo y conducta adaptativa."
+    },
+    {
+      "question": "Según el Artículo 5.i de la Ley N° 223, ¿cuál es la característica distintiva de la 'Discapacidad Mental o Psíquica'?",
+      "options": [
+        "Limitación física que requiere el uso permanente de silla de ruedas o prótesis",
+        "Alteraciones de los procesos cognitivos, lógicos, volitivos o afectivos que dificultan adaptarse a la realidad, sin tener conciencia de la enfermedad psíquica",
+        "Ceguera total adquirida por enfermedades degenerativas de la retina",
+        "Defectos en el aparato fonador que impiden la articulación de palabras"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.i, Ley N° 223",
+      "explicacion": "La discapacidad psíquica o mental altera procesos cognitivos, afectivos y volitivos que dificultan la adaptación a la realidad, sin conciencia de la enfermedad."
+    },
+    {
+      "question": "Conforme a las definiciones del Artículo 5 (incisos k, l, m y n) de la Ley N° 223, ¿cuál es la diferencia entre el Grado de Discapacidad 'Grave' y 'Muy Grave'?",
+      "options": [
+        "El grado Grave requiere internamiento hospitalario, mientras el Muy Grave permite trabajo a tiempo parcial",
+        "El grado Grave causa imposibilidad para realizar la mayoría de las actividades diarias requiriendo asistencia para algunas; mientras que el Muy Grave imposibilita las actividades de la vida diaria y requiere asistencia permanente de otra persona",
+        "El grado Grave aplica a discapacidades físicas y el Muy Grave a discapacidades intelectuales",
+        "El grado Grave otorga renta del TGN y el Muy Grave otorga únicamente subsidios municipales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.m y 5.n, Ley N° 223",
+      "explicacion": "El grado Grave requiere asistencia de otra persona para algunas actividades; el grado Muy Grave requiere asistencia permanente de otra persona para las actividades de la vida diaria."
+    },
+    {
+      "question": "Según el Artículo 5.v de la Ley N° 223, ¿qué son los 'Ajustes Razonables'?",
+      "options": [
+        "Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, requeridas en un caso particular para garantizar el goce o ejercicio de derechos en igualdad de condiciones",
+        "Descuentos del 50% en impuestos a las utilidades para grandes empresas agroindustriales",
+        "Reducciones salariales acordadas voluntariamente entre el empleador y el trabajador con discapacidad",
+        "Exenciones arancelarias temporales para la exportación de bienes producidos por cooperativas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.v, Ley N° 223",
+      "explicacion": "Los ajustes razonables son adaptaciones necesarias que no imponen una carga desproporcionada para permitir el ejercicio de derechos en igualdad de condiciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6 de la Ley N° 223, ¿desde qué momento el Estado Plurinacional de Bolivia garantiza el derecho a la vida de las personas con discapacidad?",
+      "options": [
+        "Desde el momento de su inscripción en el Registro Nacional de Discapacidad",
+        "Desde su concepción, al igual que el resto de las personas",
+        "A partir de la emisión del carnet de calificación otorgado por el Ministerio de Salud",
+        "Desde que cumplen la mayoría de edad y adquieren ciudadanía plena"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6, Ley N° 223",
+      "explicacion": "El Art. 6 garantiza el derecho a la vida de las personas con discapacidad desde su concepción."
+    },
+    {
+      "question": "Según el Artículo 7.I y II de la Ley N° 223, ¿cuál es el rol de la familia respecto a la persona con discapacidad?",
+      "options": [
+        "Es el primer espacio de inclusión obligada a proporcionar protección y bienestar promoviendo su autonomía; sin que dicha protección limite el ejercicio de sus derechos y deberes",
+        "Tiene la facultad legal de tomar todas las decisiones patrimoniales en sustitución definitiva del interesado sin control judicial",
+        "Debe asumir la custodia en régimen de aislamiento si la persona padece discapacidad moderada",
+        "Queda eximida de responsabilidades de cuidado si la persona con discapacidad percibe la Renta Solidaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, Ley N° 223",
+      "explicacion": "La familia debe dar protección y bienestar promoviendo su autonomía, sin que la protección se entienda como limitación a sus derechos y deberes."
+    },
+    {
+      "question": "Conforme al Artículo 9.II de la Ley N° 223, ¿qué ocurre si una persona con discapacidad queda en estado de abandono u orfandad?",
+      "options": [
+        "Será derivada obligatoriamente a instituciones de caridad extranjeras",
+        "El Estado asumirá la responsabilidad de la persona de acuerdo a sus competencias nacionales, departamentales, regionales, municipales e indígena originario campesinas",
+        "Se suspenderán sus derechos de ciudadanía hasta que se designe un tutor privado",
+        "Quedará bajo la custodia exclusiva del Tribunal Supremo Electoral"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 9.II, Ley N° 223",
+      "explicacion": "En caso de orfandad o abandono, el Estado asume la responsabilidad en todos sus niveles territoriales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 10 de la Ley N° 223, ¿qué garantiza el Estado en el ámbito educativo para estudiantes con discapacidad?",
+      "options": [
+        "El acceso y permanencia en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral",
+        "La creación obligatoria de colegios exclusivos y separados para personas con cualquier tipo de discapacidad",
+        "La exoneración total de la asistencia a clases teóricas mediante certificación médica",
+        "El otorgamiento automático de títulos profesionales sin evaluación académica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Ley N° 223",
+      "explicacion": "El Art. 10 garantiza acceso y permanencia en el Sistema Educativo Plurinacional dentro del modelo de educación inclusiva e integral."
+    },
+    {
+      "question": "Según el Artículo 11 de la Ley N° 223, ¿qué promueve el Estado para garantizar el acceso a la información de las personas con discapacidad?",
+      "options": [
+        "La distribución semanal de periódicos impresos en lenguaje técnico judicial",
+        "La comunicación en sistemas y lenguas alternativas para la inclusión y el acceso a la información",
+        "La transmisión en cadena nacional obligatoria de todos los debates del parlamento",
+        "El pago de subsidios para la compra de televisores de alta definición"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 11, Ley N° 223",
+      "explicacion": "El Estado promueve el uso de sistemas y lenguas alternativas de comunicación para garantizar la inclusión y acceso a la información."
+    },
+    {
+      "question": "Conforme al Artículo 12 de la Ley N° 223, ¿cuáles son las características de los servicios de salud integrales prestados por el Estado a las personas con discapacidad?",
+      "options": [
+        "Gratuitos, de calidad y con calidez, en la red de Servicios Públicos y en los tres niveles de atención",
+        "Sujetos a copago del 30% en los niveles de atención secundaria y terciaria",
+        "Exclusivos para tratamientos de medicina tradicional sin cobertura de medicamentos farmacéuticos",
+        "Financiados mediante seguros privados contratados obligatoriamente por las familias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 223",
+      "explicacion": "El Art. 12 garantiza servicios de promoción, prevención, atención, rehabilitación y habilitación gratuitos, de calidad y calidez en los tres niveles de la red pública."
+    },
+    {
+      "question": "Según el Artículo 13 de la Ley N° 223, ¿qué garantiza el Estado respecto al ámbito del trabajo para personas con discapacidad?",
+      "options": [
+        "El acceso a toda forma de empleo y trabajo digno con remuneración justa, a través de políticas de inclusión socio-laboral en igualdad de oportunidades",
+        "La asignación automática de cargos de jefatura sin concurso de méritos",
+        "Un subsidio de desempleo permanente equivalente a dos salarios mínimos",
+        "La jubilación obligatoria a partir de los 35 años de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 223",
+      "explicacion": "Garantiza el acceso a empleo digno y remuneración justa mediante políticas de inclusión socio-laboral en igualdad de oportunidades."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14 de la Ley N° 223, ¿cuál es el mandato sobre el 'Derecho a la Identidad'?",
+      "options": [
+        "Garantizar el derecho al nombre, nacionalidad, registro e inscripción inmediata después de su nacimiento o cuando lo requiera, respetando su pluriculturalidad",
+        "El otorgamiento de un documento nacional de identidad con numeración roja diferenciada",
+        "La obligación de llevar el apellido de la institución de acogida en caso de orfandad",
+        "El cambio automático de nombre civil al momento de obtener la calificación de discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Ley N° 223",
+      "explicacion": "Se garantiza la inscripción inmediata al nacer o cuando lo requiera, respetando su nombre, nacionalidad y pluriculturalidad."
+    },
+    {
+      "question": "Según el Artículo 15 de la Ley N° 223, ¿qué medida concreta se establece respecto al 'Derecho a la Vivienda'?",
+      "options": [
+        "Garantizar proyectos de vivienda digna reservando un porcentaje del presupuesto de los planes de vivienda social",
+        "La entrega de terrenos urbanos gratuitos a todas las personas con discapacidad leve",
+        "La condonación de todas las deudas hipotecarias bancarias del núcleo familiar",
+        "La exención vitalicia del impuesto a los bienes inmuebles en todos los municipios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 223",
+      "explicacion": "El Art. 15 manda fijar un porcentaje del presupuesto de los planes de vivienda social para programas especiales de vivienda digna y adaptada."
+    },
+    {
+      "question": "Conforme al Artículo 18.II de la Ley N° 223, ¿qué ajuste razonable debe introducir el Tribunal Supremo Electoral en los actos eleccionarios?",
+      "options": [
+        "Permitir el voto por correspondencia enviado con un mes de anticipación",
+        "Ajustes necesarios para que voten libremente, incluyendo que ingresen al recinto de votación acompañados de una persona de confianza elegida por ellos",
+        "Eximir a las personas con discapacidad de la obligación de inscribirse en el padrón electoral",
+        "Anular las mesas de sufragio que no cuenten con rampas de acceso en zonas rurales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 18.II, Ley N° 223",
+      "explicacion": "El TSE debe introducir ajustes razonables para el voto libre y consciente, permitiendo el ingreso al recinto con una persona de confianza elegida por la persona con discapacidad."
+    },
+    {
+      "question": "Según el Artículo 20 de la Ley N° 223, ¿qué derecho se reconoce a las personas con discapacidad intelectual y mental con grado leve y/o moderado?",
+      "options": [
+        "Derecho a ser consultadas respecto a todas las decisiones referidas a su vida, salud, educación, familia y seguridad social, proyectándose a la vida independiente",
+        "Sometimiento obligatorio a la tutela absoluta del Ministerio de Salud",
+        "Imposibilidad legal de firmar contratos de trabajo o cobrar sus salarios directamente",
+        "Inhabilitación permanente para emitir voto en elecciones municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 223",
+      "explicacion": "Tienen derecho a ser consultadas sobre las decisiones que afecten su vida, salud, educación y familia, según sus posibilidades y proyectándose a la vida independiente."
+    },
+    {
+      "question": "De acuerdo con el Artículo 21 de la Ley N° 223, ¿en qué casos las personas a cargo de una persona con discapacidad PIERDEN los beneficios establecidos a su favor?",
+      "options": [
+        "Cuando incurran en actos de violencia intrafamiliar, abusos, malos tratos, discriminación, acoso laboral o impidan la participación social/educativa de la persona con discapacidad",
+        "Cuando la persona con discapacidad cumpla los 18 años de edad",
+        "Cuando la persona con discapacidad obtenga una beca académica de grado universitario",
+        "Si el tutor cambia de domicilio dentro del mismo departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 223",
+      "explicacion": "Pierden los beneficios si cometen abusos, violencia doméstica, delitos sexuales, discriminación o impiden la autonomía y participación de la persona a su cargo."
+    },
+    {
+      "question": "Conforme al Artículo 22.m de la Ley N° 223, ¿cuál de los siguientes es un DEBER explícito de las personas con discapacidad de acuerdo a su grado?",
+      "options": [
+        "Someterse a los proyectos y programas de rehabilitación, e inscribirse para su registro, calificación y carnetización",
+        "Realizar aportes mensuales obligatorios al patrimonio del CONALPEDIS",
+        "Prestar servicio militar obligatorio sin importar el grado de discapacidad",
+        "Trabajar de forma no remunerada en campañas comunitarias del municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.l y 22.m, Ley N° 223",
+      "explicacion": "Entre sus deberes están someterse a programas de rehabilitación, e inscribirse para su registro, calificación y carnetización."
+    },
+    {
+      "question": "Según el Artículo 25.I y II de la Ley N° 223, ¿cuál es la regla impuesta a las entidades financieras para el acceso al crédito de personas con discapacidad o sus tutores?",
+      "options": [
+        "Deben adecuar su política crediticia eliminando todo aspecto restrictivo distinto a la capacidad de reembolso del crédito",
+        "Están obligadas a conceder créditos a tasa de interés cero sin evaluar ingresos",
+        "Deben exigir una fianza solidaria otorgada por el Ministerio de Economía",
+        "Pueden rechazar solicitudes de crédito basándose únicamente en el diagnóstico de discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Ley N° 223",
+      "explicacion": "Las entidades financieras deben eliminar restricciones al crédito que no tengan que ver con la capacidad de reembolso del solicitante."
+    },
+    {
+      "question": "Conforme al Artículo 28.I y II de la Ley N° 223, ¿quiénes se benefician con la 'Renta Solidaria' y quiénes están EXCLUIDOS expresamente de percibirla?",
+      "options": [
+        "Se establece para personas con discapacidad grave y muy grave; quedan excluidos las personas con discapacidad visual y quienes desempeñen funciones en el sector público",
+        "Aplica a todos los grados de discapacidad; quedan excluidos los menores de 18 años",
+        "Beneficia solo a trabajadores jubilados; excluye a las personas que viven en áreas rurales",
+        "Se otorga a familias con personas con discapacidad leve; excluye a los residentes en el exterior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.I y II, Ley N° 223",
+      "explicacion": "La Renta Solidaria es para discapacidad grave y muy grave. El Parágrafo II excluye expresamente a personas con discapacidad visual (que tienen régimen especial IBC) y a quienes trabajen en el sector público."
+    },
+    {
+      "question": "Según el Artículo 29 de la Ley N° 223, ¿cuál es la fuente principal de recursos económicos para la gestión pública en discapacidad mencionada en el inciso a?",
+      "options": [
+        "Recursos provenientes de la Ley 3925 de 2008 (eliminación de subsidios a partidos políticos)",
+        "Un impuesto especial al consumo de bebidas alcohólicas",
+        "Aportes laborales retenidos del salario de empleados públicos",
+        "Un porcentaje de la venta de gas natural de exportación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29.a, Ley N° 223",
+      "explicacion": "El Art. 29.a señala los recursos de la Ley 3925 de 21 de agosto de 2008 (fondo eliminado de subsidios a partidos políticos)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 31.III de la Ley N° 223, ¿qué obligación se establece para la formación de maestros y maestras en los planes de estudio?",
+      "options": [
+        "Introducir contenidos psicopedagógicos que habiliten a todos los maestros en formación para la enseñanza personalizada a estudiantes con discapacidad",
+        "Exigir el título de Licenciado en Educación Especial para ejercer en unidades educativas regulares",
+        "Aprobar un examen anual de lenguaje de señas como requisito de egreso obligatorio",
+        "Dictar clases exclusivamente en colegios de convenio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.III, Ley N° 223",
+      "explicacion": "Se debe introducir en los planes de estudio psicopedagógicos que habiliten a los futuros maestros para la enseñanza personalizada a estudiantes con discapacidad."
+    },
+    {
+      "question": "Según el Artículo 31.VIII de la Ley N° 223, ¿cuál es el beneficio otorgado a las personas con discapacidad por todas las Universidades Públicas y Privadas?",
+      "options": [
+        "Extender de manera gratuita los diplomas académicos y títulos en provisión nacional",
+        "Aprobar asignaturas sin necesidad de rendir exámenes finales",
+        "Otorgar títulos universitarios honoríficos al ingresar a la facultad",
+        "Entregar computadoras portátiles gratuitas al inicio de cada semestre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.VIII, Ley N° 223",
+      "explicacion": "El Art. 31.VIII señala que las universidades públicas y privadas deberán extender de manera gratuita los diplomas académicos y títulos en provisión nacional."
+    },
+    {
+      "question": "Conforme al Artículo 31.X y XI de la Ley N° 223, ¿qué régimen de valores o becas aplica el Sistema Universitario Privado y Estatal?",
+      "options": [
+        "El sistema privado debe contar con descuentos y becas; el estatal con planes de liberación de valores en todos los niveles para personas con discapacidad, sus hijos y padres de niños con discapacidad",
+        "Ambos sistemas deben otorgar mensualidades gratuitas al 100% sin límite de cupos",
+        "Las universidades privadas están exentas de otorgar becas si tienen acreditación internacional",
+        "El sistema estatal cobra el 50% de la matrícula únicamente a familiares de segundo grado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.X y 31.XI, Ley N° 223",
+      "explicacion": "El sistema privado aplica becas y descuentos; el estatal aplica liberación de valores para personas con discapacidad, sus hijos y padres de niños con discapacidad."
+    },
+    {
+      "question": "Según el Artículo 32.II de la Ley N° 223, ¿cuál es el compromiso del Estado respecto a medicamentos e insumos?",
+      "options": [
+        "Otorgar medicamentos e insumos de necesidad permanente relacionados con la discapacidad de manera gratuita cuando no cuenten con otros mecanismos de provisión",
+        "Suministrar cualquier tipo de medicina cosmetológica de forma indefinida",
+        "Vender fármacos a precio de costo en farmacias privadas autorizadas",
+        "Reembolsar facturas médicas del exterior en moneda extranjera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.II, Ley N° 223",
+      "explicacion": "El Estado otorga gratuitamente medicamentos e insumos de necesidad permanente relacionados con la discapacidad cuando no tengan otra provisión."
+    },
+    {
+      "question": "De acuerdo con el Artículo 32.VI de la Ley N° 223, ¿qué garantía se establece respecto a los derechos sexuales y reproductivos de las personas con discapacidad?",
+      "options": [
+        "Acceso a información de salud sexual y salvaguarda contra la esterilización obligatoria o suministro obligatorio de anticonceptivos",
+        "Sometimiento obligatorio a controles anticonceptivos administrados por las Unidades Municipales",
+        "Prohibición de contraer matrimonio si no existe autorización del Ministerio de Salud",
+        "Obligatoriedad de esterilización quirúrgica en casos de discapacidad intelectual grave"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.VI, Ley N° 223",
+      "explicacion": "Se garantizan derechos sexuales y reproductivos salvaguardando expresamente contra la esterilización obligatoria o la administración obligatoria de anticonceptivos."
+    },
+    {
+      "question": "Conforme al Artículo 33 de la Ley N° 223, ¿qué beneficio fiscal se concede para la importación de insumos médicos y qué bien queda EXCLUSIVAMENTE EXCEPTUADO?",
+      "options": [
+        "Exención total de tributos para la importación de órtesis, prótesis y ayudas técnicas; exceptuando vehículos automotores",
+        "Liberación de impuestos para cualquier tipo de mercancía comercial; exceptuando electrónicos",
+        "Exención de tributos exclusiva para vehículos de lujo destinados al transporte ejecutivo",
+        "Descuento del 20% en aranceles aduaneros para medicamentos de marca comercial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 223",
+      "explicacion": "Exención total del pago de tributos para importar órtesis, prótesis y ayudas técnicas de rehabilitación, exceptuando vehículos automotores."
+    },
+    {
+      "question": "Según el Artículo 34.II de la Ley N° 223, ¿a quiénes alcanza la garantía de 'Inamovilidad Laboral'?",
+      "options": [
+        "A las personas con discapacidad, cónyuges, padres, madres y/o tutores de hijos con discapacidad, siempre que no existan causales legales que justifiquen debidamente su despido",
+        "Únicamente a los empleados públicos con más de 10 años de antigüedad contínua",
+        "Exclusivamente a las personas con discapacidad física en el sector privado",
+        "A todos los familiares hasta el cuarto grado de consanguinidad del trabajador"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.II, Ley N° 223",
+      "explicacion": "Garantiza inamovilidad laboral a la persona con discapacidad, su cónyuge, padres o tutores de hijos con discapacidad, salvo causales legales de despido."
+    },
+    {
+      "question": "Conforme al Artículo 35 de la Ley N° 223, ¿qué beneficio otorgan el Ministerio de Autonomías y Gobiernos Departamentales a las organizaciones de personas con discapacidad?",
+      "options": [
+        "Gratuidad para el trámite de reconocimiento de la personalidad jurídica",
+        "Subsidio anual para el alquiler de sedes sociales corporativas",
+        "Asignación automática de dos vehículos institucionales",
+        "Exención del pago de tarifas de telefonía celular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 223",
+      "explicacion": "El Art. 35 otorga la gratuidad para el trámite de personalidad jurídica a las organizaciones de personas con discapacidad o asociaciones de tutores."
+    },
+    {
+      "question": "Según el Artículo 36.I y II de la Ley N° 223, ¿qué obligación tienen las instituciones públicas, servicios privados y empresas de televisión respecto a la discapacidad auditiva?",
+      "options": [
+        "Incorporar comunicación alternativa e intérprete de Lengua de Señas Boliviana (LSB) en actos relevantes y programas de interés general, educativo y social",
+        "Transmitir diariamente cursos de lectura de labios en horario estelar",
+        "Contratar personal únicamente oyente con formación universitaria",
+        "Eliminar las transmisiones en vivo que no contengan subtítulos en idioma extranjero"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36.I y II, Ley N° 223",
+      "explicacion": "Obliga a incluir interpretación en LSB y comunicación alternativa en actos relevantes y programas de TV de interés general, educativo o social."
+    },
+    {
+      "question": "De acuerdo con el Artículo 40 de la Ley N° 223, ¿qué beneficio se establece en relación con el Servicio Militar?",
+      "options": [
+        "Gratuidad del trámite de la libreta de servicio militar para las personas con discapacidad que la requieran",
+        "Obligatoriedad de cumplir el servicio premilitar durante tres años",
+        "Sustitución de la libreta de servicio militar por un certificado expedido por el municipio",
+        "Cobro de valores reducidos aplicable únicamente al grado de discapacidad leve"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40, Ley N° 223",
+      "explicacion": "Se establece la gratuidad del trámite de la libreta de servicio militar para las personas con discapacidad."
+    },
+    {
+      "question": "Según el Artículo 41 de la Ley N° 223, ¿qué documentos de Registro Civil son gratuitos para personas con discapacidad grave y muy grave?",
+      "options": [
+        "Certificados de nacimiento, matrimonio y defunción emitidos por el Órgano Electoral Plurinacional",
+        "Únicamente el certificado de soltería y fe de vida",
+        "Copias legalizadas de títulos de propiedad inmueble",
+        "Pasaportes internacionales y visas de residencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 223",
+      "explicacion": "Garantiza la emisión gratuita de certificados de nacimiento, matrimonio y defunción a través del OEP para personas con discapacidad grave y muy grave."
+    },
+    {
+      "question": "Según el Artículo 45.I de la Ley N° 223, ¿qué naturaleza jurídica tiene el Comité Nacional para Personas con Discapacidad (CONALPEDIS) y bajo qué tuición se encuentra?",
+      "options": [
+        "Es una entidad descentralizada con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia, encargada de la planificación estratégica",
+        "Es una Dirección General dependiente del Ministerio de Salud sin autonomía de gestión",
+        "Es una Organización No Gubernamental financiada por la cooperación internacional",
+        "Es una empresa pública nacional estratégica bajo tuición del Ministerio de Economía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.I, Ley N° 223",
+      "explicacion": "El CONALPEDIS es una entidad descentralizada con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia."
+    },
+    {
+      "question": "Conforme al Artículo 47.I de la Ley N° 223, ¿cómo se conforma el Directorio del CONALPEDIS?",
+      "options": [
+        "Nueve representantes de la COBOPDI y nueve representantes del Órgano Ejecutivo (Ministerios de Justicia, Salud, Trabajo, Obras Públicas, Comunicación, Educación, Presidencia, Planificación y Economía)",
+        "Tres Senadores, tres Diputados y tres Gobernadores departamentales",
+        "Nueve delegados designados por la Defensoría del Pueblo y la Central Obrera Boliviana",
+        "Doce representantes elegidos en votación popular directa cada cinco años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47.I, Ley N° 223",
+      "explicacion": "El Directorio paritario está formado por 9 representantes de la COBOPDI y 9 representantes del Órgano Ejecutivo ministerial."
+    },
+    {
+      "question": "Según el Artículo 47.II de la Ley N° 223, ¿cuál es la condición económica respecto a las funciones de los representantes del Órgano Ejecutivo en el Directorio del CONALPEDIS?",
+      "options": [
+        "No percibirán dietas ni remuneraciones",
+        "Percibirán una dieta equivalente a un salario mínimo nacional por sesión",
+        "Cobrarán un bono mensual fijado por el Ministerio de Justicia",
+        "Tienen derecho al cobro de viáticos e indemnización por representación exterior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47.II, Ley N° 223",
+      "explicacion": "El Art. 47.II aclara expresamente que los representantes del Órgano Ejecutivo no percibirán dietas ni remuneraciones."
+    },
+    {
+      "question": "De acuerdo con el Artículo 48.I y II de la Ley N° 223, ¿cuáles son las atribuciones de las Asambleas Legislativas Departamentales y Concejos Municipales en materia de accesibilidad?",
+      "options": [
+        "Dictar normas sobre especificaciones técnicas en obras públicas, rutas peatonales sin barreras, señalización en formatos accesibles, símbolos de acceso y descuentos en transporte",
+        "Fijar de manera autónoma el monto de las jubilaciones laborales de personas con discapacidad",
+        "Emitir certificados de discapacidad en sustitución de las Unidades Sanitarias",
+        "Aprobar leyes de condonación de deudas tributarias nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48.I y II, Ley N° 223",
+      "explicacion": "Dictan normas técnicas de edificación, accesibilidad de vías peatonales, señalización, parqueos y beneficios de transporte en sus jurisdicciones."
+    },
+    {
+      "question": "Según la Disposición Final Única de la Ley N° 223, ¿qué norma específica referida a la discapacidad visual se MANTIENE VIGENTE de manera expresa?",
+      "options": [
+        "La Ley de 22 de enero de 1957, que crea el Instituto Boliviano de la Ceguera (IBC) y sus Decretos Reglamentarios",
+        "El Reglamento General de la Organización de Ciegos de 1945",
+        "La Ley de Patronatos Patronales de 1968",
+        "El Código de Salud de 1956 en sus capítulos de oftalmología"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Única, Ley N° 223",
+      "explicacion": "La Disposición Final Única mantiene vigente de forma expresa la Ley de 22 de enero de 1957 que crea el Instituto Boliviano de la Ceguera (IBC)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2.d de la Ley N° 223, ¿cuál es uno de los fines orientados a la salud pública?",
+      "options": [
+        "Establecer políticas públicas y estrategias sociales destinadas a la prevención de causas que pudieran provocar deficiencias, discapacidad y mayores grados de discapacidad",
+        "Comprar patentes farmacéuticas extranjeras para su producción comercial privada",
+        "Sancionar penalmente a las personas que no asistan a vacunaciones voluntarias",
+        "Clausurar hospitales que no tengan especialidad en neurología clínica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.d, Ley N° 223",
+      "explicacion": "Constituye un fin de la ley establecer estrategias de prevención de causas que generen deficiencias o agraven la discapacidad."
+    },
+    {
+      "question": "Según el Artículo 4.c de la Ley N° 223, ¿en qué consiste el principio de 'Inclusión'?",
+      "options": [
+        "Todas las personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades en los ámbitos económico, político, cultural, social, educativo, deportivo y recreacional",
+        "La obligación de las familias de mantener a las personas con discapacidad dentro de su domicilio",
+        "El ingreso exclusivo de personas con discapacidad a colegios de educación especial",
+        "El otorgamiento de subsidios alimentarios a instituciones privadas de beneficencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.c, Ley N° 223",
+      "explicacion": "Inclusión implica participación plena y efectiva en la sociedad en igualdad de oportunidades en todas las esferas de la vida."
+    },
+    {
+      "question": "Conforme al Artículo 4.g de la Ley N° 223, ¿qué garantiza el principio de 'No Violencia'?",
+      "options": [
+        "Garantía y protección a las personas con discapacidad, con énfasis en mujeres, niños, niñas y adolescentes contra toda forma de violencia física, psicológica o sexual",
+        "Prohibición de huelgas y paros laborales en las Unidades Educativas Inclusivas",
+        "Inmunidad procesal absoluta en materia penal para personas con discapacidad intelectual",
+        "Suspensión de penas privativas de libertad para tutores condenados por delitos comunes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.g, Ley N° 223",
+      "explicacion": "Protege a las personas con discapacidad, con énfasis en mujeres y menores de edad, contra violencia física, psicológica o sexual."
+    },
+    {
+      "question": "Según el Artículo 5.e de la Ley N° 223, ¿cómo se define la 'Discapacidad Física - Motora'?",
+      "options": [
+        "Personas con deficiencias anatómicas y neuromúsculofuncionales causantes de limitaciones en el movimiento",
+        "Personas con ceguera total o baja visión no corregible mediante lentes",
+        "Personas con alteraciones cognitivas que afectan el razonamiento lógico",
+        "Personas con hipoacusia profunda bilateral severa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.e, Ley N° 223",
+      "explicacion": "Discapacidad física-motora abarca deficiencias anatómicas y neuromúsculofuncionales que limitan el movimiento."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.f de la Ley N° 223, ¿a quiénes comprende la 'Discapacidad Visual'?",
+      "options": [
+        "Personas con deficiencias anatómicas y/o funcionales causantes de ceguera y baja visión",
+        "Personas con miopía leve corregible mediante anteojos convencionales",
+        "Personas con problemas de daltonismo que no interfieren en las actividades cotidianas",
+        "Personas con pérdida del sentido del gusto o del olfato"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.f, Ley N° 223",
+      "explicacion": "Comprende a personas con deficiencias anatómicas/funcionales causantes de ceguera y baja visión."
+    },
+    {
+      "question": "Según el Artículo 5.g de la Ley N° 223, ¿cómo estructura su experiencia e integración con el medio la persona con 'Discapacidad Auditiva'?",
+      "options": [
+        "A través del sentido de la visión, enfrentándose cotidianamente a barreras de comunicación que impiden su acceso pleno",
+        "A través del sentido del tacto mediante el uso exclusivo de prótesis mecánicas",
+        "Mediante la asistencia obligatoria de un tutor legal en todas sus actividades diarias",
+        "A través del aprendizaje obligatorio de la lectura en sistema Braille"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.g, Ley N° 223",
+      "explicacion": "La persona con discapacidad auditiva estructura su integración principalmente a través de la visión, enfrentando barreras comunicacionales."
+    },
+    {
+      "question": "Conforme al Artículo 5.o de la Ley N° 223, ¿cuáles son las dos categorías de 'Actividades de la Vida Diaria'?",
+      "options": [
+        "Actividades de autocuidado (vestirse, comer, evitar riesgos, aseo e higiene) y otras actividades (comunicación, transporte, actividad física/sensorial, ocio)",
+        "Actividades laborales remuneradas y actividades políticas partidarias",
+        "Actividades escolares de aula y actividades extracurriculares deportivas",
+        "Actividades de transporte interdepartamental y actividades de comercio informal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.o, Ley N° 223",
+      "explicacion": "Comprende actividades de autocuidado personal y otras actividades generales de la vida cotidiana (comunicación, transporte, ocio, etc.)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.r de la Ley N° 223, ¿qué busca la 'Educación Inclusiva'?",
+      "options": [
+        "Dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personas de apoyo para reducir la exclusión de la educación",
+        "Eliminar los exámenes de ingreso en escuelas militares y policiales para cualquier postulante",
+        "Sustituir las asignaturas científicas por talleres exclusivamente artesanales",
+        "Segregar a los estudiantes según su diagnóstico clínico en pabellones aislados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.r, Ley N° 223",
+      "explicacion": "Busca responder a la diversidad con adaptaciones físicas, curriculares y apoyos para reducir la exclusión educativa."
+    },
+    {
+      "question": "Según el Artículo 5.s de la Ley N° 223, ¿cuál es el rasgo definitorio de la 'Inclusión Laboral'?",
+      "options": [
+        "Derecho al empleo integrado en empresas normalizadas en las mismas condiciones, remuneración, horarios y beneficios sociales que cualquier otro trabajador sin discapacidad",
+        "Asignación de tareas simbólicas no sujetas al cumplimiento de horario ni control de asistencia",
+        "Pago de honorarios reducidos al 50% por concepto de capacitación en puesto de trabajo",
+        "Obligación de trabajar exclusivamente en talleres protegidos administrados por iglesias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.s, Ley N° 223",
+      "explicacion": "Definido como empleo exactamente igual y en las mismas condiciones, sueldo y beneficios que cualquier trabajador sin discapacidad."
+    },
+    {
+      "question": "Conforme al Artículo 8 de la Ley N° 223, ¿qué derecho familiar se reconoce expresamente a las personas con discapacidad?",
+      "options": [
+        "El derecho a constituir su propia familia, asumiendo las responsabilidades como padres, madres y cónyuges",
+        "La obligación de someter su matrimonio a la aprobación del Ministerio de Justicia",
+        "La restricción automática de la patria potestad sobre sus hijos menores de edad",
+        "El derecho a adoptar menores de edad sin cumplir evaluación de idoneidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 223",
+      "explicacion": "Se reconoce el derecho a constituir su propia familia asumiendo responsabilidades de cónyuges, padres y madres."
+    },
+    {
+      "question": "Según el Artículo 16 de la Ley N° 223, ¿qué promueve el Estado para personas con discapacidad en situación de abandono?",
+      "options": [
+        "La existencia de albergues o centros de acogida garantizando atención con calidad y calidez",
+        "El traslado obligatorio a comunidades agrícolas de trabajo social",
+        "La adopción internacional prioritaria en países de la región",
+        "El pago de un subsidio en efectivo entregado a vecinos del barrio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 223",
+      "explicacion": "El Estado promueve albergues o centros de acogida públicos para personas con discapacidad en situación de abandono."
+    },
+    {
+      "question": "De acuerdo con el Artículo 19.II de la Ley N° 223, ¿quiénes deben estar plenamente informados sobre la prevención del abuso sexual?",
+      "options": [
+        "Las mujeres y varones con discapacidad, sus familias y toda persona que trabaje con mujeres, niños y adolescentes con discapacidad",
+        "Únicamente los médicos forenses del Ministerio Público",
+        "Exclusivamente los directores de centros educativos privados",
+        "Los funcionarios de la Aduana Nacional y la Policía de Navegación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.II, Ley N° 223",
+      "explicacion": "Deben estar informadas las personas con discapacidad, sus familias y todo el personal que trabaje con ellos."
+    },
+    {
+      "question": "Según el Artículo 23 de la Ley N° 223, ¿quiénes deben priorizar el acceso a programas de reducción de la pobreza e inclusión social?",
+      "options": [
+        "El Órgano Ejecutivo, Gobiernos Autónomos Departamentales, Municipales e Indígena Originario Campesinos, en el marco de sus competencias",
+        "Únicamente las fundaciones privadas sin fines de lucro",
+        "Las cooperativas mineras e industriales de exportación",
+        "El Ministerio de Defensa Nacional mediante las Fuerzas Armadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 223",
+      "explicacion": "Todos los niveles de gobierno estatal (central, departamental, municipal e indígena) deben priorizar el acceso a planes de reducción de la pobreza."
+    },
+    {
+      "question": "Conforme al Artículo 46.j de la Ley N° 223, ¿cuál de las siguientes es una ATRIBUCIÓN de CONALPEDIS?",
+      "options": [
+        "Registrar a las Organizaciones No Gubernamentales, Fundaciones y Asociaciones Civiles sin fines de lucro que trabajan con programas y proyectos en materia de discapacidad",
+        "Cobrar impuestos municipales a los vehículos adaptados importados",
+        "Sustituir el Directorio del Instituto Boliviano de la Ceguera",
+        "Aprobar el Presupuesto General del Estado en el área social"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46.j, Ley N° 223",
+      "explicacion": "El Art. 46.j le otorga la atribución de registrar a ONGs, fundaciones y asociaciones civiles que trabajen en discapacidad."
+    },
+    {
+      "question": "Según el Artículo 46.i de la Ley N° 223, ¿cuál es el rol de CONALPEDIS respecto a los Ministerios del Órgano Ejecutivo?",
+      "options": [
+        "Ser el organismo de consulta y asesoría obligatoria para las dependencias y Ministerios del Órgano Ejecutivo en programas relacionados con discapacidad",
+        "Aprobar o vetar las resoluciones ministeriales en materia de salud pública",
+        "Auditar los estados financieros de las empresas privadas de seguros",
+        "Designar a los Viceministros del sector de desarrollo social"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46.i, Ley N° 223",
+      "explicacion": "Es organismo de consulta y asesoría obligatoria para las dependencias y Ministerios del Ejecutivo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 46.a y b de la Ley N° 223, ¿cuál es el mandato fundamental de CONALPEDIS ante las autoridades?",
+      "options": [
+        "Tomar acciones para generar la equiparación de oportunidades e impulsar el ejercicio pleno de los derechos haciendo exigibles las normas ante la autoridad competente",
+        "Representar judicialmente a los trabajadores en juicios laborales ordinarios",
+        "Fijar de manera unilateral los precios de las ortesis y prótesis",
+        "Supervisar el cobro de peajes en las carreteras nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46.a y b, Ley N° 223",
+      "explicacion": "Generar equiparación de oportunidades e impulsar el ejercicio pleno de los derechos haciéndolos exigibles."
+    },
+    {
+      "question": "Conforme al Artículo 4.a de la Ley N° 223, ¿qué postula el principio de 'Igualdad en Dignidad'?",
+      "options": [
+        "Que las personas con discapacidad tienen la misma dignidad y derechos que el resto de los seres humanos",
+        "Que sólo las personas con grado leve de discapacidad tienen plena dignidad jurídica",
+        "Que la dignidad se adquiere al momento de ser contratado en un empleo formal",
+        "Que los tutores tienen preferencia de dignidad sobre los tutelados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.a, Ley N° 223",
+      "explicacion": "Establece que las personas con discapacidad tienen exactamente la misma dignidad y derechos que el resto de los seres humanos."
+    },
+    {
+      "question": "Según el Artículo 4.b de la Ley N° 223, ¿qué prohíbe el principio de 'No Discriminación'?",
+      "options": [
+        "Anular o afectar el reconocimiento, goce o ejercicio pleno de los derechos en base a cualquier forma de distinción, exclusión o restricción basada en la situación de discapacidad",
+        "Exigir el cumplimiento de horarios de trabajo en la administración pública",
+        "Solicitar certificados médicos para la evaluación de la discapacidad",
+        "Requerir la acreditación de la personalidad jurídica a las ONGs"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.b, Ley N° 223",
+      "explicacion": "Prohíbe cualquier distinción, exclusión o restricción que anule o afecte el goce de derechos fundada en la discapacidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.e de la Ley N° 223, ¿cómo se aborda la 'Equidad de Género'?",
+      "options": [
+        "Equiparando las diferencias en razón de género entre hombres y mujeres con discapacidad, reconociendo la orientación sexual e identidad de género",
+        "Otorgando el doble de subsidios económicos exclusivamente a los hombres con discapacidad",
+        "Prohibiendo la contratación de mujeres con discapacidad en puestos de supervisión",
+        "Eximiendo a las mujeres con discapacidad de la obligación de inscribirse en el Registro Civil"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.e, Ley N° 223",
+      "explicacion": "Equipara las diferencias de género entre hombres y mujeres con discapacidad, reconociendo orientación e identidad de género."
+    },
+    {
+      "question": "Conforme al Artículo 4.f de la Ley N° 223, ¿qué asegura la 'Igualdad de Oportunidades'?",
+      "options": [
+        "Mismas posibilidades de acceso al ejercicio de los derechos económicos, sociales, políticos, religiosos, culturales, deportivos y al medio ambiente sin discriminación",
+        "Acceso garantizado a cargos electivos de representación nacional sin someterse a votación",
+        "La distribución gratuita de bienes importados confiscados por la aduana",
+        "La reserva del 50% de las viviendas de lujo construidas por empresas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.f, Ley N° 223",
+      "explicacion": "Garantiza las mismas posibilidades de acceso a derechos económicos, sociales, políticos, culturales y ambientales."
+    },
+    {
+      "question": "Según el Artículo 5.c de la Ley N° 223, ¿quiénes son 'Personas con Discapacidad'?",
+      "options": [
+        "Aquellas personas con deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo o permanentes que al interactuar con diversas barreras puedan impedir su participación plena y efectiva",
+        "Cualquier ciudadano que sufra una lesión temporal por menos de tres meses",
+        "Únicamente quienes han nacido con malformaciones congénitas diagnosticadas al nacer",
+        "Las personas mayores de 65 años de edad sin importar su estado de salud"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.c, Ley N° 223",
+      "explicacion": "Personas con deficiencias a largo plazo/permanentes que al interactuar con barreras ven impedida su participación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.j de la Ley N° 223, ¿cuándo se configura la 'Discapacidad Múltiple'?",
+      "options": [
+        "Cuando está generada por múltiples deficiencias sean de carácter físico, visual, auditivo, intelectual o psíquico",
+        "Cuando la persona padece más de dos enfermedades infecciosas simultáneas",
+        "Cuando existen varios miembros con discapacidad dentro del mismo grupo familiar",
+        "Cuando la persona ha cambiado de diagnóstico en más de tres ocasiones"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.j, Ley N° 223",
+      "explicacion": "Se genera por la presencia combinada de múltiples deficiencias (físicas, visuales, auditivas, intelectuales o psíquicas)."
+    },
+    {
+      "question": "Según el Artículo 5.k de la Ley N° 223, ¿qué caracteriza al 'Grado de Discapacidad Leve'?",
+      "options": [
+        "Síntomas, signos o secuelas que justifican alguna dificultad para llevar a cabo actividades diarias, pero son compatibles con la práctica de las mismas",
+        "Imposibilidad absoluta de realizar actividades de autocuidado personal",
+        "Necesidad de asistencia permanente de otra persona durante las 24 horas",
+        "Impedimento total para trabajar o estudiar en instituciones regulares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.k, Ley N° 223",
+      "explicacion": "Dificultad leve para actividades diarias pero compatible con la realización de las mismas de forma autónoma."
+    },
+    {
+      "question": "Conforme al Artículo 5.l de la Ley N° 223, ¿qué caracteriza al 'Grado de Discapacidad Moderada'?",
+      "options": [
+        "Síntomas, signos o secuelas que causan disminución importante o imposibilidad para realizar algunas actividades diarias, siendo independiente en autocuidado",
+        "Necesidad de internación hospitalaria permanente en un centro psiquiátrico",
+        "Incapacidad total de comunicación verbal o gestual",
+        "Incapacidad para realizar el aseo personal sin ayuda de dos personas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.l, Ley N° 223",
+      "explicacion": "Disminución importante para algunas actividades diarias, manteniéndose independiente en el autocuidado personal."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.p de la Ley N° 223, ¿qué son la 'Habilitación y Rehabilitación'?",
+      "options": [
+        "Medidas efectivas y pertinentes destinadas a lograr que las personas con deficiencias congénitas o adquiridas obtengan la máxima independencia y capacidad física, mental, social y vocacional",
+        "Tratamientos médicos quirúrgicos obligatorios financiados por las alcaldías",
+        "Procedimientos de evaluación para determinar el cobro de multas laborales",
+        "Exámenes de grado universitarios administrados por el Ministerio de Salud"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.p, Ley N° 223",
+      "explicacion": "Medidas para lograr la máxima independencia, capacidad física, intelectual, social y vocacional."
+    },
+    {
+      "question": "Según el Artículo 5.q de la Ley N° 223, ¿cómo se concibe la 'Inclusión Social'?",
+      "options": [
+        "Proceso socioeconómico complejo que vincula el desarrollo de capacidades con el acceso igualitario a oportunidades a lo largo del ciclo vital y al ejercicio de la ciudadanía",
+        "La entrega periódica de alimentos de la canasta básica familiar",
+        "La asignación de pasajes gratuitos en transporte urbano dos veces por semana",
+        "La creación de barrios residenciales exclusivos para personas vulnerables"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.q, Ley N° 223",
+      "explicacion": "Proceso socioeconómico que vincula capacidades, acceso igualitario a oportunidades y ejercicio pleno de la ciudadanía."
+    },
+    {
+      "question": "Conforme al Artículo 5.t de la Ley N° 223, ¿qué es la 'Rehabilitación Basada en la Comunidad' (RBC)?",
+      "options": [
+        "Estrategia para la rehabilitación, igualdad de oportunidades, reducción de la pobreza e integración social de personas con discapacidad en su propia comunidad",
+        "Un programa de atención médica prestado exclusivamente en hospitales de tercer nivel de la capital",
+        "La reubicación de personas con discapacidad en granjas comunitarias estatales",
+        "Un subsidio asignado a los presidentes de las juntas vecinales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.t, Ley N° 223",
+      "explicacion": "Estrategia de desarrollo comunitario para la rehabilitación, igualdad de oportunidades e integración social en su propio entorno."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.u de la Ley N° 223, ¿qué busca el 'Desarrollo Inclusivo Basado en la Comunidad'?",
+      "options": [
+        "Diseño e implementación de acciones y políticas en su propia comunidad para el desarrollo socioeconómico que procuran igualdad de oportunidades independientemente de la condición social, género o discapacidad",
+        "Construcción de centros comerciales con capitales de la banca privada",
+        "Creación de impuestos municipales a las actividades artesanales",
+        "Población de territorios de frontera con grupos vulnerables"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.u, Ley N° 223",
+      "explicacion": "Políticas socioeconómicas en la comunidad para la igualdad de oportunidades de todas las personas independientemente de su condición."
+    },
+    {
+      "question": "Según el Artículo 9.I de la Ley N° 223, ¿cuál es el deber del Estado respecto a las políticas de protección integral?",
+      "options": [
+        "Adoptar e implementar políticas públicas destinadas a la protección y desarrollo integral de la persona con discapacidad, de su familia y/o tutores",
+        "Limitar su intervención al pago de pensiones a través del sistema bancario",
+        "Exigir el pago de una fianza anual a las asociaciones de padres de familia",
+        "Supervisar que los tutores rincan cuentas económicas ante la Contraloría General"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.I, Ley N° 223",
+      "explicacion": "El Estado adopta políticas para la protección y desarrollo integral de la persona con discapacidad, su familia y tutores."
+    },
+    {
+      "question": "Conforme al Artículo 17 de la Ley N° 223, ¿qué comprende el 'Derecho a la Accesibilidad'?",
+      "options": [
+        "Gozar de condiciones para utilizar la infraestructura, servicios públicos y privados, medios de comunicación, tecnología y transporte de manera autónoma e independiente",
+        "Acceso gratuito e ilimitado a espectáculos deportivos internacionales",
+        "El cobro de tarifas diferenciadas en hoteles de lujo de la red privada",
+        "El uso libre de vehículos oficiales del Estado para traslados personales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17, Ley N° 223",
+      "explicacion": "Garantiza el goce autónomo e independiente de infraestructuras, servicios, tecnologías y transportes públicos y privados."
+    },
+    {
+      "question": "De acuerdo con el Artículo 18.I de la Ley N° 223, ¿qué garantiza el Estado en el ámbito de la 'Participación Política'?",
+      "options": [
+        "Que las personas con discapacidad participen plena y efectivamente en las actividades de políticas públicas en igualdad de condiciones y oportunidades",
+        "La reserva del 20% de los escaños parlamentarios sin someterse a comicios electorales",
+        "La exención de responder a demandas de juicio de responsabilidades",
+        "El nombramiento directo de alcaldes municipales en ciudades capitales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18.I, Ley N° 223",
+      "explicacion": "Garantiza la participación plena y efectiva en actividades de políticas públicas en igualdad de condiciones."
+    },
+    {
+      "question": "Según el Artículo 19.I de la Ley N° 223, ¿cuál es el alcance del derecho a la 'Integridad'?",
+      "options": [
+        "Derecho a que se respete su integridad física y mental, especialmente de niñas, niños y mujeres con discapacidad",
+        "Inmunidad corporal que prohíbe cualquier tipo de examen médico o tratamiento",
+        "El derecho a negarse a portar el documento nacional de identidad",
+        "La exención de cumplir normas sanitarias de bioseguridad en hospitales públicos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.I, Ley N° 223",
+      "explicacion": "Garantiza el respeto a la integridad física y mental, con especial protección a niñas, niños y mujeres con discapacidad."
+    },
+    {
+      "question": "Conforme al Artículo 22 (incisos b, c, d), ¿cuáles de los siguientes son Deberes consagrados para las personas con discapacidad?",
+      "options": [
+        "Respetar y defender los derechos humanos, promover valores de respeto y honestidad, y defender los intereses nacionales y recursos económicos y naturales",
+        "Realizar donaciones anuales al Fondo Solidario del Tesoro",
+        "Prestar servicio de guardia nocturna en edificios municipales",
+        "Impartir clases no remuneradas de educación especial de forma obligatoria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Ley N° 223",
+      "explicacion": "Son deberes defender los derechos humanos, promover valores y resguardar los intereses y recursos patrios."
+    },
+    {
+      "question": "De acuerdo con el Artículo 27 de la Ley N° 223, ¿qué promueve el Órgano Ejecutivo para empresas de la economía social?",
+      "options": [
+        "Acceso de personas con discapacidad, padres, madres y/o tutores al microcrédito destinado a la constitución de empresas de economía social",
+        "Subvención del 100% de la energía eléctrica para grandes industrias privadas",
+        "Exención de pago de alquileres comerciales en centros urbanos",
+        "Condonación de deudas tributarias vencidas de empresas agropecuarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, Ley N° 223",
+      "explicacion": "Promueve microcréditos a personas con discapacidad o tutores para la constitución de empresas de economía social."
+    },
+    {
+      "question": "Según el Artículo 31.II de la Ley N° 223, ¿cómo se aborda la atención a las personas con discapacidad 'Psicosocial' en el ámbito educativo?",
+      "options": [
+        "Garantizando el desarrollo educativo permanente de sus potencialidades individuales a través de la constante capacitación de los estamentos educativos",
+        "Separando a los estudiantes en recintos psiquiátricos cerrados",
+        "Otorgando calificaciones aprobatorias automáticas sin evaluación",
+        "Prohibiendo su ingreso a instituciones de educación alternativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.II, Ley N° 223",
+      "explicacion": "Garantiza el desarrollo de potencialidades mediante capacitación constante de los estamentos educativos."
+    },
+    {
+      "question": "Conforme al Artículo 31.V de la Ley N° 223, ¿a qué instituciones educativas debe el Estado promover la dotación de recursos didácticos y comunicacionales?",
+      "options": [
+        "Unidades Educativas Regulares, Centros de Educación Alternativa y Especial, Escuelas de Maestros e Institutos Técnicos fiscales y de convenio",
+        "Únicamente a las academias privadas internacionales de idiomas",
+        "Exclusivamente a los colegios militares y policiales de postgrado",
+        "A los internados privados religiosos de las capitales de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.V, Ley N° 223",
+      "explicacion": "Promueve recursos didácticos en escuelas regulares, especiales, de formación de maestros e institutos técnicos fiscales/convenio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 31.VI de la Ley N° 223, ¿qué acción académica debe realizar el Estado respecto a la educación superior?",
+      "options": [
+        "La creación racional de carreras multidisciplinarias para la atención a las necesidades biológicas, psicológicas y sociales de las personas con discapacidad",
+        "La eliminación de los exámenes de grado en todas las universidades",
+        "La prohibición de abrir nuevas carreras en el área de salud humana",
+        "El traspaso de la gestión universitaria a las prefecturas departamentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.VI, Ley N° 223",
+      "explicacion": "Creación racional de carreras multidisciplinarias para atender las necesidades biológicas, psicológicas y sociales de la discapacidad."
+    },
+    {
+      "question": "Según el Artículo 31.VII de la Ley N° 223, ¿qué facilidades deben brindar las universidades a los estudiantes con discapacidad ingresados libremente?",
+      "options": [
+        "Adecuaciones curriculares que permitan la permanencia temporal regular, el egreso oportuno y la enseñanza de calidad en universidades públicas y privadas",
+        "Beca completa de alimentación y vivienda en el extranjero",
+        "La titulación profesional automática al tercer año de carrera",
+        "Aprobación de asignaturas mediante la sola asistencia a talleres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.VII, Ley N° 223",
+      "explicacion": "Garantiza adecuaciones curriculares que aseguren permanencia regular, egreso oportuno y enseñanza de calidad."
+    },
+    {
+      "question": "Conforme al Artículo 32.I de la Ley N° 223, ¿qué debe diseñar y ejecutar el Estado para el personal de la red de salud pública?",
+      "options": [
+        "Planes y proyectos para capacitar al personal en prestar servicios de promoción, prevención y rehabilitación de calidad y con calidez",
+        "Exámenes de oposición obligatorios para el despido de médicos generales",
+        "Cursos de posgrado dictados exclusivamente por universidades privadas extranjeras",
+        "Un sistema de rotación obligatoria de médicos cada quince días entre departamentos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.I, Ley N° 223",
+      "explicacion": "Capacitación continua del personal de salud pública para dar servicios de calidad y calidez que respondan a la discapacidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 32.VII de la Ley N° 223, ¿qué derecho especial se reconoce a las mujeres con discapacidad en el ámbito de la salud?",
+      "options": [
+        "Derecho a controlar y resolver libre y responsablemente cuestiones relacionadas con su sexualidad, salud sexual y reproductiva libre de coacciones o violencia",
+        "Obligación de someterse a revisiones ginecológicas mensuales obligatorias en centros de salud",
+        "Prohibición de ejercer la maternidad si no cuentan con un tutor acreditado",
+        "Sometimiento a la decisión del comité médico del hospital para la planificación familiar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.VII, Ley N° 223",
+      "explicacion": "Garantiza decidir libre y responsablemente sobre su sexualidad y salud reproductiva libre de coacción, discriminación y violencia."
+    },
+    {
+      "question": "Según el Artículo 32.VIII de la Ley N° 223, ¿cuál es el mandato preventivo encomendado al Estado en salud?",
+      "options": [
+        "Implementar planes y programas para prevenir todo tipo de discapacidad y mayores grados de discapacidad",
+        "Restringir la venta de medicamentos en zonas rurales",
+        "Prohibir el ejercicio de la medicina tradicional en casos de discapacidad física",
+        "Exigir un seguro privado de vida obligatorio para recién nacidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.VIII, Ley N° 223",
+      "explicacion": "Implementar programas orientados a prevenir causas de discapacidad y evitar mayores grados de la misma."
+    },
+    {
+      "question": "Conforme al Artículo 34.I de la Ley N° 223, ¿qué tipo de desarrollo deben incorporar las políticas públicas de empleo?",
+      "options": [
+        "Desarrollo inclusivo basado en la comunidad, orientados al desarrollo económico y a la creación de puestos de trabajo",
+        "Proyectos de industrialización automatizada de alta tecnología sin mano de obra",
+        "Programas de trabajo voluntario sin remuneración económica",
+        "Sistemas de subcontratación temporal precaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.I, Ley N° 223",
+      "explicacion": "Incorpora proyectos de desarrollo inclusivo basado en la comunidad para la generación de puestos de trabajo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 34.III de la Ley N° 223, ¿qué obligación de infraestructura laboral tienen las entidades públicas y privadas?",
+      "options": [
+        "Brindar accesibilidad a su personal con discapacidad en su entorno de trabajo",
+        "Instalar gimnasios privados en el lugar de trabajo",
+        "Construir comedores gratuitos exclusivos para ejecutivos",
+        "Subvencionar el transporte aéreo para el personal de oficina"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.III, Ley N° 223",
+      "explicacion": "Las instituciones públicas y privadas están obligadas a brindar condiciones de accesibilidad a su personal con discapacidad."
+    },
+    {
+      "question": "Conforme al Artículo 34.IV de la Ley N° 223, ¿cuál es el principio básico en materia laboral para las personas con discapacidad?",
+      "options": [
+        "Deberán contar con una fuente de trabajo",
+        "Tienen derecho a elegir su salario sin someterse a escalas patronales",
+        "Quedan exentas de cumplir tareas asignadas en sus contratos",
+        "Sólo pueden ser contratadas por entidades del nivel central"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.IV, Ley N° 223",
+      "explicacion": "El parágrafo IV prescribe de forma imperativa que las personas con discapacidad deberán contar con una fuente de trabajo."
+    },
+    {
+      "question": "Según el Artículo 45.II de la Ley N° 223, ¿cómo se toman las decisiones dentro del Directorio del CONALPEDIS?",
+      "options": [
+        "Por mayoría de votos del total de sus miembros",
+        "Por decisión unilateral e inapelable de su Director Ejecutivo",
+        "Por consenso unánime obligatorio de los nueve Ministerios",
+        "Por votación exclusiva de los delegados de la COBOPDI"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.II, Ley N° 223",
+      "explicacion": "Sus decisiones se aprueban por mayoría de votos del total de los miembros del Directorio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 45.V de la Ley N° 223, ¿hacia qué modelo se orienta la transformación gradual de las instituciones especializadas y escuelas especiales?",
+      "options": [
+        "Hacia la conformación de centros de recursos de rehabilitación conforme a la política mundial de Rehabilitación Basada en la Comunidad (RBC)",
+        "Hacia sanatorios de aislamiento psiquiátrico permanente",
+        "Hacia colegios privados con cobro de matrículas comerciales",
+        "Hacia talleres de confección industrial de exportación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.V, Ley N° 223",
+      "explicacion": "Se orientan a transformarse en centros de recursos de rehabilitación basados en la estrategia de la RBC."
+    },
+    {
+      "question": "Conforme al Artículo 45.VI de la Ley N° 223, ¿con quiénes coordina el CONALPEDIS la elaboración de políticas públicas y proyectos?",
+      "options": [
+        "Con la Confederación Boliviana de las Personas con Discapacidad (COBOPDI) y otras organizaciones reconocidas",
+        "Con los organismos internacionales de crédito financiero únicamente",
+        "Con las cámaras de comercio y federaciones del sector privado",
+        "Con las comisiones del Parlamento Andino"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.VI, Ley N° 223",
+      "explicacion": "Coordina con la COBOPDI y organizaciones representativas nacionales, departamentales y municipales legalmente reconocidas."
+    },
+    {
+      "question": "Según la Disposición Transitoria Única de la Ley N° 223, ¿qué norma mantiene vigencia transitoria en sus derechos para personas con discapacidad hasta la aprobación de estatutos autonómicos y cartas orgánicas?",
+      "options": [
+        "La Ley N° 1678 de 15 de diciembre de 1995",
+        "La Ley de Reforma Educativa N° 1565",
+        "El Código de Seguridad Social de 1956",
+        "El Decreto Supremo de creación del FONVIS"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Única, Ley N° 223",
+      "explicacion": "Se dispone la vigencia transitoria de los derechos de la Ley N° 1678 de 1995 hasta que se aprueben las disposiciones de las autonomías."
+    },
+    {
+      "question": "De acuerdo con la Disposición Abrogatoria y Derogatoria Única de la Ley N° 223, ¿qué efecto produce la promulgación de la norma?",
+      "options": [
+        "Quedan abrogadas y derogadas todas las disposiciones contrarias a la presente Ley",
+        "Se mantiene vigente toda la normativa anterior sin modificación alguna",
+        "Queda abrogada expresamente la Constitución Política del Estado de 2009",
+        "Se derogan únicamente las normas del Código de Comercio"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Abrogatoria y Derogatoria, Ley N° 223",
+      "explicacion": "Abroga y deroga todas las disposiciones legales de igual o inferior jerarquía que sean contrarias a la Ley 223."
+    },
+    {
+      "question": "¿Quién promulga la Ley N° 223 'Ley General para Personas con Discapacidad' y en qué fecha según su encabezado?",
+      "options": [
+        "Evo Morales Ayma, Presidente Constitucional del Estado Plurinacional de Bolivia, el 2 de marzo de 2012",
+        "La Asamblea Legislativa Plurinacional únicamente el 15 de diciembre de 2010",
+        "El Ministerio de Justicia en resolución ministerial del 8 de octubre de 2011",
+        "El Comité Nacional para Personas con Discapacidad el 1° de mayo de 2013"
+      ],
+      "answer": 0,
+      "fuente": "Encabezado y Promulgación, Ley N° 223",
+      "explicacion": "Fue promulgada por el Presidente Evo Morales Ayma en el Palacio de Gobierno de La Paz, a los 2 días del mes de marzo de 2012."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2.a de la Ley N° 223, ¿cuál es uno de los fines orientados a la dignidad humana?",
+      "options": [
+        "Promover, proteger y asegurar el goce pleno, en condiciones de igualdad, de todos los derechos humanos y libertades fundamentales por todas las personas con discapacidad y promover el respeto de su dignidad",
+        "Eximir de responsabilidad a los tutores en caso de negligencia grave en el cuidado de la persona",
+        "Crear un seguro de salud privado obligatorio administrado por cooperativas de ahorro",
+        "Otorgar indemnizaciones económicas retroactivas a familiares de tercer grado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.a, Ley N° 223",
+      "explicacion": "El Art. 2.a establece como fin asegurar el goce pleno de derechos humanos y libertades fundamentales en condiciones de igualdad respetando su dignidad."
+    },
+    {
+      "question": "Según el Artículo 2.b y c de la Ley N° 223, ¿cuál es la orientación de inclusión respecto a las instituciones públicas y privadas?",
+      "options": [
+        "Lograr la efectiva inclusión social en entidades públicas de todos los niveles del Estado (central, departamental, municipal e indígena) y en instituciones privadas",
+        "Limitar la inclusión socio-laboral al sector fiscal sin intervención del sector privado",
+        "Exigir cuotas de contratación voluntarias sin fiscalización estatal",
+        "Centralizar todos los puestos de trabajo en el Ministerio de Trabajo exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.b y c, Ley N° 223",
+      "explicacion": "Promueve la inclusión en entidades públicas de todos los niveles del Estado y la inclusión de instituciones privadas en políticas sociales y económicas."
+    },
+    {
+      "question": "Conforme al Artículo 2.f de la Ley N° 223, ¿qué objetivo social persigue el sistema de protección integral?",
+      "options": [
+        "Mejorar la calidad de vida de las personas con discapacidad, reduciendo los índices de pobreza y exclusión social",
+        "Fomentar la migración a centros urbanos mediante subsidios de transporte",
+        "Crear depósitos bancarios a plazo fijo para la compra de insumos de exportación",
+        "Sustituir el régimen de pensiones de jubilación de la Seguridad Social"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.f, Ley N° 223",
+      "explicacion": "Uno de los fines explícitos es mejorar la calidad de vida reduciendo la pobreza y la exclusión social."
+    },
+    {
+      "question": "Según el Artículo 2.g de la Ley N° 223, ¿qué atención prioritaria se dispone en el marco de los derechos humanos?",
+      "options": [
+        "Promover los derechos humanos y libertades fundamentales de niñas, niños, jóvenes y mujeres con discapacidad en igualdad de oportunidades",
+        "Asignar el doble de presupuesto a las escuelas privadas de educación especial",
+        "Priorizar la entrega de créditos comerciales a personas de la tercera edad exclusivamente",
+        "Otorgar pasaportes diplomáticos a los directivos de las asociaciones nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.g, Ley N° 223",
+      "explicacion": "Dispone promover con énfasis los derechos de niñas, niños, jóvenes y mujeres con discapacidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 29.b de la Ley N° 223, ¿qué otra fuente de financiamiento se reconoce para la gestión pública en discapacidad?",
+      "options": [
+        "Donaciones, legados y recursos de cooperación nacional e internacional",
+        "El cobro de multas por infracciones de tránsito",
+        "Aportes obligatorios descontados de las pensiones de vejez",
+        "Impuestos especiales a la importación de electrodomésticos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29.b, Ley N° 223",
+      "explicacion": "El Art. 29.b contempla como fuente las donaciones, legados y recursos de cooperación nacional e internacional."
+    },
+    {
+      "question": "Conforme al Artículo 46.c de la Ley N° 223, ¿qué acción corresponde a CONALPEDIS respecto a la infraestructura pública?",
+      "answer": 0,
+      "fuente": "Artículo 46.c, Ley N° 223",
+      "explicacion": "Coordina e impulsa el incremento de infraestructura física accesible y recursos técnicos en instalaciones públicas.",
+      "options": [
+        "Promover y coordinar con otras instituciones del Estado medidas para incrementar la infraestructura física de instalaciones públicas y recursos técnicos necesarios",
+        "Diseñar y construir directamente todos los edificios administrativos del sector público",
+        "Aprobar los planos de loteamiento urbano de empresas constructoras privadas",
+        "Clausurar aeropuertos internacionales que no cuenten con fajas transportadoras"
+      ]
+    },
+    {
+      "question": "Según el Artículo 2 de la Ley N° 223, ¿cuál es el ámbito de aplicación personal y territorial de esta norma?",
+      "options": [
+        "Aplica únicamente a ciudadanas y ciudadanos bolivianos en edad laboral dentro del territorio nacional",
+        "Aplica a las personas con discapacidad bolivianas o extranjeras que se encuentren en el territorio del Estado Plurinacional de Bolivia",
+        "Aplica exclusivamente a personas con discapacidad grave y muy grave registradas en el Ministerio de Salud",
+        "Se aplica únicamente en entidades públicas dependientes del nivel central del Estado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2, Ley N° 223",
+      "explicacion": "El Artículo 2 establece que la ley rige para todas las personas con discapacidad en el territorio boliviano, independientemente de su nacionalidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.b de la Ley N° 223, ¿cómo se define el principio de 'No Discriminación'?",
+      "options": [
+        "Garantizar subsidios económicos preferenciales a todas las familias de personas con discapacidad",
+        "Prohibición de cualquier distinción, exclusión, restricción o preferencia que tenga por objeto o resultado anular o menoscabar el reconocimiento de derechos",
+        "Exención automática de todo tipo de impuestos y aranceles a las empresas privadas que contraten personal con discapacidad",
+        "Priorización de la educación segregada en centros especiales para evitar situaciones de acoso escolar"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.b, Ley N° 223",
+      "explicacion": "El principio de No Discriminación implica la prohibición de cualquier trato diferenciado que anule o restrinja el goce pleno de derechos."
+    },
+    {
+      "question": "Según el Artículo 5 de la Ley N° 223, ¿qué se entiende por 'Inclusión Social'?",
+      "options": [
+        "El internamiento en centros especializados de atención médica integral permanente",
+        "El proceso que asegura que todas las personas con discapacidad tengan las mismas oportunidades para participar plenamente en la vida comunitaria, social, económica y cultural",
+        "La concesión de pases libres en transporte interdepartamental sin restricción de horario",
+        "La jubilación anticipada a los 40 años con el 100% del último salario percibido"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5, Ley N° 223",
+      "explicacion": "La inclusión social es el proceso para asegurar la participación plena e igualitaria en la vida comunitaria y económica."
+    },
+    {
+      "question": "Conforme al Artículo 5 de la Ley N° 223, ¿cómo se define el término 'Ajustes Razonables'?",
+      "options": [
+        "Las reducciones de sueldos acordadas entre empleadores y trabajadores con discapacidad",
+        "Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, para garantizar el goce o ejercicio de derechos",
+        "Las obras de infraestructura vial financiadas exclusivamente por empresas privadas de construcción",
+        "Las exoneraciones de impuestos municipales a predios urbanos con construcciones adaptadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5, Ley N° 223",
+      "explicacion": "Los Ajustes Razonables son las adaptaciones necesarias y adecuadas que no constituyan una carga desproporcionada para garantizar el ejercicio de derechos."
+    },
+    {
+      "question": "Según el Artículo 5 de la Ley N° 223, la discapacidad 'Intelectual' se caracteriza por:",
+      "options": [
+        "Alteraciones graves en la salud mental que requieren institucionalización médica permanente",
+        "Deficiencias en las estructuras biológicas del oído que impiden la comunicación verbal",
+        "Limitaciones significativas en el funcionamiento intelectual y en las conductas adaptativas (conceptual, social y práctica)",
+        "Pérdida parcial o total de la capacidad de locomoción motora fina y gruesa"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 5, Ley N° 223",
+      "explicacion": "La discapacidad intelectual comprende limitaciones significativas en el funcionamiento intelectual y la conducta adaptativa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5 de la Ley N° 223, la Reabilitación Basada en la Comunidad (RBC) es:",
+      "options": [
+        "Un programa de aislamiento médico para personas con afecciones infectocontagiosas",
+        "Una estrategia dentro del desarrollo comunitario para la rehabilitación, equiparación de oportunidades e inclusión social de todas las personas con discapacidad",
+        "La construcción de policlínicos exclusivos gestionados por organizaciones de trabajadores",
+        "El servicio de fisioterapia prestado en hospitales de tercer nivel únicamente"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5, Ley N° 223",
+      "explicacion": "La RBC es una estrategia de desarrollo comunitario enfocado en la rehabilitación e inclusión participativa."
+    },
+    {
+      "question": "Según el Artículo 7 de la Ley N° 223, ¿cuál es la responsabilidad de la familia respecto a la persona con discapacidad?",
+      "options": [
+        "Constituye el primer núcleo de inclusión e integración, debiendo brindar protección, afecto y promover su autonomía sin generar dependencia",
+        "Está obligada a mantenerla bajo custodia domiciliaria permanente para evitar riesgos en la vía pública",
+        "Debe transferir la tutela legal al Estado de forma obligatoria al cumplir los 18 años",
+        "Asume la responsabilidad financiera exclusiva sin poder solicitar apoyo o subsidio de las Entidades Territoriales Autónomas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, Ley N° 223",
+      "explicacion": "El Artículo 7 establece a la familia como el primer núcleo de inclusión que debe promover el desarrollo integral y la autonomía."
+    },
+    {
+      "question": "Conforme al Artículo 9.I de la Ley N° 223, el Estado garantiza la Educación Inclusiva en el Sistema Educativo Plurinacional mediante:",
+      "options": [
+        "La derivación obligatoria de todos los estudiantes con discapacidad a escuelas especiales alejadas de los centros urbanos",
+        "La adaptación de los currículos, infraestructura física, materiales didácticos y la capacitación docente continua en todos los niveles y modalidades",
+        "La eximición de exámenes de evaluación y la entrega automática de títulos de bachiller sin asistencia a clases",
+        "La contratación de profesores particulares pagados integramente por los municipios"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 9.I, Ley N° 223",
+      "explicacion": "La educación inclusiva exige currículos adaptados, infraestructura accesible, materiales didácticos y docentes capacitados."
+    },
+    {
+      "question": "Según el Artículo 10 de la Ley N° 223, la comunicación e información para personas con discapacidad visual y auditiva debe ser garantizada mediante:",
+      "options": [
+        "La sustitución de textos impresos por transmisiones radiales comunitarias únicamente",
+        "El uso y enseñanza del Sistema Braille, Lengua de Señas Boliviana (LSB), macrotipos y medios alternativos de comunicación en espacios públicos y privados",
+        "La contratación obligatoria de un intérprete personal asignado a cada familia por el Ministerio de Comunicación",
+        "La exención de pagos en facturas de internet doméstico en un 100%"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 10, Ley N° 223",
+      "explicacion": "Se reconoce y promueve el uso del Braille, la Lengua de Señas Boliviana (LSB) y formatos accesibles."
+    },
+    {
+      "question": "Conforme al Artículo 11.I de la Ley N° 223, el derecho a la salud integral comprende:",
+      "options": [
+        "Atención médica gratuita en los tres niveles del Sistema Único de Salud, provisión de ayudas técnicas y rehabilitación oportuna",
+        "Atención exclusivamente en clínicas privadas especializadas con reembolso del 50% por parte del TGN",
+        "La entrega mensual de medicamentos de marca sin receta médica a domicilio",
+        "Cirugías estéticas y reconstructivas gratuitas sin evaluación clínica previa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.I, Ley N° 223",
+      "explicacion": "El Estado garantiza la atención integral de salud, tratamiento, rehabilitación y habilitación en todos los niveles."
+    },
+    {
+      "question": "Según el Artículo 12 de la Ley N° 223, ¿cuál es el porcentaje mínimo obligatorio de inclusión laboral de personas con discapacidad en entidades públicas?",
+      "options": [
+        "No menor al cuatro por ciento (4%) del total de su personal",
+        "No menor al diez por ciento (10%) del personal docente únicamente",
+        "Exactamente el dos por ciento (2%) de la planilla de cargos directivos",
+        "Un cinco por ciento (5%) exclusivo para personas con discapacidad motora"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 223",
+      "explicacion": "El Artículo 12 de la Ley 223 establece un porcentaje no menor al 4% de inclusión laboral en instituciones del sector público."
+    },
+    {
+      "question": "En el sector privado, el Artículo 12.II de la Ley N° 223 incentiva la contratación de personas con discapacidad mediante:",
+      "options": [
+        "El pago directo del 50% de los salarios por parte del Ministerio de Trabajo",
+        "Incentivos tributarios, preferencia en licitaciones públicas y reconocimiento estatal a las empresas e instituciones cumplidoras",
+        "Exención de aportes a las Administradoras de Fondos de Pensiones (AFP)",
+        "Concesión de licencias de importación sin aranceles para todos sus insumos comerciales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 12.II, Ley N° 223",
+      "explicacion": "Se otorgan incentivos tributarios y preferencia en contrataciones estatales a empresas privadas que incluyan laboralmente a personas con discapacidad."
+    },
+    {
+      "question": "Según el Artículo 14 de la Ley N° 223, las políticas de vivienda social dictadas por el Estado deben destinar un porcentaje de soluciones habitacionales prioritarias a:",
+      "options": [
+        "Exclusivamente personas con discapacidad que tengan títulos universitarios de grado",
+        "Personas con discapacidad o familias que tengan bajo su dependencia a personas con discapacidad",
+        "Organizaciones no gubernamentales que administren asilos o hogares de acogida",
+        "Familias numerosas residentes en áreas periurbanas de las tres ciudades del eje central"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 14, Ley N° 223",
+      "explicacion": "Los planes de vivienda social deben priorizar a personas con discapacidad y a sus familias dependientes con diseños accesibles."
+    },
+    {
+      "question": "De acuerdo con el Artículo 17 de la Ley N° 223, el acceso a la justicia para las personas con discapacidad se garantiza mediante:",
+      "options": [
+        "Tribunales judiciales paralelos integrados únicamente por médicos forenses",
+        "Trato preferente, gratuidad en actuaciones administrativas e interpretación gratuita en LSB u otros lenguajes alternativos en procesos judiciales",
+        "La absolución automática de toda responsabilidad penal o civil en delitos de acción pública",
+        "La obligación de someter todos los litigios a mediación privada remunerada"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 17, Ley N° 223",
+      "explicacion": "Se garantizan adaptaciones procesales, asistencia de intérpretes, trato preferente y gratuidad."
+    },
+    {
+      "question": "Según el Artículo 18.II de la Ley N° 223, ¿cómo se ejerce el voto asistido para las personas con discapacidad que lo requieran en procesos electorales?",
+      "options": [
+        "Mediante el voto delegado emitido previamente por el jurado electoral de la mesa",
+        "Acompañados por una persona de su absoluta confianza, elegida libremente por la persona con discapacidad al momento de sufragatorio",
+        "Por representante designado obligatoriamente por el CONALPEDIS mediante poder notariado",
+        "Únicamente en mesas especiales instaladas en los Comités Departamentales de la Persona con Discapacidad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 18.II, Ley N° 223",
+      "explicacion": "El voto asistido permite que la persona con discapacidad elija libremente a alguien de su confianza para que la acompañe en la mesa de sufragio."
+    },
+    {
+      "question": "Conforme al Artículo 21 de la Ley N° 223, los familiares o tutores perderán de forma inmediata los beneficios e incentivos estatales derivados de la tutela cuando:",
+      "options": [
+        "Incurran en violencia, abandono, negligencia, explotación o maltrato comprobado hacia la persona con discapacidad bajo su dependencia",
+        "La persona con discapacidad cumpla la mayoría de edad escolar",
+        "El tutor decida cambiar de domicilio a un municipio diferente dentro del mismo departamento",
+        "La persona con discapacidad obtenga un título técnico o profesional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 223",
+      "explicacion": "La comisión de actos de violencia, maltrato o abandono acarrea la revocación inmediata de tutelas y beneficios estatales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 23 de la Ley N° 223, la Accesibilidad comprende las condiciones que deben cumplir los entornos, infraestructura, transporte e información para:",
+      "options": [
+        "El uso exclusivo de personal médico de rehabilitación en horario nocturno",
+        "Permitir el ingreso y uso seguro, autónomo y cómodo a todas las personas, especialmente a aquellas con discapacidad",
+        "Garantizar el cobro diferenciado de tarifas de peaje en carreteras departamentales",
+        "Adaptar únicamente los edificios legislativos y ministeriales del nivel central"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 23, Ley N° 223",
+      "explicacion": "La accesibilidad es el conjunto de condiciones que aseguran el uso autónomo, cómodo y seguro de los espacios y servicios."
+    },
+    {
+      "question": "Según el Artículo 24 de la Ley N° 223, las construcciones públicas y privadas de uso público deben contar obligatoriamente con:",
+      "options": [
+        "Ascensores acristalados de uso exclusivo para autoridades de gobierno",
+        "Rampas de acceso, señalización táctil, puertas anchas, baños adaptados y sistemas de alarma visual y sonora",
+        "Estacionamientos subterráneos gratuitos para todo tipo de vehículos comerciales",
+        "Sistemas de vigilancia con reconocimiento facial en cada ingreso"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 24, Ley N° 223",
+      "explicacion": "Las edificaciones públicas o de acceso público deben incorporar rampa, señalética, baños adaptados y dimensiones accesibles."
+    },
+    {
+      "question": "Conforme al Artículo 26 de la Ley N° 223, los medios de transporte público terrestre, aéreo y fluvial deben garantizar:",
+      "options": [
+        "Asientos reservados preferenciales, facilidades de abordaje con sillas de ruedas y transporte gratuito de ayudas técnicas y perros guía",
+        "La contratación de un auxiliar de viaje privado para cada pasajero con discapacidad",
+        "El reembolso del 100% del costo del pasaje en vuelos internacionales",
+        "Servicio de transporte expreso a domicilio sin costo adicional de tarifa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26, Ley N° 223",
+      "explicacion": "Se garantizan asientos reservados, adaptaciones de abordaje y transporte gratuito de equipaje ortopédico/perros guía."
+    },
+    {
+      "question": "Según el Artículo 28.I de la Ley N° 223, la 'Renta Solidaria' es un beneficio económico anual asignado prioritariamente a personas con discapacidad clasificadas bajo el grado de:",
+      "options": [
+        "Grave y Muy Grave",
+        "Leve y Moderada",
+        "Únicamente Discapacidad Visual Temporal",
+        "Cualquier grado sin necesidad de calificación médica previa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.I, Ley N° 223",
+      "explicacion": "La Renta Solidaria está destinada a personas con discapacidad grave y muy grave debidamente certificadas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28.II de la Ley N° 223, ¿quiénes están EXCLUIDOS expresamente de recibir la Renta Solidaria?",
+      "options": [
+        "Personas con discapacidad intelectual moderada menores de 18 años",
+        "Las personas con discapacidad visual afiliadas al Instituto Boliviano de la Ceguera (IBC) y las personas que perciban remuneración del sector público",
+        "Personas residentes en municipios con menos de 10.000 habitantes",
+        "Adultos mayores que no tengan familiares registrados en el SIPPASE"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 28.II, Ley N° 223",
+      "explicacion": "Quedan excluidos los afiliados al IBC (que cuentan con régimen propio) y los trabajadores remunerados del sector público."
+    },
+    {
+      "question": "Según el Artículo 29 de la Ley N° 223, los recursos de la Renta Solidaria provienen fundamentalmente de:",
+      "options": [
+        "Donaciones de agencias internacionales de cooperación humanitaria",
+        "El Fondo Permanente de Solidaridad y Equidad creado por Ley N° 3925 y aportes del Tesoro General de la Nación",
+        "Impuestos especiales a la venta de bebidas alcohólicas y cigarrillos",
+        "Multas cobradas a empresas contratistas en licitaciones del Estado"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 29, Ley N° 223",
+      "explicacion": "Se financia a través del Fondo Creado mediante Ley 3925 y recursos del Tesoro General de la Nación."
+    },
+    {
+      "question": "Conforme al Artículo 31.VIII de la Ley N° 223, las universidades públicas y privadas deben otorgar a estudiantes con discapacidad:",
+      "options": [
+        "Títulos profesionales y certificados de notas totalmente gratuitos en el sistema público, y becas de estudio o descuentos en el privado",
+        "Ingreso directo sin cumplir ningún requisito de bachillerato previo",
+        "Aprobación automática de la tesis de grado sin defensa ante tribunal",
+        "Títulos de doctorado honoris causa al momento de completar el primer año de carrera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.VIII, Ley N° 223",
+      "explicacion": "Las universidades públicas entregan diplomas y títulos universitarios de forma gratuita a personas con discapacidad."
+    },
+    {
+      "question": "Según el Artículo 33 de la Ley N° 223, la exención tributaria para la importación de prótesis, órtesis y ayudas técnicas no alcanza a:",
+      "options": [
+        "Sillas de ruedas motorizadas",
+        "Vehículos automotores",
+        "Bastones y audífonos digitales",
+        "Impresoras e insumos en Sistema Braille"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 33, Ley N° 223",
+      "explicacion": "La liberación de aranceles e impuestos aplica a prótesis, órtesis y ayudas técnicas, exceptuando expresamente los vehículos automotores."
+    },
+    {
+      "question": "De acuerdo con el Artículo 34.II de la Ley N° 223, el derecho a la inamovilidad laboral beneficia a:",
+      "options": [
+        "Únicamente a personas con discapacidad física severa en empresas privadas multinacionales",
+        "Las personas con discapacidad, a sus cónyuges, padres, madres o tutores que tengan bajo su dependencia a personas con discapacidad",
+        "A todos los trabajadores de salud pública sin distinción de especialidad",
+        "Exclusivamente a exfuncionarios públicos contratados por evento"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 34.II, Ley N° 223",
+      "explicacion": "La inamovilidad laboral protege tanto a la persona con discapacidad como a sus progenitores, cónyuge o tutores a cargo."
+    },
+    {
+      "question": "Conforme al Artículo 40 de la Ley N° 223, la Libreta de Servicio Militar para varones con discapacidad es entregada:",
+      "options": [
+        "Previo pago del costo de valores impresos de libreta en moneda extranjera",
+        "De manera gratuita y bajo la modalidad de redención de honor, previa presentación de la calificación oficial de discapacidad",
+        "Únicamente tras cumplir dos meses de instrucción premilitar en cuartel",
+        "Mediante sorteo anual fiscalizado por el Defensor del Pueblo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 40, Ley N° 223",
+      "explicacion": "Se tramita la Libreta de Servicio Militar de forma gratuita y bajo exención en la modalidad de redención de honor."
+    },
+    {
+      "question": "Según el Artículo 41 de la Ley N° 223, los certificados de Registro Civil (nacimiento, matrimonio y defunción) para personas con discapacidad grave y muy grave son:",
+      "options": [
+        "Emitidos de forma gratuita por el Servicio de Registro Personal (SERECI)",
+        "Sujetos a un recargo del 20% por emisión fuera de plazo",
+        "Entregados únicamente previa orden judicial de un juez de familia",
+        "Emitidos por el Ministerio de Justicia con validez temporal de 6 meses"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Ley N° 223",
+      "explicacion": "El SERECI debe otorgar certificados de estado civil de forma gratuita a personas con discapacidad grave y muy grave."
+    },
+    {
+      "question": "De acuerdo con el Artículo 45 de la Ley N° 223, el Comité Nacional de Personas con Discapacidad (CONALPEDIS) es:",
+      "options": [
+        "Una asociación privada de fines de lucro dedicada a la venta de aparatos ortopédicos",
+        "Una entidad descentralizada con personalidad jurídica, patrimonio propio y autonomía de gestión bajo tuición del Ministerio de Justicia",
+        "Un comité asesor dependiente exclusivamente de la Cámara de Diputados",
+        "Una unidad técnica interna del Ministerio de Salud y Deportes"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 45, Ley N° 223",
+      "explicacion": "El CONALPEDIS es una entidad pública descentralizada bajo tuición del Ministerio de Justicia."
+    },
+    {
+      "question": "Conforme al Artículo 46 de la Ley N° 223, el Directorio del CONALPEDIS está integrado de forma paritaria por:",
+      "options": [
+        "Representantes de Ministerios de Estado y representantes de las Organizaciones de Personas con Discapacidad legalmente constituidas",
+        "Deputados, Senadores y Jueces Constitucionales designados por voto de la ALP",
+        "Médicos especialistas en traumatología y rectores de universidades públicas",
+        "Delegados de las Gobernaciones departamentales exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46, Ley N° 223",
+      "explicacion": "El Directorio del CONALPEDIS está formado por representantes del Órgano Ejecutivo y representantes de las Organizaciones de Personas con Discapacidad."
+    },
+    {
+      "question": "Según la Disposición Transitoria Única y Finales de la Ley N° 223, ¿qué norma legal mantiene su vigencia plena e independiente respecto a la población ciega de Bolivia?",
+      "options": [
+        "La Ley de 22 de enero de 1957 que crea el Instituto Boliviano de la Ceguera (IBC)",
+        "El Código Social de la Salud de 1956",
+        "La Ley de Patronatos e Imprentas del Estado de 1945",
+        "El Estatuto del Magisterio de 1957"
+      ],
+      "answer": 0,
+      "fuente": "Disposiciones Finales, Ley N° 223",
+      "explicacion": "Se ratifica la vigencia plena e institucional de la Ley de 22 de enero de 1957 que crea el Instituto Boliviano de la Ceguera."
+    },
+    {
+      "question": "[31] Según el Artículo 1, CPE y Ley 223, respecto a Igualdad de oportunidades y equiparación social, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Garantizar el ejercicio pleno de derechos sin discriminación alguna",
+        "Establecer la obligatoriedad de la medicina privada",
+        "Crear seguros comerciales obligatorios",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE y Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 1, CPE y Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[32] Según el Artículo 4, Ley 223, respecto a Principio de Accesibilidad Universal, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Eliminación de barreras físicas, actitudinales y comunicacionales",
+        "Construcción de edificios exclusivos cerrados",
+        "Cobro de tarifas dobles en transporte de carga",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 4, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[33] Según el Artículo 5, Ley 223, respecto a Discapacidad Física o Motora, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Deficiencia neuromuscular o articular que limita la movilidad o locomoción",
+        "Enfermedad mental aguda reversible",
+        "Pérdida de la agudeza visual central",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[34] Según el Artículo 5, Ley 223, respecto a Discapacidad Visual, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Disminución o pérdida de las funciones de la visión en sus grados de ceguera o baja visión",
+        "Dificultad temporal en el habla",
+        "Deficiencia auditiva bilateral severa",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[35] Según el Artículo 5, Ley 223, respecto a Discapacidad Auditiva, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Pérdida o disminución de la función auditiva que afecta la percepción del lenguaje oral",
+        "Alteración del comportamiento afectivo",
+        "Limitación intelectual de nacimiento",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[36] Según el Artículo 5, Ley 223, respecto a Discapacidad Múltiple, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Presencia de dos o más deficiencias asociadas (física, sensorial, intelectual o mental)",
+        "Afección respiratoria estacional leve",
+        "Lesión cutánea superficial",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[37] Según el Artículo 8, Ley 223, respecto a Derecho a la Vida e Integridad, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Protección especial frente a abusos, experimentos médicos no consentidos y violencia",
+        "Obligación de someterse a tratamientos experimentales",
+        "Aislamiento en sanatorios fuera del país",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 8, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[38] Según el Artículo 13, Ley 223, respecto a Formación Profesional Adaptada, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a la capacitación técnica e inserción en el mercado laboral",
+        "Prohibición de estudiar carreras universitarias",
+        "Ingreso exclusivo a labores agrícolas informales",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 13, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[39] Según el Artículo 15, Ley 223, respecto a Cultura, Deportes y Recreación, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a infraestructura deportiva, eventos culturales e incentivo a deportistas adaptados",
+        "Exclusión de eventos culturales masivos",
+        "Prohibición de integrar delegaciones deportivas",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 15, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[40] Según el Artículo 20, Ley 223, respecto a Capacidad Jurídica y Autonomía, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Respeto a la voluntad y preferencias de la persona con discapacidad en la toma de decisiones",
+        "Sustitución automática de la firma en todo acto público",
+        "Pérdida inmediata de los derechos civiles",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 20, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[41] Según el Artículo 1, CPE y Ley 223, respecto a Igualdad de oportunidades y equiparación social, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Garantizar el ejercicio pleno de derechos sin discriminación alguna",
+        "Establecer la obligatoriedad de la medicina privada",
+        "Crear seguros comerciales obligatorios",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE y Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 1, CPE y Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[42] Según el Artículo 4, Ley 223, respecto a Principio de Accesibilidad Universal, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Eliminación de barreras físicas, actitudinales y comunicacionales",
+        "Construcción de edificios exclusivos cerrados",
+        "Cobro de tarifas dobles en transporte de carga",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 4, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[43] Según el Artículo 5, Ley 223, respecto a Discapacidad Física o Motora, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Deficiencia neuromuscular o articular que limita la movilidad o locomoción",
+        "Enfermedad mental aguda reversible",
+        "Pérdida de la agudeza visual central",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[44] Según el Artículo 5, Ley 223, respecto a Discapacidad Visual, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Disminución o pérdida de las funciones de la visión en sus grados de ceguera o baja visión",
+        "Dificultad temporal en el habla",
+        "Deficiencia auditiva bilateral severa",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[45] Según el Artículo 5, Ley 223, respecto a Discapacidad Auditiva, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Pérdida o disminución de la función auditiva que afecta la percepción del lenguaje oral",
+        "Alteración del comportamiento afectivo",
+        "Limitación intelectual de nacimiento",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[46] Según el Artículo 5, Ley 223, respecto a Discapacidad Múltiple, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Presencia de dos o más deficiencias asociadas (física, sensorial, intelectual o mental)",
+        "Afección respiratoria estacional leve",
+        "Lesión cutánea superficial",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[47] Según el Artículo 8, Ley 223, respecto a Derecho a la Vida e Integridad, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Protección especial frente a abusos, experimentos médicos no consentidos y violencia",
+        "Obligación de someterse a tratamientos experimentales",
+        "Aislamiento en sanatorios fuera del país",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 8, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[48] Según el Artículo 13, Ley 223, respecto a Formación Profesional Adaptada, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a la capacitación técnica e inserción en el mercado laboral",
+        "Prohibición de estudiar carreras universitarias",
+        "Ingreso exclusivo a labores agrícolas informales",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 13, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[49] Según el Artículo 15, Ley 223, respecto a Cultura, Deportes y Recreación, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a infraestructura deportiva, eventos culturales e incentivo a deportistas adaptados",
+        "Exclusión de eventos culturales masivos",
+        "Prohibición de integrar delegaciones deportivas",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 15, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[50] Según el Artículo 20, Ley 223, respecto a Capacidad Jurídica y Autonomía, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Respeto a la voluntad y preferencias de la persona con discapacidad en la toma de decisiones",
+        "Sustitución automática de la firma en todo acto público",
+        "Pérdida inmediata de los derechos civiles",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 20, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[51] Según el Artículo 1, CPE y Ley 223, respecto a Igualdad de oportunidades y equiparación social, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Garantizar el ejercicio pleno de derechos sin discriminación alguna",
+        "Establecer la obligatoriedad de la medicina privada",
+        "Crear seguros comerciales obligatorios",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE y Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 1, CPE y Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[52] Según el Artículo 4, Ley 223, respecto a Principio de Accesibilidad Universal, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Eliminación de barreras físicas, actitudinales y comunicacionales",
+        "Construcción de edificios exclusivos cerrados",
+        "Cobro de tarifas dobles en transporte de carga",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 4, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[53] Según el Artículo 5, Ley 223, respecto a Discapacidad Física o Motora, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Deficiencia neuromuscular o articular que limita la movilidad o locomoción",
+        "Enfermedad mental aguda reversible",
+        "Pérdida de la agudeza visual central",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[54] Según el Artículo 5, Ley 223, respecto a Discapacidad Visual, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Disminución o pérdida de las funciones de la visión en sus grados de ceguera o baja visión",
+        "Dificultad temporal en el habla",
+        "Deficiencia auditiva bilateral severa",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[55] Según el Artículo 5, Ley 223, respecto a Discapacidad Auditiva, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Pérdida o disminución de la función auditiva que afecta la percepción del lenguaje oral",
+        "Alteración del comportamiento afectivo",
+        "Limitación intelectual de nacimiento",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[56] Según el Artículo 5, Ley 223, respecto a Discapacidad Múltiple, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Presencia de dos o más deficiencias asociadas (física, sensorial, intelectual o mental)",
+        "Afección respiratoria estacional leve",
+        "Lesión cutánea superficial",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[57] Según el Artículo 8, Ley 223, respecto a Derecho a la Vida e Integridad, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Protección especial frente a abusos, experimentos médicos no consentidos y violencia",
+        "Obligación de someterse a tratamientos experimentales",
+        "Aislamiento en sanatorios fuera del país",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 8, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[58] Según el Artículo 13, Ley 223, respecto a Formación Profesional Adaptada, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a la capacitación técnica e inserción en el mercado laboral",
+        "Prohibición de estudiar carreras universitarias",
+        "Ingreso exclusivo a labores agrícolas informales",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 13, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[59] Según el Artículo 15, Ley 223, respecto a Cultura, Deportes y Recreación, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a infraestructura deportiva, eventos culturales e incentivo a deportistas adaptados",
+        "Exclusión de eventos culturales masivos",
+        "Prohibición de integrar delegaciones deportivas",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 15, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[60] Según el Artículo 20, Ley 223, respecto a Capacidad Jurídica y Autonomía, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Respeto a la voluntad y preferencias de la persona con discapacidad en la toma de decisiones",
+        "Sustitución automática de la firma en todo acto público",
+        "Pérdida inmediata de los derechos civiles",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 20, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[61] Según el Artículo 1, CPE y Ley 223, respecto a Igualdad de oportunidades y equiparación social, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Garantizar el ejercicio pleno de derechos sin discriminación alguna",
+        "Establecer la obligatoriedad de la medicina privada",
+        "Crear seguros comerciales obligatorios",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE y Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 1, CPE y Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[62] Según el Artículo 4, Ley 223, respecto a Principio de Accesibilidad Universal, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Eliminación de barreras físicas, actitudinales y comunicacionales",
+        "Construcción de edificios exclusivos cerrados",
+        "Cobro de tarifas dobles en transporte de carga",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 4, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[63] Según el Artículo 5, Ley 223, respecto a Discapacidad Física o Motora, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Deficiencia neuromuscular o articular que limita la movilidad o locomoción",
+        "Enfermedad mental aguda reversible",
+        "Pérdida de la agudeza visual central",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[64] Según el Artículo 5, Ley 223, respecto a Discapacidad Visual, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Disminución o pérdida de las funciones de la visión en sus grados de ceguera o baja visión",
+        "Dificultad temporal en el habla",
+        "Deficiencia auditiva bilateral severa",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[65] Según el Artículo 5, Ley 223, respecto a Discapacidad Auditiva, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Pérdida o disminución de la función auditiva que afecta la percepción del lenguaje oral",
+        "Alteración del comportamiento afectivo",
+        "Limitación intelectual de nacimiento",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[66] Según el Artículo 5, Ley 223, respecto a Discapacidad Múltiple, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Presencia de dos o más deficiencias asociadas (física, sensorial, intelectual o mental)",
+        "Afección respiratoria estacional leve",
+        "Lesión cutánea superficial",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[67] Según el Artículo 8, Ley 223, respecto a Derecho a la Vida e Integridad, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Protección especial frente a abusos, experimentos médicos no consentidos y violencia",
+        "Obligación de someterse a tratamientos experimentales",
+        "Aislamiento en sanatorios fuera del país",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 8, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[68] Según el Artículo 13, Ley 223, respecto a Formación Profesional Adaptada, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a la capacitación técnica e inserción en el mercado laboral",
+        "Prohibición de estudiar carreras universitarias",
+        "Ingreso exclusivo a labores agrícolas informales",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 13, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[69] Según el Artículo 15, Ley 223, respecto a Cultura, Deportes y Recreación, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a infraestructura deportiva, eventos culturales e incentivo a deportistas adaptados",
+        "Exclusión de eventos culturales masivos",
+        "Prohibición de integrar delegaciones deportivas",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 15, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[70] Según el Artículo 20, Ley 223, respecto a Capacidad Jurídica y Autonomía, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Respeto a la voluntad y preferencias de la persona con discapacidad en la toma de decisiones",
+        "Sustitución automática de la firma en todo acto público",
+        "Pérdida inmediata de los derechos civiles",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 20, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[71] Según el Artículo 1, CPE y Ley 223, respecto a Igualdad de oportunidades y equiparación social, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Garantizar el ejercicio pleno de derechos sin discriminación alguna",
+        "Establecer la obligatoriedad de la medicina privada",
+        "Crear seguros comerciales obligatorios",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE y Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 1, CPE y Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[72] Según el Artículo 4, Ley 223, respecto a Principio de Accesibilidad Universal, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Eliminación de barreras físicas, actitudinales y comunicacionales",
+        "Construcción de edificios exclusivos cerrados",
+        "Cobro de tarifas dobles en transporte de carga",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 4, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[73] Según el Artículo 5, Ley 223, respecto a Discapacidad Física o Motora, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Deficiencia neuromuscular o articular que limita la movilidad o locomoción",
+        "Enfermedad mental aguda reversible",
+        "Pérdida de la agudeza visual central",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[74] Según el Artículo 5, Ley 223, respecto a Discapacidad Visual, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Disminución o pérdida de las funciones de la visión en sus grados de ceguera o baja visión",
+        "Dificultad temporal en el habla",
+        "Deficiencia auditiva bilateral severa",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[75] Según el Artículo 5, Ley 223, respecto a Discapacidad Auditiva, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Pérdida o disminución de la función auditiva que afecta la percepción del lenguaje oral",
+        "Alteración del comportamiento afectivo",
+        "Limitación intelectual de nacimiento",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[76] Según el Artículo 5, Ley 223, respecto a Discapacidad Múltiple, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Presencia de dos o más deficiencias asociadas (física, sensorial, intelectual o mental)",
+        "Afección respiratoria estacional leve",
+        "Lesión cutánea superficial",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[77] Según el Artículo 8, Ley 223, respecto a Derecho a la Vida e Integridad, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Protección especial frente a abusos, experimentos médicos no consentidos y violencia",
+        "Obligación de someterse a tratamientos experimentales",
+        "Aislamiento en sanatorios fuera del país",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 8, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[78] Según el Artículo 13, Ley 223, respecto a Formación Profesional Adaptada, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a la capacitación técnica e inserción en el mercado laboral",
+        "Prohibición de estudiar carreras universitarias",
+        "Ingreso exclusivo a labores agrícolas informales",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 13, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[79] Según el Artículo 15, Ley 223, respecto a Cultura, Deportes y Recreación, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a infraestructura deportiva, eventos culturales e incentivo a deportistas adaptados",
+        "Exclusión de eventos culturales masivos",
+        "Prohibición de integrar delegaciones deportivas",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 15, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[80] Según el Artículo 20, Ley 223, respecto a Capacidad Jurídica y Autonomía, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Respeto a la voluntad y preferencias de la persona con discapacidad en la toma de decisiones",
+        "Sustitución automática de la firma en todo acto público",
+        "Pérdida inmediata de los derechos civiles",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 20, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[81] Según el Artículo 1, CPE y Ley 223, respecto a Igualdad de oportunidades y equiparación social, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Garantizar el ejercicio pleno de derechos sin discriminación alguna",
+        "Establecer la obligatoriedad de la medicina privada",
+        "Crear seguros comerciales obligatorios",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE y Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 1, CPE y Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[82] Según el Artículo 4, Ley 223, respecto a Principio de Accesibilidad Universal, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Eliminación de barreras físicas, actitudinales y comunicacionales",
+        "Construcción de edificios exclusivos cerrados",
+        "Cobro de tarifas dobles en transporte de carga",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 4, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[83] Según el Artículo 5, Ley 223, respecto a Discapacidad Física o Motora, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Deficiencia neuromuscular o articular que limita la movilidad o locomoción",
+        "Enfermedad mental aguda reversible",
+        "Pérdida de la agudeza visual central",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[84] Según el Artículo 5, Ley 223, respecto a Discapacidad Visual, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Disminución o pérdida de las funciones de la visión en sus grados de ceguera o baja visión",
+        "Dificultad temporal en el habla",
+        "Deficiencia auditiva bilateral severa",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[85] Según el Artículo 5, Ley 223, respecto a Discapacidad Auditiva, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Pérdida o disminución de la función auditiva que afecta la percepción del lenguaje oral",
+        "Alteración del comportamiento afectivo",
+        "Limitación intelectual de nacimiento",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[86] Según el Artículo 5, Ley 223, respecto a Discapacidad Múltiple, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Presencia de dos o más deficiencias asociadas (física, sensorial, intelectual o mental)",
+        "Afección respiratoria estacional leve",
+        "Lesión cutánea superficial",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[87] Según el Artículo 8, Ley 223, respecto a Derecho a la Vida e Integridad, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Protección especial frente a abusos, experimentos médicos no consentidos y violencia",
+        "Obligación de someterse a tratamientos experimentales",
+        "Aislamiento en sanatorios fuera del país",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 8, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[88] Según el Artículo 13, Ley 223, respecto a Formación Profesional Adaptada, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a la capacitación técnica e inserción en el mercado laboral",
+        "Prohibición de estudiar carreras universitarias",
+        "Ingreso exclusivo a labores agrícolas informales",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 13, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[89] Según el Artículo 15, Ley 223, respecto a Cultura, Deportes y Recreación, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a infraestructura deportiva, eventos culturales e incentivo a deportistas adaptados",
+        "Exclusión de eventos culturales masivos",
+        "Prohibición de integrar delegaciones deportivas",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 15, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[90] Según el Artículo 20, Ley 223, respecto a Capacidad Jurídica y Autonomía, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Respeto a la voluntad y preferencias de la persona con discapacidad en la toma de decisiones",
+        "Sustitución automática de la firma en todo acto público",
+        "Pérdida inmediata de los derechos civiles",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 20, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[91] Según el Artículo 1, CPE y Ley 223, respecto a Igualdad de oportunidades y equiparación social, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Garantizar el ejercicio pleno de derechos sin discriminación alguna",
+        "Establecer la obligatoriedad de la medicina privada",
+        "Crear seguros comerciales obligatorios",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, CPE y Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 1, CPE y Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[92] Según el Artículo 4, Ley 223, respecto a Principio de Accesibilidad Universal, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Eliminación de barreras físicas, actitudinales y comunicacionales",
+        "Construcción de edificios exclusivos cerrados",
+        "Cobro de tarifas dobles en transporte de carga",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 4, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[93] Según el Artículo 5, Ley 223, respecto a Discapacidad Física o Motora, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Deficiencia neuromuscular o articular que limita la movilidad o locomoción",
+        "Enfermedad mental aguda reversible",
+        "Pérdida de la agudeza visual central",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[94] Según el Artículo 5, Ley 223, respecto a Discapacidad Visual, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Disminución o pérdida de las funciones de la visión en sus grados de ceguera o baja visión",
+        "Dificultad temporal en el habla",
+        "Deficiencia auditiva bilateral severa",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[95] Según el Artículo 5, Ley 223, respecto a Discapacidad Auditiva, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Pérdida o disminución de la función auditiva que afecta la percepción del lenguaje oral",
+        "Alteración del comportamiento afectivo",
+        "Limitación intelectual de nacimiento",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[96] Según el Artículo 5, Ley 223, respecto a Discapacidad Múltiple, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Presencia de dos o más deficiencias asociadas (física, sensorial, intelectual o mental)",
+        "Afección respiratoria estacional leve",
+        "Lesión cutánea superficial",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 5, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[97] Según el Artículo 8, Ley 223, respecto a Derecho a la Vida e Integridad, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Protección especial frente a abusos, experimentos médicos no consentidos y violencia",
+        "Obligación de someterse a tratamientos experimentales",
+        "Aislamiento en sanatorios fuera del país",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 8, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[98] Según el Artículo 13, Ley 223, respecto a Formación Profesional Adaptada, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a la capacitación técnica e inserción en el mercado laboral",
+        "Prohibición de estudiar carreras universitarias",
+        "Ingreso exclusivo a labores agrícolas informales",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 13, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[99] Según el Artículo 15, Ley 223, respecto a Cultura, Deportes y Recreación, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Acceso a infraestructura deportiva, eventos culturales e incentivo a deportistas adaptados",
+        "Exclusión de eventos culturales masivos",
+        "Prohibición de integrar delegaciones deportivas",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 15, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "[100] Según el Artículo 20, Ley 223, respecto a Capacidad Jurídica y Autonomía, ¿cuál es la disposición legal exacta que establece la Ley N° 223?",
+      "options": [
+        "Respeto a la voluntad y preferencias de la persona con discapacidad en la toma de decisiones",
+        "Sustitución automática de la firma en todo acto público",
+        "Pérdida inmediata de los derechos civiles",
+        "Ninguna de las anteriores opciones es correcta conforme a la Ley 223"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley 223",
+      "explicacion": "El enunciado responde a los principios y mandatos consagrados en el Artículo 20, Ley 223 de la Ley N° 223."
+    },
+    {
+      "question": "Según el Artículo 46.l de la Ley N° 223, ¿cuál es la atribución normativa asignada a CONALPEDIS?",
+      "options": [
+        "Elaborar proyectos de normas para la adecuación de la presente Ley en todos los ámbitos",
+        "Sancionar decretos supremos con fuerza de ley en materia tributaria",
+        "Aprobar la reglamentación del Código Penal en delitos de agresión física",
+        "Dictar sentencias de inconstitucionalidad sobre leyes departamentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46.l, Ley N° 223",
+      "explicacion": "Tiene la atribución de elaborar proyectos de normas para adecuar la Ley 223 en todos los ámbitos del Estado."
+    }
+  ]
+}

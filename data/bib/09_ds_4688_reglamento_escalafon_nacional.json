@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "09_ds_4688_reglamento_escalafon_nacional",
+    "nombre": "D.S. N° 4688 Reglamento del Escalafón Nacional del Servicio de Educación",
+    "detalle": "Decreto Supremo de 18 de julio de 1957",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "Según el Artículo 1° del D.S. N° 04688, ¿cómo se define el Escalafón Nacional del Servicio de Educación?",
+      "options": [
+        "El registro sistemático, permanente y centralizado, de los datos personales y profesionales referentes a los maestros y funcionarios de servicio educativo",
+        "Un sindicato nacional obligatorio para todos los profesionales de la educación fiscal",
+        "Un escalafón salarial variable ajustado trimestralmente según la inflación nacional",
+        "Un registro descentralizado a cargo de cada municipio para la contratación eventual de docentes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1°, DS 4688",
+      "explicacion": "El Art. 1° define el Escalafón como el registro sistemático, permanente y centralizado de los datos personales y profesionales referentes a los maestros y funcionarios de servicio educativo."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una de las finalidades del Escalafón Nacional del Servicio de Educación según el Artículo 2° del D.S. N° 04688?",
+      "options": [
+        "Regula el ingreso y garantiza la continuidad de los maestros y funcionarios del ramo",
+        "Establece la Escala de Categoría y la Escala Jerárquica para el desarrollo de la carrera docente y administrativa",
+        "Fija los tributos obligatorios y aportes patronales para el sistema universitario privado",
+        "Valora y recompensa la antigüedad y los méritos de los maestros y funcionarios"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 2°, DS 4688",
+      "explicacion": "El Art. 2° establece regular ingreso y continuidad, escalas de categoría y jerarquía, normas de promoción, y valoración de antigüedad y méritos; no fija tributos para universidades privadas."
+    },
+    {
+      "question": "Según el Artículo 3° del D.S. N° 04688, ¿cuál es la entidad central encargada de atender el Escalafón Nacional del Servicio de Educación?",
+      "options": [
+        "El Departamento de Estadística y Personal, dependiente del Ministerio de Educación",
+        "La Confederación Nacional de Maestros Urbanos de Bolivia",
+        "La Contraloría General de la República",
+        "El Servicio de Impuestos Nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3°, DS 4688",
+      "explicacion": "El Art. 3° indica que el Departamento de Estadística y Personal, dependiente del Ministerio de Educación, es la Agencia Central encargada de atender el Escalafón."
+    },
+    {
+      "question": "Conforme al Artículo 3° Numeral 2.a del D.S. N° 04688, ¿quiénes integran la Comisión Nacional del Escalafón?",
+      "options": [
+        "El Jefe del Departamento de Estadística y Personal, el Jefe del Escalafón del Ministerio de Educación y un Delegado de la Federación Nacional de Maestros Urbanos",
+        "El Ministro de Educación, el Ministro de Trabajo y tres senadores de la República",
+        "El Contralor General, el Director de Presupuestos y el Presidente del Consejo de Educación",
+        "Tres representantes de las Universidades Autónomas y dos ejecutivos del Ministerio de Hacienda"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3°, Num. 2.a, DS 4688",
+      "explicacion": "La Comisión Nacional del Escalafón está integrada por el Jefe del Depto. de Estadística y Personal, el Jefe del Escalafón y un Delegado de la Federación Nacional de Maestros Urbanos."
+    },
+    {
+      "question": "Según el Artículo 4° del D.S. N° 04688, ¿cuáles son los dos sectores que comprende el Servicio de Educación?",
+      "options": [
+        "El sector docente y el sector administrativo",
+        "El sector urbano y el sector internacional",
+        "El sector fiscal y el sector universitario privado",
+        "El sector sindical y el sector patronal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4°, DS 4688",
+      "explicacion": "El Art. 4° especifica que el Servicio de Educación comprende el sector docente (atención del sistema escolar) y el sector administrativo (funciones no docentes)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5° del D.S. N° 04688, ¿cuáles son los límites de edad requeridos para ingresar al sector docente del magisterio fiscal?",
+      "options": [
+        "Tener no menos de 18 ni más de 50 años de edad",
+        "Tener no menos de 21 ni más de 65 años de edad",
+        "Tener no menos de 25 ni más de 40 años de edad",
+        "Tener exactamente entre 20 y 35 años de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5° inc. c, DS 4688",
+      "explicacion": "El Art. 5° inc. c) establece expresamente el rango de edad: no menos de 18 ni más de 50 años de edad."
+    },
+    {
+      "question": "En mérito al grado de preparación y experiencia profesional, el Artículo 7° del D.S. N° 04688 reconoce tres clases de maestros:",
+      "options": [
+        "Normalistas, titulares e interinos",
+        "Doctorados, licenciados y bachilleres",
+        "Urbanos, rurales y de fronteras",
+        "Eméritos, de planta y eventuales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7°, DS 4688",
+      "explicacion": "El Art. 7° reconoce tres clases de maestros: normalistas, titulares e interinos."
+    },
+    {
+      "question": "Según el Artículo 8° del D.S. N° 04688, ¿quiénes son considerados 'maestros normalistas'?",
+      "options": [
+        "Los que siguen el curso regular de formación pedagógica en las escuelas o institutos normales del Estado y obtienen certificado profesional",
+        "Los maestros que han dictado clases durante 20 años en colegios urbanos sin título",
+        "Los profesionales universitarios de otras carreras que realizan un taller de 3 meses",
+        "Los egresados de bachillerato que obtienen el mejor promedio en el distrito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8°, DS 4688",
+      "explicacion": "El Art. 8° define a los maestros normalistas como aquellos que siguen el curso regular pedagógico en normales del Estado y obtienen el certificado profesional correspondiente."
+    },
+    {
+      "question": "Según el Artículo 9° del D.S. N° 04688, ¿qué grado mínimo de instrucción se requiere para la admisión de maestros interinos en el ciclo primario?",
+      "options": [
+        "Diploma de Bachiller",
+        "Título universitario de Licenciatura",
+        "Certificado de egreso de primaria únicamente",
+        "Título de Técnico Superior en Administración"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9° inc. a, DS 4688",
+      "explicacion": "El Art. 9° inc. a) exige indispensablemente el Diploma de Bachiller para enseñar en el ciclo primario como maestro interino."
+    },
+    {
+      "question": "Conforme al Artículo 9° inc. b) del D.S. N° 04688, ¿qué grado mínimo de instrucción se exige a un maestro interino para enseñar en el ciclo secundario o superior?",
+      "options": [
+        "Título universitario",
+        "Diploma de Bachiller únicamente",
+        "Certificado de libreta militar",
+        "Aprobación de 5 cursos de capacitación corta"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9° inc. b, DS 4688",
+      "explicacion": "El Art. 9° inc. b) exige Título universitario para enseñar en el ciclo secundario o superior como interino."
+    },
+    {
+      "question": "Según el Artículo 10° del D.S. N° 04688, ¿quiénes son definidos como 'maestros titulares'?",
+      "options": [
+        "Los maestros interinos que después de 10 años de servicios docentes aprueban un examen de capacidad para obtener por R.S. su incorporación definitiva",
+        "Los maestros egresados con promedio sobresaliente de las escuelas normales",
+        "Los profesionales que tienen maestrías internacionales en educación",
+        "Los directores nombrados mediante designación directa del Ministro de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10°, DS 4688",
+      "explicacion": "El Art. 10° define como titulares a los interinos que tras 10 años de servicio aprueban examen de capacidad para obtener por Resolución Suprema el título de incorporación definitiva."
+    },
+    {
+      "question": "Según el Artículo 11° del D.S. N° 04688, ¿cuál de las siguientes es una causal explícita que IMPIDE la admisión en el ejercicio de la docencia?",
+      "options": [
+        "Tener más de 60 años de edad",
+        "No haber ejercido cargos directivos políticos previos",
+        "Ser egresado de una universidad pública de provincia",
+        "Tener menos de 25 años de edad al momento de inscribirse"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11° inc. b, DS 4688",
+      "explicacion": "El Art. 11° inc. b) establece que no podrán ser admitidos los mayores de 60 años de edad, entre otras causas (enfermedad grave, vida inmoral, sentencia penal)."
+    },
+    {
+      "question": "Según el Artículo 12° del D.S. N° 04688, ¿cuál es la obligación de los maestros y funcionarios administrativos para gozar de garantías, derechos y recompensas?",
+      "options": [
+        "Inscribirse en el Escalafón Nacional del Servicio de Educación",
+        "Pagar una cuota mensual al ministerio de economía",
+        "Pertenecer obligatoriamente a un partido político gobernante",
+        "Publicar dos textos escolares por año"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12°, DS 4688",
+      "explicacion": "El Art. 12° impone la obligación de inscribirse en el Escalafón como requisito indispensable para el goce de garantías, derechos y recompensas."
+    },
+    {
+      "question": "Conforme al Artículo 13° del D.S. N° 04688, ¿en qué momento deben los maestros normalistas solicitar su inscripción en el Escalafón?",
+      "options": [
+        "Desde que se inician en el ejercicio docente",
+        "Únicamente después de cumplir 10 años de servicio contorio",
+        "Al momento de cumplir los 50 años de edad",
+        "Cuando obtengan el grado de Doctor en Pedagogía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13°, DS 4688",
+      "explicacion": "El Art. 13° dispone que los maestros normalistas deben solicitar su inscripción desde que se inician en el ejercicio docente."
+    },
+    {
+      "question": "Según el Artículo 14° del D.S. N° 04688, ¿después de cuántos años de servicio tienen opción a inscripción en el Escalafón los maestros interinos?",
+      "options": [
+        "Después de cumplir cinco (5) años de servicio y aprobar examen de idoneidad",
+        "Al finalizar el primer año de trabajo ininterrumpido",
+        "A los diez (10) años sin necesidad de examen alguno",
+        "Inmediatamente al ser contratados por emergencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14°, DS 4688",
+      "explicacion": "El Art. 14° establece que los maestros interinos tendrán opción a inscripción tras cumplir 5 años de servicio y aprobar examen de idoneidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 15° del D.S. N° 04688, si un maestro titular en examen de capacidad sufre una SEGUNDA REPROBACIÓN, ¿cuál es la sanción?",
+      "options": [
+        "Quedará privado de las garantías que el Reglamento reconoce en favor del magisterio",
+        "Será transferido automáticamente a un cargo administrativo de rango superior",
+        "Se le otorgará una beca obligatoria al exterior con goce de haber",
+        "Deberá pagar una multa equivalente a 6 meses de haber básico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15°, DS 4688",
+      "explicacion": "El Art. 15° indica que ante una segunda reprobación en el examen de capacidad, los titulares quedarán privados de las garantías que el Reglamento reconoce."
+    },
+    {
+      "question": "Conforme al Artículo 16° del D.S. N° 04688, ¿después de cuántos años de servicios tienen opción a inscribirse en el Escalafón los funcionarios administrativos?",
+      "options": [
+        "Después de cumplir cinco (5) años de servicios y aprobar el examen de idoneidad",
+        "A los dos (2) años de trabajo continuo",
+        "A los diez (10) años de servicio sin examen",
+        "Al primer mes de ser posesionados en el cargo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16°, DS 4688",
+      "explicacion": "El Art. 16° otorga la opción de inscripción a los funcionarios administrativos tras 5 años de servicios y examen de idoneidad aprobado."
+    },
+    {
+      "question": "Según el Artículo 17° del D.S. N° 04688, si un funcionario administrativo con más de 10 años de servicios pasa a prestar funciones docentes, ¿qué debe hacer para mantener su categoría?",
+      "options": [
+        "Someterse a los exámenes para interinos y titulares",
+        "Presentar una solicitud escrita al Ministerio de Trabajo",
+        "Pagar el costo del título pedagógico de origen",
+        "Conservar automáticamente la categoría sin realizar ningún trámite"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17°, DS 4688",
+      "explicacion": "El Art. 17° establece que el administrativo con más de 10 años que pase a la docencia debe someterse a los exámenes para interinos y titulares para mantener categoría."
+    },
+    {
+      "question": "Según el Artículo 18° del D.S. N° 04688, la carrera docente y administrativa se desarrolla en dos proyecciones complementarias:",
+      "options": [
+        "Los ascensos de jerarquía (por necesidades y méritos) y las promociones de categoría (por antigüedad)",
+        "Los traslados de provincia y la jubilación de oficio",
+        "Los bonos de frontera y los subsidios de maternidad",
+        "Las permutas internacionales y las comisiones de estudio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18°, DS 4688",
+      "explicacion": "El Art. 18° señala las dos proyecciones: ascensos de jerarquía en función de necesidades/méritos y promociones de categoría por antigüedad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 19° del D.S. N° 04688, ¿cuántas promociones de categoría comprende la escala para recompensar el tiempo de servicio?",
+      "options": [
+        "Cinco (5) promociones de categoría",
+        "Tres (3) promociones de categoría",
+        "Diez (10) promociones de categoría",
+        "Siete (7) promociones de categoría"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19°, DS 4688",
+      "explicacion": "El Art. 19° establece una escala de cinco promociones de categoría para recompensar el tiempo de servicio."
+    },
+    {
+      "question": "En la escala jerárquica docente establecida en el Artículo 20° del D.S. N° 04688, ¿cuál es el máximo rango jerárquico?",
+      "options": [
+        "Director General de Educación",
+        "Jefe de Distrito Escolar",
+        "Director de Normal Urbana",
+        "Inspector de Zona"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20° inc. a, DS 4688",
+      "explicacion": "El Art. 20° inc. a) sitúa al Director General de Educación en la cúspide de la escala jerárquica docente."
+    },
+    {
+      "question": "Según el Artículo 21° del D.S. N° 04688, ¿cuál es el rango máximo en la escala jerárquica del sector administrativo del ramo de educación?",
+      "options": [
+        "Oficial Mayor del Ministerio de Educación",
+        "Jefe de Departamento del Ministerio",
+        "Director de Biblioteca Nacional",
+        "Secretario General de la Jefatura"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21° inc. a, DS 4688",
+      "explicacion": "El Art. 21° inc. a) coloca al Oficial Mayor del Ministerio de Educación en el primer rango de la escala administrativa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 22° del D.S. N° 04688, ¿cómo se determinan los ascensos a las direcciones de establecimientos educativos?",
+      "options": [
+        "Por concurso de méritos y examen de competencia",
+        "Por designación directa del Sindicato de Maestros",
+        "Por sorteo público entre los docentes de mayor edad",
+        "Por antigüedad exclusiva sin evaluación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22°, DS 4688",
+      "explicacion": "El Art. 22° determina que los ascensos a las direcciones se definen por concurso de méritos y examen de competencia (Art. 228 Código Educación)."
+    },
+    {
+      "question": "Según el Artículo 24° del D.S. N° 04688, la valoración cuantitativa de los méritos del maestro se refiere a cinco aspectos, cada uno con un puntaje máximo de 100 puntos, EXCEPTO:",
+      "options": [
+        "Aportes voluntarios a partidos políticos",
+        "Estudios y títulos profesionales",
+        "Condiciones personales y docentes",
+        "Tiempo de servicios y Méritos generales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24°, DS 4688",
+      "explicacion": "El Art. 24° establece 5 áreas: a) Estudios y títulos (hasta 100 pts), b) Condiciones personales (hasta 100 pts), c) Tiempo de servicios (hasta 100 pts), d) Méritos generales (hasta 100 pts), y e) Deméritos."
+    },
+    {
+      "question": "Conforme al Artículo 25° inc. a) del D.S. N° 04688, ¿cuántos puntos se asignan en la calificación por la inscripción en el Escalafón?",
+      "options": [
+        "5 puntos",
+        "10 puntos",
+        "20 puntos",
+        "1 punto"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25° inc. a, DS 4688",
+      "explicacion": "El Art. 25° inc. a) assigna 5 puntos por la inscripción en el escalafón."
+    },
+    {
+      "question": "Según el Artículo 25° inc. m) del D.S. N° 04688, ¿cuántos puntos se asignan en la calificación de títulos al grado de 'Doctor en Pedagogía'?",
+      "options": [
+        "20 puntos",
+        "5 puntos",
+        "10 puntos",
+        "50 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25° inc. m, DS 4688",
+      "explicacion": "El Art. 25° inc. m) otorga 20 puntos por el título de Doctor en Pedagogía."
+    },
+    {
+      "question": "De acuerdo con el Artículo 26° inc. i) del D.S. N° 04688, la alfabetización voluntaria y no remunerada de cada 10 sujetos se califica con:",
+      "options": [
+        "5 puntos, hasta un máximo de 20 puntos",
+        "10 puntos sin límite de puntaje",
+        "1 punto por persona alfabetizada",
+        "50 puntos de asignación directa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26° inc. i, DS 4688",
+      "explicacion": "El Art. 26° inc. i) asigna 5 puntos por cada 10 sujetos alfabetizados voluntariamente, hasta un tope de 20 puntos."
+    },
+    {
+      "question": "Conforme al Artículo 27° del D.S. N° 04688, ¿cómo se califica el tiempo de servicios en la ficha de calificación de méritos?",
+      "options": [
+        "Con la asignación de 1 punto por cada trimestre de trabajo",
+        "Con 5 puntos por cada año lectivo cumplido",
+        "Con 10 puntos por quinquenio administrativo",
+        "Con 0.5 puntos por cada mes calendario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27°, DS 4688",
+      "explicacion": "El Art. 27° indica que el tiempo de servicios se califica asignando 1 punto por cada trimestre de trabajo."
+    },
+    {
+      "question": "Según el Artículo 28° del D.S. N° 04688, el tiempo de permanencia en la zona de operaciones de la Guerra del Chaco se computa para la jubilación con:",
+      "options": [
+        "Doble tiempo de servicios en el ramo de la educación",
+        "Triple tiempo de servicios únicamente para categoría",
+        "Cinco años fijos de bonificación directa",
+        "El mismo tiempo simple sin recargo alguno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28°, DS 4688",
+      "explicacion": "El Art. 28° establece que el tiempo en la zona de operaciones del Chaco se computa con doble tiempo de servicios para efectos de jubilación."
+    },
+    {
+      "question": "Según el Artículo 29° del D.S. N° 04688, los maestros normalistas (no oriundos del lugar) que presten 2 años de servicio en zonas declaradas FRONTERIZAS tienen derecho a un cómputo de:",
+      "options": [
+        "4 años de antigüedad para jubilación, méritos y categoría",
+        "6 años de antigüedad únicamente para el haber básico",
+        "3 años de antigüedad sin valor para jubilación",
+        "10 años de bonificación de antigüedad fijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29°, DS 4688",
+      "explicacion": "El Art. 29° otorga a normalistas no oriundos con 2 años en fronteras el cómputo de 4 años de antigüedad para jubilación, méritos y categoría."
+    },
+    {
+      "question": "De acuerdo con el Artículo 30° del D.S. N° 04688, los maestros TITULARES O INTERINOS no oriundos que presten 4 años de servicio en zonas fronterizas tendrán derecho a un cómputo de:",
+      "options": [
+        "6 años de antigüedad para jubilación, méritos y categoría",
+        "8 años de antigüedad exclusivos para categoría",
+        "5 años de antigüedad sin efecto para jubilación",
+        "10 años de antigüedad de bonificación general"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30°, DS 4688",
+      "explicacion": "El Art. 30° otorga a titulares/interinos no oriundos con 4 años en fronteras un cómputo de 6 años de antigüedad."
+    },
+    {
+      "question": "Conforme al Artículo 31° del D.S. N° 04688, ¿qué disposición rige sobre los años de servicios prestados a PAÍSES EXTRANJEROS?",
+      "options": [
+        "No se computan para fines de jubilación ni de calificación de servicios",
+        "Se computan al 50% de su valor con autorización consular",
+        "Se computan como doble tiempo si es país limítrofe",
+        "Se valora previo pago de un canon al Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31°, DS 4688",
+      "explicacion": "El Art. 31° establece expresamente que los servicios prestados en países extranjeros no se computan ni para jubilación ni para calificación de servicios."
+    },
+    {
+      "question": "Según el Artículo 33° Numeral 1 del D.S. N° 04688, en el área de deméritos, el 'abandono de funciones' se sanciona en la ficha con un descuento de:",
+      "options": [
+        "1 a 20 puntos",
+        "1 a 5 puntos",
+        "50 puntos fijos",
+        "Cancelación definitiva del Escalafón"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33° Num. 1, DS 4688",
+      "explicacion": "El Art. 33° Num. 1 fija de 1 a 20 puntos de descuento por abandono de funciones."
+    },
+    {
+      "question": "Según el Artículo 33° Numeral 4 del D.S. N° 04688, el uso de castigos corporales y vejaciones graves contra los alumnos se califica como demérito con un descuento de:",
+      "options": [
+        "1 a 20 puntos",
+        "1 a 5 puntos",
+        "100 puntos automáticos",
+        "30 puntos de sanción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33° Num. 4, DS 4688",
+      "explicacion": "El Art. 33° Num. 4 tipifica los castigos corporales y vejaciones graves con un descuento de 1 a 20 puntos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 35° del D.S. N° 04688, ¿en cuántos ejemplares anota la autoridad superior la ficha de calificación de méritos de cada maestro?",
+      "options": [
+        "En tres (3) ejemplares (2 para la Comisión Distrital —uno entregado al interesado— y 1 para el Depto. de Personal)",
+        "En un solo ejemplar original para el sindicato",
+        "En cinco ejemplares para distribución municipal",
+        "En dos ejemplares exclusivamente de uso confidencial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35°, DS 4688",
+      "explicacion": "El Art. 35° señala que la ficha se anota en 3 ejemplares: 2 para la Comisión Distrital (uno de los cuales se da al interesado) y 1 para el Depto. de Personal del Ministerio."
+    },
+    {
+      "question": "Según el Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación sobre el haber básico asigna la 5° CATEGORÍA?",
+      "options": [
+        "30%",
+        "45%",
+        "60%",
+        "15%"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, DS 4688",
+      "explicacion": "El Art. 37° asigna el 30% de bonificación sobre el haber básico para la 5° categoría."
+    },
+    {
+      "question": "Según el Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación sobre el haber básico corresponde a la 3° CATEGORÍA?",
+      "options": [
+        "60%",
+        "45%",
+        "75%",
+        "100%"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, DS 4688",
+      "explicacion": "El Art. 37° fija en 60% la bonificación para la 3° categoría."
+    },
+    {
+      "question": "Según el Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación sobre el haber básico asigna la 1° CATEGORÍA?",
+      "options": [
+        "100%",
+        "75%",
+        "150%",
+        "50%"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, DS 4688",
+      "explicacion": "El Art. 37° asigna el 100% de bonificación sobre el haber básico para la 1° categoría."
+    },
+    {
+      "question": "Conforme al Artículo 38° del D.S. N° 04688, ¿desde qué momento perciben la bonificación de 5° categoría los MAESTROS NORMALISTAS?",
+      "options": [
+        "Desde su iniciación en la carrera docente",
+        "A partir del quinto año de trabajo ininterrumpido",
+        "Luego de aprobar el examen de oposiciones distrital",
+        "Al cumplir 30 años de edad cumplidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38°, DS 4688",
+      "explicacion": "El Art. 38° dispone que los maestros normalistas perciben la 5° categoría desde su iniciación en la carrera."
+    },
+    {
+      "question": "Según el Artículo 38° del D.S. N° 04688, los maestros NORMALISTAS ascienden a las categorías sucesivas cumpliendo los términos periódicos de:",
+      "options": [
+        "5, 10, 15 y 20 años de servicio",
+        "4, 8, 12 y 16 años de servicio",
+        "2, 4, 6 y 8 años de servicio",
+        "6, 12, 18 y 24 años de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38°, DS 4688",
+      "explicacion": "El Art. 38° indica que los normalistas ascienden por antigüedad en quinquenios: a los 5, 10, 15 y 20 años de servicio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 39° del D.S. N° 04688, los maestros interinos, titulares y administrativos alcanzan la 1° CATEGORÍA (100% bonificación) por tiempo de servicio al cumplir:",
+      "options": [
+        "25 años de servicios cumplidos",
+        "20 años de servicios cumplidos",
+        "30 años de servicios cumplidos",
+        "15 años de servicios cumplidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39°, DS 4688",
+      "explicacion": "El Art. 39° señala que para interinos, titulares y administrativos, la 1° categoría se alcanza a los 25 años cumplidos de servicio."
+    },
+    {
+      "question": "Según el Artículo 40° inc. b) del D.S. N° 04688, mediante la opción a EXAMEN VOLUNTARIO, un maestro NORMALISTA puede ascender a la 1° CATEGORÍA al cumplir:",
+      "options": [
+        "16 años de servicio y examen aprobado",
+        "20 años de servicio sin examen",
+        "12 años de servicio y examen aprobado",
+        "10 años de servicio directo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40° inc. b, DS 4688",
+      "explicacion": "El Art. 40° inc. b) establece que los normalistas mediante examen voluntario pueden ascender a la 1° categoría a los 16 años de servicio."
+    },
+    {
+      "question": "Según el Artículo 40° inc. b) del D.S. N° 04688, ¿con cuántos años de servicio y examen aprobado abrevia su ascenso a la 4° CATEGORÍA un maestro normalista?",
+      "options": [
+        "Con 4 años y examen aprobado",
+        "Con 2 años y examen aprobado",
+        "Con 5 años sin examen",
+        "Con 3 años y tesis publicada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40° inc. b, DS 4688",
+      "explicacion": "El Art. 40° inc. b) permite al normalista ascender a la 4° categoría con 4 años y examen aprobado (en lugar de los 5 de regla)."
+    },
+    {
+      "question": "Conforme al Artículo 40° inc. a) del D.S. N° 04688, los maestros TITULARES E INTERINOS pueden abreviar su ascenso a la 1° CATEGORÍA con examen voluntario aprobado a los:",
+      "options": [
+        "22 años de servicio y examen aprobado",
+        "25 años de servicio sin examen",
+        "18 años de servicio y examen aprobado",
+        "15 años de servicio directo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40° inc. a, DS 4688",
+      "explicacion": "El Art. 40° inc. a) permite a interinos y titulares ascender a 1° categoría con 22 años y examen aprobado (en lugar de los 25 requeridos por antigüedad)."
+    },
+    {
+      "question": "Según el Artículo 41° del D.S. N° 04688, ¿cuál es la institución encargada de atender los exámenes voluntarios para la promoción de categoría?",
+      "options": [
+        "El Instituto de Investigaciones Pedagógicas",
+        "La Escuela Superior de Formación de Maestros de La Paz",
+        "La Confederación de Maestros Urbanos",
+        "La Universidad Mayor de San Andrés"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41°, DS 4688",
+      "explicacion": "El Art. 41° determina que los exámenes voluntarios de categoría son atendidos por el Instituto de Investigaciones Pedagógicas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 42° del D.S. N° 04688, ¿qué sucede si un postulante NO aprueba el examen voluntario de promoción de categoría?",
+      "options": [
+        "Tiene opción a ser promovido por el cómputo ordinario de antigüedad en el servicio",
+        "Queda suspendido del magisterio fiscal por un año",
+        "Desciende automáticamente a la categoría inmediata inferior",
+        "Pierde el derecho a presentarse a exámenes por 5 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42°, DS 4688",
+      "explicacion": "El Art. 42° aclara que los postulantes no aprobados mantienen su opción a ser promovidos por el cómputo de antigüedad."
+    },
+    {
+      "question": "Según el Artículo 43° del D.S. N° 04688, los maestros interinos que después de 6 años de servicios NO rindieron la prueba de idoneidad por su negligencia:",
+      "options": [
+        "Quedarán inhabilitados para el ejercicio de la docencia",
+        "Serán transferidos a escuelas nocturnas sin goce de bonificación",
+        "Deberán pagar una multa al Instituto de Investigaciones",
+        "Descenderán a la categoría administrativa básica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 43°, DS 4688",
+      "explicacion": "El Art. 43° sanciona a interinos que tras 6 años no rindieron idoneidad por negligencia con la inhabilitación para ejercer la docencia."
+    },
+    {
+      "question": "Conforme al Artículo 44° del D.S. N° 04688, los maestros interinos que teniendo 11 años de servicio NO hubieran sido declarados titulares por su negligencia:",
+      "options": [
+        "Quedarán inhabilitados para ejercer el magisterio",
+        "Recibirán un llamado de atención por escrito del sindicato",
+        "Continuarán como interinos perpetuos sin derecho a jubilación",
+        "Serán sancionados con el descuento del 50% de su sueldo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 44°, DS 4688",
+      "explicacion": "El Art. 44° establece la inhabilitación para ejercer el magisterio a interinos inscritos que a los 11 años no se declararon titulares por negligencia."
+    },
+    {
+      "question": "Según el Artículo 46° del D.S. N° 04688, la calificación de los servicios docentes se efectúa por dos instancias:",
+      "options": [
+        "Las Comisiones Calificadoras Distritales y la Comisión Nacional del Escalafón (como Tribunal de Apelación)",
+        "Los Directores de Unidades Educativas y las Alcaldías Municipales",
+        "El Ministerio de Trabajo y la Contraloría General",
+        "Los Sindicatos de Maestros y las Juntas Escolares de Padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46°, DS 4688",
+      "explicacion": "El Art. 46° señala que la calificación se realiza por Comisiones Distritales y por la Comisión Nacional del Escalafón (Tribunal de Apelación)."
+    },
+    {
+      "question": "Conforme al Artículo 47° del D.S. N° 04688, ¿quién preside la Comisión Calificadora Distrital?",
+      "options": [
+        "El Jefe de Distrito Escolar o de Zona",
+        "El Inspector del Ciclo",
+        "El Representante Sindical acreditado",
+        "El Alcalde Municipal del Distrito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47° inc. a, DS 4688",
+      "explicacion": "El Art. 47° inc. a) establece que el Jefe de Distrito Escolar o de Zona es el Presidente de la Comisión Distrital."
+    },
+    {
+      "question": "Según el Artículo 50° del D.S. N° 04688, el maestro disconforme con la valoración de sus méritos puede apelar ante la Comisión Nacional dentro del término de:",
+      "options": [
+        "10 días a partir de su notificación respectiva",
+        "3 días hábiles administrativos",
+        "30 días calendario",
+        "24 horas de publicada la lista"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50°, DS 4688",
+      "explicacion": "El Art. 50° otorga el plazo de 10 días desde la notificación para apelar ante la Comisión Nacional de Escalafón."
+    },
+    {
+      "question": "Conforme al Artículo 51° del D.S. N° 04688, presentada la apelación, ¿en qué plazo debe resolverla la Comisión Distrital para elevar antecedentes?",
+      "options": [
+        "En el término de 3 días",
+        "En el término de 15 días",
+        "En el término de 24 horas",
+        "En el plazo de 1 mes lectivo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 51°, DS 4688",
+      "explicacion": "El Art. 51° determina que la Comisión Distrital debe resolver y tramitar la apelaciones en el término de 3 días."
+    },
+    {
+      "question": "Según el Artículo 54° inc. a) del D.S. N° 04688, ¿cuáles son las condiciones mínimas indispensables para tener opción al cargo de DIRECTOR DE ESCUELA?",
+      "options": [
+        "Título de formación pedagógica en el ciclo, capacidad directiva, no menos de 5 años de servicio ni menos de 100 puntos de méritos",
+        "Título de bachiller, 2 años de servicio y 50 puntos de méritos",
+        "Ser egresado de derecho con 10 años de ejercicio público",
+        "15 años de servicio ininterrumpido sin evaluación de puntaje"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54° inc. a, DS 4688",
+      "explicacion": "El Art. 54° inc. a) exige formación pedagógica en el ciclo, capacidad directiva, mínimo 5 años de servicio y 100 puntos de méritos."
+    },
+    {
+      "question": "Según el Artículo 54° inc. b) del D.S. N° 04688, para ser INSPECTOR DE DISTRITO o cargo equivalente se requiere haber sido director y contar con no menos de:",
+      "options": [
+        "8 años de servicio y no menos de 120 puntos de méritos",
+        "5 años de servicio y 100 puntos de méritos",
+        "12 años de servicio y 150 puntos de méritos",
+        "20 años de servicio y 200 puntos de méritos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54° inc. b, DS 4688",
+      "explicacion": "El Art. 54° inc. b) exige formación pedagógica, haber sido director, mínimo 8 años de servicio y 120 puntos de méritos."
+    },
+    {
+      "question": "Conforme al Artículo 54° inc. c) del D.S. N° 04688, para optar al cargo de JEFE DE DISTRITO ESCOLAR se exige haber ejercido de director y tener no menos de:",
+      "options": [
+        "8 años de servicio y no menos de 150 puntos de méritos",
+        "10 años de servicio y 100 puntos de méritos",
+        "15 años de servicio y 200 puntos de méritos",
+        "5 años de servicio y 120 puntos de méritos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54° inc. c, DS 4688",
+      "explicacion": "El Art. 54° inc. c) requiere formación pedagógica, haber sido director, mínimo 8 años de servicio y 150 puntos de méritos."
+    },
+    {
+      "question": "Según el Artículo 54° inc. d) del D.S. N° 04688, para ser DIRECTOR GENERAL DE EDUCACIÓN, Director Nacional o Director de Normales se requiere haber desempeñado cargos jerárquicos y tener no menos de:",
+      "options": [
+        "15 años de servicio y no menos de 200 puntos de méritos",
+        "10 años de servicio y 150 puntos de méritos",
+        "20 años de servicio y 300 puntos de méritos",
+        "25 años de servicio sin límite de puntaje"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54° inc. d, DS 4688",
+      "explicacion": "El Art. 54° inc. d) exige formación pedagógica superior, haber ejercido cargos jerárquicos, no menos de 15 años de servicio y 200 puntos de méritos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 56° del D.S. N° 04688, en caso de PARIDAD entre varios postulantes en un concurso de méritos para provisión de cargos docentes, la designación se define por:",
+      "options": [
+        "Examen de competencia",
+        "Sorteo directo en presencia de notario",
+        "Antigüedad de nacimiento de los postulantes",
+        "Decisión unilateral del representante sindical"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 56° inc. d, DS 4688",
+      "explicacion": "El Art. 56° inc. d) indica que ante paridad en el concurso de méritos, el desempate se define por examen de competencia."
+    },
+    {
+      "question": "Según el Artículo 57° del D.S. N° 04688, ¿quién preside el Tribunal que califica los concursos de méritos y exámenes de competencia?",
+      "options": [
+        "Un delegado de la Dirección General de Educación",
+        "El Jefe de Distrito Escolar",
+        "El Inspector del Ciclo",
+        "El Ejecutivo de la Federación Sindical"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 57° inc. a, DS 4688",
+      "explicacion": "El Art. 57° inc. a) establece que el Tribunal es presidido por un delegado de la Dirección General de Educación."
+    },
+    {
+      "question": "Según el Artículo 59° del D.S. N° 04688, la 'acumulación' en la carrera docente consiste en:",
+      "options": [
+        "El desempeño de un cargo principal y de otro cargo docente (completo u horas excedentes)",
+        "La suma de los años de servicio prestados en dos ministerios distintos",
+        "El cobro simultáneo de subsidios de frontera e incentivos de jubilación",
+        "La reserva de horas libres para dictar docencia universitaria privada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 59°, DS 4688",
+      "explicacion": "El Art. 59° define la acumulación como el desempeño de un cargo principal y de otro cargo docente, sea completo o en horas excedentes."
+    },
+    {
+      "question": "Conforme al Artículo 60° del D.S. N° 04688, ¿cuándo ÚNICAMENTE pueden ser concedidas las acumulaciones de cargos?",
+      "options": [
+        "Cuando no haya maestros normalistas o titulares sin colocación dentro del mismo ciclo o especialidad",
+        "Siempre que el docente sea afiliado al sindicato de mayor antigüedad",
+        "Cualquier momento que lo autorice el Director del colegio",
+        "Únicamente en las ciudades capitales de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60°, DS 4688",
+      "explicacion": "El Art. 60° limita la acumulación condicionándola a que no existan maestros normalistas o titulares desempleados en el ciclo o especialidad."
+    },
+    {
+      "question": "Según el Artículo 61° del D.S. N° 04688, en el ciclo secundario, ¿cuántas horas semanales como máximo puede acumular un profesor en PRIMERA CATEGORÍA?",
+      "options": [
+        "Cargo principal y hasta 10 horas semanales",
+        "Cargo principal y hasta 8 horas semanales",
+        "Cargo principal y hasta 12 horas semanales",
+        "Cargo principal y hasta 20 horas semanales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61° inc. a, DS 4688",
+      "explicacion": "El Art. 61° inc. a) permite a docentes de 1ra categoría acumular cargo principal y hasta 10 horas semanales."
+    },
+    {
+      "question": "Según el Artículo 61° del D.S. N° 04688, un profesor de Secundaria en TERCERA CATEGORÍA tiene opción a acumular:",
+      "options": [
+        "Cargo principal y hasta 6 horas semanales",
+        "Cargo principal y hasta 4 horas semanales",
+        "Cargo principal y hasta 8 horas semanales",
+        "Cargo principal y hasta 10 horas semanales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61° inc. c, DS 4688",
+      "explicacion": "El Art. 61° inc. c) autoriza en 3ra categoría acumular cargo principal y hasta 6 horas semanales."
+    },
+    {
+      "question": "Conforme al Artículo 61° del D.S. N° 04688, en la CUARTA CATEGORÍA, la opción de acumulación en secundaria es de:",
+      "options": [
+        "Cargo principal y hasta 4 horas semanales",
+        "Cargo principal y hasta 6 horas semanales",
+        "Cargo principal y hasta 2 horas semanales",
+        "Sin opción de acumulación de horas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61° inc. d, DS 4688",
+      "explicacion": "El Art. 61° inc. d) permite en 4ta categoría acumular cargo principal y hasta 4 horas semanales."
+    },
+    {
+      "question": "Según el Artículo 64° del D.S. N° 04688, para evitar la dispersión laboral en el ciclo medio, ¿cuál es la prohibición sobre una misma asignatura en un mismo curso?",
+      "options": [
+        "En ningún caso un mismo curso en una misma asignatura podrá ser atendido por más de un profesor",
+        "Una asignatura puede compartirse entre tres profesores en paralelo",
+        "El director debe dictar obligatoriamente la mitad de las horas de la materia",
+        "Se permite la rotación mensual de docentes sin límite"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 64°, DS 4688",
+      "explicacion": "El Art. 64° establece que en ningún caso un mismo curso en una misma asignatura podrá ser atendido por más de un profesor."
+    },
+    {
+      "question": "De acuerdo con el Artículo 65° del D.S. N° 04688, los maestros de educación pre-escolar y primaria pueden acumular un cargo docente únicamente desde:",
+      "options": [
+        "Desde la tercera categoría y en escuelas nocturnas o centros de alfabetización",
+        "Desde la quinta categoría en escuelas diurnas privadas",
+        "Desde la primera categoría en cualquier colegio secundario",
+        "No tienen permitido acumular cargos bajo ninguna circunstancia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 65°, DS 4688",
+      "explicacion": "El Art. 65° exige estar desde 3ra categoría para acumular en pre-escolar y primaria, y solo en nocturnas o alfabetización."
+    },
+    {
+      "question": "Según el Artículo 67° del D.S. N° 04688, los maestros que desempeñen un solo cargo fiscal y no tengan acumulación pueden atender actividades compatibles en entidades privadas o autárquicas, PERO:",
+      "options": [
+        "No pudiendo ser funcionarios de la administración pública o municipal",
+        "Sin poder percibir honorarios superiores al salario mínimo",
+        "Requiriendo autorización firmada del Presidente de la República",
+        "Con la prohibición de residir en la misma ciudad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 67°, DS 4688",
+      "explicacion": "El Art. 67° permite trabajar en autárquicas o privadas pero prohíbe expresamente ser funcionario de la administración pública o municipal."
+    },
+    {
+      "question": "Según el Artículo 69° del D.S. N° 04688, ¿cuántas horas como máximo puede acumular un Director de Colegio Secundario?",
+      "options": [
+        "Hasta 10 horas semanales dentro del propio establecimiento",
+        "Hasta 20 horas en colegios de otros distritos",
+        "No tiene permitido acumular ninguna hora",
+        "Hasta un cargo completo en el turno nocturno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 69°, DS 4688",
+      "explicacion": "El Art. 69° autoriza a directores de secundaria a acumular hasta 10 horas semanales únicamente dentro de su propio establecimiento."
+    },
+    {
+      "question": "Conforme al Artículo 70° del D.S. N° 04688, NO se concederá acumulación en el servicio fiscal a los maestros que:",
+      "options": [
+        "No fueren jefes de familia o tengan rentas inmuebles/comerciales u otra profesión",
+        "Tengan más de 15 años de servicio en el magisterio",
+        "Hayan egresado de normales urbanas de capitales",
+        "Posean títulos de especialización de postgrado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70°, DS 4688",
+      "explicacion": "El Art. 70° niega acumulación a quienes no sean jefes de familia o dispongan de rentas inmuebles, utilidades o ejercen otra profesión."
+    },
+    {
+      "question": "Según el Artículo 71° del D.S. N° 04688, para los efectos del Reglamento, se considera 'jefe de familia' a:",
+      "options": [
+        "Quien tenga por lo menos un hijo menor a su cargo",
+        "Cualquier docente casado sin importar la edad de los hijos",
+        "El maestro que sostenga económicamente a sus padres ancianos únicamente",
+        "Todo profesor que tenga casa propia inscrita en derechos reales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71°, DS 4688",
+      "explicacion": "El Art. 71° define como jefe de familia a quien tenga por lo menos un hijo menor a su cargo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 72° del D.S. N° 04688, en las PROVINCIAS Y DISTRITOS ALEJADOS donde falte personal, los profesores de secundaria, primaria y ramas técnicas pueden acumular:",
+      "options": [
+        "Hasta dos cargos completos (siempre que exista compatibilidad de horario)",
+        "Hasta tres cargos completos sin importar el horario",
+        "Únicamente hasta 15 horas semanales adicionales",
+        "Sin excepción sólo un cargo y cuatro horas adicionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 72°, DS 4688",
+      "explicacion": "El Art. 72° permite en provincias y distritos alejados acumular hasta dos cargos completos por falta de personal idóneo."
+    },
+    {
+      "question": "Según el Artículo 73° del D.S. N° 04688 y el Art. 243 del Código de Educación, los maestros inscritos en el Escalafón gozan de:",
+      "options": [
+        "Inamovilidad en la función docente",
+        "Jubilación automática a los 10 años de trabajo",
+        "Inmunidad diplomática en materia tributaria",
+        "Libre disponibilidad de traslado sin justificativo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 73°, DS 4688",
+      "explicacion": "El Art. 73° reconoce la inamovilidad en la función docente para los maestros inscritos en el Escalafón."
+    },
+    {
+      "question": "Conforme al Artículo 73° del D.S. N° 04688, un maestro en el Escalafón sólo puede ser destituido o suspendido por:",
+      "options": [
+        "Comisión de actos inmorales, indisciplinarios o delictuosos, previa sentencia después de proceso con derecho a defensa",
+        "Decisión verbal e inmediata del Director de la escuela",
+        "Falta de pago de cuotas sindicales durante dos meses",
+        "Solicitud formal presentada por la junta de padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 73°, DS 4688",
+      "explicacion": "El Art. 73° exige la comisión de actos inmorales, indisciplinarios o delictivos, y sentencia tras debido proceso con legítima defensa."
+    },
+    {
+      "question": "Según el Artículo 74° del D.S. N° 04688, el maestro inscrito en el Escalafón que quede CESANTE SIN CULPABILIDAD de su parte tiene derecho a percibir:",
+      "options": [
+        "El 100% del haber del cargo que desempeñaba hasta su restitución (en un máximo de 90 días)",
+        "El 50% de su salario por un lapso de un año",
+        "Una indemnización única equivalente a un sueldo básico",
+        "Sin derecho a goce de haber hasta ser recontratado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 74°, DS 4688",
+      "explicacion": "El Art. 74° garantiza el 100% del haber al cesante sin culpa hasta que se lo restituya en rango similar, en un plazo máximo de 90 días."
+    },
+    {
+      "question": "De acuerdo con el Artículo 75° inc. a) del D.S. N° 04688, ¿a qué edad se dispone el RETIRO OBLIGATORIO del servicio activo por causas no culpables para acogerse a la jubilación?",
+      "options": [
+        "A los 60 años de edad",
+        "A los 50 años de edad",
+        "A los 65 años de edad",
+        "A los 55 años de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 75° inc. a, DS 4688",
+      "explicacion": "El Art. 75° inc. a) establece el retiro por jubilación obligatoria al cumplir los 60 años de edad (salvo excepciones)."
+    },
+    {
+      "question": "Según el Artículo 75° inc. b) del D.S. N° 04688, ¿cuál de las siguientes es una causa CULPABLE para el retiro del servicio activo?",
+      "options": [
+        "Condena a pena corporal por delitos comunes o retiro por sentencia en proceso",
+        "Haber cumplido 25 años de servicio en educación fiscal",
+        "Haber alcanzado la 1° categoría docente",
+        "Solicitar voluntariamente la jubilación según ley"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 75° inc. b, DS 4688",
+      "explicacion": "El Art. 75° inc. b) tipifica como causas culpables de retiro las condenas a pena corporal por delitos comunes o sentencias en proceso disciplinario."
+    },
+    {
+      "question": "Conforme al Artículo 76° del D.S. N° 04688, ¿mediante qué certificado se acredita el tiempo de servicios en la educación fiscal?",
+      "options": [
+        "Certificados expedidos por la Contraloría u otras oficinas pagadoras",
+        "Declaración jurada notariada con dos testigos",
+        "Certificado de trabajo firmado por el Sindicato",
+        "Carnet de afiliación al seguro social universitario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 76°, DS 4688",
+      "explicacion": "El Art. 76° dispone que el tiempo de servicios fiscales se acredita con certificados de la Contraloría u oficinas pagadoras."
+    },
+    {
+      "question": "Según el Artículo 77° del D.S. N° 04688, en las escuelas particulares de hacienda o rurales, los comprobantes de servicios son expedidos por:",
+      "options": [
+        "Los Inspectores Escolares de Distrito o de Zona",
+        "El propietario o corregidor de la hacienda",
+        "La junta vecinal del cantón más cercano",
+        "El Director General de Trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 77° inc. b, DS 4688",
+      "explicacion": "El Art. 77° inc. b) indica que en escuelas rurales particulares o de hacienda certifican los Inspectores de Distrito o Zona."
+    },
+    {
+      "question": "De acuerdo con el Artículo 78° del D.S. N° 04688, ¿cuál es el carácter legal de las asignaciones por CATEGORÍA percibidas por los docentes?",
+      "options": [
+        "Son parte integrante del haber y se toman en cuenta para jubilación, aguinaldo y beneficios sociales",
+        "Son bonos eventuales exentos de aportes a la seguridad social",
+        "Son pagos a fondo perdido sin valor para el cálculo del aguinaldo",
+        "Constituyen viáticos sujetables a rindiendo de cuentas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 78°, DS 4688",
+      "explicacion": "El Art. 78° establece que las asignaciones por categoría forman parte del haber y se computan para jubilación, aguinaldo y beneficios sociales."
+    },
+    {
+      "question": "Conforme al Artículo 79° del D.S. N° 04688, los servicios prestados por maestros normalistas en CARGOS ADMINISTRATIVOS del ramo de educación:",
+      "options": [
+        "Serán válidos en el cómputo de su antigüedad para categorización y jubilación",
+        "No tienen ningún valor para la carrera docente",
+        "Se computan sólo al 25% del tiempo servido",
+        "Descuentan puntos de méritos en la ficha profesional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 79°, DS 4688",
+      "explicacion": "El Art. 79° valida los servicios de normalistas en cargos administrativos para antigüedad, categorización y jubilación."
+    },
+    {
+      "question": "Según el Artículo 80° del D.S. N° 04688, los maestros egresados de Escuelas Normales Rurales están obligados a prestar servicios en escuelas campesinas por lo menos durante:",
+      "options": [
+        "Cinco (5) años",
+        "Dos (2) años",
+        "Diez (10) años",
+        "Un (1) año lectivo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 80°, DS 4688",
+      "explicacion": "El Art. 80° impone el deber de servir al menos 5 años en escuelas campesinas a egresados de normales rurales antes de pasar al servicio urbano."
+    },
+    {
+      "question": "Según el Artículo 81° del D.S. N° 04688, los maestros normalistas deben recabar su Título y Visación en un plazo máximo desde su egreso de:",
+      "options": [
+        "2 años (requisito para ascender de categoría)",
+        "5 años contados desde la primera posesión",
+        "6 meses calendario",
+        "10 años acumulados de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81°, DS 4688",
+      "explicacion": "El Art. 81° fija 2 años para recabar Título y Visación como condición indispensable para ascender de categoría."
+    },
+    {
+      "question": "De acuerdo con el Artículo 82° del D.S. N° 04688, sobre la asignación de 5° CATEGORÍA para maestros normalistas, la norma dicta que:",
+      "options": [
+        "La percibirán desde su iniciación en la carrera y no podrán ser privados de este beneficio por ningún motivo",
+        "Solo se otorgará tras aprobar un examen oral ante el tribunal distrital",
+        "Se suspenderá en caso de no contraer matrimonio en los primeros 3 años",
+        "Es un beneficio optativo dependiente del presupuesto municipal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 82°, DS 4688",
+      "explicacion": "El Art. 82° garantiza que los normalistas perciben la 5° categoría desde el inicio y no pueden ser privados de ella por ningún motivo."
+    },
+    {
+      "question": "Conforme al Artículo 84° del D.S. N° 04688, para los efectos de categorización docente y administrativa se toman en cuenta de forma exclusiva:",
+      "options": [
+        "Los servicios prestados única y exclusivamente en el ramo de Educación",
+        "La suma de servicios prestados en las Fuerzas Armadas y ministerios civiles",
+        "Los años de ejercicio en profesiones libres universitarias",
+        "El trabajo prestado en empresas públicas descentralizadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84°, DS 4688",
+      "explicacion": "El Art. 84° aclara que para categorización se consideran única y exclusivamente los servicios prestados en el ramo de Educación."
+    },
+    {
+      "question": "Según el Artículo 25° inc. d) del D.S. N° 04688, ¿cuántos puntos se asignan en la Ficha de Calificación de Méritos por poseer el Título de Bachiller?",
+      "options": [
+        "5 puntos",
+        "10 puntos",
+        "15 puntos",
+        "2 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25° inc. d, DS 4688",
+      "explicacion": "El Art. 25° inc. d) assigna 5 puntos por el título de Bachiller."
+    },
+    {
+      "question": "Según el Artículo 25° inc. e) del D.S. N° 04688, ¿cuántos puntos se otorgan por cada título universitario de nivel Licenciatura (médico, abogado, ingeniero, auditor, etc.)?",
+      "options": [
+        "10 puntos por cada uno",
+        "20 puntos en total",
+        "5 puntos por cada título",
+        "15 puntos fijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25° inc. e, DS 4688",
+      "explicacion": "El Art. 25° inc. e) asigna 10 puntos por cada título universitario equivalente a Licenciatura."
+    },
+    {
+      "question": "Según el Artículo 25° inc. f) del D.S. N° 04688, ¿cuántos puntos de mérito asigna el título de Normalista Rural?",
+      "options": [
+        "10 puntos",
+        "15 puntos",
+        "20 puntos",
+        "5 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25° inc. f, DS 4688",
+      "explicacion": "El Art. 25° inc. f) asigna 10 puntos por el título de Normalistas rurales."
+    },
+    {
+      "question": "Conforme al Artículo 25° inc. h) del D.S. N° 04688, ¿cuántos puntos se otorgan en la calificación de estudios por el título en Primaria y Secundaria?",
+      "options": [
+        "20 puntos",
+        "15 puntos",
+        "10 puntos",
+        "25 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25° inc. h, DS 4688",
+      "explicacion": "El Art. 25° inc. h) otorga 20 puntos por títulos de especialidad en Primaria y Secundaria."
+    },
+    {
+      "question": "De acuerdo con el Artículo 32° inc. b) del D.S. N° 04688, en la categoría de Méritos Generales, la publicación de LIBROS EDITADOS O INÉDITOS se califica con:",
+      "options": [
+        "De 1 a 2 puntos por cada uno, hasta un máximo de 20 puntos",
+        "5 puntos fijos por libro publicado",
+        "10 puntos por obra inédita sin límite",
+        "15 puntos por cada edición impresa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32° inc. b, DS 4688",
+      "explicacion": "El Art. 32° inc. b) califica libros editados o inéditos con 1 a 2 puntos cada uno, hasta un tope de 20 puntos."
+    },
+    {
+      "question": "Según el Artículo 32° inc. g) del D.S. N° 04688, ¿cuántos puntos se asignan en Méritos Generales por haber ejercido el cargo jerárquico de DIRECTOR GENERAL O OFICIAL MAYOR DE EDUCACIÓN?",
+      "options": [
+        "10 puntos",
+        "8 puntos",
+        "6 puntos",
+        "20 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32° inc. g, DS 4688",
+      "explicacion": "El Art. 32° inc. g) otorga 10 puntos por haber ejercido cargos asimilados a Director General u Oficial Mayor."
+    },
+    {
+      "question": "Según el Artículo 32° inc. g) del D.S. N° 04688, el ejercicio de cargos asimilados al rango de DIRECTOR DE ESCUELA O COLEGIO asigna un puntaje de:",
+      "options": [
+        "2 puntos",
+        "4 puntos",
+        "6 puntos",
+        "1 punto"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32° inc. g, DS 4688",
+      "explicacion": "El Art. 32° inc. g) asigna 2 puntos por haber desempeñado funciones asimiladas a Director de Escuela o Colegio."
+    },
+    {
+      "question": "En el área de faltas de asistencia (Artículo 33° Numeral 1 del D.S. N° 04688), los 'atrasos frecuentes durante el año' generan un demérito de:",
+      "options": [
+        "1 a 5 puntos",
+        "1 a 10 puntos",
+        "10 a 20 puntos",
+        "Descuento de 15 puntos fijos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33° Num. 1, DS 4688",
+      "explicacion": "El Art. 33° Num. 1 fija de 1 a 5 puntos de descuento por atrasos frecuentes durante el año."
+    },
+    {
+      "question": "En el área de faltas de comportamiento (Artículo 33° Numeral 2 del D.S. N° 04688), los 'actos de inmoralidad' se sancionan con una deducción de:",
+      "options": [
+        "1 a 10 puntos",
+        "1 a 5 puntos",
+        "20 a 50 puntos",
+        "Pérdida inmediata de 100 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33° Num. 2, DS 4688",
+      "explicacion": "El Art. 33° Num. 2 establece una deducción de 1 a 10 puntos por actos de inmoralidad."
+    },
+    {
+      "question": "En el área de faltas de rendimiento (Artículo 33° Numeral 3 del D.S. N° 04688), tener MÁS DEL 30% DE REPROBADOS en el curso se califica como demérito con:",
+      "options": [
+        "1 a 5 puntos de descuento",
+        "10 a 20 puntos de descuento",
+        "Inhabilitación para enseñar por dos años",
+        "50 puntos de penalización directa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33° Num. 3, DS 4688",
+      "explicacion": "El Art. 33° Num. 3 penaliza tener más del 30% de reprobados en el curso con un descuento de 1 a 5 puntos."
+    },
+    {
+      "question": "Según el Artículo 33° Numeral 4 del D.S. N° 04688, el trato indebido que provoque la DESERCIÓN de los alumnos en más del 20% genera un demérito de:",
+      "options": [
+        "1 a 10 puntos",
+        "1 a 5 puntos",
+        "15 a 30 puntos",
+        "Pérdida total del ítem docente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33° Num. 4, DS 4688",
+      "explicacion": "El Art. 33° Num. 4 califica la deserción escolar provocada mayor al 20% con un descuento de 1 a 10 puntos."
+    },
+    {
+      "question": "Conforme al Artículo 36° del D.S. N° 04688, ¿con qué frecuencia renuevan las autoridades escolares la valoración de las fichas de calificación?",
+      "options": [
+        "Al finalizar cada período anual (año lectivo)",
+        "Cada cinco años al momento de categorizar",
+        "Semestralmente antes de los exámenes finales",
+        "Únicamente cuando el docente solicita ascenso"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36°, DS 4688",
+      "explicacion": "El Art. 36° ordena a las autoridades renovar la valoración de las fichas al finalizar cada período anual."
+    },
+    {
+      "question": "De acuerdo con el Artículo 48° del D.S. N° 04688, ¿cuándo elaboran las Comisiones Distritales la lista de categorizados del distrito para el pago correspondiente?",
+      "options": [
+        "Durante el primer mes del año lectivo",
+        "A la finalización del segundo trimestre",
+        "El último día útil del mes de diciembre",
+        "Cualquier momento del año previa solicitud individual"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48°, DS 4688",
+      "explicacion": "El Art. 48° especifica que las Comisiones Distritales elaborarán las listas de categorizados durante el primer mes del año lectivo."
+    },
+    {
+      "question": "Según el Artículo 49° del D.S. N° 04688, los miembros de las Comisiones Distritales que autoricen calificaciones o pagos indebidos de categorías son pasibles de:",
+      "options": [
+        "Sanciones penales, sin perjuicio de que el Estado repita contra ellos por lo indebidamente pagado",
+        "Una llamada de atención verbal en reunión de consejo",
+        "Descuento del 10% de su sueldo mensual durante un trimestre",
+        "Exención de responsabilidad si actuaron de buena fe"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 49°, DS 4688",
+      "explicacion": "El Art. 49° responsabiliza penalmente a los miembros de comisiones por pagos indebidos y faculta la repetición del Estado."
+    },
+    {
+      "question": "Conforme al Artículo 58° del D.S. N° 04688, si en la provisión de cargos docentes se infringieren las normas del Reglamento, los afectados pueden solicitar la gestión de:",
+      "options": [
+        "Las Federaciones Sindicales de Maestros para exigir la correcta aplicación legal",
+        "La Policía Boliviana para el precintado de la escuela",
+        "Las Juntas de Vecinos para la realización de una protesta",
+        "El Consulado acreditado en el distrito escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58°, DS 4688",
+      "explicacion": "El Art. 58° faculta a los afectados a solicitar la intervención de las Federaciones Sindicales para la correcta aplicación del Reglamento."
+    },
+    {
+      "question": "Según el Artículo 68° del D.S. N° 04688 y el Art. 171 del Código de Educación, los colegios particulares vespertinos y nocturnos son considerados como:",
+      "options": [
+        "Empresa no comercial (por las pensiones módicas y reducidos haberes que pagan)",
+        "Sociedades anónimas de lucro privado reguladas por el Código de Comercio",
+        "Entidades públicas de libre acceso fiscal",
+        "Organizaciones internacionales no gubernamentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 68°, DS 4688",
+      "explicacion": "El Art. 68° señala que los colegios particulares de pensiones módicas son considerados empresa no comercial."
+    },
+    {
+      "question": "Conforme al Artículo 1° del D.S. N° 04688, ¿cuál es la naturaleza jurídica y funcional del Escalafón Nacional del Servicio de Educación?",
+      "options": [
+        "Es el registro sistemático, permanente y centralizado de los datos personales y profesionales referentes a los maestros y funcionarios de servicio educativo",
+        "Es una nómina trimestral y descentralizada de docentes contratados bajo la modalidad eventual en municipios",
+        "Es una ley especial sancionada por la Asamblea Legislativa para regular los salarios de la educación privada",
+        "Es un catálogo de licencias de conducir e identidades civiles para funcionarios del Ministerio de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1°, D.S. N° 04688",
+      "explicacion": "El Art. 1° define el Escalafón como el registro sistemático, permanente y centralizado de todos los datos personales y profesionales de maestros y funcionarios educativos."
+    },
+    {
+      "question": "Según el Artículo 2° del D.S. N° 04688, ¿cuál de los siguientes NO constituye uno de los objetivos esenciales del Escalafón?",
+      "options": [
+        "Garantizar la estabilidad del personal docente y administrativo del servicio educativo",
+        "Estimular la superación técnica y profesional del maestro mediante categorías y promociones",
+        "Fijar precios de venta y aranceles de matrículas en Unidades Educativas Privadas",
+        "Normar el ingreso, ascensos jerárquicos y promociones de categoría de forma transparente"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 2°, D.S. N° 04688",
+      "explicacion": "El Art. 2° establece como objetivos la estabilidad, promoción, estímulo profesional y regulación de ascensos; la fijación de pensiones privadas no es su objetivo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 3° del D.S. N° 04688, ¿qué unidad u órgano tiene a su cargo la custodia del Registro Centralizado y las Fichas del Escalafón?",
+      "options": [
+        "El Departamento de Estadística y Personal del Ministerio de Educación",
+        "La Contraloría General del Estado",
+        "El Ministerio de Trabajo, Empleo y Previsión Social",
+        "Los Gobiernos Autónomos Municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3°, D.S. N° 04688",
+      "explicacion": "El Art. 3° encomienda la organización, actualización y custodia del registro al Departamento de Estadística y Personal del Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 4° del D.S. N° 04688, ¿cómo se constituye la Comisión Nacional del Escalafón?",
+      "options": [
+        "Por el Director General de Educación, el Jefe del Departamento de Personal y representantes del magisterio organizado",
+        "Exclusivamente por tres ministros de Estado designados por el Presidente",
+        "Por los Directores Distritales de Salud y las Fuerzas Armadas",
+        "Por Decanos de Facultades de Derecho de universidades privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4°, D.S. N° 04688",
+      "explicacion": "La Comisión Nacional está integrada por las autoridades superiores de educación (Director General, Jefe de Personal) y delegados sindicales del magisterio."
+    },
+    {
+      "question": "Según el Artículo 5° del D.S. N° 04688, ¿cuáles son los dos grandes sectores que integran el Servicio de Educación?",
+      "options": [
+        "El Sector Docente y el Sector Administrativo",
+        "El Sector Urbano y el Sector Internacional",
+        "El Sector Universitario y el Sector Policial",
+        "El Sector Escolarizado y el Sector Militar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5°, D.S. N° 04688",
+      "explicacion": "El Art. 5° divide el Escalafón en dos ramas fundamentales: el Sector Docente y el Sector Administrativo."
+    },
+    {
+      "question": "En el Artículo 6° del D.S. N° 04688, ¿cuáles son las tres clases de maestros reconocidas dentro del Sector Docente?",
+      "options": [
+        "Docentes Normalistas, Docentes Titulares por antigüedad/examen y Docentes Interinos",
+        "Docentes Honorarios, Docentes Ad-Honorem y Docentes Visitantes",
+        "Docentes Universitarios, Docentes Técnicos y Docentes Auxiliares",
+        "Docentes Contratados, Docentes Consultores y Docentes Asesores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6°, D.S. N° 04688",
+      "explicacion": "El Art. 6° clasifica a los maestros en: Normalistas (egresados de Normales), Titulares (por años/examen) e Interinos (sin título pedagógico)."
+    },
+    {
+      "question": "Conforme al Artículo 7° del D.S. N° 04688, ¿cuál es el rango de edad exigido para ingresar formalmente al Servicio de Educación?",
+      "options": [
+        "Tener un mínimo de 18 años y un máximo de 50 años de edad",
+        "Tener entre 21 y 65 años de edad",
+        "Tener exactamente 25 años al momento de la designación",
+        "No existe límite de edad superior ni inferior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7°, D.S. N° 04688",
+      "explicacion": "El Art. 7° establece como requisito general de ingreso tener entre 18 años cumplidos y 50 años de edad como máximo."
+    },
+    {
+      "question": "Según el Artículo 7° inc. d) del D.S. N° 04688, ¿qué certificado médico es indispensable para la admisión en el servicio educativo?",
+      "options": [
+        "Certificado de salud expedido por el servicio médico escolar o autoridad sanitaria oficial que acredite no padecer enfermedad contagiosa",
+        "Certificado de grupo sanguíneo emitido por laboratorio privado",
+        "Examen de visión nocturna únicamente",
+        "Prueba de esfuerzo físico en pista atlética"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7°, D.S. N° 04688",
+      "explicacion": "Se exige certificación oficial de salud que demuestre idoneidad física y ausencia de enfermedades infectocontagiosas o infecto-patológicas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 8° del D.S. N° 04688, los egresados de las Escuelas Normales del país ingresan al Escalafón en calidad de:",
+      "options": [
+        "Docentes Normalistas con derecho a inscripción inmediata y asignación automática de la 5ª Categoría",
+        "Docentes Interinos a prueba durante diez años sin goce de bonificación",
+        "Docentes Titulares por antigüedad con goce del 100% de bonificación",
+        "Personal administrativo en comisión de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8°, D.S. N° 04688",
+      "explicacion": "Los normalistas obtienen su registro inmediato y se benefician con el reconocimiento automático de la 5ª categoría de bonificación al ingresar al servicio."
+    },
+    {
+      "question": "Según el Artículo 9° del D.S. N° 04688, ¿qué grado de instrucción mínimo se exige a un postulante Interino para ejercer la docencia en el nivel secundario?",
+      "options": [
+        "Ser Bachiller en Humanidades o poseer estudios universitarios/superiores afines a la asignatura",
+        "Tener certificado de ciclo primario únicamente",
+        "Haber realizado cursos cortometrajes de capacitación laboral de 20 horas",
+        "No se exige ningún grado de instrucción formal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9°, D.S. N° 04688",
+      "explicacion": "Para la docencia interina en secundaria se requiere como requisito mínimo indispensable el diploma de Bachiller o estudios universitarios en la especialidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 10° del D.S. N° 04688, ¿cuál de las siguientes situaciones constituye una inhabilitación absoluta para el ejercicio de la docencia?",
+      "options": [
+        "Padecer enfermedad infectocontagiosa o haber sido condenado mediante sentencia penal ejecutoriada por delitos graves o vicios que degraden la moral",
+        "Haber cambiado de domicilio dentro de la misma ciudad",
+        "Haber publicado artículos de opinión técnica en periódicos locales",
+        "Tener más de dos hijos en edad escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10°, D.S. N° 04688",
+      "explicacion": "El Art. 10° inhabilita a personas con enfermedades transmisibles o sentencias penales por delitos infamantes o conducta contraria a la moral."
+    },
+    {
+      "question": "Según el Artículo 10° del D.S. N° 04688, ¿a qué edad se establece la inhabilitación general para la admisión en el servicio docente fiscal?",
+      "options": [
+        "A partir de los 60 años de edad, salvo excepciones de reconocida competencia o mérito eminente",
+        "A los 40 años de edad de forma estricta e insalvable",
+        "A los 75 años únicamente",
+        "No existe límite de edad de inhabilitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10°, D.S. N° 04688",
+      "explicacion": "La norma fija los 60 años como límite general para nuevos ingresos o reincorporaciones, salvo casos de capacidad sobresaliente."
+    },
+    {
+      "question": "Conforme al Artículo 11° del D.S. N° 04688, el personal Administrativo del servicio educativo comprende a:",
+      "options": [
+        "Secretarios, contadores, tesoreros, bibliotecarios, regentes, porteros y personal de servicio de las reparticiones escolares y ministeriales",
+        "Exclusivamente a los Ministros y Viceministros de Estado",
+        "A los docentes jubilados que no prestan servicios institucionales",
+        "A los representantes de las juntas de padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11°, D.S. N° 04688",
+      "explicacion": "Abarca todo el personal de apoyo técnico, de oficina, contabilidad, regiduría y servicio de los establecimientos y oficinas del ramo."
+    },
+    {
+      "question": "Según el Artículo 12° del D.S. N° 04688, ¿qué documento acredita la inscripción formal de un maestro en el Escalafón Nacional?",
+      "options": [
+        "El Carnet de Inscripción en el Escalafón expedido por el Departamento de Estadística y Personal",
+        "Una fotocopia simple de la cédula de identidad",
+        "Un memorándum firmado por el Director de la Escuela",
+        "El recibo de pago de cuotas sindicales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12°, D.S. N° 04688",
+      "explicacion": "El Departamento de Personal otorga la matrícula y la Matrícula/Carnet Oficial de Escalafón como prueba única de registro legal."
+    },
+    {
+      "question": "Según los Artículos 13° y 14° del D.S. N° 04688, ¿cuál es el plazo máximo de servicios que se concede a los maestros Interinos para optar al examen de idoneidad y obtener la Titularidad?",
+      "options": [
+        "Cinco (5) años de servicios continuos en la docencia",
+        "Diez (10) años de servicios discontinuos",
+        "Un (1) año computable desde su primera designación",
+        "Veinte (20) años sin evaluación de ningún tipo"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 13° y 14°, D.S. N° 04688",
+      "explicacion": "Los interinos disponen de 5 años para regularizar su situación rindiendo el examen de idoneidad para pasar a la categoría de Titulares por Examen."
+    },
+    {
+      "question": "De acuerdo con el Artículo 15° del D.S. N° 04688, si un maestro Interino reprueba por SEGUNDA VEZ el examen de idoneidad, ¿cuál es la consecuencia legal?",
+      "options": [
+        "Queda definitivamente inhabilitado para continuar en el ejercicio de la docencia fiscal",
+        "Se le otorga una bonificación especial del 50%",
+        "Asciende automáticamente a la Primera Categoría",
+        "Se le exonera de dar exámenes durante diez años adicionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15°, D.S. N° 04688",
+      "explicacion": "La reprobación por segunda vez del examen de suficiencia origina la exoneración y cesantía definitiva del cargo docente."
+    },
+    {
+      "question": "Según el Artículo 16° del D.S. N° 04688, los exámenes de idoneidad para maestros interinos son convocados por:",
+      "options": [
+        "El Ministerio de Educación a través de la Comisión Nacional y las Comisiones Distritales del Escalafón",
+        "Los sindicatos zonales sin fiscalización técnica",
+        "La Universidad Pública de cada departamento independientemente",
+        "El Ministerio de Trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16°, D.S. N° 04688",
+      "explicacion": "Las convocatorias son reglamentadas centralmente por el Ministerio de Educación mediante tribunales examinadores oficiales."
+    },
+    {
+      "question": "Conforme al Artículo 17° del D.S. N° 04688, ¿qué requisito se establece para la inscripción del personal Administrativo en su respectivo Escalafón?",
+      "options": [
+        "Acreditar idoneidad mediante certificados de estudio, experiencia o examen práctico de suficiencia según la naturaleza del cargo",
+        "Poseer título de Licenciatura en Pedagogía obligatoriamente",
+        "Tener una antigüedad mínima de 25 años en el sector público",
+        "No se exige ningún tipo de documento ni evaluación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17°, D.S. N° 04688",
+      "explicacion": "El personal administrativo requiere demostración de suficiencia en sus funciones (mecanografía, contabilidad, oficio) para ser registrado."
+    },
+    {
+      "question": "Según el Artículo 18° del D.S. N° 04688, ¿cuál de los siguientes cargos ocupa el RANGO MÁS ALTO en la Escala Jerárquica Docente?",
+      "options": [
+        "Director General de Educación",
+        "Inspector de Distrito Escolar",
+        "Director de Unidad Educativa de Primera Clase",
+        "Profesor de Materia Especial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18°, D.S. N° 04688",
+      "explicacion": "La cúspide de la carrera en la jerarquía docente del Escalafón la encabeza el Director General de Educación."
+    },
+    {
+      "question": "Según el Artículo 18° del D.S. N° 04688, la jerarquía docente en el nivel de distrito se compone en orden descendente por:",
+      "options": [
+        "Jefe de Distrito Escolar, Inspector de Distrito, Director de Escuela / Colegio y Profesor de Aula",
+        "Director de Colegio, Jefe de Distrito, Profesor de Aula e Inspector",
+        "Profesor de Aula, Regente, Director y Jefe de Distrito",
+        "Ministro, Viceministro, Director de Escuela y Portero"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18°, D.S. N° 04688",
+      "explicacion": "La escala distrital jerárquica sitúa al Jefe de Distrito en la cúspide local, seguido por los Inspectores, Directores de Establecimiento y Profesores."
+    },
+    {
+      "question": "Según el Artículo 20° del D.S. N° 04688, ¿cuántas CATEGORÍAS de promoción remunerada existen en el Escalafón Docente?",
+      "options": [
+        "Cinco categorías (Quinta, Cuarta, Tercera, Segunda y Primera), más la Categoría al Mérito o Cero",
+        "Diez categorías secuenciales de 10% cada una",
+        "Tres categorías únicamente (Inicial, Media y Superior)",
+        "Doce categorías correspondientes a cada mes del año"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20°, D.S. N° 04688",
+      "explicacion": "El Escalafón contempla 5 categorías básicas (de 5ª a 1ª) y la Categoría al Mérito (Categoría Cero) para quienes superan la 1ª categoría."
+    },
+    {
+      "question": "De acuerdo con el Artículo 21° del D.S. N° 04688, ¿cuántos años de servicios requeridos corresponden a cada quinquenio para ascender de una categoría a la siguiente?",
+      "options": [
+        "Cinco (5) años de servicios eficientes en cada categoría",
+        "Dos (2) años de servicios discontinuos",
+        "Siete (7) años en zona urbana y tres (3) en rural",
+        "Diez (10) años de permanencia obligatoria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21°, D.S. N° 04688",
+      "explicacion": "El ascenso de categoría se realiza mediante quinquenios; es decir, cada 5 años de servicios efectivamente prestados y calificados."
+    },
+    {
+      "question": "Según el Artículo 22° del D.S. N° 04688, ¿cuáles son los CUATRO FACTORES FUNDAMENTALES sobre los que se evalúa la Hoja de Servicios de un docente?",
+      "options": [
+        "A) Estudios y títulos; B) Tiempo de servicios; C) Méritos generales y producción; D) Deméritos",
+        "A) Edad; B) Estado civil; C) Afiliación política; D) Lugar de nacimiento",
+        "A) Asistencia; B) Puntualidad; C) Vestimenta; D) Simpatía personal",
+        "A) Exámenes de ingreso; B) Licencias; C) Faltas; D) Jubilación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22°, D.S. N° 04688",
+      "explicacion": "El Art. 22° establece la estructura cuatripartita de calificación: Títulos, Tiempo de Servicios, Méritos/Producción y Deméritos."
+    },
+    {
+      "question": "En el Artículo 25° del D.S. N° 04688, el puntaje asignado al título de Maestro Normalista Urbano o Rural es de:",
+      "options": [
+        "Cien (100) puntos de partida en el factor de estudios y títulos",
+        "Cincuenta (50) puntos fijos no acumulables",
+        "Quinientos (500) puntos directos a la Primera Categoría",
+        "Diez (10) puntos por cada año de estudio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25°, D.S. N° 04688",
+      "explicacion": "El título profesional otorgado por las Escuelas Normales del Estado concede una base de 100 puntos en el factor A (Estudios y Títulos)."
+    },
+    {
+      "question": "Según el Artículo 26° del D.S. N° 04688, ¿cuántos puntos se otorgan por el TIEMPO DE SERVICIOS prestados en el ejercicio de la docencia?",
+      "options": [
+        "Un (1) punto por cada trimestre de servicio, equivalente a cuatro (4) puntos por cada año completo",
+        "Diez (10) puntos por mes servido",
+        "Cien (100) puntos por cada quinquenio de forma fija",
+        "Medio punto por cada semestre en zona urbana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26°, D.S. N° 04688",
+      "explicacion": "El tiempo de servicios se acredita a razón de 1 punto por trimestre servido, sumando 4 puntos por cada año calendario de trabajo."
+    },
+    {
+      "question": "Conforme al Artículo 27° del D.S. N° 04688, los docentes que prestan servicios en ZONAS FRONTERIZAS o declaradas insalubres se benefician con:",
+      "options": [
+        "Cómputo dobles o bonificaciones de tiempo especial (2 años de servicio valen por 4 para normalistas, y 4 por 6 para interinos)",
+        "Un descuento automático del 20% de sus haberes para fondos de reserva",
+        "La duplicación inmediata de su edad cronológica",
+        "Exención de dictar clases los días viernes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27°, D.S. N° 04688",
+      "explicacion": "La norma bonifica el tiempo servido en zonas fronterizas o de difícil acceso computando mayor antigüedad para acelerar la promoción."
+    },
+    {
+      "question": "Según el Artículo 29° del D.S. N° 04688, a los excombatientes de la Guerra del Chaco que ejercen la docencia se les reconoce:",
+      "options": [
+        "Cómputo de tiempo doble por los años de campaña militar y puntaje adicional en la calificación de méritos",
+        "Ascenso automático a la Categoría Cero sin necesidad de expediente",
+        "Jubilación inmediata a los 30 años de edad con el 200% de haber",
+        "Exoneración de presentar títulos profesionales para cargos directivos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29°, D.S. N° 04688",
+      "explicacion": "Se reconoce el derecho a computar el tiempo de servicio militar en campaña como tiempo doble a efectos de antigüedad y categoría."
+    },
+    {
+      "question": "Según el Artículo 30° del D.S. N° 04688, las publicaciones pedagógicas, textos de enseñanza y obras científicas o literarias escritas por los maestros son calificadas con:",
+      "options": [
+        "Un puntaje variable de 5 a 20 puntos por obra, previo dictamen aprobatorio de la Comisión Calificadora",
+        "Un punto único independientemente de la calidad o extensión del libro",
+        "Cincuenta puntos directos por cada artículo publicado en prensa diaria",
+        "No otorgan ningún puntaje en el Escalafón"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30°, D.S. N° 04688",
+      "explicacion": "La producción intelectual aprobada oficialmente recibe entre 5 y 20 puntos por texto o trabajo de investigación en el factor C."
+    },
+    {
+      "question": "De acuerdo con el Artículo 31° del D.S. N° 04688, el ejercicio de cargos de representación sindical en el magisterio o comisiones oficiales asignadas se computa como:",
+      "options": [
+        "Tiempo de servicio activo y efectivo a todos los efectos del Escalafón y ascensos de categoría",
+        "Licencia sin goce de haber con congelamiento de antigüedad",
+        "Demérito grave por abandono de funciones de aula",
+        "Motivo de expulsión del servicio activo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31°, D.S. N° 04688",
+      "explicacion": "La representación sindical declarada en comisión legal se considera como tiempo plenamente trabajado para la calificación de servicios."
+    },
+    {
+      "question": "Según los Artículos 32° a 34° del D.S. N° 04688, ¿cuál de las siguientes acciones de un docente acarrea la deducción de puntos por DEMÉRITO?",
+      "options": [
+        "Sanciones disciplinarias por atrasos, faltas injustificadas, castigos corporales a alumnos o reprobación masiva superior al 30%",
+        "Haber asistido a cursos de capacitación de postgrado los fines de semana",
+        "Haber elaborado material didáctico de reciclaje para sus alumnos",
+        "Organizar ferias de ciencias y festivales culturales en la escuela"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 32° a 34°, D.S. N° 04688",
+      "explicacion": "El factor D (Deméritos) resta puntos por faltas disciplinarias, violencia/castigos a estudiantes, negligencia pedagógica o ausentismo."
+    },
+    {
+      "question": "Conforme al Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación sobre el haber básico se otorga al alcanzar la QUINTA CATEGORÍA (5 años)?",
+      "options": [
+        "Treinta por ciento (30%) sobre el haber básico",
+        "Quince por ciento (15%) sobre el haber básico",
+        "Cincuenta por ciento (50%) sobre el haber básico",
+        "Diez por ciento (10%) sobre el haber básico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, D.S. N° 04688",
+      "explicacion": "La 5ª Categoría asigna el 30% de incremento sobre el haber básico al cumplir el primer quinquenio (5 años)."
+    },
+    {
+      "question": "Según el Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación corresponde a la CUARTA CATEGORÍA (10 años)?",
+      "options": [
+        "Cuarenta y cinco por ciento (45%) sobre el haber básico",
+        "Treinta y cinco por ciento (35%) sobre el haber básico",
+        "Sesenta por ciento (60%) sobre el haber básico",
+        "Cuarenta por ciento (40%) sobre el haber básico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, D.S. N° 04688",
+      "explicacion": "Al cumplir 10 años de servicios (segundo quinquenio), la 4ª Categoría otorga el 45% de bonificación salarial."
+    },
+    {
+      "question": "Según el Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación corresponde a la TERCERA CATEGORÍA (15 años)?",
+      "options": [
+        "Sesenta por ciento (60%) sobre el haber básico",
+        "Cincuenta por ciento (50%) sobre el haber básico",
+        "Setenta por ciento (70%) sobre el haber básico",
+        "Cuarenta y cinco por ciento (45%) sobre el haber básico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, D.S. N° 04688",
+      "explicacion": "El tercer quinquenio (15 años) concede el derecho a la 3ª Categoría con un 60% de bonificación sobre el haber básico."
+    },
+    {
+      "question": "De acuerdo con el Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación salarial otorga la SEGUNDA CATEGORÍA (20 años)?",
+      "options": [
+        "Setenta y cinco por ciento (75%) sobre el haber básico",
+        "Ochenta por ciento (80%) sobre el haber básico",
+        "Sesenta y cinco por ciento (65%) sobre el haber básico",
+        "Noventa por ciento (90%) sobre el haber básico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, D.S. N° 04688",
+      "explicacion": "La 2ª Categoría, al alcanzarse los 20 años de servicio, otorga el 75% de bonificación salarial."
+    },
+    {
+      "question": "Conforme al Artículo 37° del D.S. N° 04688, ¿qué porcentaje de bonificación salarial asigna la PRIMERA CATEGORÍA (25 años)?",
+      "options": [
+        "Cien por ciento (100%) sobre el haber básico",
+        "Ciento cincuenta por ciento (150%) sobre el haber básico",
+        "Eighty-five percent (85%) sobre el haber básico",
+        "Doscientos por ciento (200%) sobre el haber básico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, D.S. N° 04688",
+      "explicacion": "La 1ª Categoría (cumplidos los 25 años de servicio) duplica el salario básico del docente al otorgar una bonificación del 100%."
+    },
+    {
+      "question": "Según el Artículo 38° del D.S. N° 04688, ¿a quiénes se les concede el goce INMEDIATO e incipiente de la Quinta Categoría (30%) sin esperar los 5 años?",
+      "options": [
+        "A los maestros egresados de las Escuelas Normales del Estado al momento de su incorporación al servicio activo",
+        "A todos los docentes interinos sin título universitario",
+        "A los maestros jubilados que reingresan temporalmente",
+        "A los docentes contratados por colegios privados únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38°, D.S. N° 04688",
+      "explicacion": "Los normalistas obtienen como estímulo profesional el goce inicial del 30% de bonificación (5ª Cat) desde su primer nombramiento."
+    },
+    {
+      "question": "De acuerdo con el Artículo 39° del D.S. N° 04688, ¿es posible acumular o cobrar DOS CATEGORÍAS salariales de forma simultánea?",
+      "options": [
+        "No, las categorías son excluyentes y la superior absorbe y reemplaza a la inmediata inferior",
+        "Sí, se pueden cobrar hasta tres categorías si se trabaja en doble turno",
+        "Sí, en zonas fronterizas se pagan las cinco categorías al mismo tiempo",
+        "Depende del criterio del Director de la Escuela"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39°, D.S. N° 04688",
+      "explicacion": "Las categorías de bonificación no son acumulativas entre sí; el ascenso a una categoría superior sustituye el porcentaje anterior."
+    },
+    {
+      "question": "Según el Artículo 40° del D.S. N° 04688, los EXÁMENES VOLUNTARIOS de promoción de categoría permiten a los docentes:",
+      "options": [
+        "Abreviar el tiempo de permanencia requerido en una categoría para ascender anticipadamente a la siguiente",
+        "Obtener el título de Doctor en Educación sin presentar tesis",
+        "Eximirse de asistir al trabajo durante todo un año escolar",
+        "Cobrar doble aguinaldo de forma permanente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40°, D.S. N° 04688",
+      "explicacion": "Los exámentes voluntariamente solicitados permiten adelantar la promoción de categoría antes del cumplimiento estricto del quinquenio."
+    },
+    {
+      "question": "Según el Artículo 43° del D.S. N° 04688, si un docente no alcanza el puntaje mínimo de méritos exigido al cumplir el quinquenio, ¿qué sucede con su ascenso?",
+      "options": [
+        "Se posterga su ascenso de categoría hasta que complete los puntos requeridos en las siguientes evaluaciones",
+        "Se le reduce el salario básico en un 50%",
+        "Se le exonera de forma inmediata del magisterio",
+        "Asciende automáticamente por el solo transcurso del tiempo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 43°, D.S. N° 04688",
+      "explicacion": "El ascenso no es meramente automático por tiempo; si no reúne los puntos requeridos en la calificación de méritos, la categoría se posterga."
+    },
+    {
+      "question": "Conforme al Artículo 45° del D.S. N° 04688, la inhabilitación para el ascenso por negligencia profesional sobreviene si el maestro no logra la promoción a los:",
+      "options": [
+        "Seis (6) años en el primer intento y a los once (11) años de permanencia estancada en la misma categoría",
+        "Veinte años de servicio continuo",
+        "Dos meses de iniciado el periodo escolar",
+        "Cincuenta años de edad cumplidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45°, D.S. N° 04688",
+      "explicacion": "La norma penaliza el estancamiento prolongado por falta de superación profesional cuando el docente excede con creces los plazos reglamentarios."
+    },
+    {
+      "question": "Según el Artículo 46° del D.S. N° 04688, la Comisión Calificadora Distrital del Escalafón está integrada principalmente por:",
+      "options": [
+        "El Jefe de Distrito Escolar, los Inspectores del Distrito y los delegados sindicales del magisterio local",
+        "El Alcalde Municipal y los concejales de la comisión de educación",
+        "El Comandante de la Policía y el Juez de Partido en lo Civil",
+        "Tres padres de familia elegidos en asamblea general"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46°, D.S. N° 04688",
+      "explicacion": "Las comisiones distritales tienen representación tripartita interna: autoridades educativas del distrito e inspectores junto al sindicato."
+    },
+    {
+      "question": "De acuerdo con el Artículo 48° del D.S. N° 04688, ¿cuál es el rol legal de la COMISIÓN NACIONAL DEL ESCALAFÓN respecto a los fallos distritales?",
+      "options": [
+        "Actúa como Tribunal Supremo de Apelación y de revisión de oficio o a instancia de parte de las resoluciones distritales",
+        "Se limita a archivar las fichas en formato impreso sin capacidad de modificar notas",
+        "No tiene potestad de revisar las decisiones tomadas en los distritos",
+        "Es un órgano de fiscalización tributaria de los salarios docentes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48°, D.S. N° 04688",
+      "explicacion": "La Comisión Nacional dirime en última instancia administrativa los recursos de apelación y reclamos presentados contra los distritos."
+    },
+    {
+      "question": "Conforme al Artículo 49° del D.S. N° 04688, ¿cuál es el PLAZO legal que tiene un docente para presentar recurso de APELACIÓN contra la calificación de su Hoja de Servicios?",
+      "options": [
+        "Diez (10) días hábiles computables a partir de la notificación con el fallo o la entrega de la ficha de calificación",
+        "Un (1) mes calendario",
+        "Cuarenta y ocho (48) horas perentorias",
+        "Tres (3) años computables desde la resolución"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 49°, D.S. N° 04688",
+      "explicacion": "El maestro afectado por una calificación errónea o incompleta dispone de 10 días para apelar ante la Comisión Nacional."
+    },
+    {
+      "question": "Según el Artículo 52° del D.S. N° 04688, una vez recibido el recurso de apelación, la Comisión Nacional debe resolverlo en el plazo de:",
+      "options": [
+        "Tres (3) días hábiles de manera definitiva",
+        "Cincuenta días calendario",
+        "Seis meses con dictamen fiscal",
+        "Veinticuatro horas sin revisar obrados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52°, D.S. N° 04688",
+      "explicacion": "El procedimiento de revisión en apelación es sumario y debe fallarse en el plazo breve de 3 días."
+    },
+    {
+      "question": "Según el Artículo 53° del D.S. N° 04688, para optar al cargo de DIRECTOR DE UNIDAD EDUCATIVA O ESCUELA, se requiere una antigüedad mínima de:",
+      "options": [
+        "Cinco (5) años de servicios eficientes y un puntaje acumulado de 100 puntos en el Escalafón",
+        "Un (1) año de servicio en cualquier categoría",
+        "Veinticinco (25) años de servicios exclusivamente en el área rural",
+        "No se exige antigüedad, solo designación política"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 53°, D.S. N° 04688",
+      "explicacion": "Para la institucionalización o ascenso a Director de Escuela se exige un piso de 5 años de servicio activo y 100 puntos de mérito."
+    },
+    {
+      "question": "De acuerdo con el Artículo 54° del D.S. N° 04688, para acceder al cargo de INSPECTOR DE DISTRITO ESCOLAR, se requiere como requisito mínimo:",
+      "options": [
+        "Ocho (8) años de servicios docentes y un puntaje no inferior a 120 puntos en la Hoja de Servicios",
+        "Tres (3) años de ejercicio profesional como abogado",
+        "Cincuenta años de edad y 200 puntos de mérito",
+        "Ser egresado de la facultad de contabilidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54°, D.S. N° 04688",
+      "explicacion": "El cargo de Inspector exige 8 años de experiencia docente acreditada y 120 puntos de calificación general."
+    },
+    {
+      "question": "Según el Artículo 55° del D.S. N° 04688, los requisitos mínimos para postular al cargo de JEFE DE DISTRITO ESCOLAR son:",
+      "options": [
+        "Ocho (8) años de servicios en la educación, haber ejercido la dirección o inspección y tener un mínimo de 150 puntos",
+        "Quince años de antigüedad exclusiva en cargos administrativos del Ministerio",
+        "Tener título de Doctor Honoris Causa",
+        "Un año de servicio en la capital de República"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 55°, D.S. N° 04688",
+      "explicacion": "Se requieren 8 años de servicios, experiencia previa en cargos de dirección/inspección y 150 puntos acumulados."
+    },
+    {
+      "question": "Conforme al Artículo 56° del D.S. N° 04688, para ocupar la DIRECCIÓN GENERAL DE EDUCACIÓN o Directores Nacionales se exige:",
+      "options": [
+        "Quince (15) años de servicios en la educación, haber alcanzado la Primera Categoría y tener al menos 200 puntos",
+        "Treinta años de servicios ininterrumpidos en zonas de frontera",
+        "Título universitario de Médico Cirujano",
+        "Cinco años de servicios en el sector privado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 56°, D.S. N° 04688",
+      "explicacion": "Para la máxima jerarquía técnica nacional se exige 15 años de carrera, ostentar la 1ª Categoría y acreditar 200 puntos de mérito."
+    },
+    {
+      "question": "Según el Artículo 57° del D.S. N° 04688, los ascensos a cargos jerárquicos se proveerán mediante:",
+      "options": [
+        "Concurso de Méritos y Exámenes de Competencia u Oposición en casos de paridad o vacantes abiertas",
+        "Designación directa del Alcalde Municipal sin convocatoria",
+        "Sorteo público en presencia de un Notario de Fe Pública",
+        "Rotación alfabética por apellido paterno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 57°, D.S. N° 04688",
+      "explicacion": "El Escalafón consagra el principio del concurso de méritos y examen de competencia institucionalizado para institucionalizar cargos jerárquicos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 58° del D.S. N° 04688, los Tribunales Examinadores para concursos de competencia jerárquica están constituidos por:",
+      "options": [
+        "Autoridades técnicas del Ministerio de Educación, catedráticos de la materia y delegados del magisterio organizado",
+        "Un comité de estudiantes del último curso de secundaria",
+        "Representantes de las Cámaras de Comercio e Industria",
+        "Comisionados de las Fuerzas Armadas únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58°, D.S. N° 04688",
+      "explicacion": "La evaluación técnica de idoneidad directiva requiere jurados calificados del ramo pedagógico superior y la representación sindical."
+    },
+    {
+      "question": "Según el Artículo 59° del D.S. N° 04688, las ACUMULACIONES de horas en el nivel secundario se regulan según la categoría del docente, fijando un tope de:",
+      "options": [
+        "Hasta un máximo de horas semanales/mensuales decreciente según la categoría (10, 8, 6 y 4 horas límite adicional)",
+        "Doble tiempo de trabajo obligatorio para docentes de 5ª categoría",
+        "Cien horas semanales para todos los maestros sin distinción",
+        "Prohibición absoluta de acumular más de 2 horas al mes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 59°, D.S. N° 04688",
+      "explicacion": "Las acumulaciones de carga horaria en secundaria están normadas por escala para evitar la sobrecarga y garantizar calidad pedagógica."
+    },
+    {
+      "question": "Conforme al Artículo 62° del D.S. N° 04688, en distritos rurales, fronterizos o alejados donde exista escasez comprobada de personal docente, se permite:",
+      "options": [
+        "La acumulación de hasta dos cargos completos o doble turno a un mismo maestro capacitado",
+        "La contratación de menores de 12 años como profesores",
+        "El cierre definitivo de la escuela por falta de items",
+        "La fusión de diez cursos en un solo ambiente escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 62°, D.S. N° 04688",
+      "explicacion": "En zonas aisladas con déficit de docentes se autoriza la acumulación de cargos completos para asegurar la continuidad del servicio escolar."
+    },
+    {
+      "question": "De acuerdo con el Artículo 63° del D.S. N° 04688, a los efectos de la adjudicación prioritaria de cargos y acumulaciones, se considera 'Jefe de Familia' a:",
+      "options": [
+        "El docente que tiene a su cargo la manutención comprobada de cónyuge, e hijos menores o padres ancianos desamparados",
+        "Todo ciudadano varón mayor de 18 años independientemente de su estado civil",
+        "Únicamente a los docentes que poseen vivienda propia inscrita en Derechos Reales",
+        "A los profesores que viven solos en residencias universitarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 63°, D.S. N° 04688",
+      "explicacion": "La condición de Jefe de Familia otorga protección y preferencia para evitar la desmembración familiar o la precariedad económica."
+    },
+    {
+      "question": "Según el Artículo 66° del D.S. N° 04688, la GARANTÍA DE INAMOVILIDAD establecida en favor de los docentes inscritos en el Escalafón implica que:",
+      "options": [
+        "Ningún maestro registrado puede ser destituido, suspendido ni descendido de categoría sino por cometer faltas graves y previo proceso disciplinario",
+        "Los docentes no pueden ser cambiados de aula en un mismo colegio durante 30 años",
+        "El Estado no puede modificar los horarios de recreo de las escuelas",
+        "Los maestros no están sujetos a la aplicación del Código de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 66°, D.S. N° 04688",
+      "explicacion": "La inamovilidad es el derecho fundamental a la estabilidad laboral, impidiendo despidos arbitrarios sin proceso previo con sanción ejecutoriada."
+    },
+    {
+      "question": "Según el Artículo 68° del D.S. N° 04688, los traslados o permutaciones de docentes entre distritos o escuelas solo pueden efectuarse:",
+      "options": [
+        "A solicitud interesada del maestro, por permuta acordada, o por necesidad del servicio debidamente justificada por la autoridad",
+        "Como sanción verbal inmediata impuesta por el Director de la Escuela",
+        "Por sorteo trimestral obligatorio para todo el personal",
+        "Por requerimiento de los dirigentes del comité vecinal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 68°, D.S. N° 04688",
+      "explicacion": "Los cambios de destino requieren consentimiento del interesado, permuta reglamentaria o necesidad oficial fundada de servicio."
+    },
+    {
+      "question": "Conforme al Artículo 71° del D.S. N° 04688, se declara en situación de 'DISPONIBILIDAD' con goce de haber al maestro que:",
+      "options": [
+        "Quede cesante por supresión de la partida presupuestaria o clausura del establecimiento sin su culpabilidad",
+        "Haya abandonado sus labores intencionalmente durante un mes",
+        "Se encuentre cumpliendo condena penal en prisión",
+        "Solicite licencia para realizar un viaje de placer al extranjero"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71°, D.S. N° 04688",
+      "explicacion": "La disponibilidad protege al maestro que queda sin ítem por causas administrativas o de reestructuración no imputables a su conducta."
+    },
+    {
+      "question": "Según el Artículo 73° del D.S. N° 04688, el maestro declarado en situación de Disponibilidad mantendrá el cobro del 100% de sus sueldos hasta por un plazo máximo de:",
+      "options": [
+        "Noventa (90) días, tiempo en el cual el Ministerio debe reubicarlo en un nuevo cargo vacante",
+        "Cinco años ininterrumpidos",
+        "Diez días hábiles únicamente",
+        "De por vida sin obligación de volver a trabajar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 73°, D.S. N° 04688",
+      "explicacion": "El Estado garantiza el pago integro de salarios por 90 días como margen para la reasignación de una nueva unidad educativa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 76° del D.S. N° 04688, el retiro o JUBILACIÓN OBLIGATORIA del servicio docente se aplica al cumplir:",
+      "options": [
+        "Sombra de 60 años de edad, garantizando los derechos de pensión conforme a las leyes de seguridad social",
+        "Cien años de edad en todos los casos",
+        "Quince años de servicio activo obligatoriamente",
+        "Cuarenta años de edad para el personal femenino"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 76°, D.S. N° 04688",
+      "explicacion": "La norma fija la edad de 60 años para la jubilación obligatoria en el servicio de educación, pasando al régimen pensional."
+    },
+    {
+      "question": "Según el Artículo 81° del D.S. N° 04688, el tiempo prestado en CARGOS ADMINISTRATIVOS del Ministerio de Educación por parte de maestros de carrera:",
+      "options": [
+        "Se computa válidamente a todos los efectos de antigüedad, calificación de méritos y promociones en el Escalafón Docente",
+        "Es considerado como periodo de inactividad que anula las categorías anteriores",
+        "No otorga ningún puntaje ni se toma en cuenta para la jubilación",
+        "Genera la pérdida automática de la condición de maestro normalista"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81°, D.S. N° 04688",
+      "explicacion": "El servicio técnico-administrativo en el ramo educativo se reconoce como servicio activo docente garantizando sus derechos de carrera."
+    },
+    {
+      "question": "Conforme a las Disposiciones Transitorias del D.S. N° 04688, las resoluciones sobre calificaciones de Escalafón emitidas de conformidad a este reglamento son:",
+      "options": [
+        "Definitivas e inamovibles en la vía administrativa, constituyendo derechos adquiridos de los maestros",
+        "Revocables anualmente a simple criterio del Ministro de Educación",
+        "Anulables si el docente cambia de sindicato",
+        "Válidas únicamente por el lapso de un año escolar"
+      ],
+      "answer": 0,
+      "fuente": "Disposiciones Transitorias, D.S. N° 04688",
+      "explicacion": "Las calificaciones ejecutoriadas consolidan derechos adquiridos e inalterables en favor del maestro registrado."
+    },
+    {
+      "question": "Si un maestro titulado tiene 12 años de servicio continuo en la docencia fiscal y nunca ha reprobado una evaluación, ¿a qué categoría del Escalafón le corresponde estar asignado?",
+      "options": [
+        "A la Cuarta Categoría (alcanzada a los 10 años con 45% de bonificación)",
+        "A la Primera Categoría con 100% de bonificación",
+        "A la Quinta Categoría con 30% únicamente",
+        "A la Categoría al Mérito o Cero"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, D.S. N° 04688",
+      "explicacion": "Al tener 12 años, ya superó el segundo quinquenio (10 años = 4ª Cat) y se encuentra en camino al tercer quinquenio (15 años = 3ª Cat)."
+    },
+    {
+      "question": "Un profesor interino ingresa a trabajar en una escuela de frontera y presta servicios durante 2 años continuos. Según el D.S. N° 04688, ¿cuántos años de antigüedad se le computan a efectos de su calificación?",
+      "options": [
+        "Tres (3) años (conforme a la escala especial de bonificación de tiempo para interinos en frontera: 4 años valen por 6, pro-rata 2 valen por 3)",
+        "Cuatro (4) años exactamente",
+        "Un (1) año por penalización de interinato",
+        "Diez (10) años de antigüedad directa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28°, D.S. N° 04688",
+      "explicacion": "En zonas fronterizas, la bonificación de tiempo para docentes interinos asigna un cómputo de 3 años por cada 2 años efectivamente servidos."
+    },
+    {
+      "question": "Un docente normalista obtiene 4 puntos por cada año servido en el factor 'Tiempo de Servicios'. Si trabaja durante 15 años ininterrumpidos en el aula, ¿cuántos puntos acumula exclusivamente en este factor?",
+      "options": [
+        "Sesenta (60) puntos (15 años x 4 puntos/año)",
+        "Cincuenta (50) puntos fijos",
+        "Cien (100) puntos de bonificación",
+        "Quince (15) puntos únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26°, D.S. N° 04688",
+      "explicacion": "Como se otorgan 1 punto por trimestre (4 al año), en 15 años el maestro acumula exactamente 60 puntos en el factor B."
+    },
+    {
+      "question": "Si un maestro normalista recién egresado se reincorpora al servicio educativo fiscal, ¿cuál es el porcentaje de bonificación salarial que percibe desde su primer sueldo?",
+      "options": [
+        "Treinta por ciento (30%) correspondiente al beneficio inmediato de la Quinta Categoría",
+        "Cero por ciento (0%) hasta cumplir los 5 años",
+        "Cincuenta por ciento (50%) por ser egresado de Normal",
+        "Cien por ciento (100%) por título profesional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38°, D.S. N° 04688",
+      "explicacion": "El Art. 38° concede la 5ª Categoría (30%) de forma inmediata a los maestros egresados de las Escuelas Normales al iniciar su labor."
+    },
+    {
+      "question": "Un profesor acumuló 3 faltas injustificadas y sanciones por castigo físico a un estudiante en el año escolar. ¿En qué factor de su Hoja de Servicios se registrarán estas infracciones?",
+      "options": [
+        "En el Factor D: Deméritos, generando descuento de puntos",
+        "En el Factor A: Estudios y Títulos",
+        "En el Factor B: Tiempo de Servicios",
+        "En la Hoja de Jubilación directamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32°, D.S. N° 04688",
+      "explicacion": "Las sanciones, faltas y atavíos negativos se registran y restan puntaje acumulado dentro del Factor D (Deméritos)."
+    },
+    {
+      "question": "Un maestro interino en el nivel primario tiene 4 años de servicio y decide no presentarse a las convocatorias del examen de idoneidad. Si cumple 5 años sin rendir el examen, ¿cuál es su condición legal?",
+      "options": [
+        "Caduca su nombramiento y queda inhabilitado para continuar ejerciendo la docencia fiscal hasta que regularice su situación",
+        "Pasa automáticamente a ser Docente Normalista",
+        "Asciende a la Primera Categoría con el 100% de haber",
+        "Se le otorga una beca de postgrado en el exterior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14°, D.S. N° 04688",
+      "explicacion": "El plazo máximo de tolerancia para el ejercicio interino sin examen de suficiencia es de 5 años; vencido este plazo, cesa en el cargo."
+    },
+    {
+      "question": "Si un candidato a Director de Escuela se presenta a un concurso de méritos y acredita 6 años de servicio pero tiene solo 80 puntos en su calificación general del Escalafón, ¿puede ser institucionalizado?",
+      "options": [
+        "No, porque aunque cumple con los 5 años mínimos, no alcanza los 100 puntos exigidos como piso indispensable",
+        "Sí, porque la antigüedad de 6 años elimina el requisito de puntaje",
+        "Sí, si presenta una carta de recomendación vecinal",
+        "Depende exclusivamente de la decisión del sindicato local"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 53°, D.S. N° 04688",
+      "explicacion": "Se exigen simultáneamente ambos requisitos mínimos: 5 años de servicio Y 100 puntos acumulados en la Hoja de Servicios."
+    },
+    {
+      "question": "Un docente considera que la Comisión Distrital de Escalafón no le computó 10 puntos por un libro pedagógico publicado. ¿Ante qué instancia debe interponer su recurso de apelación?",
+      "options": [
+        "Ante la Comisión Nacional del Escalafón, dentro del plazo de 10 días hábiles",
+        "Ante la Fiscalía General del Estado",
+        "Ante el Concejo Municipal del distrito",
+        "Ante el Ministerio de Trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48° y 49°, D.S. N° 04688",
+      "explicacion": "La apelación se interpone en el plazo de 10 días para que la Comisión Nacional revise el fallo de la Comisión Distrital."
+    },
+    {
+      "question": "Una profesora con 26 años de servicio ininterrumpido ha sido calificada con excelencia en todas sus evaluaciones. ¿A qué categoría del Escalafón pertenece y qué bonificación le corresponde?",
+      "options": [
+        "Pertenece a la Primera Categoría con el 100% de bonificación, habilitada para postular a la Categoría al Mérito (Cero)",
+        "A la Segunda Categoría con el 75%",
+        "A la Quinta Categoría con el 30%",
+        "Se encuentra fuera del Escalafón por exceso de años"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 20° y 37°, D.S. N° 04688",
+      "explicacion": "A los 25 años se alcanza el techo de la 1ª Categoría (100% de haber); a partir de allí las evaluaciones sobresalientes otorgan mérito en la Categoría Cero."
+    },
+    {
+      "question": "Si una Unidad Educativa fiscal es clausurada por reestructuración del Ministerio de Educación y el maestro queda sin curso, ¿cuál es su situación salarial durante los primeros 60 días?",
+      "options": [
+        "Se le declara en situación de Disponibilidad, manteniendo el cobro del 100% de su haber mientras se tramita su reubicación",
+        "Pierde el 100% de su sueldo desde el primer día",
+        "Pasa a cobrar jubilación anticipada con el 20% de su haber",
+        "Se le obliga a trabajar como portero sin remuneración"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 71° y 73°, D.S. N° 04688",
+      "explicacion": "La situación de Disponibilidad sin culpa garantiza el pago integro de salarios hasta por 90 días mientras el Estado reasigna ítem."
+    },
+    {
+      "question": "Según el D.S. N° 04688, ¿cuál es la sanción administrativa para la autoridad que nombre a un maestro interino sin que este cumpla con los requisitos mínimos de instrucción?",
+      "options": [
+        "Responsabilidad administrativa y anulación del nombramiento ilegal",
+        "Concesión de una medalla de honor por colaboración",
+        "Ascenso automático del nombrado a la Primera Categoría",
+        "Transferencia del Director a la Comisión Nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9°, D.S. N° 04688",
+      "explicacion": "Las designaciones que violan los requisitos de ingreso son nulas de pleno derecho y generan responsabilidad en la autoridad que las emite."
+    },
+    {
+      "question": "De acuerdo con el Reglamento del Escalafón, ¿cuántos ejemplares de la Ficha de Calificación de Méritos se deben llenar formalmente?",
+      "options": [
+        "Tres ejemplares: uno para el Ministerio/Registro Central, uno para la Jefatura Distrital y uno para el interesado",
+        "Un solo ejemplar que se destruye tras la jubilación",
+        "Cinco ejemplares destinados a la prensa local",
+        "Dos ejemplares exclusivos para la Junta Escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35°, D.S. N° 04688",
+      "explicacion": "La ficha se triplica para garantizar respaldo en el expediente central, en el archivo distrital y en custodia del docente."
+    },
+    {
+      "question": "En el marco del D.S. N° 04688, los docentes que obtienen diplomas de posgrado, maestría o especialización pedagógica reciben puntaje en:",
+      "options": [
+        "El Factor A: Estudios y Títulos, sumando puntos adicionales a su haber de calificación",
+        "El Factor D: Deméritos por dedicarse a estudiar en lugar de trabajar",
+        "No se les otorga ningún puntaje porque la educación posgraduada no cuenta",
+        "Un pago en efectivo directo por única vez sin registro"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25°, D.S. N° 04688",
+      "explicacion": "La superación académica mediante títulos o certificados de posgrado se premia acumulando puntaje en el Factor A."
+    },
+    {
+      "question": "Según el Artículo 60° del D.S. N° 04688, ¿qué límite de horas de acumulación se establece para un docente del área urbana en el nivel secundario?",
+      "options": [
+        "El número máximo de horas fijado en la reglamentación técnica curricular para evitar la dispersión laboral",
+        "Cien horas de clase por día de trabajo",
+        "Sin límite alguno, el maestro puede dictar todas las materias del colegio",
+        "Únicamente dos horas semanales de acumulación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60°, D.S. N° 04688",
+      "explicacion": "La acumulación está regulada por topes máximos semanales/mensuales para preservar la salud ocupacional y la eficiencia."
+    },
+    {
+      "question": "Conforme al D.S. N° 04688, los maestros titulares por examen que registran 20 años de servicio docente gozan de los mismos derechos que:",
+      "options": [
+        "Los maestros normalistas con igual antigüedad y categoría en el Escalafón",
+        "Los estudiantes de secundaria en periodo de pasantía",
+        "Los funcionarios interinos recién ingresados",
+        "Los asesores externos del Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6°, D.S. N° 04688",
+      "explicacion": "Una vez obtenida la titularidad por examen, el maestro goza de la plenitud de derechos de carrera equiparados al normalista."
+    },
+    {
+      "question": "Según el D.S. N° 04688, ¿cuál es la consecuencia si una Comisión Distrital de Escalafón no remite la calificación de un maestro en el plazo reglamentario?",
+      "options": [
+        "El interesado puede presentar su Hoja de Servicios directamente ante la Comisión Nacional en vía de queja o revisión",
+        "Se le descuenta el 10% del sueldo al maestro afectado",
+        "El maestro pierde de forma definitiva el derecho a su categoría",
+        "Se anulan todas las evaluaciones anteriores del distrito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50°, D.S. N° 04688",
+      "explicacion": "Ante la mora o negligencia de la comisión distrital, el docente puede acudir directamente en revisión a la instancia nacional."
+    },
+    {
+      "question": "De acuerdo con el Reglamento del Escalafón, ¿qué sanción se aplica al docente que incurra en deserción escolar superior al 20% debida a maltrato o negligencia comprobada?",
+      "options": [
+        "Inscripción de deméritos en su expediente y posible proceso disciplinario por falta grave",
+        "Ascenso de categoría por reducción de alumnos en aula",
+        "Felicitación pública por escrito de la Jefatura Distrital",
+        "Concesión de vacaciones pagadas adicionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34°, D.S. N° 04688",
+      "explicacion": "La deserción masiva imputable al docente se considera una falta grave que perjudica el derecho a la educación y resta puntos."
+    },
+    {
+      "question": "Según el Artículo 70° del D.S. N° 04688, la restitución de un docente indebidamente destituido por fallo del tribunal disciplinario genera:",
+      "options": [
+        "El derecho al reincorporación inmediata y al pago de los sueldos devengados durante el tiempo de la suspensión ilegal",
+        "La pérdida de su antigüedad acumulada en el Escalafón",
+        "La obligación de pagar una multa al Ministerio de Educación",
+        "Su traslado obligatorio a un distrito de frontera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70°, D.S. N° 04688",
+      "explicacion": "El fallo de absolución restituye plenamente al maestro en su cargo con la reposición total de haberes devengados."
+    },
+    {
+      "question": "Conforme al D.S. N° 04688, ¿a partir de qué momento surten efectos económicos los ascensos de categoría aprobados?",
+      "options": [
+        "A partir de la fecha de la resolución expresa de aprobación o el cumplimiento del quinquenio legal respectivo",
+        "Un año después de emitida la resolución de ascenso",
+        "Solo al momento de la jubilación del maestro",
+        "Retroactivamente al momento de su nacimiento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41°, D.S. N° 04688",
+      "explicacion": "El beneficio económico de la nueva categoría se consolida y efectiviza desde la fecha fijada en la resolución de promoción."
+    },
+    {
+      "question": "Según el D.S. N° 04688, el personal administrativo inscrito en el Escalafón que alcanza 25 años de servicio percibe:",
+      "options": [
+        "La bonificación porcentual máxima establecida en la escala administrativa correspondiente a su quinquenio",
+        "Un título de profesor normalista honorario",
+        "Su destitución inmediata por límite de permanencia",
+        "Un pasaje aéreo para vacaciones anuales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11° y 37°, D.S. N° 04688",
+      "explicacion": "El personal administrativo cuenta con su propia escala de bonificaciones por quinquenios ajustada a su régimen."
+    },
+    {
+      "question": "En el marco del D.S. N° 04688, ¿cuál es el requisito de antigüedad para postular al concurso de méritos para el cargo de Director de una Escuela Normal?",
+      "options": [
+        "Quince (15) años de servicios en la educación superior o normalista y poseer la Primera Categoría",
+        "Dos (2) años de egresado de cualquier instituto técnico",
+        "Cinco (5) años como regente de internado",
+        "No se exige antigüedad pedagógica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 56°, D.S. N° 04688",
+      "explicacion": "La dirección de centros de formación docente exige el máximo nivel de experiencia pedagógica (15 años) y 1ª Categoría."
+    },
+    {
+      "question": "Según el D.S. N° 04688, ¿qué documento oficial expide la Comisión Nacional del Escalafón para certificar la categoría consolidada de un docente?",
+      "options": [
+        "La Resolución de Promoción de Categoría signada por las autoridades de la Comisión Nacional",
+        "Una nota periodística firmada por el Alcalde",
+        "Un certificado de bautismo escolar",
+        "Una declaración jurada unilateral del interesado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42°, D.S. N° 04688",
+      "explicacion": "La Resolución de la Comisión Nacional es el título administrativo que acredita la categoría adquirida por el docente."
+    },
+    {
+      "question": "De acuerdo con el Artículo 24° del D.S. N° 04688, si un maestro presenta certificados de estudio falsificados en su expediente, ¿qué sanción le corresponde?",
+      "options": [
+        "Anulación inmediata del registro, expulsión del Escalafón y remisión del caso a la justicia penal",
+        "Descuento de cinco puntos en la calificación del año",
+        "Postergación por un mes del ascenso de categoría",
+        "Llamado de atención verbal sin registro en la hoja de servicios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24°, D.S. N° 04688",
+      "explicacion": "La falsedad documental viola la ética y legalidad del Escalafón, acarreando la destitución, cancelación de matrícula y proceso penal."
+    },
+    {
+      "question": "Conforme al D.S. N° 04688, los periodos de huelga legalmente declarada por el magisterio se consideran a efectos del Escalafón como:",
+      "options": [
+        "Días de trabajo efectivo que no interrumplen el tiempo de servicios para la calificación de quinquenios",
+        "Causal de pérdida automática de la categoría alcanzada",
+        "Faltas injustificadas sujetas a demérito de 50 puntos",
+        "Motivo para reiniciar el cómputo de la antigüedad desde cero"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31°, D.S. N° 04688",
+      "explicacion": "El ejercicio del derecho constitucional a la huelga legal no menoscaba la antigüedad ni los derechos de Escalafón."
+    },
+    {
+      "question": "Según el D.S. N° 04688, ¿qué autoridad preside las sesiones extraordinarias de la Comisión Nacional del Escalafón?",
+      "options": [
+        "El Director General de Educación o el representante oficial designado por el Ministerio del ramo",
+        "El Presidente de la Confederación de Empresarios Privados",
+        "El Fiscal Distrital en lo Penal",
+        "El Comandante de la Unidad Militar más cercana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4°, D.S. N° 04688",
+      "explicacion": "Las sesiones del órgano máximo del Escalafón son presididas por la autoridad técnica superior de la educación (Director General)."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 04688, un profesor de secundaria que trabaja en dos colegios fiscales en el mismo distrito percibe su bonificación de categoría sobre:",
+      "options": [
+        "El haber básico asignado a cada uno de los cargos o carga horaria que desempeña legalmente",
+        "Únicamente sobre el sueldo de menor monto",
+        "Sobre la suma de ambos sueldos multiplicada por tres",
+        "No percibe bonificación en el segundo cargo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37°, D.S. N° 04688",
+      "explicacion": "El porcentaje de categoría se aplica sobre el haber básico de las horas y ítems acumulados conforme a ley."
+    },
+    {
+      "question": "Según el D.S. N° 04688, ¿quién designa a los representantes del magisterio ante la Comisión Nacional del Escalafón?",
+      "options": [
+        "La organización sindical nacional representativa del magisterio mediante elección o mandato orgánico",
+        "El Ministro de Economía y Finanzas Públicas",
+        "El Defensor del Pueblo directamente",
+        "Los directores de colegios privados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4°, D.S. N° 04688",
+      "explicacion": "La representación docente ante la Comisión es elegida u otorgada conforme a los estatutos de la organización sindical del magisterio."
+    },
+    {
+      "question": "Conforme al D.S. N° 04688, las permutas entre dos maestros de igual categoría y nivel deben ser aprobadas por:",
+      "options": [
+        "Las Jefaturas Distritales involucradas y ratificadas por la Dirección General de Educación",
+        "Las juntas de vecinos de ambas comunidades",
+        "Los alcaldes municipales de los dos distritos",
+        "Un Notario de Fe Pública sin intervención del Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 68°, D.S. N° 04688",
+      "explicacion": "Las permutas requieren conformidad de partes y validación formal de las autoridades educativas competentes."
+    },
+    {
+      "question": "Según el D.S. N° 04688, si un maestro jubilar reingresa al servicio activo de la educación fiscal, ¿en qué categoría se le computa su salario?",
+      "options": [
+        "En la categoría que tenía consolidada al momento de su retiro o jubilación",
+        "Ingresa obligatoriamente a la Quinta Categoría perdiendo sus años anteriores",
+        "En la Categoría Cero de forma automática",
+        "Como docente interino sin derecho a bonificación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 78°, D.S. N° 04688",
+      "explicacion": "El reingreso del maestro jubilado respeta los derechos consolidados de categoría adquiridos durante su carrera."
+    },
+    {
+      "question": "De acuerdo con el Artículo 87° del D.S. N° 04688, la interpretación oficial y resolución de casos no previstos en el Reglamento del Escalafón corresponde a:",
+      "options": [
+        "El Ministerio de Educación en consulta con la Comisión Nacional del Escalafón",
+        "Los juzgados de mínima cuantía",
+        "Las comisiones de padres de familia de la capital",
+        "La Policía Nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 87°, D.S. N° 04688",
+      "explicacion": "La absolución de vacíos normativos o consultas del Escalafón es facultad privativa del Ministerio del ramo con la Comisión Nacional."
+    },
+    {
+      "question": "Según el D.S. N° 04688, un docente con 18 años de servicio en el magisterio que no solicitó su calificación de quinquenio durante 3 años, ¿mantiene su derecho a la 3ª Categoría?",
+      "options": [
+        "Sí, el derecho a la promoción es imprescriptible por el tiempo servido, surtiendo efectos económicos desde su aprobación",
+        "No, pierde definitivamente la antigüedad acumulada por no haberla reclamado en su momento",
+        "Se le degrada a la Quinta Categoría como sanción por negligencia",
+        "Debe rendir nuevamente el examen de egreso de la Escuela Normal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37° y 41°, D.S. N° 04688",
+      "explicacion": "La antigüedad acreditada es un derecho adquirido que se consolidará al momento del trámite de calificación de la categoría respectiva."
+    },
+    {
+      "question": "En el contexto del D.S. N° 04688, ¿cuál es el porcentaje de bonificación salarial que percibe un docente en la CATEGORÍA AL MÉRITO (Categoría Cero)?",
+      "options": [
+        "El 100% de la Primera Categoría más el porcentaje o asignación adicional fijada reglamentariamente para la distinción al mérito",
+        "Cincuenta por ciento (50%) de su haber básico únicamente",
+        "Doscientos cincuenta por ciento (250%) automático",
+        "Cero por ciento (0%) por tratarse de un título honorífico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20° y 37°, D.S. N° 04688",
+      "explicacion": "La Categoría Cero reconoce el 100% de la 1ª categoría más la bonificación de sobresaliente por mérito profesional continuo."
+    },
+    {
+      "question": "Según el D.S. N° 04688, los profesores de materias especiales (Música, Educación Física, Artes Plásticas) inscritos en el Escalafón gozan de:",
+      "options": [
+        "Los mismos derechos de categoría, promociones, bonificaciones e inamovilidad que los profesores de asignaturas teóricas",
+        "Un régimen salarial recortado al 50% de las demás asignaturas",
+        "La obligación de rendir examen de idoneidad todos los años",
+        "Prohibición de ejercer cargos de dirección de escuela"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6° y 18°, D.S. N° 04688",
+      "explicacion": "El Escalafón ampara con la misma igualdad de derechos de carrera a todos los docentes de materias especiales o técnicas."
+    },
+    {
+      "question": "Conforme al D.S. N° 04688, ¿qué organismo se encarga de publicar periódicamente el Escalafón General del Magisterio con las categorías actualizadas?",
+      "options": [
+        "El Ministerio de Educación a través del Departamento de Estadística y Personal",
+        "La Universidad Mayor de San Andrés",
+        "El Ministerio de Relaciones Exteriores",
+        "Los periódicos privados en ediciones especiales dominicales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3°, D.S. N° 04688",
+      "explicacion": "El Departamento de Personal publica oficialmente la lista general de maestros con sus respectivas matrículas y categorías vigentes."
+    },
+    {
+      "question": "De acuerdo con el Reglamento del Escalafón, si un maestro es trasladado por necesidad del servicio a otro distrito, ¿quién debe cubrir los gastos de transporte y viáticos?",
+      "options": [
+        "El Estado a través del presupuesto del Ministerio de Educación",
+        "El propio maestro con un descuento de su sueldo",
+        "Los padres de familia de la nueva escuela",
+        "El sindicato docente de la zona de llegada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 69°, D.S. N° 04688",
+      "explicacion": "Cuando el traslado obedece a razones de servicio oficial, el Estado debe garantizar los pasajes y gastos de instalación del docente."
+    },
+    {
+      "question": "Según el D.S. N° 04688, las licencias sin goce de haber concedidas a un docente por motivos personales hasta por un año:",
+      "options": [
+        "Interrumpen temporalmente el cómputo del tiempo de servicios, el cual se reanuda al momento de su reincorporación",
+        "Causan la pérdida definitiva de la matrícula de Escalafón",
+        "Permiten seguir cobrando las bonificaciones de categoría sin trabajar",
+        "Obligan a la devolución de todos los sueldos percibidos en los últimos 5 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26° y 72°, D.S. N° 04688",
+      "explicacion": "La licencia sin sueldo suspende el cómputo de antigüedad por el lapso de la vacancia voluntaria sin extinguir el registro."
+    },
+    {
+      "question": "En el marco del D.S. N° 04688, para que un diploma o certificado de capacitación expedido por un instituto extranjero sea válido en la calificación de méritos, se requiere:",
+      "options": [
+        "Que esté debidamente legalizado por las autoridades competentes y revalidado/reconocido por el Ministerio de Educación",
+        "Solo una traducción simple realizada por el propio interesado",
+        "Presentar la fotocopia del pasaporte turístico",
+        "No se aceptan bajo ninguna circunstancia estudios realizados en el exterior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25°, D.S. N° 04688",
+      "explicacion": "Los títulos e institutos del exterior requieren la homologación oficial del Ministerio para sumar puntos en el Factor A."
+    },
+    {
+      "question": "Según el D.S. N° 04688, un docente sancionado con suspensión temporal del cargo por proceso disciplinario no podrá:",
+      "options": [
+        "Computar el tiempo de suspensión para el ascenso de categoría ni percibir sueldos durante dicho periodo",
+        "Volver a ejercer la docencia en ningún lugar del país de por vida",
+        "Inscribirse en las listas de votantes de elecciones generales",
+        "Jubilarse bajo ninguna modalidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33° y 67°, D.S. N° 04688",
+      "explicacion": "La suspensión efectivizada resta tiempo de servicio y suspende el haber por el lapso que dure la sanción disciplinaria."
+    },
+    {
+      "question": "Conforme al D.S. N° 04688, los ascensos de categoría para el personal docente se procesan y aprueban de forma:",
+      "options": [
+        "Periódica y regular mediante resoluciones emitidas por la Comisión Nacional del Escalafón",
+        "Exclusiva cada diez años en elecciones generales de maestros",
+        "Unilateral por el Director de cada Unidad Educativa al finalizar la gestión",
+        "Automática sin revisión de documentos ni firmas de autoridades"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41° y 42°, D.S. N° 04688",
+      "explicacion": "Las comisiones evalúan los expedientes y la Comisión Nacional emite las resoluciones de aprobación de categoría formalmente."
+    },
+    {
+      "question": "En conclusión, según el D.S. N° 04688 (Reglamento del Escalafón Nacional del Servicio de Educación), la garantía fundamental del maestro boliviano radica en:",
+      "options": [
+        "La estabilidad en el cargo, el reconocimiento de su antigüedad mediante categorías salariales progresivas y el ascenso jerárquico por méritos",
+        "La posibilidad de fijar libremente el horario de clases sin control de autoridades",
+        "La exoneración total de pagar impuestos nacionales",
+        "La libertad de dictar cualquier programa de estudio sin seguir el plan oficial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2° y 66°, D.S. N° 04688",
+      "explicacion": "El Escalafón cimenta los pilares de la profesión docente: estabilidad laboral, carrera digna remunerada por antigüedad (categorías) e institucionalización jerárquica por méritos."
+    },
+    {
+      "question": "En el marco del D.S. N° 04688 (Reglamento del Escalafón Nacional del Servicio de Educación): ¿Cuál es el órgano que ejerce de Tribunal de Apelación con facultades revisoras y supervisoras sobre la calificación de servicios de todo el país?",
+      "options": [
+        "La Comisión Nacional del Escalafón",
+        "El Tribunal Supremo de Justicia",
+        "La Confederación Nacional de Maestros Jubilados",
+        "El Consejo Nacional de Educación Superior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46°, DS 4688",
+      "explicacion": "El Art. 46° consagra a la Comisión Nacional del Escalafón como el Tribunal de Apelación con facultades revisoras y supervisoras de las calificaciones."
+    }
+  ]
+}

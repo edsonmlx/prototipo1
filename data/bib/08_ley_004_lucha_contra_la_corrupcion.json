@@ -1,0 +1,2425 @@
+{
+  "bibliografia": {
+    "id": "08_ley_004_lucha_contra_la_corrupcion",
+    "nombre": "Ley 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito",
+    "detalle": "",
+    "grupo": "Normativa",
+    "rinden": [
+      "Todos los cargos"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objeto fundamental de la Ley N° 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas 'Marcelo Quiroga Santa Cruz' según su Artículo 1?",
+      "options": [
+        "Establecer mecanismos y procedimientos para prevenir, investigar, procesar y sancionar actos de corrupción y recuperar el patrimonio afectado del Estado",
+        "Crear un tribunal supremo penal independiente con atribuciones exclusivas para juzgar a autoridades electas",
+        "Sustituir el Código Penal boliviano en todo lo referente a delitos de función pública y faltas administrativas",
+        "Establecer la amnistía para ex servidores públicos que devuelvan voluntariamente el patrimonio afectado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 004",
+      "explicacion": "El Artículo 1 establece que la norma previene, investiga, procesa y sanciona actos de corrupción y busca recuperar el patrimonio del Estado."
+    },
+    {
+      "question": "¿Cómo define legalmente la 'Corrupción' el Artículo 2 de la Ley N° 004?",
+      "options": [
+        "Cualquier falta administrativa cometida en el ejercicio de la función pública sancionada con destitución",
+        "El requerimiento, aceptación, ofrecimiento u otorgamiento directo o indirecto de un objeto de valor pecuniario u otros beneficios a cambio de la acción u omisión de un acto que afecte los intereses del Estado",
+        "El cobro indebido de impuestos y aranceles tributarios no previstos en la Ley General de Aduanas",
+        "La apropiación indebida de bienes privados dentro de transacciones comerciales internacionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 2, Ley N° 004",
+      "explicacion": "El Artículo 2 define la corrupción como el requerimiento, aceptación, ofrecimiento u otorgamiento de beneficios o ventajas para sí o un tercero a cambio de acciones u omisiones que afecten al Estado."
+    },
+    {
+      "question": "Según el Artículo 4 de la Ley N° 004, ¿qué significa el principio ancestral de 'Ama Suwa' (No seas ladrón) / 'Uhua'na machapi'tya'?",
+      "options": [
+        "Que toda persona nacional o extranjera debe velar por los bienes y patrimonio del Estado, protegiéndolos y custodiándolos como si fueran propios",
+        "La obligación de los jueces de aplicar la justicia comunitaria en casos de robos menores",
+        "El derecho de las comunidades originarias a confiscar bienes privados dentro de su territorio",
+        "La prohibición de comerciar con bienes extranjeros en ferias y mercados locales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 004",
+      "explicacion": "El principio Ama Suwa impone la obligación de proteger y custodiar el patrimonio del Estado como si fuera propio en beneficio del bien común."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4 de la Ley N° 004, ¿qué implica el principio de 'Cooperación Amplia'?",
+      "options": [
+        "La obligación del sector privado de financiar los presupuestos del Ministerio de Transparencia",
+        "Que todas las entidades que tienen la misión de lucha contra la corrupción deben cooperarse mutuamente, trabajando de manera coordinada e intercambiando información sin restricción",
+        "La firma obligatoria de tratados bilaterales de extradición automática con países fronterizos",
+        "La participación sin restricciones de organizaciones internacionales en los juicios penales nacionales"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4, Ley N° 004",
+      "explicacion": "La Cooperación Amplia exige coordinación e intercambio de información sin restricciones entre entidades de lucha contra la corrupción."
+    },
+    {
+      "question": "Según el Artículo 5.II de la Ley N° 004, ¿cuál es el alcance respecto a inmunidades y fueros en la aplicación de esta ley?",
+      "options": [
+        "Otorga fuero diplomático a ministros de Estado y magistrados durante el ejercicio de sus funciones",
+        "No reconoce inmunidad, fuero o privilegio alguno, debiendo ser de aplicación preferente de conformidad con la CPE",
+        "Mantiene el fuero parlamentario requerida la previa autorización de dos tercios de la Asamblea Legislativa",
+        "Excluye de su aplicación a los miembros activos de las Fuerzas Armadas y Policía Boliviana"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.II, Ley N° 004",
+      "explicacion": "El Artículo 5.II establece categóricamente que la ley no reconoce inmunidad, fuero o privilegio alguno y es de aplicación preferente."
+    },
+    {
+      "question": "¿A quiénes se aplica la Ley N° 004 de acuerdo con el Artículo 5.I?",
+      "options": [
+        "Exclusivamente a servidores públicos de carrera del nivel central del Estado",
+        "A servidores y ex servidores públicos de todos los Órganos, entidades autónomas, Fuerzas Armadas, Policía, empresas estatales y personas privadas naturales o jurídicas que afecten recursos del Estado",
+        "Únicamente a personas privadas que cometan delitos financieros superiores a un millón de bolivianos",
+        "A autoridades electas del Órgano Ejecutivo excluyendo a las Entidades Territoriales Autónomas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 5.I, Ley N° 004",
+      "explicacion": "Su ámbito de aplicación abarca todos los niveles del Estado, Órganos, ETAs, Fuerzas Armadas, Policía, empresas públicas y personas privadas."
+    },
+    {
+      "question": "Según el Artículo 6 de la Ley N° 004, ¿quién preside el Consejo Nacional de Lucha Contra la Corrupción, Enriquecimiento Ilícito y Legitimación de Ganancias Ilícitas?",
+      "options": [
+        "El Fiscal General del Estado",
+        "El Contralor General del Estado",
+        "El Titular del Ministerio de Transparencia Institucional y Lucha Contra la Corrupción",
+        "El Presidente de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 6.II, Ley N° 004",
+      "explicacion": "El Consejo Nacional está presidido por el Titular del Ministerio de Transparencia Institucional y Lucha Contra la Corrupción."
+    },
+    {
+      "question": "Conforme al Artículo 6.I de la Ley N° 004, ¿cuál de las siguientes entidades forma parte del Consejo Nacional de Lucha Contra la Corrupción?",
+      "options": [
+        "El Tribunal Constitucional Plurinacional",
+        "La Unidad de Investigaciones Financieras (UIF)",
+        "El Defensor del Pueblo",
+        "La Autoridad de Supervisión del Sistema Financiero (ASFI)"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.I, Ley N° 004",
+      "explicacion": "El Consejo lo integran: Min. Transparencia, Min. Gobierno, Ministerio Público, CGE, UIF, Procuraduría General y Representantes de la Sociedad Civil Organizada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.III de la Ley N° 004, ¿con qué frecuencia debe reunirse ordinariamente el Consejo Nacional de Lucha Contra la Corrupción?",
+      "options": [
+        "Una vez al mes de manera obligatoria",
+        "Por lo menos cuatro veces al año, y extraordinariamente a convocatoria de cuatro de sus miembros",
+        "Dos veces al año previa autorización de la Asamblea Legislativa",
+        "Únicamente cuando se presenten casos de conmoción social o daño económico grave"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 6.III, Ley N° 004",
+      "explicacion": "Se reúne de forma ordinaria al menos 4 veces al año y extraordinariamente a convocatoria de 4 de sus miembros."
+    },
+    {
+      "question": "Según el Artículo 8 de la Ley N° 004, ¿ante qué instancias tiene la obligación el Consejo Nacional de informar anualmente sobre los resultados alcanzados?",
+      "options": [
+        "Al Presidente del Estado Plurinacional, a la Asamblea Legislativa Plurinacional y a la Sociedad Civil Organizada",
+        "Exclusivamente al Tribunal Supremo de Justicia y al Consejo de la Magistratura",
+        "Al Ministerio de Economía y Finanzas Públicas y al Banco Central de Bolivia",
+        "A la Comisión de Derechos Humanos de la Organización de las Naciones Unidas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 004",
+      "explicacion": "Debe informar anualmente sobre el Plan Nacional y metas al Presidente del Estado, a la ALP y a la Sociedad Civil Organizada."
+    },
+    {
+      "question": "Conforme al Artículo 10 de la Ley N° 004, ¿cuál de las siguientes es una atribución explícita del Control Social?",
+      "options": [
+        "Dictar sentencias condenatorias en juicios orales por faltas administrativas",
+        "Identificar y denunciar hechos de corrupción y falta de transparencia ante autoridades competentes y coadyuvar en procesos",
+        "Aprobar las partidas presupuestarias anuales de los Ministerios de Estado",
+        "Designar directamente a los Fiscales Especializados Anticorrupción"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 10, Ley N° 004",
+      "explicacion": "Son atribuciones del Control Social identificar, denunciar hechos de corrupción/falta de transparencia y coadyuvar en procesos administrativos y judiciales."
+    },
+    {
+      "question": "Según el Artículo 11 de la Ley N° 004, ¿qué entidad designará el número de jueces necesarios en cada departamento para los Tribunales y Juzgados Anticorrupción?",
+      "options": [
+        "La Asamblea Legislativa Plurinacional",
+        "El Ministerio de Transparencia Institucional",
+        "El Consejo de la Magistratura",
+        "El Tribunal Supremo de Justicia"
+      ],
+      "answer": 2,
+      "fuente": "Artículo 11.II, Ley N° 004",
+      "explicacion": "El Consejo de la Magistratura designará en cada departamento el número de jueces necesarios para conocer y resolver estos procesos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 12 de la Ley N° 004, ¿quién designa a los Fiscales Especializados Anticorrupción en cada Departamento?",
+      "options": [
+        "El Ministro de Justicia y Transparencia Institucional",
+        "El Fiscal General del Estado conforme a la Ley Orgánica del Ministerio Público",
+        "El Presidente del Tribunal Supremo de Justicia",
+        "El Gobernador de cada Departamento Autónomo"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 12, Ley N° 004",
+      "explicacion": "El Fiscal General del Estado designa en cada departamento fiscales especializados dedicados exclusivamente a la investigación anticorrupción."
+    },
+    {
+      "question": "Según el Artículo 14 de la Ley N° 004, ¿cuál es la obligación de la Máxima Autoridad Ejecutiva (MAE) de una entidad afectada por delitos de corrupción?",
+      "options": [
+        "Debe someter el caso a un arbitraje comercial antes de acudir a la vía penal",
+        "Debe constituirse obligatoriamente en parte querellante promoviendo las acciones legales; su omisión constituye incumplimiento de deberes",
+        "Puede optar por condonar la deuda si el funcionario devuelve el 50% de lo sustraído",
+        "Debe derivar el caso exclusivamente al sumario interno administrativo deteniendo la acción penal"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 14, Ley N° 004",
+      "explicacion": "La MAE debe constituirse obligatoriamente en parte querellante; omitirlo constituye delito de incumplimiento de deberes."
+    },
+    {
+      "question": "Conforme al Artículo 17.IV de la Ley N° 004, en caso de pronunciarse sentencia absolutoria ejecutoriada, ¿en qué plazo la autoridad levantará la reserva de identidad del denunciante a solicitud de parte?",
+      "options": [
+        "En el plazo máximo de 24 horas hábiles",
+        "En el plazo máximo de 72 horas",
+        "En un plazo no mayor a 15 días calendario",
+        "La reserva de identidad es perpetua y nunca puede levantarse"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 17.IV, Ley N° 004",
+      "explicacion": "Ejecutoriada la sentencia absolutoria, se levantará la reserva de identidad en un plazo máximo de 72 horas a solicitud interesada."
+    },
+    {
+      "question": "Según el Artículo 18 de la Ley N° 004, la Unidad de Investigaciones Financieras (UIF) realizará actividades de inteligencia financiera y patrimonial a requerimiento escrito de:",
+      "options": [
+        "El Ministerio de Transparencia, Procuraduría General del Estado y/o Fiscales Anticorrupción, o de oficio",
+        "Cualquier ciudadano particular sin necesidad de fundamentación alguna",
+        "La Brigada Parlamentaria departamental correspondiente",
+        "La Defensoría del Pueblo únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18.1, Ley N° 004",
+      "explicacion": "La UIF actúa a requerimiento escrito del Min. Transparencia, Procuraduría, Fiscales Anticorrupción o de oficio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 19.I de la Ley N° 004, ¿se requiere orden judicial para obtener información protegida por secreto comercial, tributario, de valores y seguros en investigaciones anticorrupción?",
+      "options": [
+        "Sí, se requiere orden judicial fundada del juez de instrucción en lo penal",
+        "No, se obtendrá sin necesidad de orden judicial, requerimiento fiscal ni trámite previo alguno",
+        "Sí, se requiere autorización previa de la Autoridad de Supervisión del Sistema Financiero",
+        "Únicamente se requiere resolución expresa de la Asamblea Legislativa"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 19.I, Ley N° 004",
+      "explicacion": "No se puede invocar secreto en valores, seguros, comercial o tributario; la información se obtiene sin orden judicial ni requerimiento fiscal previo."
+    },
+    {
+      "question": "Según el Artículo 20.I de la Ley N° 004, ¿existe secreto bancario en la investigación de fortunas y delitos de corrupción?",
+      "options": [
+        "Sí, el secreto bancario es absoluto e inviolable conforme a la Constitución",
+        "No existe confidencialidad en cuanto a las operaciones financieras en procesos donde se investiguen fortunas o delitos de corrupción",
+        "Solo se levanta el secreto bancario para montos superiores a un millón de dólares",
+        "Aplica solo a servidores públicos de nivel jerárquico y no a personas privadas"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 20.I, Ley N° 004",
+      "explicacion": "El Artículo 20.I establece expresamente que no existe confidencialidad u opacidad financiera cuando se investigan delitos de corrupción o fortunas."
+    },
+    {
+      "question": "Según el Artículo 20.II de la Ley N° 004, ¿qué ocurre con la renuncia voluntaria al secreto bancario realizada por un servidor público cuando concluye sus funciones?",
+      "options": [
+        "La renuncia efectuada quedará sin efecto cuando el servidor público concluya sus funciones",
+        "Se mantiene vigente de forma indefinida hasta su fallecimiento",
+        "Pasa a ser administrada exclusivamente por la Contraloría General del Estado por 10 años",
+        "Se convierte automáticamente en una declaración jurada de bienes y rentas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.II, Ley N° 004",
+      "explicacion": "El Art. 20.II establece que la renuncia voluntaria al secreto bancario queda sin efecto al concluir las funciones del servidor público."
+    },
+    {
+      "question": "Conforme al Artículo 23 de la Ley N° 004, ¿qué entidad tiene a su cargo el Sistema Integrado de Información Anticorrupción y de Recuperación de Bienes del Estado (SIIARBE)?",
+      "options": [
+        "La Contraloría General del Estado",
+        "El Ministerio de Transparencia Institucional y Lucha Contra la Corrupción",
+        "El Banco Central de Bolivia",
+        "La Policía Boliviana"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 23.I, Ley N° 004",
+      "explicacion": "El SIIARBE se crea a cargo del Ministerio de Transparencia Institucional y Lucha Contra la Corrupción."
+    },
+    {
+      "question": "Según el Artículo 25 de la Ley N° 004, ¿cuántos nuevos tipos penales se crean e introducen expresamente en esta ley?",
+      "options": [
+        "Ocho (8) nuevos tipos penales",
+        "Cinco (5) nuevos tipos penales",
+        "Doce (12) nuevos tipos penales",
+        "Tres (3) nuevos tipos penales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Ley N° 004",
+      "explicacion": "Se crean 8 nuevos tipos penales: Uso indebido de bienes, Enriquecimiento ilícito, Enriquecimiento ilícito de particulares, Favorecimiento, Cohecho activo transnacional, Cohecho pasivo transnacional, Obstrucción de justicia y Falsedad en DDJJ."
+    },
+    {
+      "question": "De acuerdo con el Artículo 26 de la Ley N° 004, ¿cuál es la pena para la servidora o servidor público que otorgue un fin distinto a los bienes o derechos del Estado a los que tenga acceso en razón de su cargo?",
+      "options": [
+        "Privación de libertad de uno a cuatro años",
+        "Multa de 30 días únicamente",
+        "Privación de libertad de diez a quince años",
+        "Trabajo comunitario de 50 semanas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26, Ley N° 004",
+      "explicacion": "El Uso Indebido de Bienes y Servicios Públicos en su tipo básico se sanciona con privación de libertad de 1 a 4 años."
+    },
+    {
+      "question": "Según el Artículo 26 de la Ley N° 004, si por el 'Uso Indebido de Bienes y Servicios Públicos' el bien sufriere deterioro, destrozos o pereciere, ¿cuál será la pena aplicada?",
+      "options": [
+        "Privación de libertad de tres a ocho años y reparación del daño causado",
+        "Privación de libertad de uno a tres años sin reparación económica",
+        "Multa pecuniaria equivalente al 100% del valor del bien únicamente",
+        "Inhabilitación especial por seis meses"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26 (párrafo segundo), Ley N° 004",
+      "explicacion": "Si el bien sufre deterioro, destrozos o perece, la pena se eleva de 3 a 8 años más reparación del daño."
+    },
+    {
+      "question": "Conforme al Artículo 27 de la Ley N° 004, ¿cuál es la sanción para el servidor público que incurra en el delito de 'Enriquecimiento Ilícito'?",
+      "options": [
+        "Privación de libertad de cinco a diez años, inhabilitación, multa de 200 a 500 días y decomiso de bienes ilegales",
+        "Privación de libertad de uno a tres años sustituible por fianza de buena conducta",
+        "Multa del 50% de su patrimonio sin pena privativa de libertad",
+        "Inhabilitación temporal de un año sin sanción penal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, Ley N° 004",
+      "explicacion": "El Enriquecimiento Ilícito de servidor público se sanciona con 5 a 10 años de cárcel, inhabilitación, multa de 200 a 500 días y decomiso."
+    },
+    {
+      "question": "Según el Artículo 28 de la Ley N° 004, la persona natural que mediante actividad privada incremente desproporcionadamente su patrimonio afectando al Estado comete 'Enriquecimiento Ilícito de Particulares' y es sancionada con:",
+      "options": [
+        "Privación de libertad de tres a ocho años, multa de 100 a 300 días y decomiso de bienes",
+        "Privación de libertad de diez a veinte años sin derecho a fianza",
+        "Prestación de trabajo de 100 días y multa de 50 días",
+        "Multa del 10% de sus ingresos anuales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 004",
+      "explicacion": "Sanciona al particular con privación de libertad de 3 a 8 años, multa de 100 a 300 días y decomiso de bienes ilícitos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28 de la Ley N° 004, ¿qué sanción adicional se impone a la PERSONA JURÍDICA cuyo representante incremente su patrimonio afectando al Estado?",
+      "options": [
+        "Restituirá al Estado los bienes afectados y será sancionada con una multa del 25% de su patrimonio",
+        "La disolución inmediata de la empresa sin derecho a liquidación",
+        "Una multa equivalente al 100% de sus ventas anuales",
+        "Clausura temporal de tres días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28 (párrafo segundo), Ley N° 004",
+      "explicacion": "Adicionalmente la persona jurídica restituirá los bienes afectados y pagará una multa del 25% de su patrimonio."
+    },
+    {
+      "question": "Según el Artículo 29 de la Ley N° 004, quien con el fin de ocultar o legitimar el incremento patrimonial ilícito facilitare su nombre o participare en actividades comerciales incurre en 'Favorecimiento al Enriquecimiento Ilícito' y será sancionado con:",
+      "options": [
+        "Privación de libertad de tres a ocho años, inhabilitación y multa de 50 a 500 días",
+        "Privación de libertad de uno a dos años convertible en multa",
+        "Trabajo comunitario de 52 semanas",
+        "Arresto de fin de semana durante seis meses"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 004",
+      "explicacion": "Favorecimiento al Enriquecimiento Ilícito se sanciona con privación de libertad de 3 a 8 años, inhabilitación y multa de 50 a 500 días."
+    },
+    {
+      "question": "Conforme al Artículo 30 de la Ley N° 004, quien ofreciere o prometiere beneficios a un funcionario público extranjero para obtener ventajas en comercio internacional incurre en 'Cohecho Activo Transnacional' con una pena de:",
+      "options": [
+        "Privación de libertad de cinco a diez años y multa de 100 a 500 días",
+        "Privación de libertad de uno a tres años sin multa",
+        "Multa fija de 10.000 bolivianos únicamente",
+        "Privación de libertad de quince a veinte años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 004",
+      "explicacion": "El Cohecho Activo Transnacional se sanciona con privación de libertad de 5 a 10 años y multa de 100 a 500 días."
+    },
+    {
+      "question": "Según el Artículo 31 de la Ley N° 004, ¿cuál es la pena para el funcionario público extranjero que solicitare o aceptare un beneficio indebido ('Cohecho Pasivo Transnacional')?",
+      "options": [
+        "Privación de libertad de tres a ocho años y multa de 50 a 500 días",
+        "Privación de libertad de diez a quince años",
+        "Excursión migratoria obligatoria sin sanción penal",
+        "Multa de 20 días sin pena de cárcel"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 004",
+      "explicacion": "El Cohecho Pasivo Transnacional tiene una pena de privación de libertad de 3 a 8 años y multa de 50 a 500 días."
+    },
+    {
+      "question": "De acuerdo con el Artículo 32 de la Ley N° 004, quien mediante violencia, amenazas o promesas induzca a prestar falso testimonio en procesos anticorrupción comete 'Obstrucción de la Justicia' con una pena de:",
+      "options": [
+        "Privación de libertad de tres a ocho años y multa de 30 a 500 días",
+        "Privación de libertad de seis meses a dos años",
+        "Arresto policial de 24 horas",
+        "Multa de 10 a 20 días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32, Ley N° 004",
+      "explicacion": "El tipo penal de Obstrucción de la Justicia se sanciona con privación de libertad de 3 a 8 años y multa de 30 a 500 días."
+    },
+    {
+      "question": "Según el Artículo 32 de la Ley N° 004, si la violencia o amenazas se ejercieren directamente contra Jueces, Fiscales o Policías anticorrupción, la pena por Obstrucción de la Justicia se agravará en:",
+      "options": [
+        "Una mitad de la sanción establecida",
+        "Un tercio del mínimo legal",
+        "El doble del máximo de la pena",
+        "Cinco años adicionales de prisión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32 (párrafo segundo), Ley N° 004",
+      "explicacion": "Se agravará la sanción en una mitad cuando se ejerza fuerza o amenazas contra jueces, fiscales, policías u oficiales anticorrupción."
+    },
+    {
+      "question": "Conforme al Artículo 33 de la Ley N° 004, la persona que falseare u omitiere insertar datos en su Declaración Jurada de Bienes y Rentas incurre en delito sancionado con:",
+      "options": [
+        "Privación de libertad de uno a cuatro años y multa de 50 a 200 días",
+        "Multa de 5 días de haber diario únicamente",
+        "Privación de libertad de cinco a diez años",
+        "Destitución automática sin proceso ni pena privativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 004",
+      "explicacion": "La Falsedad en la Declaración Jurada de Bienes y Rentas se sanciona con 1 a 4 años de cárcel y multa de 50 a 200 días."
+    },
+    {
+      "question": "Según el Artículo 35 de la Ley N° 004, ¿qué beneficio obtiene el instigador, cómplice o encubridor que voluntariamente denuncie y colabore en la investigación de delitos de corrupción?",
+      "options": [
+        "Reducción de dos tercios de la pena que le correspondiere",
+        "Perdón judicial automático y exención total de pena",
+        "Inmunidad procesal absoluta y recompensa económica",
+        "Reducción de la mitad de la multa únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, Ley N° 004",
+      "explicacion": "Quien participe y voluntariamente denuncie y colabore se beneficiará con la reducción de dos tercios (2/3) de la pena."
+    },
+    {
+      "question": "De acuerdo con la modificación del Artículo 105 del Código Penal (por Art. 34 de la Ley N° 004), ¿cuándo prescribe la POTESTAD PARA EJECUTAR LA PENA en delitos de corrupción?",
+      "options": [
+        "No procederá la prescripción de la pena, bajo ninguna circunstancia, en delitos de corrupción",
+        "Prescribe a los diez años si la pena supera los cinco años de prisión",
+        "Prescribe a los veinte años computados desde la condena",
+        "Prescribe en un plazo igual al doble de la condena impuesta"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 105 CP), Ley N° 004",
+      "explicacion": "El Artículo 105 modificado establece expresamente que no procederá la prescripción de la pena bajo ninguna circunstancia en delitos de corrupción."
+    },
+    {
+      "question": "Según el Artículo 142 del Código Penal modificado por la Ley N° 004, el delito de 'Peculado' se sanciona con una pena privativa de libertad de:",
+      "options": [
+        "Cinco a diez años y multa de 200 a 500 días",
+        "Uno a tres años y multa de 50 días",
+        "Tres a ocho años sin multa",
+        "Diez a quince años y confiscación total"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 142 CP), Ley N° 004",
+      "explicacion": "El Peculado (apropiación de dinero o bienes administrados) se sanciona con privación de libertad de 5 a 10 años y multa de 200 a 500 días."
+    },
+    {
+      "question": "Conforme al Artículo 144 del Código Penal modificado por la Ley N° 004, el servidor público que diere a los caudales que administra una aplicación distinta de la destinada comete 'Malversación' sancionada con:",
+      "options": [
+        "Privación de libertad de tres a ocho años y multa de 100 a 250 días",
+        "Privación de libertad de uno a dos años",
+        "Multa equivalente al doble del monto malversado",
+        "Trabajo comunitario de 100 días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 144 CP), Ley N° 004",
+      "explicacion": "La Malversación se sanciona con privación de libertad de 3 a 8 años y multa de 100 a 250 días."
+    },
+    {
+      "question": "Según el Artículo 144 del Código Penal modificado por la Ley N° 004, si del delito de 'Malversación' resultare daño o entorpecimiento para el servicio público, la sanción será:",
+      "options": [
+        "Agravada en un tercio",
+        "Agravada en una mitad",
+        "Aumentada al doble de la pena máxima",
+        "Convertida automáticamente en delito de Peculado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 144 CP), Ley N° 004",
+      "explicacion": "Si resulta daño o entorpecimiento al servicio público, la pena de malversación se agrava en un tercio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 145 del Código Penal modificado por la Ley N° 004, el 'Cohecho Pasivo Propio' se configura cuando el servidor público recibe dádivas para hacer o dejar de hacer un acto de sus funciones y se sanciona con:",
+      "options": [
+        "Privación de libertad de tres a ocho años y multa de 50 a 150 días",
+        "Privación de libertad de uno a tres años",
+        "Inhabilitación temporal de un mes",
+        "Privación de libertad de cinco a diez años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 145 CP), Ley N° 004",
+      "explicacion": "El Cohecho Pasivo Propio sanciona al servidor público con privación de libertad de 3 a 8 años y multa de 50 a 150 días."
+    },
+    {
+      "question": "Según el Artículo 146 del Código Penal modificado por la Ley N° 004, el 'Uso Indebido de Influencias' cometido por servidor público para obtener ventajas se sanciona con:",
+      "options": [
+        "Privación de libertad de tres a ocho años y multa de 100 a 500 días",
+        "Privación de libertad de uno a cuatro años",
+        "Multa de 30 días sin prisión",
+        "Privación de libertad de ocho a doce años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 146 CP), Ley N° 004",
+      "explicacion": "El Uso Indebido de Influencias se sanciona con privación de libertad de 3 a 8 años y multa de 100 a 500 días."
+    },
+    {
+      "question": "Conforme al Artículo 147 del Código Penal modificado por la Ley N° 004, el servidor público que en consideración a su cargo admitiere regalos u otros beneficios comete 'Beneficios en Razón del Cargo' con pena de:",
+      "options": [
+        "Privación de libertad de tres a ocho años y multa de 100 a 250 días",
+        "Multa equivalente al valor del regalo únicamente",
+        "Privación de libertad de seis meses a dos años",
+        "Destitución con multa de 10 días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 147 CP), Ley N° 004",
+      "explicacion": "Admitir regalos u otros beneficios en razón del cargo se sanciona con privación de libertad de 3 a 8 años y multa de 100 a 250 días."
+    },
+    {
+      "question": "Según el Artículo 149 del Código Penal modificado por la Ley N° 004, el servidor público obligado que omitiere declarar sus bienes y rentas al tomar posesión o dejar el cargo comete 'Omisión de Declaración de Bienes y Rentas' sancionada con:",
+      "options": [
+        "Multa de treinta días",
+        "Privación de libertad de uno a tres años",
+        "Inhabilitación de por vida para el ejercicio público",
+        "Destitución inmediata con arresto de 48 horas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 149 CP), Ley N° 004",
+      "explicacion": "La Omisión de Declaración de Bienes y Rentas a la toma o cesación del cargo se sanciona con multa de 30 días."
+    },
+    {
+      "question": "De acuerdo con el Artículo 150 del Código Penal modificado por la Ley N° 004, las 'Negociaciones Incompatibles con el Ejercicio de Funciones Públicas' se sancionan con:",
+      "options": [
+        "Privación de libertad de cinco a diez años y multa de 30 a 500 días",
+        "Privación de libertad de uno a tres años",
+        "Multa de 100 días sin pena corporal",
+        "Privación de libertad de diez a quince años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 150 CP), Ley N° 004",
+      "explicacion": "Interesarse y obtener un beneficio en contratos u operaciones en razón del cargo se sanciona con 5 a 10 años de cárcel y multa de 30 a 500 días."
+    },
+    {
+      "question": "Según el Artículo 150 Bis del Código Penal incorporado por la Ley N° 004, ¿a qué particulares se aplica la pena de 5 a 10 años por 'Negociaciones Incompatibles'?",
+      "options": [
+        "Árbitros, peritos, auditores, contadores, martilleros, tutores, curadores, albaceas y síndicos respecto a actos u operaciones en que intervienen",
+        "A cualquier comerciante minorista que venda insumos al sector público",
+        "Exclusivamente a los propietarios de empresas de construcción vial",
+        "A los abogados defensores de oficio en causas de materia penal ordinaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 150 Bis CP), Ley N° 004",
+      "explicacion": "Aplica a árbitros, peritos, auditores, contadores, martilleros, tutores, curadores, albaceas y síndicos."
+    },
+    {
+      "question": "Conforme al Artículo 151 del Código Penal modificado por la Ley N° 004, el servidor público que con abuso de su condición exigiere u obtuviere dinero u otra ventaja ilegítima comete 'Concusión' con pena de:",
+      "options": [
+        "Privación de libertad de tres a ocho años",
+        "Privación de libertad de uno a tres años",
+        "Multa de 50 días de salario mínimo",
+        "Privación de libertad de cinco a diez años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 151 CP), Ley N° 004",
+      "explicacion": "El delito de Concusión se sanciona con privación de libertad de 3 a 8 años."
+    },
+    {
+      "question": "Según el Artículo 152 del Código Penal modificado por la Ley N° 004, la 'Exacción' se diferencia de la concusión en que las exacciones se exigen para convertirlas en beneficio de:",
+      "options": [
+        "La administración pública",
+        "Un partido político de oposición",
+        "Una empresa privada extranjera",
+        "El patrimonio personal del funcionario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 152 CP), Ley N° 004",
+      "explicacion": "Las exacciones se diferencian en que se obtienen para convertirlas en beneficio de la administración pública (pena 1 a 4 años)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 153 del Código Penal modificado por la Ley N° 004, la autoridad o fiscal que dictare 'Resoluciones Contrarias a la Constitución y a las Leyes' será sancionado con:",
+      "options": [
+        "Privación de libertad de cinco a diez años",
+        "Privación de libertad de dos a cuatro años",
+        "Multa de 100 días y suspensión de un mes",
+        "Privación de libertad de uno a tres años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 153 CP), Ley N° 004",
+      "explicacion": "Dictar resoluciones contrarias a la Constitución o las leyes tiene una pena de privación de libertad de 5 a 10 años."
+    },
+    {
+      "question": "Según el Artículo 154 del Código Penal modificado por la Ley N° 004, el 'Incumplimiento de Deberes' se sanciona con privación de libertad de 1 a 4 años, y si ocasiona daño económico al Estado la pena será:",
+      "options": [
+        "Agravada en un tercio",
+        "Agravada en una mitad",
+        "Aumentada al doble",
+        "Convertida en delito de conducta antieconómica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 154 CP), Ley N° 004",
+      "explicacion": "El Incumplimiento de Deberes se agrava en un tercio si ocasiona daño económico al Estado."
+    },
+    {
+      "question": "Conforme al Artículo 157 del Código Penal modificado por la Ley N° 004, el servidor público que propusiere en terna o nombrare para un cargo a quien no reúna condiciones legales comete 'Nombramientos Ilegales' sancionado con:",
+      "options": [
+        "Privación de libertad de uno a cuatro años y multa de 30 a 100 días",
+        "Multa de 10 días sin pena corporal",
+        "Inhabilitación de tres meses únicamente",
+        "Privación de libertad de tres a seis años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 157 CP), Ley N° 004",
+      "explicacion": "Nombramientos Ilegales sanciona con privación de libertad de 1 a 4 años y multa de 30 a 100 días."
+    },
+    {
+      "question": "Según el Artículo 172 Bis del Código Penal incorporado por la Ley N° 004, quien ayudare a asegurar el resultado de un delito de corrupción o recibiere a sabiendas sus ganancias incurre en 'Receptación Proveniente de Delitos de Corrupción' con pena de:",
+      "options": [
+        "Privación de libertad de tres a ocho años y decomiso de bienes ilícitos",
+        "Privación de libertad de uno a tres años",
+        "Multa equivalente al 10% del valor del bien",
+        "Trabajo comunitario de 20 semanas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 172 Bis CP), Ley N° 004",
+      "explicacion": "Se sanciona con privación de libertad de 3 a 8 años y decomiso de los bienes ilícitos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 173 del Código Penal modificado por la Ley N° 004, el 'Prevaricato' cometido por juez que dictare resolución manifiestamente contraria a la ley se sanciona con privación de libertad de:",
+      "options": [
+        "Cinco a diez años",
+        "Uno a tres años",
+        "Diez a quince años",
+        "Dos a cinco años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 173 CP), Ley N° 004",
+      "explicacion": "El Prevaricato de juez tiene una pena privativa de libertad de 5 a 10 años."
+    },
+    {
+      "question": "Según el Artículo 173 Bis del Código Penal incorporado por la Ley N° 004, el 'Cohecho Pasivo de Juez o Fiscal' (aceptar dádivas para dictar o demorar un fallo) se sanciona con:",
+      "options": [
+        "Privación de libertad de cinco a diez años, multa de 200 a 500 días e inhabilitación especial",
+        "Privación de libertad de tres a cinco años sin inhabilitación",
+        "Multa de 50 días y suspensión temporal por 30 días",
+        "Privación de libertad de quince a veinte años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 173 Bis CP), Ley N° 004",
+      "explicacion": "Se sanciona con 5 a 10 años de presidio, multa de 200 a 500 días e inhabilitación especial para función pública."
+    },
+    {
+      "question": "Conforme al Artículo 174 del Código Penal modificado por la Ley N° 004, el juez o fiscal que concertare la formación de consorcios con abogados para ventajas ilícitas comete 'Consorcio de Jueces, Fiscales y/o Abogados' sancionado con:",
+      "options": [
+        "Privación de libertad de cinco a diez años",
+        "Privación de libertad de dos a cuatro años",
+        "Inhabilitación temporal de un año",
+        "Multa de 100 días de salario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 174 CP), Ley N° 004",
+      "explicacion": "El Consorcio de Jueces, Fiscales y/o Abogados se sanciona con privación de libertad de 5 a 10 años."
+    },
+    {
+      "question": "Según el Artículo 185 Bis del Código Penal modificado por la Ley N° 004, ¿cuál es la característica de la investigación del delito de 'Legitimación de Ganancias Ilícitas'?",
+      "options": [
+        "Es un delito autónomo que se investiga, enjuicia y sentencia sin necesidad de sentencia condenatoria previa del delito del que proceden los recursos",
+        "Requiere obligatoriamente de una sentencia penal previa firme condenando por narcotráfico o contrabando",
+        "Solo puede ser investigado si la cuantía supera el medio millón de bolivianos",
+        "Prescribe a los tres años de cometida la transferencia patrimonial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 185 Bis CP), Ley N° 004",
+      "explicacion": "Se ratifica expresamente que es un delito autónomo que no requiere sentencia condenatoria previa del delito subyacente."
+    },
+    {
+      "question": "De acuerdo con el Artículo 221 del Código Penal modificado por la Ley N° 004, la servidora o servidor público que a sabiendas celebrare 'Contratos Lesivos al Estado' será sancionado con:",
+      "options": [
+        "Privación de libertad de cinco a diez años",
+        "Privación de libertad de uno a tres años",
+        "Multa de 50 días únicamente",
+        "Privación de libertad de diez a quince años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 221 CP), Ley N° 004",
+      "explicacion": "Contratos Lesivos al Estado en su modalidad dolosa se sanciona con privación de libertad de 5 a 10 años."
+    },
+    {
+      "question": "Según el Artículo 221 del Código Penal modificado por la Ley N° 004, si el funcionario celebrare un contrato lesivo actuando CULPOSAMENTE, la pena será de:",
+      "options": [
+        "Privación de libertad de uno a cuatro años",
+        "Multa de 10 días sin prisión",
+        "Trabajo comunitario de 6 meses",
+        "Privación de libertad de tres a cinco años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 221 CP), Ley N° 004",
+      "explicacion": "En caso de actuar culposamente en Contratos Lesivos al Estado, la pena es de privación de libertad de 1 a 4 años."
+    },
+    {
+      "question": "Conforme al Artículo 222 del Código Penal modificado por la Ley N° 004, el particular que habiendo celebrado contratos con el Estado no los cumpliere sin justa causa incurre en 'Incumplimiento de Contratos' sancionado con:",
+      "options": [
+        "Privación de libertad de tres a ocho años",
+        "Multa del 10% del contrato sin sanción de prisión",
+        "Inhabilitación comercial de un año",
+        "Privación de libertad de uno a tres años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 222 CP), Ley N° 004",
+      "explicacion": "El Incumplimiento de Contratos doloso con el Estado se sanciona con privación de libertad de 3 a 8 años."
+    },
+    {
+      "question": "Según el Artículo 224 del Código Penal modificado por la Ley N° 004, el servidor público que en ejercicio de cargos directivos causare daño al patrimonio de empresas estatales por mala administración incurre en 'Conducta Antieconómica' dolosa con pena de:",
+      "options": [
+        "Privación de libertad de tres a ocho años",
+        "Privación de libertad de uno a dos años",
+        "Multa de 100 días de salario mínimo",
+        "Privación de libertad de diez a veinte años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 224 CP), Ley N° 004",
+      "explicacion": "La Conducta Antieconómica dolosa se sanciona con privación de libertad de 3 a 8 años."
+    },
+    {
+      "question": "De acuerdo con el Artículo 225 del Código Penal modificado por la Ley N° 004, el servidor público que posea datos reservados de política económica y los revelare incurre en 'Infidencia Económica' sancionado con:",
+      "options": [
+        "Privación de libertad de uno a cuatro años",
+        "Multa de 20 días únicamente",
+        "Privación de libertad de cinco a diez años",
+        "Destitución sin sanción penal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 225 CP), Ley N° 004",
+      "explicacion": "La Infidencia Económica se sanciona con privación de libertad de 1 a 4 años."
+    },
+    {
+      "question": "Según el Artículo 228 Bis del Código Penal incorporado por la Ley N° 004, si el servidor público exigiere contribuciones ilegítimas CAUSANDO DAÑO ECONÓMICO AL ESTADO, la pena será de:",
+      "options": [
+        "Privación de libertad de tres a ocho años",
+        "Privación de libertad de uno a tres años",
+        "Multa de 50 días de haber diario",
+        "Privación de libertad de ocho a doce años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 228 Bis CP), Ley N° 004",
+      "explicacion": "El Art. 228 Bis sanciona la exigencia de contribuciones ilegítimas con daño económico con pena de 3 a 8 años."
+    },
+    {
+      "question": "Conforme al Artículo 229 del Código Penal modificado por la Ley N° 004, el SERVIDOR PÚBLICO que organizare o dirigiere sociedades ficticias para obtener privilegios indebidos será sancionado con:",
+      "options": [
+        "Privación de libertad de tres a ocho años y multa de 30 a 100 días",
+        "Privación de libertad de uno a cuatro años y multa de 100 a 500 días",
+        "Multa de 20 días sin privación de libertad",
+        "Inhabilitación temporal de seis meses"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 229 CP), Ley N° 004",
+      "explicacion": "Si el delito de Sociedades Ficticias es cometido por servidor público, la pena se eleva a 3 a 8 años de cárcel y multa de 30 a 100 días."
+    },
+    {
+      "question": "Según el Artículo 230 del Código Penal modificado por la Ley N° 004, la pena básica para quien negociare ilegalmente liberaciones o franquicias diplomáticas es de 3 a 8 años; si el autor fuera SERVIDOR PÚBLICO la pena será:",
+      "options": [
+        "Agravada en un tercio",
+        "Agravada en una mitad",
+        "Elevada al doble de la pena máxima",
+        "Agravada en dos tercios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 230 CP), Ley N° 004",
+      "explicacion": "Si la concesión o negociación ilegal de franquicias la comete un servidor público, la pena de 3 a 8 años se agrava en un tercio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 36 de la Ley N° 004, que incorpora el Artículo 29 Bis al Código de Procedimiento Penal, ¿cuál es la regla constitucional sobre la IMPRESCRIPTIBILIDAD?",
+      "options": [
+        "Los delitos cometidos por servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico son imprescriptibles",
+        "Prescriben a los 20 años contados desde la comisión del hecho delictivo",
+        "Prescriben a los 5 años si el acusado no se encuentra en el país",
+        "Prescriben únicamente para cargos subalternos y no para autoridades electas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36 (Art. 29 Bis CPP), Ley N° 004",
+      "explicacion": "El Art. 29 Bis CPP establece que los delitos de corrupción que causen grave daño económico al Estado son imprescriptibles y no admiten inmunidad."
+    },
+    {
+      "question": "Según el Artículo 36 de la Ley N° 004, que incorpora el Artículo 91 Bis al Código de Procedimiento Penal, ¿qué ocurre cuando se declara la REBELDÍA del imputado en delitos de corrupción?",
+      "options": [
+        "El proceso no se suspenderá respecto del rebelde; el Estado designará defensor de oficio y será juzgado en rebeldía",
+        "El juicio se suspende indefinidamente hasta que el imputado sea aprehendido",
+        "Se extingue la acción penal por falta de comparecencia del acusado",
+        "El juez debe archivar los obrados y remitirlos al Tribunal Supremo de Justicia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36 (Art. 91 Bis CPP), Ley N° 004",
+      "explicacion": "En delitos de corrupción el proceso NO se suspende por rebeldía; se nombra defensor de oficio y se lo juzga en ausencia."
+    },
+    {
+      "question": "Conforme al Artículo 36 de la Ley N° 004 (Art. 148 Bis CPP), ¿qué acción contempla la ley para bienes o activos sustraídos fuera del país?",
+      "options": [
+        "El Estado podrá solicitar a autoridades extranjeras la cooperación necesaria para recuperar bienes y activos en el extranjero",
+        "Se emitirá un bono compensatorio financiado por la banca privada nacional",
+        "La expropiación automática de bienes de parientes hasta el cuarto grado de consanguinidad",
+        "Se delega la persecución únicamente a la Interpol sin intervención de la fiscalía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36 (Art. 148 Bis CPP), Ley N° 004",
+      "explicacion": "El Art. 148 Bis CPP faculta al Estado a solicitar cooperación internacional efectiva para recuperar bienes y activos fuera del país."
+    },
+    {
+      "question": "Según el Artículo 36 de la Ley N° 004 (Art. 253 Bis CPP), ¿en qué plazo perentorio la autoridad jurisdiccional procederá a la INCAUTACIÓN de bienes en delitos de corrupción tras el requerimiento fiscal?",
+      "options": [
+        "En un plazo perentorio de cinco (5) días, con inventario en presencia de Notario de Fe Pública",
+        "En un plazo de veinticuatro (24) horas sin necesidad de Notario",
+        "En un plazo máximo de treinta (30) días calendario",
+        "Solo al momento de dictar sentencia firme ejecutoriada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36 (Art. 253 Bis CPP), Ley N° 004",
+      "explicacion": "Previo requerimiento fiscal, en plazo perentorio de 5 días se procederá a la incautación con inventario notariado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 36 de la Ley N° 004 (Art. 344 Bis CPP), ¿cómo se notifica al rebelde con la resolución que señala nueva audiencia de juicio oral en su ausencia?",
+      "options": [
+        "Mediante edictos",
+        "Por cédula en el tablero de la Fiscalía únicamente",
+        "Mediante carta notariada enviada a su último domicilio registrado",
+        "No requiere notificación de ninguna naturaleza"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36 (Art. 344 Bis CPP), Ley N° 004",
+      "explicacion": "Al señalarse audiencia de juicio oral en rebeldía, se notificará al imputado rebelde mediante edictos."
+    },
+    {
+      "question": "Según la modificación del Artículo 366 del Código de Procedimiento Penal (por Art. 37 de la Ley N° 004), ¿procede la 'Suspensión Condicional de la Pena' en delitos de corrupción?",
+      "options": [
+        "La suspensión condicional de la pena no procede en delitos de corrupción",
+        "Procede únicamente si la condena es menor a dos años y se repara el daño",
+        "Procede a criterio del juez si el condenado no tiene antecedentes penales",
+        "Procede solo para mayores de 65 años de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37 (Art. 366 CPP), Ley N° 004",
+      "explicacion": "El Art. 366 modificado del CPP dispone expresamente que la suspensión condicional de la pena NO procede en delitos de corrupción."
+    },
+    {
+      "question": "Conforme a la modificación del Artículo 368 del Código de Procedimiento Penal (por Art. 37 de la Ley N° 004), ¿procede el 'Perdón Judicial' en delitos de corrupción?",
+      "options": [
+        "No procederá el perdón judicial, bajo ninguna circunstancia, en delitos de corrupción",
+        "Procede por única vez si la pena de prisión no supera los dos años",
+        "Procede solo si el condenado devuelve el 100% de lo defraudado antes del juicio",
+        "Procede únicamente a favor de primarios con informe de buena conducta"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37 (Art. 368 CPP), Ley N° 004",
+      "explicacion": "El Art. 368 modificado establece que NO procederá el perdón judicial bajo ninguna circunstancia en delitos de corrupción."
+    },
+    {
+      "question": "Según el Artículo 39 de la Ley N° 004, que modifica el Artículo 1502 del Código Civil, ¿corre la prescripción en cuanto a las deudas por daños económicos causados al Estado?",
+      "options": [
+        "La prescripción no corre en cuanto a las deudas por daños económicos causados al Estado (son imprescriptibles)",
+        "Corre la prescripción ordinaria de cinco años a partir de la sentencia",
+        "Prescriben a los diez años conforme al régimen civil general",
+        "Prescriben a los tres años si no existe embargo judicial anotado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39 (Art. 1502.6 CC), Ley N° 004",
+      "explicacion": "El numeral 6 del Art. 1502 CC modificado establece que la prescripción NO corre en deudas por daños económicos al Estado."
+    },
+    {
+      "question": "De acuerdo con el Artículo 39 de la Ley N° 004, que modifica el Artículo 1553.III del Código Civil, ¿cuándo caduca la ANOTACIÓN PREVENTIVA realizada a favor del Estado?",
+      "options": [
+        "Caducará a los cuatro años, prorrogables a dos más, si no es convertida en inscripción definitiva",
+        "Caduca a los dos años sin posibilidad de prórroga",
+        "No caduca nunca mientras dure el proceso penal anticorrupción",
+        "Caduca a los seis meses de su registro en Derechos Reales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39 (Art. 1553.III CC), Ley N° 004",
+      "explicacion": "La anotación preventiva a favor del Estado caducará a los 4 años, prorrogables a 2 más, si no se convierte en inscripción."
+    },
+    {
+      "question": "Según el Artículo 40 de la Ley N° 004, que incluye el numeral 36 en el Art. 36 de la Ley Orgánica del Ministerio Público, es atribución del Fiscal General del Estado:",
+      "options": [
+        "Designar en cada Departamento a los fiscales especializados y dedicados exclusivamente a la investigación y acusación de los delitos de corrupción",
+        "Aprobar la planilla salarial de los jueces del Órgano Judicial",
+        "Crear las unidades de control social dentro de las alcaldías",
+        "Emitir decretos reglamentarios para el cobro de multas judiciales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40, Ley N° 004",
+      "explicacion": "Modifica la LOMP para imponer la obligación de designar fiscales especializados dedicados exclusivamente a delitos de corrupción."
+    },
+    {
+      "question": "Conforme a la Disposición Final Primera de la Ley N° 004, los delitos permanentes de enriquecimiento ilícito (Art. 25 numerales 2 y 3) se aplicarán en el marco de qué norma constitucional?",
+      "options": [
+        "En el marco del Artículo 123 de la Constitución Política del Estado (retroactividad de la ley penal en materia de corrupción)",
+        "Conforme al principio de irretroactividad absoluta en materia penal del Art. 116.II CPE",
+        "En el marco del régimen de prescripción breve de dos años",
+        "Conforme a la amnistía constitucional para delitos cometidos antes de 2010"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Primera, Ley N° 004",
+      "explicacion": "Se aplica en el marco del Art. 123 CPE que consagra la retroactividad de la ley penal en materia de corrupción que afecte el patrimonio."
+    },
+    {
+      "question": "Según la Disposición Final Segunda de la Ley N° 004, ¿cómo se garantiza el financiamiento de la lucha contra la corrupción?",
+      "options": [
+        "El Estado garantizará el financiamiento anual de las políticas y proyectos con recursos propios del TGN",
+        "Se financiará mediante tasas aplicadas a la emisión de licencias de conducir",
+        "Se sustentará exclusivamente con donaciones de la cooperación internacional",
+        "Se financiará cobrando un porcentaje de las multas de tránsito"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Segunda, Ley N° 004",
+      "explicacion": "El Estado garantizará el financiamiento anual con recursos propios para asegurar márgenes de investigación y juzgamiento."
+    },
+    {
+      "question": "Según la Ley N° 004, ¿cuál es el alcance de la 'Protección a Denunciantes y Testigos' a cargo del Ministerio de Gobierno, Policía y Fiscalía?",
+      "options": [
+        "Brindar protección adecuada contra toda amenaza, agresión o represalia a denunciantes, testigos, peritos y servidores públicos en el proceso",
+        "Otorgar una gratificación económica equivalente al 10% de lo recuperado",
+        "Eximir de cualquier tipo de impuesto nacional por un período de tres años",
+        "Garantizar un cargo público de carrera en el Ministerio de Transparencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.II, Ley N° 004",
+      "explicacion": "El Sistema de Protección protege a denunciantes, testigos, peritos, asesores y servidores de amenazas o represalias."
+    },
+    {
+      "question": "Conforme al Artículo 21.I de la Ley N° 004, ¿cuál de los siguientes sujetos tiene el DEBER DE INFORMAR a la UIF sobre operaciones sospechosas de corrupción?",
+      "options": [
+        "Entidades dedicadas a la compra/venta de inmuebles, vehículos, joyas, juegos de azar, despachadores de aduana y ONG",
+        "Exclusivamente las universidades públicas autónomas",
+        "Únicamente los bancos comerciales y cooperativas de ahorro y crédito",
+        "Solo los ciudadanos que perciban salarios superiores a 20.000 bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I, Ley N° 004",
+      "explicacion": "Enumera inmobiliarias, venta de autos, joyas, juegos de azar, ONGs, partidos políticos, aduanas, etc."
+    },
+    {
+      "question": "Según el Artículo 22.I y II de la Ley N° 004, ¿cuál es el tratamiento de la información obtenida por la UIF durante la fase de análisis e investigación?",
+      "options": [
+        "No podrá ser compartida ni publicada en la fase de análisis; si contiene presuntos delitos se remitirá al Ministerio Público, Min. Transparencia y Procuraduría",
+        "Debe ser publicada en la página web oficial del Ministerio de Transparencia de inmediato",
+        "Se enviará a los medios de comunicación masivos para conocimiento público en 24 horas",
+        "Se archivará indefinidamente hasta que el juez ordene su apertura"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.I y II, Ley N° 004",
+      "explicacion": "No se comparte ni publica en fase de análisis; al detectar presuntos delitos se remite al Ministerio Público, Min. Transparencia y Procuraduría."
+    },
+    {
+      "question": "De acuerdo con el Artículo 24 de la Ley N° 004, además de los tipos penales creados en la Ley 004, ¿qué otros delitos se sistematizan como 'Delitos de Corrupción'?",
+      "options": [
+        "Los tipificados en el Código Penal como Peculado, Malversación, Cohecho, Uso Indebido de Influencias, Concusión, Prevaricato, Contratos Lesivos, etc.",
+        "Exclusivamente las faltas contempladas en el Reglamento de Faltas y Sanciones del Magisterio",
+        "Los delitos de estafa y estelionato cometidos entre particulares sin afectación al Estado",
+        "Únicamente las contravenciones de tránsito cometidas con vehículos oficiales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, Ley N° 004",
+      "explicacion": "Sistematiza artículos del Código Penal como delitos de corrupción y delitos vinculados a la corrupción."
+    },
+    {
+      "question": "Según el Artículo 3.III de la Ley N° 004, la participación activa en la lucha contra la corrupción y recuperación del patrimonio corresponde a:",
+      "options": [
+        "Las entidades públicas, privadas y la sociedad civil",
+        "Exclusivamente a los Fiscales del Ministerio Público",
+        "Únicamente a los auditores acreditados de la Contraloría",
+        "A las Fuerzas Armadas mediante decretos de excepción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 004",
+      "explicacion": "La finalidad exige la participación activa de las entidades públicas, privadas y la sociedad civil."
+    },
+    {
+      "question": "Conforme al Artículo 4 de la Ley N° 004, el principio de 'Gratuidad' en la lucha contra la corrupción implica que:",
+      "options": [
+        "La investigación y la administración de justicia en temas de lucha contra la corrupción tienen carácter gratuito",
+        "Los imputados por corrupción quedan libres del pago de la reparación civil al Estado",
+        "Los abogados defensores no pueden cobrar honorarios a los acusados",
+        "El Estado debe regalar viviendas sociales a los denunciantes anonimos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 004",
+      "explicacion": "El principio de Gratuidad señala que la investigación y administración de justicia anticorrupción son gratuitas."
+    },
+    {
+      "question": "Según el Artículo 4 de la Ley N° 004, el principio de 'Celeridad' determina que los mecanismos de investigación y administración de justicia deben ser:",
+      "options": [
+        "Prontos y oportunos",
+        "Delegados a tribunales arbitrales privados en 10 días",
+        "Sometidos a suspensión condicional en 48 horas",
+        "Resueltos exclusivamente en juicio abreviado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 004",
+      "explicacion": "El principio de Celeridad exige que la investigación y juzgamiento sean prontos y oportunos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4 de la Ley N° 004, el principio de 'Ética' se refleja en el comportamiento de la persona conforme a principios morales de servicio a la comunidad y valores de:",
+      "options": [
+        "Honestidad, transparencia, integridad, probidad, responsabilidad y eficiencia",
+        "Lucro personal, competitividad ilimitada y secrecía",
+        "Aislamiento institucional y autonomía privada sin fiscalización",
+        "Lealtad partidaria exclusiva sobre las leyes del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4, Ley N° 004",
+      "explicacion": "La Ética se refleja en valores de honestidad, transparencia, integridad, probidad, responsabilidad y eficiencia."
+    },
+    {
+      "question": "Según el Artículo 9 de la Ley N° 004, ¿quienes pueden ejercer el Control Social para prevenir y luchar contra la corrupción?",
+      "options": [
+        "Todos los actores sociales, de manera individual y/o colectiva",
+        "Solo los sindicatos con personería jurídica otorgada por el Ministerio de Trabajo",
+        "Exclusivamente los Colegios de Abogados departamentales",
+        "Únicamente los Comités Cívicos reconocidos por Ley"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9, Ley N° 004",
+      "explicacion": "Podrán participar del Control Social todos los actores sociales de manera individual y/o colectiva."
+    },
+    {
+      "question": "Conforme al Artículo 13 de la Ley N° 004, los Investigadores Especializados Anticorrupción de la Policía Boliviana desempeñan sus actividades bajo la dirección funcional de:",
+      "options": [
+        "Los Fiscales Especializados Anticorrupción",
+        "El Comandante General de la Policía únicamente",
+        "El Ministro de Gobierno sin intervención judicial",
+        "Los Alcaldes Municipales de cada jurisdicción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 004",
+      "explicacion": "Los investigadores especializados policiales actúan bajo la dirección funcional de los fiscales."
+    },
+    {
+      "question": "Según el Artículo 16 de la Ley N° 004, los Jueces, Fiscales y Policías especializados están sujetos a un:",
+      "options": [
+        "Sistema de evaluación permanente con participación del Control Social para garantizar probidad y eficiencia",
+        "Examen escrito único de ratificación cada diez años",
+        "Control exclusivo de la Contraloría General sin intervención ciudadana",
+        "Régimen de libre remoción por decisión del Gobernador Departamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 004",
+      "explicacion": "Estarán sujetos a un sistema de evaluación permanente con participación del Control Social."
+    },
+    {
+      "question": "De acuerdo con el Artículo 17.III de la Ley N° 004, ¿cuál es la obligación del Ministerio de Transparencia respecto a quienes denuncien hechos de corrupción?",
+      "options": [
+        "Guardar reserva de la identidad de denunciantes particulares y servidores públicos y de la documentación presentada",
+        "Publicar inmediatamente los nombres de los denunciantes en prensa escrita",
+        "Remitir los nombres de los denunciantes a la entidad denunciada para sumario interno",
+        "Exigir una fianza bancaria previa a la recepción de la denuncia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.III, Ley N° 004",
+      "explicacion": "Guardará reserva de la identidad de los denunciantes y de la documentación generada."
+    },
+    {
+      "question": "Según el Artículo 19.II de la Ley N° 004, la información obtenida exenta de secreto comercial, tributario o de valores estará libre de:",
+      "options": [
+        "Todo pago de valores judiciales y administrativos",
+        "Impuestos sobre la renta por tres años",
+        "Revisión pericial en juicio oral",
+        "Fiscalización por parte de la Contraloría"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.II, Ley N° 004",
+      "explicacion": "La información obtenida estará libre de todo pago de valores judiciales y administrativos."
+    },
+    {
+      "question": "Conforme al Artículo 23.II de la Ley N° 004, el SIIARBE tendrá dentro de sus atribuciones la verificación de oficio de:",
+      "options": [
+        "Las declaraciones juradas de bienes y rentas de servidores públicos clasificados según indicadores de riesgo",
+        "Las notas de evaluación académica de postulantes a universidades",
+        "Los contratos de alquiler de vivienda privada en zonas urbanas",
+        "Las licencias de funcionamiento comerciales de pequeños negocios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.II, Ley N° 004",
+      "explicacion": "El SIIARBE verifica de oficio las declaraciones juradas de bienes y rentas clasificadas según parámetros de riesgo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 15 de la Ley N° 004, la aplicación de la Jurisdicción Indígena Originaria Campesina en materia de corrupción se regirá por la CPE y:",
+      "options": [
+        "La Ley de Deslinde Jurisdiccional",
+        "El Código de Procedimiento Civil",
+        "El Reglamento de la Ley SAFCO",
+        "La Ley Orgánica de Fuerzas Armadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 004",
+      "explicacion": "Se rige conforme disponen los Artículos 190, 191 y 192 de la CPE y la Ley de Deslinde Jurisdiccional."
+    },
+    {
+      "question": "Según el Artículo 22.III de la Ley N° 004, la información valorada por el Ministerio Público procedente de la UIF podrá ser presentada como:",
+      "options": [
+        "Prueba en los procesos penales",
+        "Indicio no vinculante en materia laboral únicamente",
+        "Falta contravencional sin valor probatorio",
+        "Documento reservado inaccesible para el juez de la causa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.III, Ley N° 004",
+      "explicacion": "La información valorada por el Ministerio Público podrá ser presentada como prueba en procesos penales."
+    },
+    {
+      "question": "Conforme a las Disposiciones Transitorias Primera y Segunda de la Ley N° 004, ¿quiénes conocen los casos de corrupción mientras se elijan e instalen los Juzgados Anticorrupción?",
+      "options": [
+        "Los jueces ordinarios actuales otorgando prioridad en el trámite y resolución a procesos con intereses del Estado",
+        "Un tribunal arbitral ad hoc integrado por docentes universitarios",
+        "El Ministerio de Transparencia en única instancia administrativa",
+        "Se suspenden los juicios hasta la posesión de los nuevos jueces"
+      ],
+      "answer": 0,
+      "fuente": "Disposiciones Transitorias Primera y Segunda, Ley N° 004",
+      "explicacion": "Los jueces actuales continuarán tramitando los casos con prioridad hasta que entren en funcionamiento los nuevos juzgados."
+    },
+    {
+      "question": "En el marco de la Ley N° 004, el nombre completo de la norma promulgada el 31 de marzo de 2010 rinde homenaje a:",
+      "options": [
+        "Marcelo Quiroga Santa Cruz",
+        "Avelino Siñani",
+        "Elizardo Pérez",
+        "Simón Bolívar"
+      ],
+      "answer": 0,
+      "fuente": "Título de la Ley N° 004",
+      "explicacion": "Ley N° 004: 'Ley de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas Marcelo Quiroga Santa Cruz'."
+    },
+    {
+      "question": "Conforme al Artículo 10.c de la Ley N° 004, ¿qué facultad tiene el Control Social respecto a los procesos penales por corrupción?",
+      "options": [
+        "Coadyuvar en los procesos administrativos y judiciales por hechos y delitos de corrupción",
+        "Asumir la defensa técnica obligatoria del acusado de escasos recursos",
+        "Dictar autos de vista e interponer recursos de casación",
+        "Nombrar al juez de instrucción de la causa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10.c, Ley N° 004",
+      "explicacion": "El Control Social tiene la atribución de coadyuvar en los procesos administrativos y judiciales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 21.I.k de la Ley N° 004, ¿están sujetos al deber de informar a la UIF sobre movimientos económicos sospechosos las organizaciones políticas?",
+      "options": [
+        "Sí, los partidos políticos, agrupaciones ciudadanas y pueblos indígenas tienen el deber de informar",
+        "No, los partidos políticos gozan de exención tributaria y financiera total",
+        "Solo durante los períodos de campaña electoral",
+        "Únicamente cuando reciban financiamiento público estatal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I.k, Ley N° 004",
+      "explicacion": "El Artículo 21.I.k incluye expresamente a partidos políticos, agrupaciones ciudadanas y pueblos indígenas."
+    },
+    {
+      "question": "Según el Artículo 21.II de la Ley N° 004, cuando los sujetos obligados detecten la posible comisión de hechos de corrupción en el ejercicio de sus actividades, deben informar a la UIF:",
+      "options": [
+        "De oficio",
+        "A requerimiento de parte en 30 días",
+        "Previa orden judicial motivada",
+        "A solicitud exclusiva del Defensor del Pueblo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.II, Ley N° 004",
+      "explicacion": "Los sujetos obligados deberán informar de oficio a la UIF al detectar la posible comisión de hechos de corrupción."
+    },
+    {
+      "question": "Conforme al Artículo 25.4 de la Ley N° 004, ¿qué delito se crea para sancionar a quien preste su nombre para ocultar o disimular el patrimonio ilícito de un servidor público?",
+      "options": [
+        "Favorecimiento al enriquecimiento ilícito",
+        "Falsedad material e ideológica",
+        "Encubrimiento por culpa",
+        "Estafa con afectación al Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.4, Ley N° 004",
+      "explicacion": "Se crea el tipo penal de Favorecimiento al enriquecimiento ilícito."
+    },
+    {
+      "question": "Según el Artículo 25.5 de la Ley N° 004, ¿qué delito sanciona el ofrecimiento de dádivas a un funcionario extranjero para obtener negocios internacionales?",
+      "options": [
+        "Cohecho activo transnacional",
+        "Cohecho pasivo transnacional",
+        "Tráfico de influencias internacional",
+        "Contrabando de divisas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.5, Ley N° 004",
+      "explicacion": "Se tipifica como Cohecho activo transnacional."
+    },
+    {
+      "question": "De acuerdo con el Artículo 25.6 de la Ley N° 004, ¿qué delito comete el funcionario extranjero que solicita o acepta beneficios indebidos para actuar en sus funciones?",
+      "options": [
+        "Cohecho pasivo transnacional",
+        "Cohecho activo transnacional",
+        "Concusión diplomática",
+        "Exacción internacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.6, Ley N° 004",
+      "explicacion": "Se tipifica como Cohecho pasivo transnacional."
+    },
+    {
+      "question": "Conforme al Artículo 25.7 de la Ley N° 004, la inducción mediante violencia o promesas a prestar falso testimonio en un proceso anticorrupción se tipifica como:",
+      "options": [
+        "Obstrucción de la justicia",
+        "Perjurio agravado",
+        "Falsedad ideológica procesal",
+        "Desobediencia a la autoridad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.7, Ley N° 004",
+      "explicacion": "Constituye el delito de Obstrucción de la justicia."
+    },
+    {
+      "question": "Según el Artículo 25.8 de la Ley N° 004, la omisión o inserción de datos falsos en la declaración de bienes y rentas constituye el tipo penal de:",
+      "options": [
+        "Falsedad en la declaración jurada de bienes y rentas",
+        "Falsificación de documento público",
+        "Estafa al Fisco",
+        "Defraudación de bienes estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.8, Ley N° 004",
+      "explicacion": "Constituye Falsedad en la declaración jurada de bienes y rentas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2 de la Ley N° 004, ¿qué se entiende jurídicamente por 'Corrupción'?",
+      "options": [
+        "Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento de cualquier objeto de valor pecuniario u otros beneficios a cambio de la realización u omisión de cualquier acto en el ejercicio de funciones públicas que afecte al Estado",
+        "Únicamente el apoderamiento directo de dinero en efectivo de las arcas fiscales por parte de un cajero público",
+        "Cualquier falta administrativa leve cometida por un funcionario municipal en el ejercicio de sus labores",
+        "La falta de presentación oportuna de la declaración jurada de bienes y rentas al momento de asumir el cargo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Ley N° 004",
+      "explicacion": "El Art. 2 define la corrupción como el requerimiento, aceptación, ofrecimiento u otorgamiento de valores o favores que afecten los recursos del Estado."
+    },
+    {
+      "question": "Según el Artículo 3.2 de la Ley N° 004, ¿en qué consiste el principio ancestral de 'Ama Suwa'?",
+      "options": [
+        "No seas flojo ni negligente en tus funciones públicas",
+        "No seas ladrón",
+        "No seas mentiroso en las declaraciones oficiales",
+        "Vive bien en armonía con la comunidad"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 3.2, Ley N° 004",
+      "explicacion": "Ama Suwa es el principio ancestral que significa 'No seas ladrón'."
+    },
+    {
+      "question": "Conforme al Artículo 4.I de la Ley N° 004, ¿a qué entidades y personas alcanza el ámbito de aplicación de esta Ley?",
+      "options": [
+        "Exclusivamente a los Ministros de Estado y Viceministros del Órgano Ejecutivo",
+        "A los servidores públicos de todos los Órganos del Estado, Fuerzas Armadas, Policía, ETAs, Universidades, Empresas Públicas y personas naturales o jurídicas privadas que administren recursos del Estado",
+        "Unicamente a los funcionarios públicos pertenecientes al régimen de la carrera administrativa",
+        "A los ciudadanos particulares que desempeñen cargos en la empresa privada internacional"
+      ],
+      "answer": 1,
+      "fuente": "Artículo 4.I, Ley N° 004",
+      "explicacion": "El Art. 4.I establece el alcance universal a todas las entidades del Estado y a particulares que manejen o afecten recursos públicos."
+    },
+    {
+      "question": "Según el Artículo 5 de la Ley N° 004, ¿qué regla rige respecto a los fueros, inmunidades o privilegios en el juzgamiento de delitos de corrupción?",
+      "options": [
+        "No se reconoce ningún fuero, inmunidad ni privilegio en procesos por delitos de corrupción, aplicándose de manera preferente la Ley N° 004",
+        "Se mantienen vigentes los fueros parlamentarios y militares para evitar juicios sumarios",
+        "Los jueces y magistrados gozan de inmunidad absoluta hasta la conclusión de su mandato",
+        "El Presidente del Estado solo puede ser juzgado si se obtiene la autorización por unanimidad del Tribunal Supremo Electoral"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5, Ley N° 004",
+      "explicacion": "El Art. 5 dispone que no se reconoce ningún fuero ni inmunidad en la investigación y sanción de delitos de corrupción."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6 de la Ley N° 004, ¿cuál es la entidad encargada de proponer, coordinar y supervisar las políticas públicas de prevención y lucha contra la corrupción?",
+      "options": [
+        "El Consejo Nacional de Lucha contra la Corrupción, Enriquecimiento Ilícito y Prevaricato",
+        "El Tribunal Constitucional Plurinacional",
+        "La Asociación de Bancos Privados de Bolivia",
+        "El Ministerio de Relaciones Exteriores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Ley N° 004",
+      "explicacion": "El Consejo Nacional de Lucha contra la Corrupción coordina y supervisa la ejecución de políticas preventivas y de lucha contra la corrupción."
+    },
+    {
+      "question": "¿Quiénes integran el Consejo Nacional de Lucha contra la Corrupción según el Artículo 6 de la Ley N° 004?",
+      "options": [
+        "Ministerio de Transparencia, Ministerio de Gobierno, Fiscalía General, Contraloría General, UIF, Procuraduría General y Representación del Control Social",
+        "Solo los 9 Gobernadores departamentales de Bolivia",
+        "Los Magistrados del Tribunal Supremo de Justicia y los Vocales Departamentales",
+        "El Presidente de la ALP y los Presidentes de ambas Cámaras Legislativas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Ley N° 004",
+      "explicacion": "Está integrado por los Ministros de Transparencia y Gobierno, la Fiscalía General, Contraloría, UIF, Procuraduría y Control Social."
+    },
+    {
+      "question": "Según el Artículo 7 de la Ley N° 004, ¿con qué periodicidad mínima debe reunirse ordinariamente el Consejo Nacional de Lucha contra la Corrupción?",
+      "options": [
+        "Por lo menos cuatro (4) veces al año",
+        "Una vez cada dos años",
+        "Todos los lunes por la mañana de forma obligatoria",
+        "Exclusivamente cuando el Presidente del Estado lo convoque en estado de emergencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, Ley N° 004",
+      "explicacion": "El Art. 7 establece que el Consejo se reunirá de forma ordinaria al menos 4 veces al año."
+    },
+    {
+      "question": "Conforme al Artículo 8 de la Ley N° 004, ¿cuál es la atribución fundamental asignada a las organizaciones de la Sociedad Civil y Control Social en la lucha contra la corrupción?",
+      "options": [
+        "Generar iniciativas, fiscalizar, denunciar y participar en el diseño de políticas públicas de transparencia y lucha contra la corrupción",
+        "Dictar sentencias penales condenatorias de primera instancia contra servidores públicos",
+        "Administrar de manera directa el presupuesto asignado a la Unidad de Investigaciones Financieras",
+        "Inscribir las hipotecas legales sobre bienes inmuebles cautelados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Ley N° 004",
+      "explicacion": "El Control Social participa activamente en la prevención, fiscalización, denuncia e identificación de actos de corrupción."
+    },
+    {
+      "question": "Según el Artículo 9 de la Ley N° 004, los Tribunales y Juzgados Anticorrupción creados por esta norma se caracterizan por:",
+      "options": [
+        "Tener competencia exclusiva para el conocimiento y resolución de procesos penales por delitos de corrupción y vinculados",
+        "Funcionar como tribunales arbitrales privados dirigidos por auditores independientes",
+        "Depender administrativamente de la Contraloría General del Estado",
+        "Atender únicamente contravenciones de tránsito y faltas policiales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9, Ley N° 004",
+      "explicacion": "Los Tribunales y Juzgados Anticorrupción tienen competencia exclusiva en materia penal anticorrupción dentro del Órgano Judicial."
+    },
+    {
+      "question": "De acuerdo con el Artículo 11 de la Ley N° 004, ¿qué obligación recae sobre la Máxima Autoridad Ejecutiva (MAE) de una entidad pública cuando toma conocimiento de un delito de corrupción en su institución?",
+      "options": [
+        "Constituirse obligatoriamente en parte querellante o promovente del proceso penal bajo sanción de incurrir en Incumplimiento de Deberes",
+        "Guardar reserva del hecho durante cinco años hasta realizar una auditoría privada externa",
+        "Archivar los obrados si el funcionario cuestionado renuncia voluntariamente a su cargo",
+        "Remitir la denuncia al Ministerio de Relaciones Exteriores para su arbitraje"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, Ley N° 004",
+      "explicacion": "La MAE debe constituirse en parte querellante; no hacerlo constituye el delito de Incumplimiento de Deberes."
+    },
+    {
+      "question": "Según el Artículo 12 de la Ley N° 004, el Sistema de Protección de Denunciantes y Testigos tiene como finalidad principal:",
+      "options": [
+        "Garantizar la seguridad física, psicológica, laboral y jurídica de quienes denuncien o atestigüen sobre actos de corrupción",
+        "Otorgar una recompensa económica equivalente al 50% de lo recuperado",
+        "Conceder inmunidad diplomática permanente al denunciante y a sus familiares directos",
+        "Pagar pasajes de traslado definitivo fuera del territorio nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Ley N° 004",
+      "explicacion": "Protege integralmente la integridad, empleo y derechos de las personas que denuncian hechos de corrupción."
+    },
+    {
+      "question": "Conforme al Artículo 14 de la Ley N° 004, ¿qué sucede con la reserva de identidad del denunciante si el proceso penal concluye con sentencia absolutoria firme?",
+      "options": [
+        "Se levantará la reserva de identidad en un plazo máximo de 72 horas para que el querellado pueda ejercer acciones por falsa denuncia",
+        "Permanecerá en secreto por un periodo de cien años sin excepción",
+        "El denunciante perderá de forma automática su ciudadanía boliviana",
+        "Se notificará al Ministerio de Trabajo para su despido inmediato"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Ley N° 004",
+      "explicacion": "Si el denunciado es absuelto, en 72 horas se levanta el sigilo para resguardar el derecho de defensa contra denuncias falsas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 19 de la Ley N° 004, respecto al SECRETO BANCARIO en investigaciones de delitos de corrupción, ¿cuál es la disposición legal vigente?",
+      "options": [
+        "No existe secreto bancario para la investigación de delitos de corrupción, enriquecimiento ilícito y fortunas",
+        "El secreto bancario es absoluto y requiere autorización judicial previa emitida en audiencia oral",
+        "Solo se puede levantar el secreto bancario para transferencias internacionales superiores a un millón de dólares",
+        "El secreto bancario solo aplica a entidades financieras extranjeras autorizadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, Ley N° 004",
+      "explicacion": "El Art. 19 elimina la oponibilidad del secreto bancario para investigaciones financieras en materia de corrupción."
+    },
+    {
+      "question": "Según el Artículo 20 de la Ley N° 004, los servidores públicos que asuman un cargo de responsabilidad pública deben realizar en cuanto a sus cuentas bancarias:",
+      "options": [
+        "La renuncia voluntaria al secreto bancario mediante declaración ante la Contraloría General del Estado",
+        "La apertura obligatoria de cuentas bancarias confidenciales en el exterior",
+        "El depósito de su patrimonio privado en un fideicomiso ciego administrado por la entidad bancaria",
+        "El cierre definitivo de todas sus cuentas de ahorro en el sistema financiero nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Ley N° 004",
+      "explicacion": "La Ley 004 prevé la renuncia expresa al secreto bancario para las autoridades y servidores públicos."
+    },
+    {
+      "question": "Conforme al Artículo 21 de la Ley N° 004, el SIIARBE es el:",
+      "options": [
+        "Sistema Integrado de Información Anticorrupción y Recuperación de Bienes del Estado",
+        "Servicio Nacional de Inspección Inmobiliaria y Avalúo de Bienes Estatales",
+        "Sistema Internacional de Investigaciones y Asistencia Registral para Bancos Extranjeros",
+        "Sindicato de Inspectores de Auditoría y Régimen Bancario de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21, Ley N° 004",
+      "explicacion": "SIIARBE significa Sistema Integrado de Información Anticorrupción y Recuperación de Bienes del Estado."
+    },
+    {
+      "question": "Según el Artículo 22 de la Ley N° 004, la Unidad de Investigaciones Financieras (UIF) tiene la facultad de:",
+      "options": [
+        "Requerir y recibir información financiera de entidades públicas y privadas sin necesidad de orden judicial en investigaciones de corrupción",
+        "Emitir mandamientos de aprehensión y condenas de cárcel directamente",
+        "Embargar de forma definitiva bienes inmuebles sin intervención de juez",
+        "Aprobar el presupuesto general del Estado Plurinacional de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Ley N° 004",
+      "explicacion": "La UIF analiza e investiga movimientos financieros sospechosos sin la oponibilidad del secreto bancario o financiero."
+    },
+    {
+      "question": "De acuerdo con el Artículo 24 de la Ley N° 004, el delito de 'Uso Indebido de Bienes y Servicios Públicos' es cometido por:",
+      "options": [
+        "El servidor público que en beneficio propio o de terceros otorgue un fin distinto al asignado a bienes, muebles, inmuebles o servicios del Estado",
+        "El ciudadano que adquiera un vehículo usado previamente perteneciente a una Alcaldía en subasta pública",
+        "El estudiante de escuela pública que dañe accidentalmente un pupitre escolar",
+        "El peatón que transite por vías públicas asfaltadas con financiamiento estatal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, Ley N° 004",
+      "explicacion": "Sanciona al servidor público que da un uso indebido o privado a bienes o servicios pertenecientes al Estado."
+    },
+    {
+      "question": "Según el Artículo 25 de la Ley N° 004, ¿cuál es la pena privativa de libertad para el delito de 'Enriquecimiento Ilícito'?",
+      "options": [
+        "Privación de libertad de cinco (5) a diez (10) años, inhabilitación para el ejercicio de la función pública y multa",
+        "Privación de libertad de uno a dos años sustituible por trabajo comunitario",
+        "Presidio de treinta años sin derecho a indulto",
+        "Multa del 1% del sueldo básico mensual únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Ley N° 004",
+      "explicacion": "El Enriquecimiento Ilícito de servidor público tiene una sanción penal de 5 a 10 años de privación de libertad."
+    },
+    {
+      "question": "Conforme al Artículo 26 de la Ley N° 004, el 'Enriquecimiento Ilícito de Particulares con Afectación al Estado' ocurre cuando:",
+      "options": [
+        "Una persona natural o jurídica privada incrementa su patrimonio de manera desproporcionada mediante la comisión de delitos de corrupción afectando al Estado",
+        "Un comerciante independiente obtiene ganancias legítimas por la venta de productos importados a clientes privados",
+        "Una empresa privada liquida a sus trabajadores pagando todos sus beneficios sociales",
+        "Un particular compra un terreno privado mediante un crédito bancario personal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26, Ley N° 004",
+      "explicacion": "Aplica a particulares que aumentan su patrimonio injustificadamente a expensas de los recursos del Estado."
+    },
+    {
+      "question": "Según el Artículo 27 de la Ley N° 004, el delito de 'Favorecimiento al Enriquecimiento Ilícito' sanciona a quien:",
+      "options": [
+        "Preste su nombre o razón social para ocultar o disimular el patrimonio de un servidor público o particular enriquecido ilícitamente (palos de paja/testaferros)",
+        "Denuncie voluntariamente a un funcionario corrupto ante la Fiscalía",
+        "Preste dinero a un familiar para iniciar un negocio comercial formal",
+        "Defienda técnicamente como abogado a un imputado por peculado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, Ley N° 004",
+      "explicacion": "Sanciona a testaferros y prestanombres que ayudan a ocultar el patrimonio ilícito de un corrupto."
+    },
+    {
+      "question": "De acuerdo con el Artículo 28 de la Ley N° 004, el 'Cohecho Activo Transnacional' sanciona a quien:",
+      "options": [
+        "Ofrezca, prometa u otorgue directa o indirectamente a un funcionario público extranjero o de una organización internacional un beneficio para que actúe u omita actos en transacciones comerciales",
+        "Exporte mercadería legal pagando los aranceles aduaneros correspondientes",
+        "Contrate a un consultor internacional a través de una licitación pública internacional transparente",
+        "Importe insumos médicos con autorización del Ministerio de Salud"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Ley N° 004",
+      "explicacion": "Penaliza el soborno a funcionarios públicos extranjeros u organismos internacionales en negocios internacionales."
+    },
+    {
+      "question": "Según el Artículo 29 de la Ley N° 004, el 'Cohecho Pasivo Transnacional' sanciona al:",
+      "options": [
+        "Funcionario público extranjero o de organización internacional que solicite o acepte directa o indirectamente un beneficio para realizar u omitir un acto en transacciones comerciales",
+        "Turista extranjero que cambie divisa en una casa de cambio autorizada",
+        "Embajador boliviano que otorgue visas consulares conforme a reglamento",
+        "Candidato a un cargo diplomático que rinda su examen de méritos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Ley N° 004",
+      "explicacion": "Aplica al funcionario extranjero o internacional que acepta o pide sobornos en transacciones comerciales."
+    },
+    {
+      "question": "Conforme al Artículo 30 de la Ley N° 004, el delito de 'Obstrucción de la Justicia' se configura cuando se:",
+      "options": [
+        "Utilice fuerza física, amenazas o intimidación para inducir al falso testimonio o impedir la aportación de pruebas en procesos por corrupción",
+        "Apele una resolución judicial dentro de los plazos y formas establecidos por el Código de Procedimiento Penal",
+        "Solicite la suspensión de una audiencia por motivos de salud debidamente justificados",
+        "Presente una recusación legal en contra de un juez con causal comprobada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 004",
+      "explicacion": "Sanciona el uso de violencia, coerción o soborno para interferir con testimonios o pruebas en la justicia."
+    },
+    {
+      "question": "Según el Artículo 30 de la Ley N° 004, la pena del delito de Obstrucción a la Justicia SE INCREMENTARÁ en una mitad si el acto se comete contra:",
+      "options": [
+        "Jueces, Magistrados, Fiscales o Investigadores del proceso",
+        "Abogados defensores particulares acreditados",
+        "Periodistas de investigación de medios privados",
+        "Testigos de descargo propuestos por la defensa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Ley N° 004",
+      "explicacion": "Se agrava la pena en una mitad si la violencia o amenaza se dirige contra jueces, fiscales u oficiales investigadores."
+    },
+    {
+      "question": "De acuerdo con el Artículo 31 de la Ley N° 004, el delito de 'Falsedad en la Declaración Jurada de Bienes y Rentas' es cometido por quien:",
+      "options": [
+        "A la hora de elaborar o presentar sus declaraciones juradas ante la Contraloría omitted de forma alevosa o alterare sus bienes, activos o pasivos",
+        "Presente su declaración jurada en un horario posterior al cierre de ventanilla por problemas de sistema informático",
+        "Declare un vehículo que posteriormente sufrió una depreciación comercial en el mercado",
+        "Solicite un formulario impreso adicional para rectificar un error mecanográfico menor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Ley N° 004",
+      "explicacion": "Sanciona la falsedad, ocultamiento o alteración intencionada de bienes y pasivos en la declaración ante la Contraloría."
+    },
+    {
+      "question": "Según el Artículo 32 de la Ley N° 004, para los partícipes o cómplices de un delito de corrupción que colaboren eficazmente en su esclarecimiento se prevé:",
+      "options": [
+        "Una reducción de hasta dos tercios (2/3) de la pena fijada para el delito",
+        "El perdón judicial automático y la entrega de una medalla al mérito civil",
+        "El pago de una indemnización vitalicia a cargo del Tesoro General de la Nación",
+        "La anulación inmediata del expediente judicial sin dejar antecedentes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32, Ley N° 004",
+      "explicacion": "Establece el beneficio de delación o colaboración eficaz con reducción de 2/3 de la pena."
+    },
+    {
+      "question": "Conforme a la modificación del Artículo 142 del Código Penal (por Art. 34 de la Ley N° 004), el delito de 'Peculado' sanciona al servidor público que:",
+      "options": [
+        "Aprovechando de su cargo se apropiare de caudales o bienes cuya administración, cobro o custodia le estuviera confiada",
+        "Llegue con retraso injustificado a su puesto de trabajo en la oficina pública",
+        "Rinda cuentas de viáticos en el plazo reglamentario adjuntando facturas legales",
+        "Realice compras institucionales mediante el sistema de licitación pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 142 CP), Ley N° 004",
+      "explicacion": "El peculado es la apropiación personal de caudales o bienes públicos confiados a la custodia del funcionario."
+    },
+    {
+      "question": "De acuerdo con la modificación del Artículo 144 del Código Penal (por Art. 34 de la Ley N° 004), la 'Malversación' se distingue del peculado porque:",
+      "options": [
+        "El dinero o bienes se aplican a un uso público distinto de aquel a que estuvieren destinados, en lugar de apropiárselos personalmente",
+        "Ocurre exclusivamente entre particulares en transacciones comerciales de vehículos",
+        "Se comete únicamente mediante falsificación de firmas en cheques de gerencia",
+        "El monto afectado es menor a un salario mínimo nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 144 CP), Ley N° 004",
+      "explicacion": "En la malversación no hay apropiación personal, sino un cambio arbitrario del destino de los fondos públicos."
+    },
+    {
+      "question": "Según la modificación del Artículo 145 del Código Penal (por Art. 34 de la Ley N° 004), el 'Cohecho Pasivo Propio' ocurre cuando el servidor público:",
+      "options": [
+        "Exigiere o recibiere dinero o dádiva para hacer o dejar de hacer un acto relativo a sus funciones",
+        "Realice un trámite administrativo dentro del plazo de ley sin cobrar ningún valor extra",
+        "Presente su renuncia voluntaria al cargo sin haber concluido el mandato",
+        "Acepte una felicitación escrita de la junta de vecinos por su buena atención"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 145 CP), Ley N° 004",
+      "explicacion": "Consiste en la solicitud o recepción de sobornos para realizar u omitir actos propios de la función pública."
+    },
+    {
+      "question": "Conforme al Artículo 146 del Código Penal modificado por la Ley N° 004, el 'Uso Indebido de Influencias' consiste en:",
+      "options": [
+        "Aprovechar la condición o jerarquía del cargo para obtener ventajas para sí o para terceros de parte de otro servidor público",
+        "Dictar conferencias académicas sobre administración pública en universidades privadas",
+        "Postular a un cargo público por convocatoria pública de méritos",
+        "Emitir informes técnicos recomendando la adquisición de insumos de mejor calidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 146 CP), Ley N° 004",
+      "explicacion": "Es la utilización del poder o rango oficial para influir sobre otros servidores públicos buscando beneficios indebidos."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 147 CP - Beneficios en Razón del Cargo, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Aceptar regalos o dádivas por el solo hecho de ejercer el cargo público",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 147 CP), Ley N° 004",
+      "explicacion": "Sanciona al servidor público que acepta dádivas en razón de sus funciones."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 151 CP - Concusión, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Exigir o cobrar dinero o contribuciones indebidas abusando del cargo",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 151 CP), Ley N° 004",
+      "explicacion": "La concusión es la exigencia arbitraria de cobros o contribuciones por parte del funcionario."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 152 CP - Exacciones, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Cobrar derechos, impuestos o tasas mayores a las establecidas por ley o que no corresponden",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 152 CP), Ley N° 004",
+      "explicacion": "Ocurre al exigir cobros públicos alterando la tarifa o el concepto fijado legalmente."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 153 CP - Resoluciones Contrarias a la Constitución, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Dictar resoluciones o decretos contrarios a la CPE y las leyes",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 153 CP), Ley N° 004",
+      "explicacion": "Dictar fallos o decretos abiertamente opuestos al texto constitucional."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 154 CP - Incumplimiento de Deberes, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Omitir, rehusar hacer o retardar un acto propio de sus funciones",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 154 CP), Ley N° 004",
+      "explicacion": "La falta de ejecución o la mora deliberada en los deberes del cargo."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 157 CP - Nombramientos Ilegales, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Nombrar para un cargo público a persona que no reúna los requisitos legales",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 157 CP), Ley N° 004",
+      "explicacion": "Designar autoridades o funcionarios sin el perfil reglamentario."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 173 CP - Prevaricato, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Dictar resoluciones manifiestamente contrarias a la ley por parte de un juez o fiscal",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 173 CP), Ley N° 004",
+      "explicacion": "Fallar deliberadamente contra norma expresa en el ejercicio judicial."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 173 Bis CP - Cohecho Pasivo de Juez o Fiscal, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Aceptar dinero u ofrecimientos para fallar en favor o contra de una parte",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 173 Bis CP), Ley N° 004",
+      "explicacion": "Vender decisiones judiciales o fiscales mediante sobornos."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 174 CP - Consorcio de Jueces, Fiscales y Abogados, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Concertar acuerdos ilícitos entre administradores de justicia y litigantes",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 174 CP), Ley N° 004",
+      "explicacion": "Formación de consorcios delictivos en la administración de justicia."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 185 Bis CP - Legitimación de Ganancias Ilícitas, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Convertir o transferir bienes sabiendo que provienen de delitos de corrupción",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 185 Bis CP), Ley N° 004",
+      "explicacion": "Blanqueo de capitales o activos provenientes de ilícitos anticorrupción."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 221 CP - Contratos Lesivos al Estado, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Celebrar contratos administrativos en perjuicio del interés o patrimonio del Estado",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 221 CP), Ley N° 004",
+      "explicacion": "Firmar contratos que causen menoscabo o daño económico al Estado."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 222 CP - Incumplimiento de Contratos, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "No cumplir contratos de obra o suministro suscritos con el Estado",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 222 CP), Ley N° 004",
+      "explicacion": "Afecta a contratistas que abandonen o no cumplan lo pactado con el Estado."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 224 CP - Conducta Antieconómica, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Generar daño económico o menoscabo patrimonial al Estado por mala gestión o negligencia",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 224 CP), Ley N° 004",
+      "explicacion": "Sanciona la mala administración o disposición imprudente de fondos públicos."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 29 Bis CPP - Imprescriptibilidad de la Acción Penal, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Imprescriptibilidad de la acción penal en delitos de corrupción con daño económico al Estado",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35 (Art. 29 Bis CPP), Ley N° 004",
+      "explicacion": "Los delitos contra el patrimonio del Estado no prescriben jamás."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 91 Bis CPP - Juicio en Rebeldía, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "El proceso penal por corrupción continúa de manera ininterrumpida aun en ausencia del imputado",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35 (Art. 91 Bis CPP), Ley N° 004",
+      "explicacion": "Dispone que la rebeldía no frena el juicio oral por corrupción."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 344 Bis CPP - Procedimiento en Rebeldía, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Se designa un defensor de oficio e interviene el Ministerio Público prosiguiendo el juzgamiento",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35 (Art. 344 Bis CPP), Ley N° 004",
+      "explicacion": "Regula el juicio en rebeldía con representación legal obligatoria de oficio."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 253 Bis CPP - Incautación Perentoria, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Incautación de bienes en un plazo máximo e improrrogable de 5 días con inventario notariado",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35 (Art. 253 Bis CPP), Ley N° 004",
+      "explicacion": "Garantiza el aseguramiento rápido de bienes sospechosos de corrupción."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Improcedencia de Suspensión Condicional de la Pena, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Inaplicabilidad del beneficio procesal de suspensión condicional de la pena en delitos de corrupción",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36, Ley N° 004",
+      "explicacion": "Impide la libertad condicional en condenas por corrupción."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Improcedencia del Perdón Judicial, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Inaplicabilidad del perdón judicial en penas condenatorias por corrupción",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36, Ley N° 004",
+      "explicacion": "Prohíbe el perdón judicial para condenados por corrupción."
+    },
+    {
+      "question": "Según la Ley N° 004 de Lucha contra la Corrupción, respecto a Artículo 39 - Modificación del Código Civil, ¿cuál de las siguientes opciones expresa la disposición legal correcta?",
+      "options": [
+        "Imprescriptibilidad de las deudas por daños y perjuicios económicos causados al Estado",
+        "Esta figura jurídica fue abrogada de forma expresa y sustituida por sanciones comunitarias voluntarias",
+        "Requiere para su juzgamiento la previa aprobación parlamentaria aprobada por dos tercios de la ALP",
+        "Solo aplica cuando el monto de lo defraudado supere los diez millones de dólares americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39, Ley N° 004",
+      "explicacion": "Establece la imprescriptibilidad civil del cobro de daños al patrimonio público."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Cuál es el principio supremo que rige el juzgamiento y recuperación de activos según la Ley N° 004?",
+      "options": [
+        "Defensa incondicional del patrimonio del Estado y la transparencia en la gestión pública",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 004",
+      "explicacion": "La defensa del patrimonio estatal es principio orientador de la Ley 004."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El principio de 'Gratuidad' en los trámites anticorrupción implica que:",
+      "options": [
+        "Las denuncias, investigaciones y procesos por corrupción no generan tasas ni valores judiciales para las víctimas ni el Estado",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 004",
+      "explicacion": "Toda denuncia e investigación anticorrupción está exenta de pagos y timbres."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Respecto a ex servidores públicos, la Ley N° 004 prevé que:",
+      "options": [
+        "Son sujetos de investigación y juzgamiento por hechos cometidos durante el ejercicio de sus funciones sin importar el tiempo transcurrido",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.II, Ley N° 004",
+      "explicacion": "No opera la prescripción por actos de corrupción cometidos en funciones."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Qué institución asume la Secretaría Técnica del Consejo Nacional Lucha contra la Corrupción?",
+      "options": [
+        "El Ministerio de Transparencia Institucional y Lucha contra la Corrupción",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Ley N° 004",
+      "explicacion": "El Ministerio de Transparencia ejerce la secretaría técnica del Consejo."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Qué función cumplen los Fiscales Especializados Anticorrupción?",
+      "options": [
+        "Dirigir la investigación penal e impulsar de oficio las acciones por delitos de corrupción de manera prioritaria",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Ley N° 004",
+      "explicacion": "Ejercen la dirección funcional especializada e ininterrumpida de los casos."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): En caso de peligro inminente para la vida del denunciante de corrupción, el Estado debe:",
+      "options": [
+        "Otorgar protección policial inmediata, cambio de residencia o medidas de reserva y custodia personal",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.III, Ley N° 004",
+      "explicacion": "Prioriza la seguridad física del denunciante y su entorno familiar."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Las medidas de protección a testigos en casos anticorrupción aplican:",
+      "options": [
+        "Tanto en la fase de investigación preliminar como durante el juicio oral y posterior a la sentencia",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 004",
+      "explicacion": "La protección es integral y continua en todas las etapas procesales."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Qué valor probatorio tienen las informaciones financieras obtenidas por la UIF en procesos por corrupción?",
+      "options": [
+        "Tienen valor de indicio o prueba preconstituida dentro de la investigación fiscal o judicial",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 004",
+      "explicacion": "Los informes financieros de la UIF fundamentan la imputación y acusación."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La exención del secreto tributario opera cuando:",
+      "options": [
+        "Existan indicios de enriquecimiento ilícito o delitos de corrupción investigados por la autoridad competente",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 004",
+      "explicacion": "La autoridad fiscal puede revisar antecedentes tributarios sin reservas."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El levantamiento del secreto comercial y de valores puede ser solicitado por:",
+      "options": [
+        "El Ministerio Público, el Ministerio de Transparencia o la Procuraduría General del Estado",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 004",
+      "explicacion": "Las entidades rectoras e investigadoras pueden solicitar el levantamiento."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El SIIARBE se encuentra centralizado bajo la administración de:",
+      "options": [
+        "El Ministerio de Transparencia Institucional y Lucha contra la Corrupción",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.II, Ley N° 004",
+      "explicacion": "Transparencia administra y consolida el sistema SIIARBE."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Cuál es la tipificación dada a la 'Negativa a Prestar Declaración Jurada'?",
+      "options": [
+        "Infracción disciplinaria gravísima susceptible de destitución y proceso por incumplimiento de deberes",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 004",
+      "explicacion": "La omisión voluntaria sanciona disciplinaria y penalmente."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): En el delito de Enriquecimiento Ilícito, el sujeto activo es:",
+      "options": [
+        "Cualquier servidor público que no pueda justificar razonablemente el aumento de su patrimonio",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.II, Ley N° 004",
+      "explicacion": "Aplica al servidor que experimenta un incremento patrimonial no justificado."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Para las personas jurídicas privadas involucradas en Enriquecimiento Ilícito con Afectación al Estado, se impone:",
+      "options": [
+        "Multa, cancelación de personalidad jurídica y decomiso de bienes a favor del Estado",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26.II, Ley N° 004",
+      "explicacion": "Sanciona con disolución/multa y decomiso de activos patrimoniales."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El 'Favorecimiento al Enriquecimiento Ilícito' se sanciona también a quien:",
+      "options": [
+        "Preste sus cuentas bancarias para recibir giros o depósitos provenientes del delito",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.II, Ley N° 004",
+      "explicacion": "Facilitar instrumentos o cuentas para ocultar dinero ilícito configura el delito."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La alteración de pasivos en la declaración jurada con el fin de disimular riqueza se castiga como:",
+      "options": [
+        "Falsedad en la Declaración Jurada de Bienes y Rentas",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.II, Ley N° 004",
+      "explicacion": "Falsificar activos o deudas en la Contraloría es delito penal."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El beneficio de exención o reducción de pena por delación requiere:",
+      "options": [
+        "Aportar información veraz, comprobable y determinante para descubrir a los autores principales o recuperar bienes",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 004",
+      "explicacion": "La información dada debe permitir el juzgamiento y recupero de activos."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La pena del Peculado se incrementa en la mitad si los bienes apropiados pertenecen a:",
+      "options": [
+        "Programas de asistencia social, salud, educación o atención de desastres naturales",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 142 CP), Ley N° 004",
+      "explicacion": "Agrava cuando se afecta a sectores vulnerables o emergencias."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): En el Cohecho Pasivo Propio, incurre en delito el servidor público que acepte una promesa de dinero:",
+      "options": [
+        "Aun cuando no haya llegado a recibir físicamente la suma prometida",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 145 CP), Ley N° 004",
+      "explicacion": "La sola aceptación de la promesa consuma el tipo penal."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Quien dictare resoluciones contrarias a la Constitución causando grave daño económico al Estado sufrirá:",
+      "options": [
+        "Pena privativa de libertad de 5 a 10 años",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 153 CP), Ley N° 004",
+      "explicacion": "Resoluciones anticonstitucionales con daño económico tienen pena privativa agravada."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El Prevaricato cometido en causas penales por delitos de corrupción se sanciona con:",
+      "options": [
+        "Pena de 5 a 10 años de privación de libertad",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 173 CP), Ley N° 004",
+      "explicacion": "Prevaricar en juicios anticorrupción es delito grave sancionado con hasta 10 años."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La Legitimación de Ganancias Ilícitas se considera un delito de carácter:",
+      "options": [
+        "Autónomo, sin requerir condena previa por el delito generador",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 185 Bis CP), Ley N° 004",
+      "explicacion": "Es un tipo penal independiente de las conductas determinantes."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Qué ocurre con el plazo de prescripción de la acción penal si el imputado huye del país?",
+      "options": [
+        "La acción es imprescriptible y el proceso continúa en rebeldía",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35 (Art. 29 Bis CPP), Ley N° 004",
+      "explicacion": "La huida no interrumpe el juicio ni extingue la acción penal."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): En el juicio en rebeldía por corrupción, la defensa técnica del imputado ausente es ejercida por:",
+      "options": [
+        "Un defensor público o abogado de oficio designado por el juez o tribunal",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35 (Art. 91 Bis CPP), Ley N° 004",
+      "explicacion": "Garantiza el derecho de defensa mediante abogado de oficio."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Los bienes incautados en investigaciones de corrupción quedan bajo la custodia de:",
+      "options": [
+        "La Dirección General de Registro, Control y Administración de Bienes Incautados (DIRCABI)",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35 (Art. 253 Bis CPP), Ley N° 004",
+      "explicacion": "DIRCABI administra provisionalmente los bienes objeto de medida cautelar."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Procede la condena condicional en delitos de corrupción?",
+      "options": [
+        "No, está expresamente prohibida la suspensión condicional de la pena",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36, Ley N° 004",
+      "explicacion": "Se prohíbe la suspensión condicional de penas por delitos anticorrupción."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La incautación de bienes de las personas jurídicas imputadas procede sobre:",
+      "options": [
+        "Bienes, acciones, derechos y cuentas bancarias vinculadas a la comisión del hecho ilícito",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37, Ley N° 004",
+      "explicacion": "Recae sobre la totalidad de los instrumentos y productos del delito."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Los montos recuperados por el Estado en procesos por corrupción se destinan a:",
+      "options": [
+        "El Tesoro General de la Nación para programas de desarrollo social y salud",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38, Ley N° 004",
+      "explicacion": "Los fondos decomisados ingresan al TGN para beneficio público."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Las anotaciones preventivas e hipotecas legales en favor del Estado caducan a los:",
+      "options": [
+        "Cuatro años, pudiendo ser prorrogadas a solicitud fundamentada del fiscal o procurador",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39, Ley N° 004",
+      "explicacion": "Vencen a los 4 años salvo prórroga expresa de la autoridad."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La aplicación de la Ley N° 004 con carácter retroactivo se ampara en:",
+      "options": [
+        "El Artículo 123 de la Constitución Política del Estado para delitos de corrupción que afecten al Estado",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40, Ley N° 004",
+      "explicacion": "Se fundamenta en la excepción constitucional de retroactividad anticorrupción."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Cuál es el principio supremo que rige el juzgamiento y recuperación de activos según la Ley N° 004?",
+      "options": [
+        "Defensa incondicional del patrimonio del Estado y la transparencia en la gestión pública",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Ley N° 004",
+      "explicacion": "La defensa del patrimonio estatal es principio orientador de la Ley 004."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El principio de 'Gratuidad' en los trámites anticorrupción implica que:",
+      "options": [
+        "Las denuncias, investigaciones y procesos por corrupción no generan tasas ni valores judiciales para las víctimas ni el Estado",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Ley N° 004",
+      "explicacion": "Toda denuncia e investigación anticorrupción está exenta de pagos y timbres."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Respecto a ex servidores públicos, la Ley N° 004 prevé que:",
+      "options": [
+        "Son sujetos de investigación y juzgamiento por hechos cometidos durante el ejercicio de sus funciones sin importar el tiempo transcurrido",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.II, Ley N° 004",
+      "explicacion": "No opera la prescripción por actos de corrupción cometidos en funciones."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Qué institución asume la Secretaría Técnica del Consejo Nacional Lucha contra la Corrupción?",
+      "options": [
+        "El Ministerio de Transparencia Institucional y Lucha contra la Corrupción",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Ley N° 004",
+      "explicacion": "El Ministerio de Transparencia ejerce la secretaría técnica del Consejo."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Qué función cumplen los Fiscales Especializados Anticorrupción?",
+      "options": [
+        "Dirigir la investigación penal e impulsar de oficio las acciones por delitos de corrupción de manera prioritaria",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Ley N° 004",
+      "explicacion": "Ejercen la dirección funcional especializada e ininterrumpida de los casos."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): En caso de peligro inminente para la vida del denunciante de corrupción, el Estado debe:",
+      "options": [
+        "Otorgar protección policial inmediata, cambio de residencia o medidas de reserva y custodia personal",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.III, Ley N° 004",
+      "explicacion": "Prioriza la seguridad física del denunciante y su entorno familiar."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Las medidas de protección a testigos en casos anticorrupción aplican:",
+      "options": [
+        "Tanto en la fase de investigación preliminar como durante el juicio oral y posterior a la sentencia",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Ley N° 004",
+      "explicacion": "La protección es integral y continua en todas las etapas procesales."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Qué valor probatorio tienen las informaciones financieras obtenidas por la UIF en procesos por corrupción?",
+      "options": [
+        "Tienen valor de indicio o prueba preconstituida dentro de la investigación fiscal o judicial",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Ley N° 004",
+      "explicacion": "Los informes financieros de la UIF fundamentan la imputación y acusación."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La exención del secreto tributario opera cuando:",
+      "options": [
+        "Existan indicios de enriquecimiento ilícito o delitos de corrupción investigados por la autoridad competente",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Ley N° 004",
+      "explicacion": "La autoridad fiscal puede revisar antecedentes tributarios sin reservas."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El levantamiento del secreto comercial y de valores puede ser solicitado por:",
+      "options": [
+        "El Ministerio Público, el Ministerio de Transparencia o la Procuraduría General del Estado",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Ley N° 004",
+      "explicacion": "Las entidades rectoras e investigadoras pueden solicitar el levantamiento."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El SIIARBE se encuentra centralizado bajo la administración de:",
+      "options": [
+        "El Ministerio de Transparencia Institucional y Lucha contra la Corrupción",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.II, Ley N° 004",
+      "explicacion": "Transparencia administra y consolida el sistema SIIARBE."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): ¿Cuál es la tipificación dada a la 'Negativa a Prestar Declaración Jurada'?",
+      "options": [
+        "Infracción disciplinaria gravísima susceptible de destitución y proceso por incumplimiento de deberes",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Ley N° 004",
+      "explicacion": "La omisión voluntaria sanciona disciplinaria y penalmente."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): En el delito de Enriquecimiento Ilícito, el sujeto activo es:",
+      "options": [
+        "Cualquier servidor público que no pueda justificar razonablemente el aumento de su patrimonio",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.II, Ley N° 004",
+      "explicacion": "Aplica al servidor que experimenta un incremento patrimonial no justificado."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Para las personas jurídicas privadas involucradas en Enriquecimiento Ilícito con Afectación al Estado, se impone:",
+      "options": [
+        "Multa, cancelación de personalidad jurídica y decomiso de bienes a favor del Estado",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26.II, Ley N° 004",
+      "explicacion": "Sanciona con disolución/multa y decomiso de activos patrimoniales."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El 'Favorecimiento al Enriquecimiento Ilícito' se sanciona también a quien:",
+      "options": [
+        "Preste sus cuentas bancarias para recibir giros o depósitos provenientes del delito",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.II, Ley N° 004",
+      "explicacion": "Facilitar instrumentos o cuentas para ocultar dinero ilícito configura el delito."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La alteración de pasivos en la declaración jurada con el fin de disimular riqueza se castiga como:",
+      "options": [
+        "Falsedad en la Declaración Jurada de Bienes y Rentas",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.II, Ley N° 004",
+      "explicacion": "Falsificar activos o deudas en la Contraloría es delito penal."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): El beneficio de exención o reducción de pena por delación requiere:",
+      "options": [
+        "Aportar información veraz, comprobable y determinante para descubrir a los autores principales o recuperar bienes",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Ley N° 004",
+      "explicacion": "La información dada debe permitir el juzgamiento y recupero de activos."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): La pena del Peculado se incrementa en la mitad si los bienes apropiados pertenecen a:",
+      "options": [
+        "Programas de asistencia social, salud, educación o atención de desastres naturales",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 142 CP), Ley N° 004",
+      "explicacion": "Agrava cuando se afecta a sectores vulnerables o emergencias."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): En el Cohecho Pasivo Propio, incurre en delito el servidor público que acepte una promesa de dinero:",
+      "options": [
+        "Aun cuando no haya llegado a recibir físicamente la suma prometida",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 145 CP), Ley N° 004",
+      "explicacion": "La sola aceptación de la promesa consuma el tipo penal."
+    },
+    {
+      "question": "Conforme a la Ley N° 004 (Ley Marcelo Quiroga Santa Cruz): Quien dictare resoluciones contrarias a la Constitución causando grave daño económico al Estado sufrirá:",
+      "options": [
+        "Pena privativa de libertad de 5 a 10 años",
+        "Se requiere previa resolución aprobatoria expedida por el Consejo de la Magistratura",
+        "Queda sin efecto en municipios con población menor a diez mil habitantes",
+        "Aplica únicamente para contrataciones cuyo valor exceda los cien mil bolivianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 153 CP), Ley N° 004",
+      "explicacion": "Resoluciones anticonstitucionales con daño económico tienen pena privativa agravada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 228 del Código Penal modificado por la Ley N° 004, quien abusando de su condición de dirigente exigiere u obtuviere dinero o ventaja ilegítima comete 'Contribuciones y Ventajas Ilegítimas' sancionado con:",
+      "options": [
+        "Privación de libertad de uno a tres años",
+        "Multa de 10 días sin prisión",
+        "Privación de libertad de cinco a diez años",
+        "Trabajo comunitario de 12 semanas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34 (Art. 228 CP), Ley N° 004",
+      "explicacion": "Exigir ventajas abusando de cargo de dirigente o simulando representación sanciona con privación de libertad de 1 a 3 años (se agrava en un tercio si es servidor público)."
+    }
+  ]
+}
